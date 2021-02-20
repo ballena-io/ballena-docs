@@ -2,7 +2,14 @@
 
 ## Active Vaults <a id="active-vaults"></a>
 
-Majority of the yield farming revenue is returned to users who provide capital. The remaining yield farming revenue is distributed to users who stake their BIFI in the [reward pool](https://gov.beefy.finance/stake), as well as used to pay the gas of harvests calls. A 0.1% fee is applied to all withdrawals. This is to prevent bad actors from 'gaming' the system.
+Vaults serve as passive token generatos for users who provide liquidity to them. The revenue farmed has 3 destinations:
+
+-Part of the revenue is returned to users.
+
+-Pay the gas fees of harvest calls (0.1% fee is applied for each call).
+
+-The rest is distributed to users who stake $BALLE in the [BALLE Reward Pool].(link)
+
 
 ## CAKE SMART <a id="cake-smart"></a>
 
