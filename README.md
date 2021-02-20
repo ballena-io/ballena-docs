@@ -1,6 +1,6 @@
 # Introduction to ballena.io
 
-## Welcome! Immerse yourself in the Ballena Pond  <a id="welcome!-immerse-yourself-in-the-Ballena-pond"></a>
+## Welcome! Immerse yourself in the Ballena Pond 🐋  <a id="welcome!-immerse-yourself-in-the-Ballena-pond"></a>
 
 Ballena.io is a yield optimizing automated platform based on the BSC. Yield optimization has become one of the most profitable areas in the Crypto currency market nowadays, specially those projects working on the BSC environment. We, as developers, focused our resources in solving some of the most ballasting issues among the yielding on the Ethereum ecosystem. These are our bases:
 
