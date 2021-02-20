@@ -3,6 +3,7 @@
 * [Introduction to ballena.io](README.md)
 * [How-To Guides](how-to-guides/README.md)
   * [How to participate in a balleVault](how-to-guides/how-to-participate-in-a-moovault.md)
+  * [How to Set Up Metamask](how-to-guides/how-to-set-up-metamask.md)
   * [How to Add a Custom Token to Metamask](how-to-guides/how-to-add-a-custom-token-to-metamask.md)
 * [FAQ](faq.md)
 * [Governance](governance.md)
