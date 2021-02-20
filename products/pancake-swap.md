@@ -6,223 +6,407 @@ Majority of the yield farming revenue is returned to users who provide capital. 
 
 ## CAKE SMART <a id="cake-smart"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap)​
+Farm and receive CAKE tokens, [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap), on this vault.
 
-You will receive more CAKE from using this vault.
 
-## Farming CAKE with CAKE-BNB LP <a id="farming-cake-with-cake-bnb-lp"></a>
+## CAKE-BNB LP <a id="cake-bnb-lp"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
+The strategy farms CAKE-BNB LP tokens. 
 
-You do not receive CAKE directly. Instead, the farmed CAKE are sold to return more CAKE-BNB LP to you when you withdraw.
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
 
-## Farming CAKE with REEF-BNB LP <a id="farming-cake-with-reef-bnb-lp"></a>
+## SWINGBY-BNB LP <a id="swingby-bnb-lp"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
+The strategy farms SWINGBY-BNB LP tokens. 
 
-You do not receive CAKE directly. Instead, the farmed CAKE are sold to return more REEF-BNB LP to you when you withdraw.
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
 
-## Farming CAKE with BTCB-BNB LP <a id="farming-cake-with-btcb-bnb-lp"></a>
+## BRY-BNB LP <a id="bry-bnb-lp"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
+The strategy farms BRY-BNB LP tokens. 
 
-You do not receive CAKE directly. Instead, the farmed CAKE are sold to return more BTCB-BNB LP to you when you withdraw.
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
 
-## Farming CAKE with TWT-BNB LP <a id="farming-cake-with-twt-bnb-lp"></a>
+## ZEE-BNB LP <a id="zee-bnb-lp"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
+The strategy farms ZEE-BNB LP tokens. 
 
-You do not receive CAKE directly. Instead, the farmed CAKE are sold to return more TWT-BNB LP to you when you withdraw.
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
 
-## Farming CAKE with FRONT-BNB LP <a id="farming-cake-with-front-bnb-lp"></a>
+## SWGB-BNB LP <a id="swgb-bnb-lp"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
+The strategy farms SWGB-BNB LP tokens. 
 
-You do not receive CAKE directly. Instead, the farmed CAKE are sold to return more FRONT-BNB LP to you when you withdraw.
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
 
-## Farming CAKE with ETH-BNB LP <a id="farming-cake-with-eth-bnb-lp"></a>
+## COMP-ETH LP <a id="comp-eth-lp"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
+The strategy farms COMP-ETH LP tokens. 
 
-You do not receive CAKE directly. Instead, the farmed CAKE are sold to return more ETH-BNB LP to you when you withdraw.
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
 
-## Farming CAKE with VAI-BUSD LP <a id="farming-cake-with-vai-busd-lp"></a>
+## SFP-BNB LP <a id="sfp-bnb-lp"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
+The strategy farms SFP-BNB LP tokens. 
 
-You do not receive CAKE directly. Instead, the farmed CAKE are sold to return more VAI-BUSD LP to you when you withdraw.
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
 
-## Farming CAKE with USDT-BNB LP <a id="farming-cake-with-usdt-bnb-lp"></a>
+## BETH-ETH LP <a id="BETH-ETH-lp"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
+The strategy farms BETH-ETH LP tokens. 
 
-You do not receive CAKE directly. Instead, the farmed CAKE are sold to return more USDT-BNB LP to you when you withdraw.
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
 
-## Farming CAKE with ADA-BNB LP <a id="farming-cake-with-ada-bnb-lp"></a>
+## LINA-BUSD LP <a id="LINA-BUSD-lp"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
+The strategy farms LINA-BUSD LP tokens. 
 
-You do not receive CAKE directly. Instead, the farmed CAKE are sold to return more ADA-BNB LP to you when you withdraw.
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
 
-## Farming CAKE with BUSD-BNB LP <a id="farming-cake-with-busd-bnb-lp"></a>
+## LIT-BNB LP <a id="LIT-BNB-lp"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
+The strategy farms LIT-BNB LP tokens. 
 
-You do not receive CAKE directly. Instead, the farmed CAKE are sold to return more BUSD-BNB LP to you when you withdraw.
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
 
-## Farming CAKE with MGOOGL-UST LP <a id="farming-cake-with-mgoogl-ust-lp"></a>
+## HGET-BNB LP <a id="HGET-BNB-lp"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
+The strategy farms HGET-BNB LP tokens. 
 
-You do not receive CAKE directly. Instead, the farmed CAKE are sold to return more MGOOGL-UST LP to you when you withdraw.
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
 
-## Farming CAKE with MAMZN-UST LP <a id="farming-cake-with-mamzn-ust-lp"></a>
+## BDO-BNB LP <a id="BDO-BNB-lp"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
+The strategy farms BDO-BNB LP tokens. 
 
-You do not receive CAKE directly. Instead, the farmed CAKE are sold to return more MAMZN-UST LP to you when you withdraw.
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
 
-## Farming CAKE with UNFI-BNB LP <a id="farming-cake-with-unfi-bnb-lp"></a>
+## EGLD-BNB LP <a id="EGLD-BNB-lp"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
+The strategy farms EGLD-BNB LP tokens. 
 
-You do not receive CAKE directly. Instead, the farmed CAKE are sold to return more UNFI-BNB LP to you when you withdraw.
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
 
-## Farming CAKE with EGLD-BNB LP <a id="farming-cake-with-egld-bnb-lp"></a>
+## UST-BUSD LP <a id="UST-BUSD-lp"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
+The strategy farms UST-BUSD LP tokens. 
 
-You do not receive CAKE directly. Instead, the farmed CAKE are sold to return more EGLD-BNB LP to you when you withdraw.
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
 
-## Farming CAKE with DOT-BNB LP <a id="farming-cake-with-dot-bnb-lp"></a>
+## MAMZN-UST LP <a id="MAMZN-UST-lp"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
+The strategy farms MAMZN-UST LP tokens. 
 
-You do not receive CAKE directly. Instead, the farmed CAKE are sold to return more DOT-BNB LP to you when you withdraw.
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
 
-## Farming CAKE with STAX-CAKE LP <a id="farming-cake-with-stax-cake-lp"></a>
+## MGOOGL-UST LP <a id="MGOOGL-UST-lp"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
+The strategy farms MGOOGL-UST LP tokens. 
 
-You do not receive CAKE directly. Instead, the farmed CAKE are sold to return more STAX-CAKE LP to you when you withdraw.
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
 
-## Farming CAKE with bALBT-BNB LP <a id="farming-cake-with-balbt-bnb-lp"></a>
+## MNFLX-UST LP <a id="MNFLX-UST-lp"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
+The strategy farms MNFLX-UST LP tokens. 
 
-You do not receive CAKE directly. Instead, the farmed CAKE are sold to return more bALBT-BNB LP to you when you withdraw.
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
 
-## Farming CAKE with BSCX-BNB LP <a id="farming-cake-with-bscx-bnb-lp"></a>
+## MTSLA-UST LP <a id="MTSLA-UST-lp"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
+The strategy farms EGLD-BNB LP tokens. 
 
-You do not receive CAKE directly. Instead, the farmed CAKE are sold to return more BSCX-BNB LP to you when you withdraw.
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
 
-## Farming CAKE with INJ-BNB LP <a id="farming-cake-with-inj-bnb-lp"></a>
+## WSOTE-BNB LP <a id="WSOTE-BNB-lp"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
+The strategy farms WSOTE-BNB LP tokens. 
 
-You do not receive CAKE directly. Instead, the farmed CAKE are sold to return more INJ-BNB LP to you when you withdraw.
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
 
-## Farming CAKE with XVS-BNB LP <a id="farming-cake-with-xvs-bnb-lp"></a>
+## FRONT-BNB LP <a id="FRONT-BNB-lp"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
+The strategy farms FRONT-BNB LP tokens. 
 
-You do not receive CAKE directly. Instead, the farmed CAKE are sold to return more XVS-BNB LP to you when you withdraw.
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
 
-## Farming CAKE with BTCST-BNB LP <a id="farming-cake-with-btcst-bnb-lp"></a>
+## HELMET-BNB LP <a id="HELMET-BNB-lp"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
+The strategy farms HELMET-BNB LP tokens. 
 
-You do not receive CAKE directly. Instead, the farmed CAKE are sold to return more BTCST-BNB LP to you when you withdraw.
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
 
-## Farming CAKE with TEN-BNB LP <a id="farming-cake-with-ten-bnb-lp"></a>
+## BTCST-BNB LP <a id="BTCST-BNB-lp"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
+The strategy farms BTCST-BNB LP tokens. 
 
-You do not receive CAKE directly. Instead, the farmed CAKE are sold to return more TEN-BNB LP to you when you withdraw.
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
 
-## Farming CAKE with mTSLA-UST LP <a id="farming-cake-with-mtsla-ust-lp"></a>
+## LTC-BNB LP <a id="LTC-BNB-lp"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
+The strategy farms LTC-BNB LP tokens. 
 
-You do not receive CAKE directly. Instead, the farmed CAKE are sold to return more mTSLA-UST LP to you when you withdraw.
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
 
-## Farming CAKE with BAND-BNB LP <a id="farming-cake-with-band-bnb-lp"></a>
+## USDC-BUSD LP <a id="USDC-BUSD-lp"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
+The strategy farms USDC-BUSD LP tokens. 
 
-You do not receive CAKE directly. Instead, the farmed CAKE are sold to return more BAND-BNB LP to you when you withdraw.
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
 
-## Farming CAKE with ALPHA-BNB LP <a id="farming-cake-with-alpha-bnb-lp"></a>
+## DAI-BUSD LP <a id="DAI-BUSD-lp"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
+The strategy farms DAI-BUSD LP tokens. 
 
-You do not receive CAKE directly. Instead, the farmed CAKE are sold to return more ALPHA-BNB LP to you when you withdraw.
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
 
-## Farming CAKE with YFI-BNB LP <a id="farming-cake-with-yfi-bnb-lp"></a>
+## BSCX-BNB LP <a id="BSCX-BNB-lp"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
+The strategy farms BSCX-BNB LP tokens. 
 
-You do not receive CAKE directly. Instead, the farmed CAKE are sold to return more YFI-BNB LP to you when you withdraw.
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
 
-## Farming CAKE with NYA-CAKE LP <a id="farming-cake-with-nya-cake-lp"></a>
+## TEN-BNB LP <a id="TEN-BNB-lp"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
+The strategy farms TEN-BNB LP tokens. 
 
-You do not receive CAKE directly. Instead, the farmed CAKE are sold to return more NYA-BNB LP to you when you withdraw.
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
 
-## Farming CAKE with ATOM-BNB LP <a id="farming-cake-with-atom-bnb-lp"></a>
+## BALBT-BNB LP <a id="BALBT-BNB-lp"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
+The strategy farms BALBT-BNB LP tokens. 
 
-You do not receive CAKE directly. Instead, the farmed CAKE are sold to return more ATOM-BNB LP to you when you withdraw.
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
 
-## Farming CAKE with WSOTE-BNB LP <a id="farming-cake-with-wsote-bnb-lp"></a>
+## OG-BNB LP <a id="OG-BNB-lp"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
+The strategy farms OG-BNB LP tokens. 
 
-You do not receive CAKE directly. Instead, the farmed CAKE are sold to return more WSOTE-BNB LP to you when you withdraw.
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
 
-## Farming CAKE with LTC-BNB LP <a id="farming-cake-with-ltc-bnb-lp"></a>
+## ASR-BNB LP <a id="ASR-BNB-lp"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
+The strategy farms ASR-BNB LP tokens. 
 
-You do not receive CAKE directly. Instead, the farmed CAKE are sold to return more LTC-BNB LP to you when you withdraw.
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
 
-## Farming CAKE with USDT-BUSD LP <a id="farming-cake-with-usdt-busd-lp"></a>
+## ATM-BNB LP <a id="ATM-BNB-lp"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
+The strategy farms ATM-BNB LP tokens. 
 
-You do not receive CAKE directly. Instead, the farmed CAKE are sold to return more USDT-BUSD LP to you when you withdraw.
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
 
-## Farming CAKE with NAR-CAKE LP <a id="farming-cake-with-nar-cake-lp"></a>
+## REEF-BNB LP <a id="REEF-BNB-lp"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
+The strategy farms REEF-BNB LP tokens. 
 
-You do not receive CAKE directly. Instead, the farmed CAKE are sold to return more NAR-CAKE LP to you when you withdraw.
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
 
-## Farming CAKE with FIL-BNB LP <a id="farming-cake-with-fil-bnb-lp"></a>
+## DITTO-BNB LP <a id="DITTO-BNB-lp"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
+The strategy farms DITTO-BNB LP tokens. 
 
-You do not receive CAKE directly. Instead, the farmed CAKE are sold to return more FIL-BNB LP to you when you withdraw.
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
 
-## Farming CAKE with bROOBEE-CAKE LP <a id="farming-cake-with-broobee-cake-lp"></a>
+## JUV-BNB LP <a id="JUV-BNB-lp"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
+The strategy farms JUV-BNB LP tokens. 
 
-You do not receive CAKE directly. Instead, the farmed CAKE are sold to return more bROOBEE-CAKE LP to you when you withdraw.
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
 
-## Farming CAKE with LINK-BNB LP <a id="farming-cake-with-link-bnb-lp"></a>
+## PSG-BNB LP <a id="PSG-BNB-lp"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
+The strategy farms PSG-BNB LP tokens. 
 
-You do not receive CAKE directly. Instead, the farmed CAKE are sold to return more LINK-BNB LP to you when you withdraw.
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
 
-## Farming CAKE with YFII-BNB LP <a id="farming-cake-with-yfii-bnb-lp"></a>
+## UNFI-BNB LP <a id="UNFI-BNB-lp"></a>
 
-This strategy farms CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
+The strategy farms UNFI-BNB LP tokens. 
 
-You do not receive CAKE directly. Instead, the farmed CAKE are sold to return more YFII-BNB LP to you when you withdraw.
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
 
+## VAI-BUSD LP <a id="VAI-BUSD-lp"></a>
+
+The strategy farms VAI-BUSD LP tokens. 
+
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
+
+## BLK-BNB LP <a id="BLK-BNB-lp"></a>
+
+The strategy farms BLK-BNB LP tokens. 
+
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
+
+## HARD-BNB LP <a id="HARD-BNB-lp"></a>
+
+The strategy farms HARD-BNB LP tokens. 
+
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
+
+## BUSD-BNB LP <a id="BUSD-BNB-lp"></a>
+
+The strategy farms BUSD-BNB LP tokens. 
+
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
+
+## ADA-BNB LP <a id="ADA-BNB-lp"></a>
+
+The strategy farms ADA-BNB LP tokens. 
+
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
+
+## BAND-BNB LP <a id="BAND-BNB-lp"></a>
+
+The strategy farms BAND-BNB LP tokens. 
+
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
+
+## DOT-BNB LP <a id="DOT-BNB-lp"></a>
+
+The strategy farms DOT-BNB LP tokens. 
+
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
+
+## EOS-BNB LP <a id="EOS-BNB-lp"></a>
+
+The strategy farms EOS-BNB LP tokens. 
+
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
+
+## LINK-BNB LP <a id="LINK-BNB-lp"></a>
+
+The strategy farms LINK-BNB LP tokens. 
+
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
+
+## USDT-BUSD LP <a id="USDT-BUSD-lp"></a>
+
+The strategy farms USDT-BUSD LP tokens. 
+
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
+
+## TWT-BNB LP <a id="TWT-BNB-lp"></a>
+
+The strategy farms TWT-BNB LP tokens. 
+
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
+
+## XVS-BNB LP <a id="XVS-BNB-lp"></a>
+
+The strategy farms XVS-BNB LP tokens. 
+
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
+
+## ETH-BNB LP <a id="ETH-BNB-lp"></a>
+
+The strategy farms ETH-BNB LP tokens. 
+
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
+
+## BTCB-BNB LP <a id="BTCB-BNB-lp"></a>
+
+The strategy farms BTCB-BNB LP tokens. 
+
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
+
+## ALPHA-BNB LP <a id="ALPHA-BNB-lp"></a>
+
+The strategy farms ALPHA-BNB LP tokens. 
+
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
+
+## USDT-BNB LP <a id="USDT-BNB-lp"></a>
+
+The strategy farms USDT-BNB LP tokens. 
+
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
+
+## XRP-BNB LP <a id="XRP-BNB-lp"></a>
+
+The strategy farms XRP-BNB LP tokens. 
+
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
+
+## ATOM-BNB LP <a id="ATOM-BNB-lp"></a>
+
+The strategy farms ATOM-BNB LP tokens. 
+
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
+
+## YFII-BNB LP <a id="YFII-BNB-lp"></a>
+
+The strategy farms YFII-BNB LP tokens. 
+
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
+
+## XTZ-BNB LP <a id="XTZ-BNB-lp"></a>
+
+The strategy farms XTZ-BNB LP tokens. 
+
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
+
+## BCH-BNB LP <a id="BCH-BNB-lp"></a>
+
+The strategy farms BCH-BNB LP tokens. 
+
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
+
+## YFI-BNB LP <a id="YFI-BNB-lp"></a>
+
+The strategy farms YFI-BNB LP tokens. 
+
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
+
+## UNI-BNB LP <a id="UNI-BNB-lp"></a>
+
+The strategy farms UNI-BNB LP tokens. 
+
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
+
+## FIL-BNB LP <a id="FIL-BNB-lp"></a>
+
+The strategy farms FIL-BNB LP tokens. 
+
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
+
+## INJ-BNB LP <a id="INJ-BNB-lp"></a>
+
+The strategy farms INJ-BNB LP tokens. 
+
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
+
+## SXP-BNB LP <a id="SXP-BNB-lp"></a>
+
+The strategy farms SXP-BNB LP tokens. 
+
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
+
+## CTK-BNB LP <a id="CTK-BNB-lp"></a>
+
+The strategy farms CTK-BNB LP tokens. 
+
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
+
+## STAX-CAKE LP <a id="STAX-CAKE-lp"></a>
+
+The strategy farms STAX-CAKE LP tokens. 
+
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
+
+## NAR-CAKE LP <a id="NAR-CAKE-lp"></a>
+
+The strategy farms NAR-CAKE LP tokens. 
+
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
+
+## NYA-CAKE LP <a id="NYA-CAKE-lp"></a>
+
+The strategy farms NYA-CAKE LP tokens. 
+
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
+
+## BROOBEE-CAKE LP <a id="BROOBEE-CAKE-lp"></a>
+
+The strategy farms BROOBEE-CAKE LP tokens. 
+
+This is achieved by farming CAKE tokens and being sold for LP tokens at the time of withrawal.
