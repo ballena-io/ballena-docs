@@ -8,9 +8,11 @@ MetaMask is an ERC20 compatible wallet. This tutorial explains how to set up a M
 
 ### 1. Open https://metamask.io/ on your browser and download the extension. MetaMask supports Chrome, Firefox, Brave and Edge browsers. Let's do it in Chrome. Once on MetaMask webpage, click on Download (top right corner) "Install MetaMask for Chrome" in order to get the extension.
 
+
 ![metamask1](https://user-images.githubusercontent.com/79335891/108597302-b12a0680-7388-11eb-9231-de6cea038883.png)
 
 ![metamask2](https://user-images.githubusercontent.com/79335891/108597303-b1c29d00-7388-11eb-9d6b-b0dd2ca6e8ed.png)
+
 
 ### 2. Once on the Chrome web store, click "Add to Chrome". Now Click on "Add extension" and the MetaMask icon will appear at the top right of your browser.
 
