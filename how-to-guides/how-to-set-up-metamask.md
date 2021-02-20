@@ -39,10 +39,22 @@ MetaMask is an ERC20 compatible wallet. This tutorial explains how to set up a M
 ![metamask11](https://user-images.githubusercontent.com/79335891/108597312-b424f700-7388-11eb-87f6-a2a026b295e5.png)
 ![metamask13](https://user-images.githubusercontent.com/79335891/108597314-b4bd8d80-7388-11eb-913b-1c4f2b9bc6af.png)
 
-### 5. Done! Your MetaMask is ready to use
+### 7. Done! You created your MetaMask account!
 
 ![metamask15](https://user-images.githubusercontent.com/79335891/108597315-b4bd8d80-7388-11eb-8c85-5074f7ce79e3.png)
 ![metamask16](https://user-images.githubusercontent.com/79335891/108597316-b5562400-7388-11eb-9751-fbf9b7b8cfe3.png)
+
+### 8. Now we will configure the BSC net on our Wallet. First click on the "Ethereum mainnet" and click on "Custom RPC" on the menu.
+
+![metamask17](https://user-images.githubusercontent.com/79335891/108597780-1b43ab00-738b-11eb-8b8f-abf7481ad127.png)
+
+### 9. Set the BSC net values as follows and click save.
+
+![metamask19](https://user-images.githubusercontent.com/79335891/108597783-1c74d800-738b-11eb-973f-9a89f22fe0ae.png)
+
+### 10. Now your Wallet is able to work on the Binance Smart Chain, congrats!
+
+![metamask20](https://user-images.githubusercontent.com/79335891/108597785-1c74d800-738b-11eb-9e21-c3db4fcdcaad.png)
 
 Travel through the next steps with Ballena!
 
