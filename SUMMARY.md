@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Introducción a ballena.io](README.md)
-* [How-To Guides](how-to-guides/README.md)
+* [¿Qué podemos hacer en Ballena.io?](que-podemos-hacer-en-ballena.io.md)
+* [Tutoriales](how-to-guides/README.md)
   * [How to participate in a balleVault](how-to-guides/how-to-participate-in-a-moovault.md)
   * [How to Add a Custom Token to Metamask](how-to-guides/how-to-add-a-custom-token-to-metamask.md)
 * [FAQ](faq.md)
