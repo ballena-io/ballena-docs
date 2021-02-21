@@ -1,4 +1,4 @@
-# Governance
+# Gobernanza
 
 ¡Poseedores de Balle! Debido a vuestra participación en el proyecto, gobernais y poseeis parte del mismo, y por lo tanto, sois merecedores de recibir parte de los beneficios de lo que habéis construido. Recibiréis beneficio, por cada token BALLE que poseéis, generado por el rendimiento de la plataforma. También os corresponde el voto por cualquier cambio e idea de la plataforma BALLE.
 
