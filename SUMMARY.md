@@ -3,7 +3,7 @@
 * [Introducción a ballena.io](README.md)
 * [¿Qué podemos hacer en Ballena.io?](que-podemos-hacer-en-ballena.io.md)
 * [Tutoriales](how-to-guides/README.md)
-  * [Cómo participar en una balleVault](how-to-guides/how-to-participate-in-a-moovault.md)
+  * [Cómo participar en una BalleVault](how-to-guides/como-participar-en-una-ballevault.md)
   * [Cómo configurar Metamask](how-to-guides/como-configurar-metamask.md)
   * [Cómo añadir un Token personalizado a Metamask](how-to-guides/como-anadir-un-token-personalizado-a-metamask.md)
   * [Cómo enviar fondos de Binance a Metamask](how-to-guides/como-enviar-fondos-de-binance-a-metamask.md)

@@ -2,7 +2,7 @@
 description: TODO
 ---
 
-# Cómo participar en una balleVault
+# Cómo participar en una BalleVault
 
 ## Prerequisites <a id="prerequisites"></a>
 
