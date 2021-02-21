@@ -6,10 +6,9 @@ Vaults serve as passive token generatos for users who provide liquidity to them.
 
 -Part of the revenue is returned to users.
 
--Pay the gas fees of harvest calls (0.1% fee is applied for each call).
+-Pay the gas fees of harvest calls \(0.1% fee is applied for each call\).
 
--The rest is distributed to users who stake $BALLE in the [BALLE Reward Pool].(link)
-
+-The rest is distributed to users who stake $BALLE in the \[BALLE Reward Pool\].\(link\)
 
 ## CAKE SMART <a id="cake-smart"></a>
 
