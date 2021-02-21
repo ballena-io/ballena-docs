@@ -2,8 +2,6 @@
 
 ## How to set up Metamask
 
-### How to set up Metamask
-
 MetaMask is an ERC20 compatible wallet. This tutorial explains how to set up a Metamask wallet from scratch.
 
 ### How to install MetaMask on your browser <a id="how-to-install-MetaMask-on-your-browser"></a>
