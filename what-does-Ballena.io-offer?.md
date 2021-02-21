@@ -2,7 +2,7 @@
 
 ## Ramas de actuación
 
-1. [Gobernanza](changelinkhttps://ballena.io) y staking
+1. [Gobernanza y staking](changelinkhttps://ballena.io)
 2. [Vaults](changelinkhttps://ballena.io)
 
 ## Gobernanza y staking
