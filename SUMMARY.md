@@ -6,6 +6,7 @@
   * [How to set up Metamask](how-to-guides/how-to-set-up-metamask.md)
   * [How to participate in a balleVault](how-to-guides/how-to-participate-in-a-moovault.md)
   * [How to Add a Custom Token to Metamask](how-to-guides/how-to-add-a-custom-token-to-metamask.md)
+  * [How to send funds from Binance to Metamask](how-to-guides/how-to-send-funds-from-binance-to-metamask.md)
 * [Tokenomics](tokenomics.md)
 * [Risks](risks.md)
 * [FAQ](faq.md)
