@@ -1,8 +1,4 @@
----
-description: TODO
----
-
-# Cómo participar en una balleVault
+# How to participate in a balleVault
 
 ## Prerequisites <a id="prerequisites"></a>
 
