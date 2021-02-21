@@ -3,7 +3,6 @@
 ## How to Add a Custom Token to Metamask
 
 Ballena🐋 will help you add any token to Metamask. We will use BALLE token as an example.
-Here's how to add a custom token to Metamask. This guide uses BIFI as an example.
 
 ## Step by Step <a id="step-by-step"></a>
 
