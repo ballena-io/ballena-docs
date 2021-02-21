@@ -30,8 +30,8 @@ MetaMask es una billetera, o wallet, compatible con ERC20. En este tutorial expl
 ​
 
 ### 5. Create a password and agree to the Terms.
-
 ​
+
 ![metamask9](https://user-images.githubusercontent.com/79335891/108597310-b424f700-7388-11eb-91b5-3dd1aa7b7f2d.png)
 ![metamask10](https://user-images.githubusercontent.com/79335891/108597311-b424f700-7388-11eb-8914-3486c49c9969.png)
 
