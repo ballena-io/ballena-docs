@@ -1,4 +1,4 @@
-# How to Add a Custom Token to Metamask
+# Cómo añadir un Token personalizado a Metamask
 
 ## How to Add a Custom Token to Metamask
 
