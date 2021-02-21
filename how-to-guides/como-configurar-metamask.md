@@ -2,8 +2,6 @@
 
 ## Cómo configurar MetaMask
 
-### Cómo configurar MetaMask
-
 MetaMask es una billetera, o wallet, compatible con ERC20. En este tutorial explicaremos cómo configurar una wallet en MetaMask desde el comienzo.
 
 ### Cómo instalar MetaMask en tu navegador.
