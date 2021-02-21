@@ -14,7 +14,7 @@ Esto sirve también como un perfecto ecosistema para usuarios con poca liquidez 
 Ballena simplifica y automatiza la optimización de rendimiento de diferentes oportunidades en el mercado evitando el gasto innecesario de tiempo del usuario que surge de las constantes interacciones requeridas para encontrar el mejor APY y la implementación de estrategias complejas. Las estrategias se automatizan para cada vault por smart contracts para encontrar los mayores rendimientos. Esto permite a los inversores de alta experiencia ahorrar tiempo y optimizar rendimientos y ayuda a los usuarios noveles a contar con un acceso fácil a oportunidades y asegurar beneficios desde el primer instante.
 
 
-## Accesibilidad para novatos
+## Accesibilidad para los nuevos en este mundo
 
 Fondos de liquidez, Farms, Vaults, APY, ilustraciones sin sentido y palabras que no habías oido nunca. ¡Qué lío! No te preocupes. Nuestro equipo conoce la pobre accesibilidad a este mercado para los usuarios más noveles y estamos centrados en ayudaros a llegar hasta la cumbre desde lo más básico. Caminaremos juntos a través de todos los pasos uno a uno hasta que podáis formar parte de este mercado.
 
