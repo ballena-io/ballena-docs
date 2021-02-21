@@ -5,7 +5,7 @@
 * [Tutoriales](how-to-guides/README.md)
   * [Cómo participar en una balleVault](how-to-guides/how-to-participate-in-a-moovault.md)
   * [Cómo configurar Metamask](how-to-guides/como-configurar-metamask.md)
-  * [Cómo añadir un Token personalizado a Metamask](how-to-guides/how-to-add-a-custom-token-to-metamask.md)
+  * [Cómo añadir un Token personalizado a Metamask](how-to-guides/como-anadir-un-token-personalizado-a-metamask.md)
   * [Cómo enviar fondos de Binance a Metamask](how-to-guides/como-enviar-fondos-de-binance-a-metamask.md)
 * [FAQ](faq.md)
 * [Governance](governance.md)
