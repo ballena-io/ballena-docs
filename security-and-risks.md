@@ -3,13 +3,13 @@
 
 In the space of crypto, especially in the Decentralised Finance \(DeFi\) space, users have to understand the risks of projects and smart contracts before venturing into DeFi. We call this DYOR \(do your own research\).
 
-## General DeFi Risks
+### General DeFi Risks
 
 DeFi risks encapsulates a wide range of risks such as [impermanent loss](https://www.bsc.news/post/cryptonomics-what-is-impermanent-loss) to risks of falling for scams such as wallet draining, private key being stolen, et cetera. Hence, DeFi users have to be careful themselves and learn to educate themselves constantly in this space. You can find a guide to keeping your funds SAFU [here](https://letmeape.medium.com/how-to-keep-your-funds-safe-metamask-guide-816773968310).
 
 
 
-## 3rd Party Risks
+### 3rd Party Risks
 
 TODO
 
