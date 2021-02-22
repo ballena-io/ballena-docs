@@ -1,4 +1,4 @@
-# Risks
+# Security and Risks
 
 In the space of crypto, especially in the Decentralised Finance \(DeFi\) space, users have to understand the risks of projects and smart contracts before venturing into DeFi. We call this DYOR \(do your own research\).
 
