@@ -5,6 +5,6 @@
 ​
 
  ​
-
-![](https://user-images.githubusercontent.com/79335891/108766641-b38d8b80-7555-11eb-8b35-98f5e0faf0b8.png)
+ 
+![esquema tutoriales](https://user-images.githubusercontent.com/79335891/108767737-17fd1a80-7557-11eb-8df4-c57d66660323.png)
 
