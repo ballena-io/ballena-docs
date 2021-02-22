@@ -1,5 +1,5 @@
 ---
-description: CAMBIAR SEÑALIZACIÓN
+description: CAMBIAR SEÑALIZACIÓN Y CALIDAD DE LAS FOTOS
 ---
 
 # Cómo enviar fondos de Binance a Metamask
