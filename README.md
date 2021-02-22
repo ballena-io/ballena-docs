@@ -26,7 +26,7 @@ $BALLE es nuestro token. Podrás lucrarte de su revalorización, hacer staking y
 
 ## Comunidad 🐋
 
-En caso de tener cualquier pregunta, contacta con nuestro equipo a través de cualquiera de nuestros canales. Nuestra comunidad Ballena está siempre en disposición de ayudarte, y aunque no necesites ayuda, pásate a saludar!
+En caso de tener cualquier pregunta, contacta con nuestro equipo a través de cualquiera de nuestros canales. Nuestra comunidad Ballena está siempre en disposición de ayudarte, y aunque no necesites ayuda, pasate a saludar!
 
 Twitter: [https://twitter.com/ballenaio](https://twitter.com/ballenaio)
 
