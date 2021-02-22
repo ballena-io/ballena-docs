@@ -9,6 +9,7 @@
   * [Cambiar BNB por otro Token en PancakeSwap](tutoriales/cambiar-bnb-por-otro-token-en-pancakeswap.md)
   * [Añadir liquidez a una LP](tutoriales/anadir-liquidez-a-una-lp.md)
   * [Cómo participar en una BalleVault](tutoriales/como-participar-en-una-ballevault.md)
+  * [Recoger beneficios](tutoriales/recoger-beneficios.md)
 * [Productos](productos/README.md)
   * [Pancake Swap](productos/pancake-swap.md)
 * [Tokenomics](tokenomics.md)
