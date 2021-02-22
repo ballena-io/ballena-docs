@@ -1,3 +1,7 @@
+---
+description: TODO
+---
+
 # How to participate in a balleVault
 
 ## Prerequisites <a id="prerequisites"></a>
