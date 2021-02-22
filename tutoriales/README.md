@@ -6,4 +6,5 @@
 
 ​
 
-![esquema tutoriales](https://user-images.githubusercontent.com/79335891/108767737-17fd1a80-7557-11eb-8df4-c57d66660323.png)
+![esquema tutoriales](https://user-images.githubusercontent.com/79335891/108768567-197b1280-7558-11eb-9cfb-9f024a6184bb.png)
+
