@@ -4,6 +4,11 @@ description: TODO
 
 # Tokenomics
 
+
+Add Tokenomics
+
+
+
 ### Max Supply: 80,000 $AUTO
 
 Autofarm started with no pre-farm nor pre-sale. $AUTO are minted linearly starting from 15 December 2020 and will end approximately during October 2021 \(0.008 $AUTO/ block\)
