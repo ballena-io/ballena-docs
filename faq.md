@@ -6,109 +6,81 @@ description: TODO
 
 ## General <a id="general"></a>
 
-### Is it safe to invest money in Beefy? <a id="is-it-safe-to-invest-money-in-beefy"></a>
+### 1. BALLE Token
 
-As a team that has been part of the crypto world for many years, we are strong proponents of “Don’t Trust, Verify”. This is why we are [releasing all the required data](https://medium.com/beefyfinance/bifi-contracts-are-live-on-mainnet-6080577269d7) for anyone to verify that everything will work as intended. We are committed to the idea of radical transparency. This is especially important in a nascent ecosystem like the Binance Smart Chain.
+BALLE token is Ballena.io´s native token. Ballena.io is a yield optimizing automated platform based on the BSC and BALLE serves as the governance token, allowing holders to vote and get revenue from staking it.
 
-### Is Beefy audited? <a id="is-beefy-audited"></a>
+### 2. Where is it listed?
 
-No, but there are plans in the roadmap for an audit. This would need to be voted on and funded by the Cowmunity Treasury. In the mean-time we are making every attempt to use audited and battle tested code, such as OpenZepplin for our [TokenTimelock](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/token/ERC20/TokenTimelock.sol) contract.
+BALLE token is listed on [Coinmarketcap] (link), [Coingecko] (link), (add others).
+You can get BALLE at (link).
 
-## Products <a id="products"></a>
+### 3. What does Ballena.io platform offer?
 
-### Vaults <a id="vaults"></a>
+Ballena.io offers revenue strategies based upon staking and vaults. It also offers the governance token BALLE as mentioned above, as well as voting for holders. For more info click [here] (link to What does ballena offer).
 
-* 
-#### What is a Vault? <a id="what-is-a-vault"></a>
+But not only that! Ballena´s immersive community is growing at an exponential rate and is waiting for you to join it, seek for help and share your ideas. Feel free to come and say hi in [here] (links to social media)
 
-* Vaults are investment instruments, that employ a specific set of strategies, to automate the best yield farming opportunities available.
-* Anyone in the Cowmunity can work together to build new strategies and submit them to governance for voting.
-* Simply put vaults can,
-  * Use any asset as liquidity.
-  * Provide one asset as collateral for another.
-  * Manage collateral at a safe level to mitigate default.
-  * Put any asset to work generating a yield.
-  * Reinvest earned profits.
+## Security
 
-#### Why can't someone just do this themselves? <a id="why-cant-someone-just-do-this-themselves"></a>
+TODO
+### 1. Is the project audited?
 
-They could, but vaults help you save on gas, maintain healthy collateral to debt ratios, self-optimize for the best possible yields, and automatically reinvest earnings.
+TODO
 
-#### Does the vault page show the APY? <a id="does-the-vault-page-show-the-apy"></a>
+### 2. Are its contracts verified?
 
-* Yes. Our displayed APY values reflect the predicted rate earned on a vault in a year. This rate is determined by the platform, the strategy its interacting with at the time, and taking into account the effect of compounding. As a unique feature, we have also included all vault fees in the APY calculation.
+Yes, all contracts´ codes have been verified and published on [BSCScan] (link)
 
-#### What risks do the vaults have? <a id="what-risks-do-the-vaults-have"></a>
+### 3. Is Ballena.io safe?
 
-* As of now, vaults have not been externally audited.
-* The team does take steps to quantify the security risks of smart contracts and only will interact with ones that meet a specific set of requirements. As with any smart contract, there is always a possibility for an investors funds to end up stolen or unable to be withdrawn.
-* Assets deposited into the vault have no risk of decreasing in quantity, but can decrease in monetary value. For example - depositing 10 BNB, you will always be able to withdraw 10 BNB, but BNB may decrease in monetary value during that period of time.
+Our project is audited, our contracts verified and we are part of a huge comunnity on the social media. We truly believe in the transparency of the project serving as a proof of the safety provided.
 
-#### **What are the different vaults?** <a id="what-are-the-different-vaults"></a>
+Nevertheless the DeFi and Crypto world counts with some inherent risks which you should be aware of. For more info about Security and Risks click [here] (link).
 
-* **Money Market :** Utilizes stable lending platforms, such as Fortube, to generate the highest possible yield for these coins \(BUSD, LINK, DOT, DAI, USDT, ETH, or BTCB\).
-* **Native Token Farming :** Takes advantage of the high yield on popular farms by depositing another asset to earn, sell and compound profits of the native reward token.
 
-#### What will I get out when I make a vault withdrawal? <a id="what-will-i-get-out-when-i-make-a-vault-withdrawal"></a>
+## Tokenomics
 
-* You will always withdrawal only the token type that you deposited.
-* You will get the amount you put in, plus the yield generated, minus the fees.
+TODO
 
-#### What are the fees? <a id="what-are-the-fees"></a>
+### 1. Are the tokenomics of this project sustainable?
 
-* Vaults have a 0.1% withdraw fee.
-  * The main purpose of this fee is to prevent a possible exploit from bad faith actors. Without the fee somebody could deposit just before the harvest\(\) function execution and withdraw after that event, taking a % of the gains generated by legitimate stakers.
-* Performance fee on additional yield.
-  * This performance fee was implemented to promote community engagement and governance participation. A successful and engaged community is critical for further growth, which in-turn rewards platform users. In addition a small portion of the performance fee is routed to a treasury which will be used to fund further platform security and product initiatives.
-  * At current time the performance fee varies, depending on the vault being used, and is detailed in each [vault section]().
-* Call fee of 0.5% during each harvest\(\)
-  * This fee is used to cover the cost of each harvest\(\) call.
-  * It is a shared cost across all vault users and significantly cheaper than performing transactions individually.
+### 2. What is the maximum supply and how is it realeased?
 
-**Does Performance fee get taken out when I withdraw my funds?**
+### 3. Is there a buy-back program? When does it happen?
 
-* No, the fees are taken every time someone calls the harvest\(\) function.
 
-**How often are balances updated in the vaults?**
+## Products
 
-* Pending rewards are not reflected in the balance until they are swapped for the initial deposited token. This can vary depending on the strategy running.
+### 1. Farms & Vaults
 
-**Why do I have less mooToken than the amount of tokens I deposited?**
 
-* The mooTokens represent the share of the Vault the user has. As the vaults generate profit, the amount of shares \(mooToken\) remain constant, and the underlying token amount increases.
-* There is no deposit fee, so the amount of tokens you deposit is maintained the second after you deposited. That amount should increase over time as the strategy generates profit.
+### 2. How do the strategies work upon them?
 
-### Vault Strategies <a id="vault-strategies"></a>
+### 3. Who is in control of these strategies?
 
-#### What is a Vault Strategy? <a id="what-is-a-vault-strategy"></a>
+### 4. APR/APY
 
-* Beefy's vault strategies are modular smart contracts for each vault that tell it what assets to farm, and where it should sell the farmed assets. Rewards are regularly harvested, swapped for the original vault asset, and deposited again for compound farming.
+### 5. Why do Vaults´ APR values look that weird?
 
-#### **What are the current strategies?** <a id="what-are-the-current-strategies"></a>
+### 6. How does auto-compound work?
 
-* There are currently lending strategies on Fortube and FRIES single asset pool farming strategies.
-* As the number of strategies grow over time, we plan to make a dashboard and filtering tools to improve UX.
+### 7. What about fees?
 
-#### **Who is in control of the strategies?** <a id="who-is-in-control-of-the-strategies"></a>
+### 8. Revenue
 
-* Each vault and strategy link is hardcoded, and the code has been built to be immutable, so once they are released, they become unstoppable. No one can modify the vaults and strategies.
-* To release a new strategy on any asset, a new vault and strategy smart contract must be built.
+## Governance & Voting
 
-**How can I make a strategy?**
+### 1. Is there a treasury? 
 
-* For now you can post and discuss your strategy in Beefy’s Discord in the \#strategies channel. Detailing what it should buy/sell/farm and what the current APY is. There will be a template to help you get started.
+add answer and what is its goal and who controls it.
 
-**What is APR and APY?**
+### 2. Platform for voting?
 
-* APR reflects the simple interest rate over a year’s time, while APY describes the rate with the effect of compounding**.**
+[platform](link)
 
-**Is APY/365 the right way to determine daily gains?**
 
-* No, the effect of compounded interest is exponential, not linear. A daily compounded interest of 1% would yield 3678.34% a year.
 
-**How does Beefy optimize APY?**
-
-* Beefy automates the whole compounding process, making it close to optimal as possible. The compounding frequency depends on different variables in the system, like TVL, APR and strategy fees.
 
 ​
 
@@ -118,13 +90,5 @@ They could, but vaults help you save on gas, maintain healthy collateral to debt
 
 **​**
 
-​
 
-#### ​ <a id="undefined"></a>
-
-​
-
-**​**
-
-**​**
 
