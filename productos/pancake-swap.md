@@ -1,16 +1,14 @@
 # Pancake Swap
 
-## Vaults Activas<a id="vaults-activas"></a>
+## Vaults Activas <a id="vaults-activas"></a>
 
 Las Vaults, o bóvedas, sirven como generadores pasivos de tokens para los usuarios que aportan liquidez a la misma. Los beneficios obtenidos tienen 3 destinos:
 
-
 -Una parte de ellos se devuelve a los usuarios.
 
--Pagar las tasas (Gas Fees) de las operaciones de harvest o recolección de beneficios. Se aplica un 0.1% de tasa para dichas operaciones.
+-Pagar las tasas \(Gas Fees\) de las operaciones de harvest o recolección de beneficios. Se aplica un 0.1% de tasa para dichas operaciones.
 
--El resto es distribuido a los usuarios que hacen staking de $BALLE en la [BALLE Reward Pool](link)
-
+-El resto es distribuido a los usuarios que hacen staking de $BALLE en la [BALLE Reward Pool](https://github.com/ballena-io/ballena-docs/tree/5bd75cc3a48b7c7fd3639459ce78234cc933dd65/productos/link/README.md)
 
 ## CAKE SMART <a id="cake-smart"></a>
 
@@ -18,7 +16,7 @@ Cultiva rendimiento con CAKE y recibe CAKE tokens, [Pancake Swap Native token](h
 
 ## CAKE-BNB LP <a id="cake-bnb-lp"></a>
 
-La estrategia realiza farming con tokens CAKE-BNB LP (Liquidity pool).
+La estrategia realiza farming con tokens CAKE-BNB LP \(Liquidity pool\).
 
 Esto se consigue mediante la obtención de tokens CAKE y posterior venta por los LP tokens correspondientes a la hora de su retirada.
 

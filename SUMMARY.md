@@ -11,7 +11,7 @@
   * [Pancake Swap](productos/pancake-swap.md)
 * [Tokenomics](tokenomics.md)
 * [Gobernanza](gobernanza.md)
-* [Riesgos](riesgos.md)
+* [Seguridad y Riesgos](seguridad-y-riesgos.md)
 * [FAQ](faq.md)
 * [Desarrolladores](desarrolladores/README.md)
   * [Deployed Contract Registry](desarrolladores/deployed-contract-registry.md)
