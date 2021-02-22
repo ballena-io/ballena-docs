@@ -6,7 +6,3 @@
 
 ![](https://user-images.githubusercontent.com/79335891/108768567-197b1280-7558-11eb-9cfb-9f024a6184bb.png)
 
-​
-
-![esquema tutoriales](https://user-images.githubusercontent.com/79335891/108768567-197b1280-7558-11eb-9cfb-9f024a6184bb.png)
-
