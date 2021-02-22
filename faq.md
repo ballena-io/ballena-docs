@@ -8,31 +8,32 @@ BALLE token is Ballena.io´s native token. Ballena.io is a yield optimizing auto
 
 ### 2. Where is it listed?
 
-BALLE token is listed on \[Coinmarketcap\] \(link\), \[Coingecko\] \(link\), \(add others\). You can get BALLE at \(link\).
+BALLE token is listed on [Coinmarketcap] (link), [Coingecko] (link), (add others).
+You can get BALLE at (link).
 
 ### 3. What does Ballena.io platform offer?
 
-Ballena.io offers revenue strategies based upon staking and vaults. It also offers the governance token BALLE as mentioned above, as well as voting for holders. For more info click \[here\] \(link to What does ballena offer\).
+Ballena.io offers revenue strategies based upon staking and vaults. It also offers the governance token BALLE as mentioned above, as well as voting for holders. For more info click [here] (link to What does ballena offer).
 
-But not only that! Ballena´s immersive community is growing at an exponential rate and is waiting for you to join it, seek for help and share your ideas. Feel free to come and say hi in \[here\] \(links to social media\)
+But not only that! Ballena´s immersive community is growing at an exponential rate and is waiting for you to join it, seek for help and share your ideas. Feel free to come and say hi in [here] (links to social media)
 
 ## Security
 
 TODO
-
 ### 1. Is the project audited?
 
 TODO
 
 ### 2. Are its contracts verified?
 
-Yes, all contracts´ codes have been verified and published on \[BSCScan\] \(link\)
+Yes, all contracts´ codes have been verified and published on [BSCScan] (link)
 
 ### 3. Is Ballena.io safe?
 
 Our project is audited, our contracts verified and we are part of a huge comunnity on the social media. We truly believe in the transparency of the project serving as a proof of the safety provided.
 
-Nevertheless the DeFi and Crypto world counts with some inherent risks which you should be aware of. For more info about Security and Risks click \[here\] \(link\).
+Nevertheless the DeFi and Crypto world counts with some inherent risks which you should be aware of. For more info about Security and Risks click [here] (link).
+
 
 ## Tokenomics
 
@@ -44,9 +45,11 @@ TODO
 
 ### 3. Is there a buy-back program? When does it happen?
 
+
 ## Products
 
 ### 1. Farms & Vaults
+
 
 ### 2. How do the strategies work upon them?
 
@@ -64,13 +67,16 @@ TODO
 
 ## Governance & Voting
 
-### 1. Is there a treasury?
+### 1. Is there a treasury? 
 
 add answer and what is its goal and who controls it.
 
 ### 2. Platform for voting?
 
-[platform](https://github.com/ballena-io/ballena-docs/tree/0397a98509666bd529a1bdadf35b8d58c8b286f4/link/README.md)
+[platform](link)
+
+
+
 
 ​
 
@@ -79,4 +85,5 @@ add answer and what is its goal and who controls it.
 **​**
 
 **​**
+
 
