@@ -4,7 +4,7 @@
 
 ### Ballena´s revenue actions
 
-1. [Governance](changelinkhttps://ballena.io) and staking
+1. [Governance and staking](changelinkhttps://ballena.io)
 2. [Vaults](changelinkhttps://ballena.io)
 
 ### Governance and staking
