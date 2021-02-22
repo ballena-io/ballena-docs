@@ -14,6 +14,7 @@ DeFi risks encapsulates a wide range of risks such as [impermanent loss](https:/
 TODO
 
 Ballena serves as a yield aggregator by providing vaults which auto-compounds rewards. However, vaults does not indicate any partnership or support by ballena.io. We've mitigated this risk by splitting the vaults into 'turbo' and 'non-turbo' based on the individual yield farm's reputability on the BSC space, of which 'turbo' vaults are considered more risky.
+·
 
 
 ## Smart Contracts
