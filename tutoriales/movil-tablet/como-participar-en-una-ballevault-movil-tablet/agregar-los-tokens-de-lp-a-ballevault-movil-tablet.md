@@ -4,7 +4,7 @@
 
 En este pequeño tutorial Ballena os muestra cómo agregar tanto LP tokens como tokens en forma singular a las BalleVaults.
 
-Cuando queramos sacar rendimiento de nuestros tokens LP de las distintas plataformas las pondremos en la Bóveda que deseemos y a continuación ya nos irá generando rendimiento. Recuerda que para participar en las bóvedas LP antes es necesario que hayas agregado liquidez al de los pares indicados y en el Exchange al que hace referencia cada Boveda.
+Cuando queramos sacar rendimiento de nuestros tokens LP de las distintas plataformas las pondremos en la Bóveda que deseemos y a continuación ya nos irá generando rendimiento. Recuerda que para participar en las bóvedas LP antes es necesario que hayas agregado liquidez al de los pares indicados y en el Exchange al que hace referencia cada Bóveda.
 
 ### 1. Antes de añadir tokens LP a un Bóveda debes haber añadido liquidez.
 
@@ -14,7 +14,11 @@ Si no lo has hecho puedes seguir los pasos en el apartado [Cómo añadir liquide
 
 ### 3. Pulsar la tecla “Launch App”.
 
-image
+
+
+![](../../../.gitbook/assets/1.png)
+
+### 
 
 ### 4. Encuentra la BalleVault deseada.
 
@@ -40,21 +44,37 @@ Cuando entras en [ballena.io](https://ballena.io) accedes directamente al aparta
 
 ⦁ TVL: Valor de todas las inversiones depositadas en la bóveda
 
-image
+
+
+![](../../../.gitbook/assets/2.png)
+
+### 
 
 ### 5. Una vez seleccionada la Bóveda en la que queremos participar pulsar el icono de la flecha para desplegar las opciones de la bóveda.
 
-image
+
+
+![](../../../.gitbook/assets/3.png)
+
+### 
 
 ### 6. Una vez desplegado el detalle de la Bóveda, para añadir los tokens LP seleccionaremos “Aprobar”.
 
-image
+
+
+![](../../../.gitbook/assets/4.png)
+
+### 
 
 ### 7. Aprobamos la transacción para poder trabajar con la Bóveda.
 
 Una vez confirmada la transacción nos tenemos que esperar unos segundos para que nos aparezcan las opciones de depósito.
 
-image
+
+
+![](../../../.gitbook/assets/5.png)
+
+### 
 
 ### 8. Seleccionaremos la cantidad de LP a introducir en la Bóveda de las siguientes maneras:
 
@@ -62,7 +82,11 @@ image
 
 ⦁ Arrastrar la pelota de % hasta el porcentaje deseado.
 
-image
+
+
+![](../../../.gitbook/assets/6.png)
+
+### 
 
 ### 9. Una vez seleccionada la cantidad a depositar pulsaremos “Depositar” o “Depositar Todo”.
 
@@ -72,7 +96,11 @@ En el caso de pulsar depositar todo, asegúrate que el valor que aparece en el r
 
 Tras unos segundos nos aparecerá la confirmación y veremos como los tokens LP que teníamos en el campo Balance, ahora aparecen en Depositado.
 
-image
+
+
+![](../../../.gitbook/assets/7%20%281%29.png)
+
+### 
 
 ### 11. Tu bóveda ya está generando rendimiento. Ahora a disfrutar.
 
@@ -88,7 +116,11 @@ Si no lo has hecho puedes seguir los pasos en el apartado “Cómo añadir liqui
 
 ### 3. Pulsar la tecla “Launch App”.
 
-image
+
+
+![](../../../.gitbook/assets/8.png)
+
+### 
 
 ### 4. Encuentra la BalleVault deseada.
 
@@ -114,21 +146,37 @@ Cuando entras en [ballena.io](https://ballena.io) accedes directamente al aparta
 
 ⦁ TVL: Valor de todas las inversiones depositadas en la bóveda
 
-image
+
+
+![](../../../.gitbook/assets/9.png)
+
+### 
 
 ### 5. Una vez seleccionada la Bóveda en la que queremos participar pulsar el icono de la flecha para desplegar las opciones de la bóveda.
 
-image
+
+
+![](../../../.gitbook/assets/10%20%281%29.png)
+
+### 
 
 ### 6. Una vez desplegado el detalle de la Bóveda, para añadir los tokens LP seleccionaremos “Aprobar”.
 
-image
+
+
+![](../../../.gitbook/assets/11.png)
+
+### 
 
 ### 7. Aprobamos la transacción para poder trabajar con la Bóveda.
 
 Una vez confirmada la transacción nos tenemos que esperar unos segundos para que nos aparezcan las opciones de depósito.
 
-image
+
+
+![](../../../.gitbook/assets/12.png)
+
+### 
 
 ### 8. Seleccionaremos la cantidad de LP a introducir en la BalleVault de las siguientes maneras:
 
@@ -136,7 +184,11 @@ image
 
 ⦁ Arrastrar la pelota de % hasta el porcentaje deseado.
 
-image
+
+
+![](../../../.gitbook/assets/13.png)
+
+### 
 
 ### 9. Una vez seleccionada la cantidad a depositar pulsaremos “Depositar” o “Depositar Todo”.
 
@@ -146,7 +198,11 @@ En el caso de pulsar depositar todo, asegúrate que el valor que aparece en el r
 
 Tras unos segundos nos aparecerá la confirmación y veremos como los tokens LP que teníamos en el campo Balance, ahora aparecen en Depositado.
 
-image
+
+
+![](../../../.gitbook/assets/14.png)
+
+### 
 
 ### 11. Tu BalleVault ya está generando rendimiento. Ahora a disfrutar.
 
