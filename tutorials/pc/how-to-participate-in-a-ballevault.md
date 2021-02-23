@@ -2,7 +2,7 @@
 description: TODO
 ---
 
-# How to participate in a balleVault
+# How to participate in a balleVault - PC
 
 ## Prerequisites <a id="prerequisites"></a>
 
