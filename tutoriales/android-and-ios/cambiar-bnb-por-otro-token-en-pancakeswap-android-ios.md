@@ -1,2 +1,2 @@
-# Cambiar BNB por otro Token en PancakeSwap - Android/IOS
+# Convertir BNB por otro Token en PancakeSwap - Android/IOS
 

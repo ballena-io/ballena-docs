@@ -8,3 +8,7 @@ Una vez entendido el esquema a grandes rasgos empezamos con los tutoriales uno a
 
 ![](https://user-images.githubusercontent.com/79335891/108841044-72d65680-75d7-11eb-9f05-41dc0977f640.png)
 
+{% page-ref page="pc/" %}
+
+{% page-ref page="android-and-ios/" %}
+

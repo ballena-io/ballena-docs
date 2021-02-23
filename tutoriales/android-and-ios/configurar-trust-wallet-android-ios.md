@@ -1,2 +1,2 @@
-# Configurar Trust Wallet - Android/IOS
+# Configurar Wallet: Trust Wallet - Android/IOS
 
