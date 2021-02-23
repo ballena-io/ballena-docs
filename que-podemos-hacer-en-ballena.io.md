@@ -11,7 +11,7 @@
 
 El token de Gobernanza de Balle.io es el $BALLE. La posesión del mismo nos permite votar y hacer staking del mismo para obtener un % de las fees generadas en las transacciones. El suministro máximo de $BALLE es:........ Distribuidos X originalmente y retenidos X....... Además la plataforma permite hacer staking de más criptomonedas para alimentar así los proyectos de la red BSC.
 
-Aquí podemos proveer liquidez al staking del token BALLE. Es una forma de inversión en la que añades liquidez exclusivamente del token BALLE. Esto, por lo tanto, genera retorno en token BALLE, contribuyendo además a su revalorización y el potenciamiento de la plataforma. Además de su alta rentabilidad, debido a su incremento de valor, podrás formar parte en la Gobernanza. 
+Aquí podemos proveer liquidez al staking del token BALLE. Es una forma de inversión en la que añades liquidez exclusivamente del token BALLE. Esto, por lo tanto, genera retorno en token BALLE, contribuyendo además a su revalorización y el potenciamiento de la plataforma. Además de su alta rentabilidad, debido a su incremento de valor, podrás formar parte en la Gobernanza.
 
 ### BalleVaults \(Bóvedas\)
 
@@ -23,7 +23,7 @@ Es una forma de inversión en la que se añaden a partes iguales dos assets. El 
 
 ## ¿Porqué Ballena.io?
 
-Digamos que es un paso más allá de lo tan rentable ahora mismo en el mercado, se trata de la optimización de aportar liquidez a un exchange y plataforma de pools como  PancakeSwap, ya que Ballena se encarga de buscar la mayor rentabilidad y de reinvertir los retornos automáticamente haciendo exponenciales tus ganancias.
+Digamos que es un paso más allá de lo tan rentable ahora mismo en el mercado, se trata de la optimización de aportar liquidez a un exchange y plataforma de pools como PancakeSwap, ya que Ballena se encarga de buscar la mayor rentabilidad y de reinvertir los retornos automáticamente haciendo exponenciales tus ganancias.
 
 Además, debido a la ventaja y rentabilidad que esto supone frente a otras plataformas, la posesión del token BALLE te aportará amplias ganancias por su revalorización en el mercado. Además de las comisiones que ganas por el hecho de poseerlo.
 
