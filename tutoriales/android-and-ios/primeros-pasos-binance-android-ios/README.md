@@ -1,2 +1,2 @@
-# Primeros pasos: Binance - Móvil/Tablet
+# Primeros pasos: Binance - Android/IOS
 

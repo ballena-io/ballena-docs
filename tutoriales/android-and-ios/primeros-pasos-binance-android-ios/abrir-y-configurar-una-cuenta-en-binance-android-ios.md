@@ -1,2 +1,2 @@
-# Abrir y configurar una cuenta en Binance - Móvil/Tablet
+# Abrir y configurar una cuenta en Binance - Android/IOS
 

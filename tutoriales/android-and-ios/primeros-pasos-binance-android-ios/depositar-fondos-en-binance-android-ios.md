@@ -1,2 +1,2 @@
-# Depositar fondos en Binance - Móvil/Tablet
+# Depositar fondos en Binance - Android/IOS
 

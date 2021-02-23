@@ -1,2 +1,2 @@
-# Comprar BNB en Binance - Móvil/Tablet
+# Comprar BNB en Binance - Android/IOS
 

@@ -1,2 +1,2 @@
-# Recoger beneficios - Móvil/Tablet
+# Recoger beneficios - Android/IOS
 

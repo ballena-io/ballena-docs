@@ -1,2 +1,2 @@
-# Como usar Dapps en TrustWallet - Móvil/Tablet
+# Como usar Dapps en TrustWallet - Android/IOS
 
