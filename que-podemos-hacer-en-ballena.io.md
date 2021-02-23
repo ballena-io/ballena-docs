@@ -4,8 +4,8 @@
 
 ### Ramas de actuación
 
-1. [Gobernanza y staking](changelinkhttps://ballena.io)
-2. [Vaults](changelinkhttps://ballena.io) \(Bóbedas\)
+1. Gobernanza y staking
+2. BalleVaults \(Bóbedas\)
 
 ### Gobernanza y staking
 
