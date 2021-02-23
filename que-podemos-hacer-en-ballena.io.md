@@ -23,7 +23,7 @@ Es una forma de inversión en la que se añaden a partes iguales dos assets. El 
 
 ## ¿Porqué Ballena.io?
 
-Digamos que es la optimización de aportar liquidez a PancakeSwap, un nivel más allá, ya que Ballena se encarga de buscar la mayor rentabilidad y de reinvertir los retornos automáticamente haciendo exponenciales tus ganancias.
+Digamos que es un paso más allá de lo tan rentable ahora mismo en el mercado, se trata de la optimización de aportar liquidez a un exchange y plataforma de pools como  PancakeSwap, ya que Ballena se encarga de buscar la mayor rentabilidad y de reinvertir los retornos automáticamente haciendo exponenciales tus ganancias.
 
 Además, debido a la ventaja y rentabilidad que esto supone frente a otras plataformas, la posesión del token BALLE te aportará amplias ganancias por su revalorización en el mercado. Además de las comisiones que ganas por el hecho de poseerlo.
 
