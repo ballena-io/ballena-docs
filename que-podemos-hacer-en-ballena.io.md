@@ -15,3 +15,5 @@ El token de Gobernanza de Balle.io es el $BALLE. La posesión del mismo nos perm
 
 Ballena.io cuenta con un gran número de vaults, o bóvedas, y cada una cuenta con su estrategia para dar un alto rendimiento. Añade liquidez a las vaults y Ballena se encarga de implementar las estrategias más rentables para las mismas.
 
+
+
