@@ -23,7 +23,7 @@ Selecciona el token al que quieres convertir y selecciona la cantidad de tokens 
 
 * Importante: Nunca cambies todos tus BNB para poder pagar las tasas de las transacciones en esta red BSC\).
 
-![](https://user-images.githubusercontent.com/79335891/108876373-6f09fa80-75fe-11eb-8116-dfe4c74b5b4c.png)
+![20](https://user-images.githubusercontent.com/79335891/108884463-efccf480-7606-11eb-8fb3-c00f84dd49c7.png)
 
 ### 
 
