@@ -12,8 +12,8 @@ Una vez que hayas recargado la billetera con BNB, abre el navegador Dapp presion
 * Si el buscador DApp no conecta con el sitio, asegúrate que la red a la que estas conectado es la Binance Smart Chain. 
 
 
+![20](https://user-images.githubusercontent.com/79335891/108884463-efccf480-7606-11eb-8fb3-c00f84dd49c7.png)
 
-![](https://user-images.githubusercontent.com/79335891/108876369-6f09fa80-75fe-11eb-9bdb-0fc4f36fd108.png)
 
 ### 
 
@@ -23,7 +23,7 @@ Selecciona el token al que quieres convertir y selecciona la cantidad de tokens 
 
 * Importante: Nunca cambies todos tus BNB para poder pagar las tasas de las transacciones en esta red BSC\).
 
-![20](https://user-images.githubusercontent.com/79335891/108884463-efccf480-7606-11eb-8fb3-c00f84dd49c7.png)
+![](https://user-images.githubusercontent.com/79335891/108876369-6f09fa80-75fe-11eb-9bdb-0fc4f36fd108.png)
 
 ### 
 
