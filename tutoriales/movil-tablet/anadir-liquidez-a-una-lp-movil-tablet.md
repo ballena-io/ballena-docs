@@ -16,13 +16,13 @@ Una vez que hayas recargado la billetera con BNB, abre el navegador Dapp presion
 
 ### 
 
-### 3. Haga click en “Supply” y luego “Confirm Supply”. A continuación, la aplicación le pedirá nuevamente que confirme. Presione “Send” para depositar sus tokens en la plataforma.
+### 3. Haga click en “Supply” y luego “Confirm Supply”. A continuación, la aplicación le pedirá nuevamente que confirme. Presione “Send” para depositar sus tokens en la plataforma
 
 ![](https://user-images.githubusercontent.com/79335891/108876374-6fa29100-75fe-11eb-92be-f20951bffa60.png)
 
 
 
-Verás una confirmación una vez que se hayan proporcionado los tokens. Obtendrás tokens de “Proveedor de Liquidez” \(LP\) que te otorgan una parte de las tarifas que gana el intercambio PancakeSwap. Estos tokens LP también se denominan tokens FLIP.
+Verás una confirmación una vez que se hayan proporcionado los tokens. Obtendrás tokens de “Proveedor de Liquidez” \(LP\) que te otorgan una parte de las tarifas que gana el intercambio PancakeSwap. Estos tokens LP también se denominan tokens FLIP
 
 
 
@@ -30,7 +30,7 @@ Verás una confirmación una vez que se hayan proporcionado los tokens. Obtendr�
 
 
 
-Ten en cuenta que cuando aportas liquidez, los tokens aportados ya no se visualizarán en tu billetera de Trust Wallet, pero podrás ver que te aparecen unos Tokens LP vinculados a la liquidez aportada.
+Ten en cuenta que cuando aportas liquidez, los tokens aportados ya no se visualizarán en tu billetera de Trust Wallet, pero podrás ver que te aparecen unos Tokens LP vinculados a la liquidez aportada
 
 
 
