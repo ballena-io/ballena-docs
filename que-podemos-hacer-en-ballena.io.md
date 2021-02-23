@@ -21,3 +21,11 @@ Ballena.io cuenta con un gran número de vaults, o bóvedas, y cada una cuenta c
 
 Es una forma de inversión en la que se añaden a partes iguales dos assets. El retorno, por lo tanto, será de estos dos assets también a partes iguales. El LP lo que hará será aumentar los tokens que tenemos asignados al par seleccionado. Por ejemplo, podríamos añadir liquidez al par CAKE/BNB. Lo que haremos en este caso será cambiar la mitad de nuestros BNB por CAKE y añadiremos ambos a una LP. Después añadiremos estos tokens de la LP a una BalleVault para obtener retornos mayores al aplicar estrategias optimizadas y reinvertir todas las ganancias diarias.
 
+## ¿Porqué Ballena.io?
+
+Digamos que es la optimización de aportar liquidez a PancakeSwap, un nivel más allá, ya que Ballena se encarga de buscar la mayor rentabilidad y de reinvertir los retornos automáticamente haciendo exponenciales tus ganancias.
+
+Además, debido a la ventaja y rentabilidad que esto supone frente a otras plataformas, la posesión del token BALLE te aportará amplias ganancias por su revalorización en el mercado. Además de las comisiones que ganas por el hecho de poseerlo.
+
+Y como no, la comunidad! Ballena.io cuenta con una comunidad muy amplia y en constante crecimiento. En caso de tener cualquier pregunta, contacta con nuestro equipo a través de cualquiera de nuestros canales, nuestra comunidad Ballena está siempre en disposición de ayudarte.
+
