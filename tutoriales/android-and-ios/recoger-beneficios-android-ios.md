@@ -1,2 +1,0 @@
-# Recoger beneficios - Android/IOS
-
