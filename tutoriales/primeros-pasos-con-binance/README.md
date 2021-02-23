@@ -1,2 +1,0 @@
-# Primeros pasos con Binance
-
