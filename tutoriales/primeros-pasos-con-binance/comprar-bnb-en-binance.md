@@ -1,0 +1,2 @@
+# Comprar BNB en Binance
+
