@@ -1,4 +1,4 @@
-# Cómo configurar Metamask
+# Cómo configurar Metamask - PC
 
 ## Cómo configurar MetaMask
 

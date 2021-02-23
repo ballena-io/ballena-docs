@@ -1,2 +1,2 @@
-# Añadir liquidez a una LP
+# Añadir liquidez a una LP - PC
 

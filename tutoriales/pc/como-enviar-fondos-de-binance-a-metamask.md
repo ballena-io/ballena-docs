@@ -2,7 +2,7 @@
 description: CAMBIAR SEÑALIZACIÓN Y CALIDAD DE LAS FOTOS
 ---
 
-# Cómo enviar fondos de Binance a Metamask
+# Cómo enviar fondos de Binance a Metamask - PC
 
 ## Cómo enviar fondos de Binance a Metamask
 

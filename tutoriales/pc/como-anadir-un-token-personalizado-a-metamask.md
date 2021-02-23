@@ -2,7 +2,7 @@
 description: TODO
 ---
 
-# Cómo añadir un Token personalizado a Metamask
+# Cómo añadir un Token personalizado a Metamask - PC
 
 ## Cómo añadir un Token personalizado a Metemask
 

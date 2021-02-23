@@ -1,2 +1,2 @@
-# Cambiar BNB por otro Token en PancakeSwap
+# Cambiar BNB por otro Token en PancakeSwap - PC
 
