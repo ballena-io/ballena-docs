@@ -1,2 +1,2 @@
-# Añadir liquidez a una LP - Android/IOS
+# Añadir liquidez a una LP - Móvil/Tablet
 

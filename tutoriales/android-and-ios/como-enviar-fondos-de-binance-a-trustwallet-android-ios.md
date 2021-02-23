@@ -1,2 +1,2 @@
-# Cómo enviar fondos de Binance a TrustWallet - Android/IOS
+# Cómo enviar fondos de Binance a TrustWallet - Móvil/Tablet
 
