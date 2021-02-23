@@ -24,4 +24,4 @@ Veras una confirmación una vez que se hayan proporcionado los tokens. Obtendrá
 Ten en cuenta que cuando aportad liquidez, los tokens aportados ya no se visualizarán en tu billetera de Trust Wallet, pero podrás ver que te aparecen unos Tokens LP vinculados a la liquidez aportada
 
 
-### 4. La liquidez a sido aportada.
+### 4. La liquidez ha sido aportada.
