@@ -16,7 +16,7 @@
     * [Añadir liquidez a una LP - PC](tutoriales/pc/anadir-liquidez-a-una-lp.md)
     * [Cómo participar en una BalleVault - PC](tutoriales/pc/como-participar-en-una-ballevault.md)
     * [Recoger beneficios - PC](tutoriales/pc/recoger-beneficios.md)
-  * [Android & IOS](tutoriales/android-and-ios/README.md)
+  * [Móvil/Tablet](tutoriales/android-and-ios/README.md)
     * [Primeros pasos: Binance - Android/IOS](tutoriales/android-and-ios/primeros-pasos-binance-android-ios/README.md)
       * [Abrir y configurar una cuenta en Binance - Android/IOS](tutoriales/android-and-ios/primeros-pasos-binance-android-ios/abrir-y-configurar-una-cuenta-en-binance-android-ios.md)
       * [Depositar fondos en Binance - Android/IOS](tutoriales/android-and-ios/primeros-pasos-binance-android-ios/depositar-fondos-en-binance-android-ios.md)
