@@ -6,7 +6,7 @@ Una vez entendido el esquema a grandes rasgos empezamos con los tutoriales uno a
 
 ​
 
-![](https://user-images.githubusercontent.com/79335891/108841044-72d65680-75d7-11eb-9f05-41dc0977f640.png)
+![esquema tutoriales 2](https://user-images.githubusercontent.com/79335891/108889130-4c7ede00-760c-11eb-85a0-0dcd093b5005.png)
 
 
 
