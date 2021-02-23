@@ -13,13 +13,13 @@ Puedes descargar la billetera de Trust Wallet desde el siguiente [link](https://
 
 ### 2. Inicia Trust Wallet
 
-Tras el primer inicio de la aplicación, se le presentará la siguiente pantalla donde puede seleccionar entre “Crear una nueva billetera” o “Importar” una existente. Para esta guía, seleccionaremos “Crear una nueva billetera”.
+Tras el primer inicio de la aplicación, se le presentará la siguiente pantalla donde puede seleccionar entre “Crear una nueva billetera” o “Importar” una existente. Para esta guía, seleccionaremos “Crear una nueva billetera”
 
 ![](https://user-images.githubusercontent.com/79335891/108876340-6adddd00-75fe-11eb-8726-9d7b82e7ef48.png)
 
 ### 
 
-### 3. Acepta las condiciones de uso.
+### 3. Acepta las condiciones de uso
 
 Para continuar, debe aceptar los términos de uso. Simplemente coloque una check de verificación en la casilla y a continuación presione “Continuar”. Hay que tener en cuenta que perder sus frases de recuperación también significará que perderá el acceso a su billetera.
 
@@ -29,7 +29,7 @@ Para continuar, debe aceptar los términos de uso. Simplemente coloque una check
 
 ### 
 
-### 4. Guarde sus palabras clave de recuperación.
+### 4. Guarde sus palabras clave de recuperación
 
 Esta es la parte más importante de la configuración de su billetera. Necesita tomar nota de sus palabras clave de recuperación. Las palabras de recuperación son las claves de su billetera criptográfica. Así que asegúrate de guardarlos en un lugar seguro. Pulsa “Continuar” para continuar.
 
@@ -41,7 +41,7 @@ Esta es la parte más importante de la configuración de su billetera. Necesita 
 
 ### 
 
-### 5.    Verifique su frase de recuperación.
+### 5.    Verifique su frase de recuperación
 
 Si has seguido el paso anterior y has realizado una copia de seguridad de las palabras de recuperación, esto es muy sencillo. En el orden correcto, debes seleccionar las palabras para completar el proceso de verificación. Haz clic en “Continuar” cuando hayas terminado.
 
@@ -53,7 +53,7 @@ Si has seguido el paso anterior y has realizado una copia de seguridad de las pa
 
 ### 
 
-### 6. Trust Wallet está listo.
+### 6. Trust Wallet está listo
 
 Después de pasar por el proceso de respaldo y verificación se redirigirá a la pantalla principal de la billetera. Veras una lista inicial de monedas que puedes comenzar a utilizar de inmediato. ¡Buen trabajo!
 
