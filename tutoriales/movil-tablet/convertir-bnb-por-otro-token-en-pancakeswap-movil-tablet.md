@@ -11,9 +11,7 @@ Una vez que hayas recargado la billetera con BNB, abre el navegador Dapp presion
 * Importante: Nunca cambies todos tus BNB para poder pagar las tasas de las transacciones en esta red BSC\).
 * Si el buscador DApp no conecta con el sitio, asegúrate que la red a la que estas conectado es la Binance Smart Chain. 
 
-
-![20](https://user-images.githubusercontent.com/79335891/108884463-efccf480-7606-11eb-8fb3-c00f84dd49c7.png)
-
+![](https://user-images.githubusercontent.com/79335891/108884463-efccf480-7606-11eb-8fb3-c00f84dd49c7.png)
 
 ### 
 
