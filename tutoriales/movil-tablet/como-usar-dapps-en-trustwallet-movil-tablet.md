@@ -18,7 +18,7 @@ Una de las Dapp utilizadas para agregar toquens LP a nuestras bóvedas es Pancak
 
 ![](https://user-images.githubusercontent.com/79335891/108876365-6e716400-75fe-11eb-8d5a-40e7c72501cf.png)
 
-### 
+
 
 ### 3. ¡Listo! Utiliza la Dapp y diviértete!!
 
