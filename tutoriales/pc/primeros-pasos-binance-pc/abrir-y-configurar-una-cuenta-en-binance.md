@@ -77,4 +77,3 @@ Una vez identificado en la plataforma podrás cargar saldo o comprar cripto para
 
 
 
-
