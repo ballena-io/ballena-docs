@@ -1,7 +1,3 @@
----
-description: TODO
----
-
 # Tokenomics
 
 ## Max Supply: 40,000 $BALLE
