@@ -11,18 +11,20 @@ Ballena.io started with no pre-sale and has an inmutable max supply of 40,000 to
 ![](.gitbook/assets/BALLE_Token_Distribution.png)
 
 Total supply was minted and deposited to correspondig smartcontracts for distribution:
-- Platform users rewards, 24,000 BALLE in smartcontract: 0x2305423942390582058092
-- BALLE holders rewards, 13,300 BALLE in smartcontract: 0x2305423942390582058092
-- Dev Team funds, 2,700 BALLE in smartcontracts:
-    - 0x2305423942390582058092
-    - 0x2305423942390582058092
-    - 0x2305423942390582058092
-    - 0x2305423942390582058092
-    - 0x2305423942390582058092
-    - 0x2305423942390582058092
-    - 0x2305423942390582058092
+
+* Platform users rewards, 24,000 BALLE in smartcontract: 0x2305423942390582058092
+* BALLE holders rewards, 13,300 BALLE in smartcontract: 0x2305423942390582058092
+* Dev Team funds, 2,700 BALLE in smartcontracts:
+  * 0x2305423942390582058092
+  * 0x2305423942390582058092
+  * 0x2305423942390582058092
+  * 0x2305423942390582058092
+  * 0x2305423942390582058092
+  * 0x2305423942390582058092
+  * 0x2305423942390582058092
 
 No more supply is possible, minter account was removed form smartcontract and is not possible to set a new one. Transactions: 0x2305423942390582058092 and 0x2305423942390582058092
+
 ## Details:
 
 **Fixed Supply Tokenomics:** All tokens are minted and will be freely distributed. No more minting possible.
@@ -30,6 +32,7 @@ No more supply is possible, minter account was removed form smartcontract and is
 **Utility:** Fees from ecosystem will go to token holders. From our Yield Optimizer, 3% of user gains will be used to buy BALLE and get it back to token holders.
 
 **Percentage Breakdown:**
+
 * 60% will go to platform users
 * 33.3% will go as an extra reward for holders
 * 6.8% are dedicated to the dev team to ensure sustainable and rapid innovation and for promotion actions
@@ -39,15 +42,10 @@ No more supply is possible, minter account was removed form smartcontract and is
 All distribution mecanisms are already implemented in our smartcontracts. Only a multiplier can be changed because we will need to adjust it so we can adjust rewards rate for certain pools. All info will be clearly stated on the user interface anyways.
 
 ### Platform users distribution
+
 This distribution will go over the first year of our platform and will give 24,000 BALLE to all users of our products.
 
-
-
-
-
-
-
-
 ### BALLE holders distribution
-This distribution will go will give 13,300 BALLE to governance stakers as an extra reward that complements (with a multiplier) the rewards for token holders, for example, 3% performance fee from our Yield Optimizer.
+
+This distribution will go will give 13,300 BALLE to governance stakers as an extra reward that complements \(with a multiplier\) the rewards for token holders, for example, 3% performance fee from our Yield Optimizer.
 
