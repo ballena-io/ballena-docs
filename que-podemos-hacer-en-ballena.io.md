@@ -5,7 +5,7 @@
 ### Ramas de actuación
 
 1. Gobernanza y staking
-2. BalleVaults \(Bóbedas\)
+2. BalleVaults \(Bóvedas\)
 
 ### Gobernanza y staking
 
