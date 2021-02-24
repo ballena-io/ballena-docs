@@ -34,7 +34,7 @@ Una vez hecho se nos pedirá en la página que introduzcamos un código de verif
 
 Nos habrá llegado un correo electrónico de este estilo.
 
-![](../../../.gitbook/assets/5%20%281%29%20%281%29.png)
+![](../../../.gitbook/assets/5%20%281%29%20%281%29%20%281%29.png)
 
 ### 5. Introducir el código de verificación.
 
