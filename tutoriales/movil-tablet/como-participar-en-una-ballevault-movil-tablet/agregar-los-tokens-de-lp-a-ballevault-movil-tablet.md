@@ -72,7 +72,7 @@ Una vez confirmada la transacción nos tenemos que esperar unos segundos para qu
 
 
 
-![](../../../.gitbook/assets/5.png)
+![](../../../.gitbook/assets/12%20%281%29.png)
 
 ### 
 
@@ -84,7 +84,7 @@ Una vez confirmada la transacción nos tenemos que esperar unos segundos para qu
 
 
 
-![](../../../.gitbook/assets/6.png)
+![](../../../.gitbook/assets/6%20%281%29.png)
 
 ### 
 
@@ -98,7 +98,7 @@ Tras unos segundos nos aparecerá la confirmación y veremos como los tokens LP 
 
 
 
-![](../../../.gitbook/assets/7%20%281%29.png)
+![](../../../.gitbook/assets/7%20%281%29%20%281%29.png)
 
 ### 
 
@@ -118,7 +118,7 @@ Si no lo has hecho puedes seguir los pasos en el apartado “Cómo añadir liqui
 
 
 
-![](../../../.gitbook/assets/8.png)
+![](../../../.gitbook/assets/8%20%281%29.png)
 
 ### 
 
@@ -156,7 +156,7 @@ Cuando entras en [ballena.io](https://ballena.io) accedes directamente al aparta
 
 
 
-![](../../../.gitbook/assets/10%20%281%29.png)
+![](../../../.gitbook/assets/10%20%281%29%20%281%29.png)
 
 ### 
 
