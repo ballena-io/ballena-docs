@@ -8,21 +8,15 @@ Este navegador se puede conseguir en la siguiente guía haciendo click [aquí](h
 
 ### 2. Abre el navegador Dapp.
 
-Una vez que hayas recargado la billetera, abre el navegador Dapp presionando los cuatro cuadros en la parte inferior de la aplicación. 
+Una vez que hayas recargado la billetera, abre el navegador Dapp presionando los cuatro cuadros en la parte inferior de la aplicación.
 
-### 3. Navega hacia una Dapp de Binance Smart Chain como Pancake Swap y selecciona la aplicación. 
+### 3. Navega hacia una Dapp de Binance Smart Chain como Pancake Swap y selecciona la aplicación.
 
 Una de las Dapp utilizadas para agregar toquens LP a nuestras bóvedas es PancakeSwap, para más información puedes ir al [apartado correspondiente](como-participar-en-una-ballevault-movil-tablet/anadir-liquidez-a-una-lp-movil-tablet.md).
 
-
-
 ![](https://user-images.githubusercontent.com/79335891/108876365-6e716400-75fe-11eb-8d5a-40e7c72501cf.png)
 
-
-
 ### 3. ¡Listo! Utiliza la Dapp y diviértete!!
-
-
 
 ## Cómo usar la Dapps de Ballena.io en Binance Smart Chain
 
@@ -32,7 +26,7 @@ Este navegador se puede conseguir en la siguiente guía haciendo click [aquí](h
 
 ### 2. Abre el navegador Dapp.
 
-Una vez que hayas recargado la billetera, abre el navegador Dapp presionando los cuatro cuadros en la parte inferior de la aplicación. 
+Una vez que hayas recargado la billetera, abre el navegador Dapp presionando los cuatro cuadros en la parte inferior de la aplicación.
 
 ### 3. Navega a la dirección [https://ballena.io](https://ballena.io) utilizando la parte superior de la pantalla, donde aparece “Buscar o ingresar la url del sitio web”.
 
@@ -45,7 +39,4 @@ Una vez que hayas recargado la billetera, abre el navegador Dapp presionando los
 
 
 ### 5. ¡Listo! Utiliza la Dapp y diviértete con Ballena!!
-
-
-
 
