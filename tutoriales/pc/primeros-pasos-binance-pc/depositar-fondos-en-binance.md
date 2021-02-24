@@ -4,6 +4,8 @@
 
 Para cargar fondos en Binance lo haremos de la siguiente manera.
 
+
+
 ### 1. Pulsa el botón “Comprar Cripto” del menú de la Barra superior en Binance.
 
 
