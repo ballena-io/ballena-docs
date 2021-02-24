@@ -156,7 +156,7 @@ Cuando entras en [ballena.io](https://ballena.io) accedes directamente al aparta
 
 
 
-![](../../../.gitbook/assets/10%20%281%29%20%281%29%20%281%29.png)
+![](../../../.gitbook/assets/10%20%281%29%20%281%29%20%281%29%20%281%29.png)
 
 ### 
 

@@ -34,7 +34,7 @@ Una vez hecho se nos pedirá en la página que introduzcamos un código de verif
 
 Nos habrá llegado un correo electrónico de este estilo.
 
-![](../../../.gitbook/assets/5%20%281%29.png)
+![](../../../.gitbook/assets/5%20%281%29%20%281%29.png)
 
 ### 5. Introducir el código de verificación.
 
@@ -42,7 +42,7 @@ Utiliza el código de seis dígitos enviado a tu correo para completar la verifi
 
 ### 6. Una vez completada la verificación ya estamos dados de alta en Binance y se nos ofrecen tres opciones.
 
-![](../../../.gitbook/assets/6%20%282%29%20%281%29.png)
+![](../../../.gitbook/assets/6%20%282%29%20%281%29%20%281%29.png)
 
 Para las opciones de depósito Fiat o compra con tarjeta de crédito deberás pasar un proceso de identificación “KYC” \(Know your customer\). Sigue los pasos marcados en la plataforma. Este proceso es un proceso de seguridad para vincular la cuenta con una empresa o persona física, para completarlo necesitarás un DNI, Carnet de Conducir o Pasaporte y tener webcam o poder hacer la verificación con el móvil.
 
