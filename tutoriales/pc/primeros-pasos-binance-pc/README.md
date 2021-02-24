@@ -1,5 +1,6 @@
 # Primeros pasos: Binance - PC
 
+
 En esta parte del tutorial veremos como realizar los pasos necesarios a realizar en la web de Binance. 
 
 Binance es un exchange donde depositaremos nuestro dinero, trás abrir una cuenta, y compraremos BNB. Esta criptomoneda \(BNB\) nos permitirá operar dentro de la red BSC \(Binance Smart Chain\) dónde opera nuestro proyecto. 
