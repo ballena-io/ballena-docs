@@ -1,5 +1,5 @@
 ---
-description: TODO
+description: TODO add new info
 ---
 
 # Tokenomics
