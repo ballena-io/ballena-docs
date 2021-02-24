@@ -8,7 +8,11 @@ Este navegador se puede conseguir en la siguiente guía haciendo click [aquí](h
 
 ### 2. Abre el navegador Dapp.
 
-Una vez que hayas recargado la billetera, abre el navegador Dapp presionando los cuatro cuadros en la parte inferior de la aplicación. Navega hacia una Dapp de Binance Smart Chain como Pancake Swap y selecciona la aplicación. Una de las Dapp utilizadas para agregar toquens LP a nuestras bóvedas es PancakeSwap, para más información puedes ir al [apartado correspondiente](como-participar-en-una-ballevault-movil-tablet/anadir-liquidez-a-una-lp-movil-tablet.md).
+Una vez que hayas recargado la billetera, abre el navegador Dapp presionando los cuatro cuadros en la parte inferior de la aplicación. 
+
+### 3. Navega hacia una Dapp de Binance Smart Chain como Pancake Swap y selecciona la aplicación. 
+
+Una de las Dapp utilizadas para agregar toquens LP a nuestras bóvedas es PancakeSwap, para más información puedes ir al [apartado correspondiente](como-participar-en-una-ballevault-movil-tablet/anadir-liquidez-a-una-lp-movil-tablet.md).
 
 
 
@@ -28,15 +32,19 @@ Este navegador se puede conseguir en la siguiente guía haciendo click [aquí](h
 
 ### 2. Abre el navegador Dapp.
 
-Una vez que hayas recargado la billetera, abre el navegador Dapp presionando los cuatro cuadros en la parte inferior de la aplicación. Navega a la dirección [https://ballena.io](https://ballena.io) utilizando la parte superior de la pantalla, donde aparece “Buscar o ingresar la url del sitio web”.
+Una vez que hayas recargado la billetera, abre el navegador Dapp presionando los cuatro cuadros en la parte inferior de la aplicación. 
+
+### 3. Navega a la dirección [https://ballena.io](https://ballena.io) utilizando la parte superior de la pantalla, donde aparece “Buscar o ingresar la url del sitio web”.
+
+### 4. Pulsa la tecla "Launch App".
 
 
 
-image Esta imagen hay que actualizarla cuando tengamos capturas de Ballena.io.
+![](../../.gitbook/assets/21%20%281%29.png)
 
 
 
-### 3. ¡Listo! Utiliza la Dapp y diviértete con Ballena!!
+### 5. ¡Listo! Utiliza la Dapp y diviértete con Ballena!!
 
 
 
