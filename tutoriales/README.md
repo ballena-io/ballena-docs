@@ -9,7 +9,6 @@ Una vez entendido el esquema a grandes rasgos empezamos con los tutoriales uno a
 ![](../.gitbook/assets/esquema-tutoriales-general.png)
 
 
-
 {% page-ref page="pc/" %}
 
 {% page-ref page="movil-tablet/" %}
