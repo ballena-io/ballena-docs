@@ -13,6 +13,7 @@ Recuerda el esquema visto anteriormente y no te perderás. Ballena 🐋 te lo vu
 
 
 
+
 ![](../../.gitbook/assets/esquema-tutoriales-2.png)
 
 
