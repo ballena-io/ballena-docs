@@ -14,7 +14,11 @@ Una vez que hayas recargado la billetera, abre el navegador Dapp presionando los
 
 Una de las Dapp utilizadas para agregar toquens LP a nuestras bóvedas es PancakeSwap, para más información puedes ir al [apartado correspondiente](como-participar-en-una-ballevault-movil-tablet/anadir-liquidez-a-una-lp-movil-tablet.md).
 
+
+
 ![](https://user-images.githubusercontent.com/79335891/108876365-6e716400-75fe-11eb-8d5a-40e7c72501cf.png)
+
+
 
 ### 3. ¡Listo! Utiliza la Dapp y diviértete!!
 
