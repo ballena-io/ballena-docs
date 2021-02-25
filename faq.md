@@ -6,33 +6,33 @@ description: TODO
 
 ## General <a id="general"></a>
 
-### 1. BALLE Token
+### 1. Token BALLE
 
 BALLE token is Ballena.io´s native token. Ballena.io is a yield optimizing automated platform based on the BSC and BALLE serves as the governance token, allowing holders to vote and get revenue from staking it.
 
-### 2. Where is it listed?
+### 2. ¿Dónde está listada?
 
 BALLE token is listed on \[Coinmarketcap\] \(link\), \[Coingecko\] \(link\), \(add others\). You can get BALLE at \(link\).
 
-### 3. What does Ballena.io platform offer?
+### 3. ¿Qué ofrece la plataforma [Ballena.io](https://ballena.io/)?
 
 Ballena.io offers revenue strategies based upon staking and vaults. It also offers the governance token BALLE as mentioned above, as well as voting for holders. For more info click \[here\] \(link to What does ballena offer\).
 
 But not only that! Ballena´s immersive community is growing at an exponential rate and is waiting for you to join it, seek for help and share your ideas. Feel free to come and say hi in \[here\] \(links to social media\)
 
-## Security
+## Seguridad
 
 TODO
 
-### 1. Is the project audited?
+### 1. ¿Está auditado el proyecto?
 
 TODO
 
-### 2. Are its contracts verified?
+### 2. ¿Se han verificado sus contratos?
 
 Yes, all contracts´ codes have been verified and published on \[BSCScan\] \(link\)
 
-### 3. Is Ballena.io safe?
+### 3. [Ballena.io](https://ballena.io/), ¿es seguro?
 
 Our project is audited, our contracts verified and we are part of a huge comunnity on the social media. We truly believe in the transparency of the project serving as a proof of the safety provided.
 
