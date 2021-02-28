@@ -18,9 +18,9 @@ La distribución del total fijo e inmutable se compone de:
 
 ## Detalles:
 
-**Fixed Supply Tokenomics:** All tokens are minted and will be freely distributed. No more minting possible.
+**Límite de suministro Tokenomics :** La  totalidad de los tokens ha sido producidos y se distribuyen gratuitamente enrte los usuarios de la plafaroma. La producción queda cerrada desde el momento del desarrollo y no hay producción posterior posible. El máximo de 40000 tokens es fijo e inalterable.
 
-**Utility:** Fees from the ecosystem will go to token holders. From our Yield Optimizer, 3% of user gains will be used to buy BALLE and paid it back to token holders.
+**Utilidad:** Las tasas del ecosistema están alocadas a los usuarios de la plataforma. el 3% de las ganancias obtenidas por los usuarios será distribuida entre los usuarios de la platafora, tanto Fees from the ecosystem will go to token holders. From our Yield Optimizer, 3% of user gains will be used to buy BALLE and paid it back to token holders.
 
 ## How distribution works
 
