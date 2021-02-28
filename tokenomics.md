@@ -1,10 +1,19 @@
 # Tokenomics
 
-## Max Supply: 40,000 $BALLE
+## Max Supply: 40000 BALLE
 
-Ballena.io started with no pre-sale and has an inmutable max supply of 40,000 token. All of them will be freely distributed to our community of users and holders and a small ammount that will go to our Dev Team and for promotion.
+Ballena.io started with no pre-sale and has an inmutable max supply of 40000 BALLE token. All of them will be freely distributed to our community of users and holders and a small ammount allocated to our Dev. Team and promotion purposes.
 
 ![](.gitbook/assets/BALLE_Token_Distribution.png)
+
+Total supply was minted and distributed as:
+
+* 24000 BALLE tokens - Distributed among all platform users.
+* 13300 BALLE tokens - Distributed among BALLE holders as an extra reward.
+* 2700 BALLE tokens - Dev. Team funds.
+
+
+## Smart contracts
 
 Total supply was minted and deposited to correspondig smartcontracts for distribution:
 
