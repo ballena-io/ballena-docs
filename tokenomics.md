@@ -4,6 +4,7 @@
 
 Ballena.io started with no pre-sale and has an immutable max supply of 40000 BALLE token. All of them will be freely distributed to our community of users and holders and a small amount allocated to our Dev. Team and promotion purposes.
 
+
 ![](.gitbook/assets/BALLE_Token_Distribution.png)
 
 
@@ -12,7 +13,9 @@ Ballena.io started with no pre-sale and has an immutable max supply of 40000 BAL
 Total fix supply was distributed as:
 
 **60% - 24000 BALLE tokens:** Distributed among all platform users.
+
 **33.3% - 13300 BALLE tokens:** Distributed among BALLE holders as an extra reward.
+
 **6.8% - 2700 BALLE tokens:** Dev. Team funds, these are dedicated to the dev team to ensure sustainable and rapid innovation and for promotion actions.
 
 
