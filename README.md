@@ -1,8 +1,14 @@
+---
+description: Finanzas descentralizadas para todo el mundo
+---
+
 # Introducción a ballena.io
 
-## ¡Bienvenido! Sumérgete en el mundo Ballena 🐋
+## ¡Bienvenido! Sumérgete en el mundo [ballena.io](https://ballena.io/) 🐋.
 
 [Ballena.io](https://ballena.io) es una plataforma DeFi automatizada para la optimización de rendimiento en la red Binance Smart Chain. Hoy en día, las plataformas de rendimiento optimizado se encuentran en el área más rentables del mercado de las Criptomonedas, especialmente los proyectos que trabajan sobre la BSC. Nosotros, como desarrolladores, nos hemos centrado en solucionar los problemas más pesados de la búsqueda de rendimientos en el entorno Ethereum para lanzar esta plataforma. Las bases de [Ballena.io](https://ballena.io/) son las siguientes:
+
+## Finanzas descentralizadas para todo el mundo.
 
 ## BSC
 
