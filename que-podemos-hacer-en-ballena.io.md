@@ -35,3 +35,4 @@ Además, debido a la ventaja y rentabilidad que esto supone frente a otras plata
 
 Y como no, la comunidad! [Ballena.io](https://ballena.io/) cuenta con una comunidad muy amplia y en constante crecimiento. En caso de tener cualquier pregunta, contacta con nuestro equipo a través de cualquiera de nuestros canales, nuestra comunidad Ballena está siempre en disposición de ayudarte.
 
+
