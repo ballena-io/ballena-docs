@@ -10,3 +10,4 @@ El beneficio generado del staking del token BALLE en la [Pool de Gobernanza](htt
 
 \*\*image of governance tokens page
 
+

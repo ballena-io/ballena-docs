@@ -45,13 +45,16 @@ El suministro total ha sido producido y depositado en los siguientes contratos i
 * Recompensa usuarios de la plataforma. 24000 BALLE en Smart Contracts: 0x2305423942390582058092
 * Recompensa usuarios poseedores de BALLE. 13300 BALLE en Smart Contracts: 0x2305423942390582058092
 * Fondos Equipo de Desarrollo. 2700 BALLE en Smart Contracts:
-* 0x2305423942390582058092
-* 0x2305423942390582058092
-* 0x2305423942390582058092
-* 0x2305423942390582058092
-* 0x2305423942390582058092
-* 0x2305423942390582058092
-* 0x2305423942390582058092
+
+
+
+  * 0x2305423942390582058092
+  * 0x2305423942390582058092
+  * 0x2305423942390582058092
+  * 0x2305423942390582058092
+  * 0x2305423942390582058092
+  * 0x2305423942390582058092
+  * 0x2305423942390582058092
 
 El suministro se encuentra cerrado y no es posible ampliarlo. La cuenta de producción se suprimió de los contratos inteligentes y no es posible configurar una nueva.
 
