@@ -4,6 +4,8 @@
 
 Para comprar cripto con tarjeta de crédito en Binance lo haremos de la siguiente manera.
 
+
+
 ### 1. Pulsa el botón “Comprar Cripto” del menú de la Barra superior en Binance.
 
 ![](../../../.gitbook/assets/15.png)
