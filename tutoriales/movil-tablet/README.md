@@ -11,7 +11,7 @@ La aplicación de Binance nos permitirá dar nuestros primeros pasos y comprar B
 
 Y en cuanto a TrusWallet, nos permitirá tanto acceder a las Dapps, es decir, PancakeSwap y [ballena.io](https://ballena.io/), como mover nuestras criptomonedas, para acciones como comprar, vender, convertir, aportar liquidez y pagar las tasas.
 
-Recuerda el esquema visto anteriormente y no te perderás. Ballena 🐋 te lo vuelve a mostrar.
+Recuerda el esquema visto anteriormente y no te perderás. [ballena.io](https://ballena.io/)🐋 te lo vuelve a mostrar.
 
 
 

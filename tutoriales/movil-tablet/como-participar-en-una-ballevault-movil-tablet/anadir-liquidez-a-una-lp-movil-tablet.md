@@ -2,7 +2,7 @@
 
 ## Cómo añadir liquidez en Pancakeswap con Trust Wallet
 
-En muchas ocasiones querrás añadir liquidez en Pancakeswap para obtener un rendimiento en base a estos tokens LP en ballena.io. Para eso es necesario acceder a “Pancakeswap” donde podremos añadir liquidez al par que queramos. Hay que tener en cuenta que hay que proporcionar el mismo valor en los dos tokens que utilicemos para añadir liquidez, si no tenemos suficientes deberemos utilizar la opción swap y realizar los cambios que necesitemos.
+En muchas ocasiones querrás añadir liquidez en Pancakeswap para obtener un rendimiento en base a estos tokens LP en [ballena.io](https://ballena.io/). Para eso es necesario acceder a “Pancakeswap” donde podremos añadir liquidez al par que queramos. Hay que tener en cuenta que hay que proporcionar el mismo valor en los dos tokens que utilicemos para añadir liquidez, si no tenemos suficientes deberemos utilizar la opción swap y realizar los cambios que necesitemos.
 
 ### 1. Accede a PancakeSwap en el navegador Dapp.
 
