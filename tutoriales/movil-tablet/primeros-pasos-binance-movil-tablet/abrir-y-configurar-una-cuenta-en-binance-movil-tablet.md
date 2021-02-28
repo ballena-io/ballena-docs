@@ -8,13 +8,13 @@ Para poder empezar a trabajar en el mundo de las criptomonedas, es recomendable 
 
 ### 1. Abre [Binance ](https://www.binance.com/es%20)en tu navegador.
 
-Para darte de alta en Binance lo primero que tienes que hacer es ir a la dirección de su página web. Recomendamos escribir la dirección directamente y una vez dentro verificar que estas trabajando con la página correcta.
+Para darte de alta en Binance lo primero que tienes que hacer es ir a la dirección de su página web. Recomendamos escribir la dirección directamente y una vez dentro verificar que estás trabajando con la página correcta.
 
 image
 
 ### 2. Haz click en el botón de descarga.
 
-Te aparecerá un botón en la parte superior para descargar la app de binance. Haz clic en el banner para ir a la Play Store para poder descarga la aplicación.
+Te aparecerá un botón en la parte superior para descargar la app de binance. Haz clic en el banner para ir a la Play Store para poder descargar la aplicación.
 
 image
 
@@ -40,7 +40,7 @@ image
 
 ### 7. Verificación de la cuenta.
 
-Una vez hecho se nos pedirá que introduzcamos un código de verificación que se nos ha enviado via sms o al correo electrónico que hemos utilizado para dar el alta.
+Una vez hecho se nos pedirá que introduzcamos un código de verificación que se nos ha enviado vía sms o al correo electrónico que hemos utilizado para dar el alta.
 
 image
 
@@ -54,10 +54,11 @@ image
 
 ### 9. Completa la verificación.
 
-Utiliza el código de seis dígitos enviado a tu correo para completar la verificación. ⦁ Una vez completada la verificación ya estamos dados de alta en Binance
+Utiliza el código de seis dígitos enviado a tu correo para completar la verificación.
+Una vez completada la verificación ya estamos dados de alta en Binance
 
 image
 
-⦁	Para las opciones de depósito Fiat o compra con tarjeta de crédito deberás pasar un proceso de identificación “KYC” (Know your customer). Sigue los pasos marcados en la plataforma. Este proceso es un proceso de seguridad para vincular la cuenta con una empresa o persona física, para completarlo necesitarás un DNI, Carnet de Conducir o Pasaporte y poder hacer la verificación con el móvil.
-⦁	Ya estas dado de alta en Binance. Una vez identificado en la plataforma podrás cargar saldo o comprar cripto para pasar a Binance Smart Chain. Estos pasos los podrás ver en el correspondiente tutorial
+Para las opciones de depósito Fiat o compra con tarjeta de crédito deberás pasar un proceso de identificación “KYC” (Know your customer). Sigue los pasos marcados en la plataforma. Este proceso es un proceso de seguridad para vincular la cuenta con una empresa o persona física, para completarlo necesitarás un DNI, Carnet de Conducir o Pasaporte y poder hacer la verificación con el móvil.
+Ya estás dado de alta en Binance. Una vez identificado en la plataforma podrás recargar saldo o comprar cripto para pasar a Binance Smart Chain. Estos pasos los podrás ver en el correspondiente tutorial.
 
