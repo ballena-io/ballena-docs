@@ -1,6 +1,6 @@
 # Productos
 
-La plataforma Ballena ofrece una amplia variedad de fondos de liquidez, farms y pools de PancakeSwap, uno de los mejores exchanges descentralizados de la red de Binance Smart Chain y a su vez permite el Staking de nuestro token BALLE.
+La plataforma [ballena.io](https://ballena.io/) ofrece una amplia variedad de fondos de liquidez, farms y pools de PancakeSwap, uno de los mejores exchanges descentralizados de la red de Binance Smart Chain y a su vez permite el Staking de nuestro token BALLE.
 
 ## Staking BALLE
 

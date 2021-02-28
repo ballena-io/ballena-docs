@@ -6,7 +6,6 @@
 
 ## Finanzas descentralizadas para todo el mundo
 
-
 ## BSC
 
 La red Binance Smart Chain evita las restricciones de flujo de capital que surgen de las altas tasas de transacción se pagan en la misma. Este ecosistema trabaja sobre mínimas tasas permitiendo así a los inversores saltar entre los diversos fondos de liquidez \(Liquidity Pools, farms, etc.\) sin gastos excesivos, maximizando así los beneficios con la máxima flexibilidad. Esto sirve también como un perfecto ecosistema para usuarios con poca liquidez para invertir, quienes pueden ahora entrar en el juego con mínimas pérdidas debidas a las tasas, lo cual antes era imposible de imaginar y no merecía la pena embarcarse en estas inversiones.
