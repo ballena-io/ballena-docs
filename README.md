@@ -6,7 +6,7 @@ description: Finanzas descentralizadas para todo el mundo
 
 ## ¡Bienvenido! Sumérgete en el mundo [ballena.io](https://ballena.io/) 🐋
 
-[Ballena.io](https://ballena.io) es una plataforma DeFi automatizada para la optimización de rendimiento en la red Binance Smart Chain. Hoy en día, las plataformas de rendimiento optimizado se encuentran en el área más rentables del mercado de las Criptomonedas, especialmente los proyectos que trabajan sobre la BSC. Nosotros, como desarrolladores, nos hemos centrado en solucionar los problemas más pesados de la búsqueda de rendimientos en el entorno Ethereum para lanzar esta plataforma. Las bases de [Ballena.io](https://ballena.io/) son las siguientes:
+[ballena.io](https://ballena.io/) es una plataforma DeFi automatizada para la optimización de rendimiento en la red Binance Smart Chain. Hoy en día, las plataformas de rendimiento optimizado se encuentran en el área más rentables del mercado de las Criptomonedas, especialmente los proyectos que trabajan sobre la BSC. Nosotros, como desarrolladores, nos hemos centrado en solucionar los problemas más pesados de la búsqueda de rendimientos en el entorno Ethereum para lanzar esta plataforma. Las bases de [ballena.io](https://ballena.io/) son las siguientes:
 
 ## Finanzas descentralizadas para todo el mundo
 
@@ -16,7 +16,7 @@ La red Binance Smart Chain evita las restricciones de flujo de capital que surge
 
 ## Automatización
 
-[Ballena.io](https://ballena.io/) simplifica y automatiza la optimización de rendimiento de diferentes oportunidades en el mercado evitando el gasto innecesario de tiempo del usuario que surge de las constantes interacciones requeridas para encontrar el mejor APY y la implementación de estrategias complejas. Las estrategias se automatizan para cada bóveda por smart contracts para encontrar los mayores rendimientos. Esto permite a los inversores de alta experiencia ahorrar tiempo y optimizar rendimientos y ayuda a los usuarios noveles a contar con un acceso fácil a oportunidades y asegurar beneficios desde el primer instante.
+[ballena.io](https://ballena.io/) simplifica y automatiza la optimización de rendimiento de diferentes oportunidades en el mercado evitando el gasto innecesario de tiempo del usuario que surge de las constantes interacciones requeridas para encontrar el mejor APY y la implementación de estrategias complejas. Las estrategias se automatizan para cada bóveda por smart contracts para encontrar los mayores rendimientos. Esto permite a los inversores de alta experiencia ahorrar tiempo y optimizar rendimientos y ayuda a los usuarios noveles a contar con un acceso fácil a oportunidades y asegurar beneficios desde el primer instante.
 
 ## Accesibilidad para los nuevos en este mundo
 
@@ -24,7 +24,7 @@ Fondos de liquidez, Farms, Vaults, APY, ilustraciones sin sentido y palabras que
 
 ## SimpleFarming
 
-Una de nuestras metas a corto plazo, el Equipo [Ballena.io](https://ballena.io/) está desarrollando una herramienta, una estrategia, llamada SimpleFarming. Esta añade un nivel de optimización más a la cadena, una completa automatización del flujo de nuestras cripto encontrando los mejores rendimientos en la red BSC. Aloca tus monedas al SimpleFarming y [Ballena.io](https://ballena.io/) se encargará de maximizar beneficios a través de las oportunidades más rentables en la red. Más información en breve.
+Una de nuestras metas a corto plazo, el Equipo [ballena.io](https://ballena.io/) está desarrollando una herramienta, una estrategia, llamada SimpleFarming. Esta añade un nivel de optimización más a la cadena, una completa automatización del flujo de nuestras cripto encontrando los mejores rendimientos en la red BSC. Aloca tus monedas al SimpleFarming y [ballena.io](https://ballena.io/) se encargará de maximizar beneficios a través de las oportunidades más rentables en la red. Más información en breve.
 
 ## BALLE
 
@@ -32,7 +32,7 @@ BALLE es nuestro token. Podrás lucrarte de su revalorización, hacer staking y 
 
 ## Comunidad 🐋
 
-En caso de tener cualquier pregunta, contacta con nuestro equipo a través de cualquiera de nuestros canales. Nuestra comunidad [Ballena.io](https://ballena.io/) está siempre en disposición de ayudarte, y aunque no necesites ayuda, pásate a saludar!
+En caso de tener cualquier pregunta, contacta con nuestro equipo a través de cualquiera de nuestros canales. Nuestra comunidad [ballena.io](https://ballena.io/) está siempre en disposición de ayudarte, y aunque no necesites ayuda, pásate a saludar!
 
 Twitter: [https://twitter.com/ballenaio](https://twitter.com/ballenaio)
 
