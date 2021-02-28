@@ -2,9 +2,7 @@
 
 ## Suministro máximo: 40000 BALLE
 
-[Ballena.io](https://ballena.io/) cuenta con un suministro máximo de 40000 tokens BALLE. La plataforma no ha llevado a cabo un programa de preventa y el suministro comenzará con el arranque de la plataforma. Se distribuirán gratuitamente al completo entre nuestra comunidad de usuarios y poseedores del token BALLE. Además, una pequeña parte está destinada a nuestro equipo de desarrolladores y a los gastos de fomento y publicidad.
-
-
+[b.io](https://ballena.io/) cuenta con un suministro máximo de 40000 tokens BALLE. La plataforma no ha llevado a cabo un programa de preventa y el suministro comenzará con el arranque de la plataforma. Se distribuirán gratuitamente al completo entre nuestra comunidad de usuarios y poseedores del token BALLE. Además, una pequeña parte está destinada a nuestro equipo de desarrolladores y a los gastos de fomento y publicidad.
 
 ![](.gitbook/assets/BALLE_Token_Distribution.png)
 
@@ -40,7 +38,7 @@ Los usuarios que poseen tokens BALLE y que participan activamente en la App de G
 
 Esta recompensa extra será distribuida como un multiplicador sobre el retorno generado de la tasa de la Yield Optimizer App. Este multiplicador aparecerá como un x10, x100 o x200 en la pool de gobernanza, o staking pool. De esta manera, el usuario recibirá la parte proporcional de la tasa multiplicada por este factor dependiendo del porcentaje aportado a la pool.
 
-## Smart contracts \(Contratos inteligentes\)
+## Smart contracts
 
 El suministro total ha sido producido y depositado en los siguientes contratos inteligentes para su distribución:
 
@@ -58,9 +56,7 @@ El suministro total ha sido producido y depositado en los siguientes contratos i
   * 0x2305423942390582058092
   * 0x2305423942390582058092
 
-
-
 El suministro se encuentra cerrado y no es posible ampliarlo. La cuenta de producción se suprimió de los contratos inteligentes y no es posible configurar una nueva.
 
-Transacciones: 0x2305423942390582058092 and 0x2305423942390582058092.
+Transacciones: 0x2305423942390582058092 and 0x2305423942390582058092
 
