@@ -6,7 +6,7 @@ description: TODO
 
 ## Cómo añadir un Token personalizado a Metemask
 
-Ballena🐋 te ayuda a añadir un Token personalizado a Metamask. En este caso añadiremos nuestro token BALLE como ejemplo.
+[ballena.io](https://ballena.io/)🐋 te ayuda a añadir un Token personalizado a Metamask. En este caso añadiremos nuestro token BALLE como ejemplo.
 
 ### Paso a paso <a id="step-by-step"></a>
 
