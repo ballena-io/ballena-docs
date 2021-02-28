@@ -44,13 +44,17 @@ Una vez hecho se nos pedirá que introduzcamos un código de verificación que s
 
 image
 
-⦁ Nos habrá llegado un correo electrónico de este estilo
+### 8. Comprobar bandeja de entrada del correo.
+
+Nos habrá llegado un correo electrónico de este estilo
 
 image
 
 
 
-⦁ Utiliza el código de seis dígitos enviado a tu correo para completar la verificación. ⦁ Una vez completada la verificación ya estamos dados de alta en Binance
+### 9. Completa la verificación.
+
+Utiliza el código de seis dígitos enviado a tu correo para completar la verificación. ⦁ Una vez completada la verificación ya estamos dados de alta en Binance
 
 image
 
