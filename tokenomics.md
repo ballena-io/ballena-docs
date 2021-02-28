@@ -2,7 +2,7 @@
 
 ## Suministro máximo: 40000 BALLE
 
-[b.io](https://ballena.io/) cuenta con un suministro máximo de 40000 tokens BALLE. La plataforma no ha llevado a cabo un programa de preventa y el suministro comenzará con el arranque de la plataforma. Se distribuirán gratuitamente al completo entre nuestra comunidad de usuarios y poseedores del token BALLE. Además, una pequeña parte está destinada a nuestro equipo de desarrolladores y a los gastos de fomento y publicidad.
+[ballena.io](https://ballena.io/) cuenta con un suministro máximo de 40000 tokens BALLE. La plataforma no ha llevado a cabo un programa de preventa y el suministro comenzará con el arranque de la plataforma. Se distribuirán gratuitamente al completo entre nuestra comunidad de usuarios y poseedores del token BALLE. Además, una pequeña parte está destinada a nuestro equipo de desarrolladores y a los gastos de fomento y publicidad.
 
 ![](.gitbook/assets/BALLE_Token_Distribution.png)
 
