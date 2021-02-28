@@ -1,6 +1,3 @@
----
-description: Finanzas descentralizadas para todo el mundo
----
 
 # Introducción a ballena.io
 
