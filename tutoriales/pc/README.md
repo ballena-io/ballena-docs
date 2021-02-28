@@ -9,7 +9,7 @@ En el caso del PC, independientemente del sistema operativo con el que cuentes s
 
 El navegador web nos servirá para navegar por las webs y Dapps de las que nos nutrimos: [ballena.io](https://ballena.io/), Binance y PancakeSwap, por ejemplo. Y la Wallet, o billetera, la utilizaremos para tanto acceder a las Dapps, como para mover nuestras criptomonedas, acciones como comprar, vender, convertir, aportar liquidez y pagar las tasas.
 
-Recuerda el esquema visto anteriormente y no te perderás. Ballena 🐋 te lo vuelve a mostrar.
+Recuerda el esquema visto anteriormente y no te perderás. [ballena.io](https://ballena.io/)🐋 te lo vuelve a mostrar.
 
 ![](../../.gitbook/assets/esquema-tutoriales-2.png)
 
