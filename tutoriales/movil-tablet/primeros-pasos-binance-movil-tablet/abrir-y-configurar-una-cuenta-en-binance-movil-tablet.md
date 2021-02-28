@@ -12,19 +12,27 @@ Para darte de alta en Binance lo primero que tienes que hacer es ir a la direcci
 
 image
 
+
+
 ### 2. Haz click en el botón de descarga.
 
 Te aparecerá un botón en la parte superior para descargar la app de binance. Haz clic en el banner para ir a la Play Store para poder descargar la aplicación.
 
 image
 
+
+
 ### 3. Pulsa "Instalar".
 
 image
 
+
+
 ### 4. Espera a que termine la descarga y haz click en "Abrir".
 
 image
+
+
 
 ### 5. Crear la cuenta- Completar campos.
 
@@ -32,17 +40,23 @@ Rellenamos los campos utilizando nuestro número de teléfono móvil o nuestro c
 
 image
 
+
+
 ### 6. Haz click en "Crear cuenta" y completa la verificación de seguridad.
 
 A continuación, pulsamos el botón “Crear cuenta” y completamos la verificación de seguridad deslizando la pieza del puzzle al lugar correcto haciendo clic y deslizando en la pieza o en la flecha amarilla.
 
 image
 
+
+
 ### 7. Verificación de la cuenta.
 
 Una vez hecho se nos pedirá que introduzcamos un código de verificación que se nos ha enviado vía sms o al correo electrónico que hemos utilizado para dar el alta.
 
 image
+
+
 
 ### 8. Comprobar bandeja de entrada del correo.
 
@@ -57,10 +71,10 @@ image
 Utiliza el código de seis dígitos enviado a tu correo para completar la verificación.
 
 
+
 ### 10. Ya estas dado de alta en Binance.
 
 image
 
-Para las opciones de depósito Fiat o compra con tarjeta de crédito deberás pasar un proceso de identificación “KYC” (Know your customer). Sigue los pasos marcados en la plataforma. Este proceso es un proceso de seguridad para vincular la cuenta con una empresa o persona física, para completarlo necesitarás un DNI, Carnet de Conducir o Pasaporte y poder hacer la verificación con el móvil.
-Una vez identificado en la plataforma podrás recargar saldo o comprar cripto para pasar a Binance Smart Chain. Estos pasos los podrás ver en el correspondiente tutorial.
+Para las opciones de depósito Fiat o compra con tarjeta de crédito deberás pasar un proceso de identificación “KYC” \(Know your customer\). Sigue los pasos marcados en la plataforma. Este proceso es un proceso de seguridad para vincular la cuenta con una empresa o persona física, para completarlo necesitarás un DNI, Carnet de Conducir o Pasaporte y poder hacer la verificación con el móvil. Una vez identificado en la plataforma podrás recargar saldo o comprar cripto para pasar a Binance Smart Chain. Estos pasos los podrás ver en el correspondiente tutorial.
 
