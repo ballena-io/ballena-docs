@@ -24,7 +24,7 @@ Fondos de liquidez, Farms, Vaults, APY, ilustraciones sin sentido y palabras que
 
 ## SimpleFarming
 
-Una de nuestras metas a corto plazo, el Equipo [Ballena.io](https://ballena.io/) está desarrollando una herramienta, una estrategia, llamada SimpleFarming. Esta añade un nivel de optimización más a la cadena, una completa automatización del flujo de nuestras cripto encontrando los mejores rendimientos en la red BSC. Aloca tus monedas al SimpleFarming y Ballena se encargará de maximizar beneficios a través de las oportunidades más rentables en la red. Más información en breve.
+Una de nuestras metas a corto plazo, el Equipo [Ballena.io](https://ballena.io/) está desarrollando una herramienta, una estrategia, llamada SimpleFarming. Esta añade un nivel de optimización más a la cadena, una completa automatización del flujo de nuestras cripto encontrando los mejores rendimientos en la red BSC. Aloca tus monedas al SimpleFarming y [Ballena.io](https://ballena.io/) se encargará de maximizar beneficios a través de las oportunidades más rentables en la red. Más información en breve.
 
 ## BALLE
 
