@@ -8,7 +8,7 @@
 
 \*\*\*\*
 
-**Distribución porcentual**
+**Distribución**
 
 La distribución del total fijo e inmutable se compone de:
 
@@ -20,40 +20,54 @@ La distribución del total fijo e inmutable se compone de:
 
 **Límite de suministro Tokenomics :** La  totalidad de los tokens ha sido producidos y se distribuyen gratuitamente enrte los usuarios de la plafaroma. La producción queda cerrada desde el momento del desarrollo y no hay producción posterior posible. El máximo de 40000 tokens es fijo e inalterable.
 
-**Utilidad:** Las tasas del ecosistema están alocadas a los usuarios de la plataforma. el 3% de las ganancias obtenidas por los usuarios será distribuida entre los usuarios de la platafora, tanto Fees from the ecosystem will go to token holders. From our Yield Optimizer, 3% of user gains will be used to buy BALLE and paid it back to token holders.
+**Utilidad:** Las tasas del ecosistema van dirigidas a los usuarios que poseen el token BALLE. El 3% de los beneficios generados de la Yield Optimizer App se destinan a la compra de tokens BALLE para su posterior distribución entre los participantes de la App de Gobernanza o la Pool de Staking de BALLE.
 
-## How distribution works
 
-All distribution mechanisms are already implemented in our Smart Contracts. Only a multiplier can be modified in order adjust the rewards rate for certain pools. All info will be clearly stated on the user interface.
+## Cómo se distribuyen los tokens BALLE
 
-### Platform users distribution
+Los mecanismos de distribución están incluidos en los Smart Contracts de nuestra plataforma. El Equipo de Desarrollo solo puede modificar un multiplicador para ajustar la razón de recompensa de ciertas pools. Toda la información estará disponible en la UI (Interfaz de Usuario).
 
-This distribution will go over the first year and consists of 24000 BALLE tokens distributed among all users actively participating in our products. Using the BalleVaults, i.e. CAKE-BNB Vault, and using BALLE token governance staking pool allows users receive BALLE tokens as a reward.
+Un total de 37300 tokens BALLE se distribuyen entre los usuarios de la Yield Optimizer App y la App de Gobernanza.
 
-Every 3 seconds a BSC block is released. At the same time, a fixed BALLE amount is released per block, which is divided by the number of active vaults on the platform. Users will receive a proportional amount of BALLE token regarding their pool share amount times the multiplier stated on each one of them. This multiplier serves the Dev. Team as an adjustable trimmer for the proper development of the project, thus some of the vaults or pools will reward the user with a greater amount of BALLE tokens.
 
-### BALLE holders distribution
+### Distribución entre los usuarios de la plataforma \(Yield Optimizer App\).
 
-Apart from receiving the user´s proportional amount of those 24000 BALLE tokens as platform users, BALLE holders actively participating in the BALLE staking pool, or governance pool, will be rewarded with an extra 13300 BALLE token distribution.
+La distribución consiste en 24000 tokens BALLE y se llevará a cabo durante el primer año de funcionamiento de la plataforma entre los usuarios que participan activamente en nuestros productos. Al utilizar una de las BalleVaults, la bóveda CAKE-BNB por ejemplo, resultará en una recompensa de tokens BALLE, aparte claro del aumento de los tokens LP correspondientes.
 
-This extra reward will be distributed as a multiplier to the standard fee allocation among platform users \(regarding the 24000 token distribution\). The extra reward multiplier will clearly appear as a x10, x100 or x200 multiplier in the BALLE staking pool, meaning the user will receive the fees proportional amount of BALLE regarding his pool share multiplied by this value.
+Cada 3 segundos se distribuye un bloque de la BSC. De este modo, cada bloque dispone de un valor fijo de tokens BALLE que son distribuidos, los cuales se dividen entre el número de bóvedas activas y se entregan a los usuarios de acuerdo a la proporción compartida de la misma, multiplicada por el multiplicador que aparece en cada una de ellas. Este multiplicador es una herramienta ajustable del Equipo de Desarrollo que sirve para asegurar el correcto funcionamiento de la paltaforma ligada al suministro de los tokens BALLE. Esto resultará en que algunas de las pools recompensarán en mayor grado al usuario.
+
+
+### Distribución entre los usuarios que poseen el token BALLE \(Governance App\).
+
+Los usuarios que poseen tokens BALLE y que participan activamente en la App de Gobernanza (BALLEReward Pool o BALLE Staking Pool), recivirán el 3% de los beneficios obtenidos por los usuarios en la Yield Optimizer App. Además de este reparto, estos usuarios serán recompensados con una distribución gradual de 13300 tokens BALLE.
+
+Esta recompensa extra será distribuida como un multiplicador sobre el retorno generado de la tasa de la Yield Optimizer App. Este multiplicador aparecerá como un x10, x100 o x200 en la pool de gobernanza, o staking pool. De esta manera, el usuario recibirá la parte proporcional de la tasa multiplicada por este factor dependiendo del porcentaje aportado a la pool.
+
 
 ## Smart contracts
 
-Total supply was minted and deposited to corresponding Smart Contracts for distribution:
+El suministro total ha sido producido y depositado en los siguientes contratos intelientes para su distribución:
 
-* Platform users rewards, 24,000 BALLE in Smart Contracts: 0x2305423942390582058092
-* BALLE holders rewards, 13,300 BALLE in Smart Contracts: 0x2305423942390582058092
-* Dev Team funds, 2,700 BALLE in Smart Contracts:
-* 0x2305423942390582058092
-* 0x2305423942390582058092
-* 0x2305423942390582058092
-* 0x2305423942390582058092
-* 0x2305423942390582058092
-* 0x2305423942390582058092
-* 0x2305423942390582058092
+* Recompensa usuarios de la plataforma. 24000 BALLE en Smart Contracts: 0x2305423942390582058092
+* Recompensa usuarios poseedores de BALLE. 13300 BALLE en Smart Contracts: 0x2305423942390582058092
+* Fondos Equipo de Desarrollo. 2700 BALLE en Smart Contracts:
 
-No more supply is possible, minter account was removed from Smart Contractsand is not possible to set a new one.
 
-Transactions: 0x2305423942390582058092 and 0x2305423942390582058092
+
+  * 0x2305423942390582058092
+  * 0x2305423942390582058092
+  * 0x2305423942390582058092
+  * 0x2305423942390582058092
+  * 0x2305423942390582058092
+  * 0x2305423942390582058092
+  * 0x2305423942390582058092
+  
+
+El suministro se encuentra cerrado y no es posible ampliarlo. La cuenta de producción se suprimió de los contratos inteligentes y no es posible configurar una nueva.
+
+
+Transacciones: 0x2305423942390582058092 and 0x2305423942390582058092
+
+
+
 
