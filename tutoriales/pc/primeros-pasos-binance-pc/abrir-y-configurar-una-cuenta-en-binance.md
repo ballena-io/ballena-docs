@@ -30,7 +30,7 @@ A continuación, pulsamos el botón “Crear cuenta” y completamos la verifica
 
 Una vez hecho se nos pedirá en la página que introduzcamos un código de verificación que se nos ha enviado al correo electrónico que hemos utilizado para dar el alta.
 
-![](../../../.gitbook/assets/4%20%281%29.png)
+![](../../../.gitbook/assets/4%20%282%29.png)
 
 Nos habrá llegado un correo electrónico de este estilo.
 
