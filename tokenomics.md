@@ -15,9 +15,9 @@ La distribución del total fijo e inmutable se compone de:
 
 * **60% - 24000 BALLE tokens:** Distribuido entre todos los usuarios de la plataforma ballena.io.
 * **33.3% - 13300 BALLE tokens:** Distribuido entre los holders del token BALLE como reward o premio extra.
-* **6.8% - 2700 BALLE tokens:** Dev. Team funds, these are dedicated to the dev team to ensure sustainable and rapid innovation and for promotion actions.
+* **6.8% - 2700 BALLE tokens:** Fondos para el Equipo de Desarrollo, están dedicados al equipo de desarrollo promoviendo la innovación rápida, sostenible y segura de la plataforma, así como para acciones con objeto de promoción.
 
-## Details:
+## Detalles:
 
 **Fixed Supply Tokenomics:** All tokens are minted and will be freely distributed. No more minting possible.
 
