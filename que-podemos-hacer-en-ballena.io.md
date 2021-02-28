@@ -15,8 +15,6 @@ Aquí podemos proveer liquidez al staking del token BALLE. Es una forma de inver
 
 Para más información, acceda a [Gobernanza](gobernanza.md) y a [BALLE Staking Pools](productos/balle-staking-pool.md).
 
-
-
 ### BalleVaults \(Bóvedas\)
 
 Esto es: Proveer liquidez a una LP de un par de alta rentabilidad.
@@ -34,5 +32,4 @@ Digamos que es un paso más allá de lo tan rentable ahora mismo en el mercado, 
 Además, debido a la ventaja y rentabilidad que esto supone frente a otras plataformas, la posesión del token BALLE te aportará amplias ganancias por su revalorización en el mercado. Además de las comisiones que ganas por el hecho de poseerlo.
 
 Y como no, la comunidad! [Ballena.io](https://ballena.io/) cuenta con una comunidad muy amplia y en constante crecimiento. En caso de tener cualquier pregunta, contacta con nuestro equipo a través de cualquiera de nuestros canales, nuestra comunidad Ballena está siempre en disposición de ayudarte.
-
 

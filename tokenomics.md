@@ -2,8 +2,7 @@
 
 ## Suministro máximo: 40000 BALLE
 
-Ballena.io cuenta con un suministro máximo de 40000 tokens BALLE. La plataforma no ha llevado a cabo un programa de preventa y el suministro comenzará con el arranque de la plataforma. Se distribuirán gratuitamente al completo entre nuestra comunidad de usuarios y poseedores del token BALLE. Además, una pequeña parte está destinada a nuestro equipo de desarrolladores y a los gastos de fomento y publicidad.
-
+[Ballena.io](https://ballena.io/) cuenta con un suministro máximo de 40000 tokens BALLE. La plataforma no ha llevado a cabo un programa de preventa y el suministro comenzará con el arranque de la plataforma. Se distribuirán gratuitamente al completo entre nuestra comunidad de usuarios y poseedores del token BALLE. Además, una pequeña parte está destinada a nuestro equipo de desarrolladores y a los gastos de fomento y publicidad.
 
 ![](.gitbook/assets/BALLE_Token_Distribution.png)
 
@@ -13,7 +12,7 @@ Ballena.io cuenta con un suministro máximo de 40000 tokens BALLE. La plataforma
 
 La distribución del total fijo e inmutable se compone de:
 
-* **60% - 24000 BALLE tokens:** Distribuido entre todos los usuarios de la plataforma ballena.io.
+* **60% - 24000 BALLE tokens:** Distribuido entre todos los usuarios de la plataforma [ballena.io](https://ballena.io/).
 * **33.3% - 13300 BALLE tokens:** Distribuido entre los holders del token BALLE como reward o premio extra.
 * **6.8% - 2700 BALLE tokens:** Fondos para el Equipo de Desarrollo, están dedicados al equipo de desarrollo promoviendo la innovación rápida, sostenible y segura de la plataforma, así como para acciones con objeto de promoción.
 
@@ -46,22 +45,15 @@ Total supply was minted and deposited to corresponding Smart Contracts for distr
 * Platform users rewards, 24,000 BALLE in Smart Contracts: 0x2305423942390582058092
 * BALLE holders rewards, 13,300 BALLE in Smart Contracts: 0x2305423942390582058092
 * Dev Team funds, 2,700 BALLE in Smart Contracts:
+* 0x2305423942390582058092
+* 0x2305423942390582058092
+* 0x2305423942390582058092
+* 0x2305423942390582058092
+* 0x2305423942390582058092
+* 0x2305423942390582058092
+* 0x2305423942390582058092
 
-
-
-  * 0x2305423942390582058092
-  * 0x2305423942390582058092
-  * 0x2305423942390582058092
-  * 0x2305423942390582058092
-  * 0x2305423942390582058092
-  * 0x2305423942390582058092
-  * 0x2305423942390582058092
-
-No more supply is possible, minter account was removed from Smart Contractsand is not possible to set a new one. 
+No more supply is possible, minter account was removed from Smart Contractsand is not possible to set a new one.
 
 Transactions: 0x2305423942390582058092 and 0x2305423942390582058092
-
-
-
-
 
