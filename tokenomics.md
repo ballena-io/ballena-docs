@@ -6,11 +6,33 @@ Ballena.io started with no pre-sale and has an inmutable max supply of 40000 BAL
 
 ![](.gitbook/assets/BALLE_Token_Distribution.png)
 
-Total supply was minted and distributed as:
 
-* 24000 BALLE tokens - Distributed among all platform users.
-* 13300 BALLE tokens - Distributed among BALLE holders as an extra reward.
-* 2700 BALLE tokens - Dev. Team funds.
+**Percentage Breakdown:**
+
+Total fix supply was distributed as:
+
+* 60% - 24000 BALLE tokens - Distributed among all platform users.
+* 33.3% - 13300 BALLE tokens - Distributed among BALLE holders as an extra reward.
+* 6.8% - 2700 BALLE tokens - Dev. Team funds, these are dedicated to the dev team to ensure sustainable and rapid innovation and for promotion actions.
+
+
+## Details:
+
+**Fixed Supply Tokenomics:** All tokens are minted and will be freely distributed. No more minting possible.
+
+**Utility:** Fees from ecosystem will go to token holders. From our Yield Optimizer, 3% of user gains will be used to buy BALLE and get it back to token holders.
+
+## How distribution works
+
+All distribution mecanisms are already implemented in our smartcontracts. Only a multiplier can be changed because we will need to adjust it so we can adjust rewards rate for certain pools. All info will be clearly stated on the user interface anyways.
+
+### Platform users distribution
+
+This distribution will go over the first year of our platform and will give 24,000 BALLE to all users of our products.
+
+### BALLE holders distribution
+
+This distribution will go will give 13,300 BALLE to governance stakers as an extra reward that complements \(with a multiplier\) the rewards for token holders, for example, 3% performance fee from our Yield Optimizer.
 
 
 ## Smart contracts
@@ -30,27 +52,8 @@ Total supply was minted and deposited to correspondig smartcontracts for distrib
 
 No more supply is possible, minter account was removed form smartcontract and is not possible to set a new one. Transactions: 0x2305423942390582058092 and 0x2305423942390582058092
 
-## Details:
 
-**Fixed Supply Tokenomics:** All tokens are minted and will be freely distributed. No more minting possible.
 
-**Utility:** Fees from ecosystem will go to token holders. From our Yield Optimizer, 3% of user gains will be used to buy BALLE and get it back to token holders.
 
-**Percentage Breakdown:**
 
-* 60% will go to platform users
-* 33.3% will go as an extra reward for holders
-* 6.8% are dedicated to the dev team to ensure sustainable and rapid innovation and for promotion actions
-
-## How distribution works
-
-All distribution mecanisms are already implemented in our smartcontracts. Only a multiplier can be changed because we will need to adjust it so we can adjust rewards rate for certain pools. All info will be clearly stated on the user interface anyways.
-
-### Platform users distribution
-
-This distribution will go over the first year of our platform and will give 24,000 BALLE to all users of our products.
-
-### BALLE holders distribution
-
-This distribution will go will give 13,300 BALLE to governance stakers as an extra reward that complements \(with a multiplier\) the rewards for token holders, for example, 3% performance fee from our Yield Optimizer.
 
