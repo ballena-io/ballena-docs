@@ -16,11 +16,15 @@ Total fix supply distributed as:
 * **33.3% - 13300 BALLE tokens:** Distributed among BALLE holders as an extra reward.
 * **6.8% - 2700 BALLE tokens:** Dev. Team funds, these are dedicated to the dev team to ensure sustainable and rapid innovation and for promotion actions.
 
+
+
 ## Details:
 
 **Fixed Supply Tokenomics:** All tokens are minted and will be freely distributed. No more minting possible.
 
 **Utility:** Fees from the ecosystem will go to token holders. From our Yield Optimizer, 3% of user gains will be used to buy BALLE and paid it back to token holders.
+
+
 
 ## How distribution works
 
@@ -53,6 +57,9 @@ Total supply was minted and deposited to corresponding Smart Contracts for distr
 * Platform users rewards, 24,000 BALLE in Smart Contracts: 0x2305423942390582058092
 * BALLE holders rewards, 13,300 BALLE in Smart Contracts: 0x2305423942390582058092
 * Dev Team funds, 2,700 BALLE in Smart Contracts:
+
+
+
   * 0x2305423942390582058092
   * 0x2305423942390582058092
   * 0x2305423942390582058092
@@ -67,7 +74,7 @@ No more supply is possible, minter account was removed from Smart Contractsand i
 
 Transactions: 0x2305423942390582058092 and 0x2305423942390582058092**.**
 
-\*\*\*\*
 
-\*\*\*\*
+
+
 
