@@ -8,7 +8,7 @@ Ballena.io started with no pre-sale and has an immutable max supply of 40000 BAL
 ![](.gitbook/assets/BALLE_Token_Distribution.png)
 
 
-**Percentage Breakdown:**
+**Percentage Breakdown**
 
 Total fix supply was distributed as:
 
