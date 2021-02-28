@@ -10,9 +10,9 @@
 
 
 
-**Distribución**
+### **Distribución**
 
-La distribución del total fijo e inmutable se compone de:
+La distribución del total, fijo e inmutable, se compone de:
 
 * **60% - 24000 BALLE tokens:** Distribuido entre todos los usuarios de la plataforma [ballena.io](https://ballena.io/).
 * **33.3% - 13300 BALLE tokens:** Distribuido entre los holders del token BALLE como recompensa.
