@@ -28,17 +28,25 @@ Total fix supply distributed as:
 
 All distribution mechanisms are already implemented in our Smart Contracts. Only a multiplier can be modified in order adjust the rewards rate for certain pools. All info will be clearly stated on the user interface.
 
-### Platform users distribution
+A total of 37300 BALLE tokens will be distributed among Yield Optimizer App and Governance App users accordingly.
+
+
+
+### Platform users distribution \(Yield Optimizer App & Governance App\)
 
 This distribution will go over the first year and consists of 24000 BALLE tokens distributed among all users actively participating in our products. Using the BalleVaults, i.e. CAKE-BNB Vault, and using BALLE token governance staking pool allows users receive BALLE tokens as a reward.
 
 Every 3 seconds a BSC block is released. At the same time, a fixed BALLE amount is released per block, which is divided by the number of active vaults on the platform. Users will receive a proportional amount of BALLE token regarding their pool share amount times the multiplier stated on each one of them. This multiplier serves the Dev. Team as an adjustable trimmer for the proper development of the project, thus some of the vaults or pools will reward the user with a greater amount of BALLE tokens.
 
-### BALLE holders distribution
+
+
+### BALLE holders distribution \(Governance App\)
 
 Apart from receiving the user´s proportional amount of those 24000 BALLE tokens as platform users, BALLE holders actively participating in the BALLE staking pool, or governance pool, will be rewarded with an extra 13300 BALLE token distribution.
 
 This extra reward will be distributed as a multiplier to the standard fee allocation among platform users \(regarding the 24000 token distribution\). The extra reward multiplier will clearly appear as a x10, x100 or x200 multiplier in the BALLE staking pool, meaning the user will receive the fees proportional amount of BALLE regarding his pool share multiplied by this value.
+
+
 
 ## Smart contracts
 
