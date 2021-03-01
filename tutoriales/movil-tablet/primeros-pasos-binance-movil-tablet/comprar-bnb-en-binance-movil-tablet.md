@@ -42,8 +42,6 @@ Una vez seleccionada la criptomoneda que deseamos comprar, nos aparece el númer
 
 
 
-
-
 ### 5. Pulsa “Continuar”.
 
 Te aparece una pantalla con el detalle exacto de la operación.
