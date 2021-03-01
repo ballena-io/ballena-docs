@@ -4,10 +4,13 @@
 
 ### Ramas de actuación
 
-1. Gobernanza y staking
-2. BalleVaults \(Bóvedas\)
+1. Gobernanza y staking.
+2. SimpleFarming.
+3. BalleVaults \(Bóvedas\).
 
-### Gobernanza y staking
+
+
+## Gobernanza y staking
 
 El token de Gobernanza de [ballena.io](https://ballena.io/) es el BALLE. La posesión del mismo nos permite votar y hacer staking del mismo para obtener un % de las fees generadas en las transacciones. Además la plataforma permite hacer staking de más criptomonedas para alimentar así los proyectos de la red BSC.
 
@@ -15,7 +18,15 @@ Aquí podemos proveer liquidez al staking del token BALLE. Es una forma de inver
 
 Para más información, acceda a [Gobernanza](gobernanza.md) y a [BALLE Staking Pools](productos/balle-staking-pool.md).
 
-### BalleVaults \(Bóvedas\)
+
+
+## SimpleFarming
+
+Una de nuestras metas a corto plazo, el Equipo [ballena.io](https://ballena.io/) está desarrollando una herramienta, una estrategia, llamada SimpleFarming. Esta añade un nivel de optimización más a la cadena, una completa automatización del flujo de nuestras cripto encontrando los mejores rendimientos en la red BSC. Aloca tus monedas al SimpleFarming y [ballena.io](https://ballena.io/) se encargará de maximizar beneficios a través de las oportunidades más rentables en la red. Más información en breve.
+
+
+
+## BalleVaults \(Bóvedas\)
 
 Esto es: Proveer liquidez a una LP de un par de alta rentabilidad.
 
@@ -24,6 +35,8 @@ Esto es: Proveer liquidez a una LP de un par de alta rentabilidad.
 Es una forma de inversión en la que se añaden a partes iguales dos assets. El retorno, por lo tanto, será de estos dos assets también a partes iguales. El LP lo que hará será aumentar los tokens que tenemos asignados al par seleccionado. Por ejemplo, podríamos añadir liquidez al par CAKE/BNB. Lo que haremos en este caso será cambiar la mitad de nuestros BNB por CAKE y añadiremos ambos a una LP. Después añadiremos estos tokens de la LP a una BalleVault para obtener retornos mayores al aplicar estrategias optimizadas y reinvertir todas las ganancias diarias.
 
 Para más información, acceda a [BalleVaults](productos/ballevaults-de-pancake-swap.md).
+
+
 
 ## ¿Porqué [ballena.io](https://ballena.io/)?
 
