@@ -1,4 +1,4 @@
-# Móvil/Tablet
+# Smartphone/Tablet
 
 Te has decido por dispositivos móviles. La ventaja es que podrás tener acceso en prácticamente cualquier lugar y a cualquier hora. Los pasos son muy parecidos para los distintos dispositivos pero en [ballena.io](https://ballena.io/) hemos querido separarlos para que cuentes con la ayuda más personalizada para cada uno de ellos.
 
@@ -21,7 +21,7 @@ Recuerda el esquema visto anteriormente y no te perderás. [ballena.io](https://
 
 Para comenzar haz click en el siguiente enlace:
 
-{% page-ref page="primeros-pasos-binance-movil-tablet/" %}
+{% page-ref page="primeros-pasos-binance-smartphone-tablet/" %}
 
 
 

@@ -1,4 +1,4 @@
-# Como usar Dapps en TrustWallet - Móvil/Tablet
+# Como usar Dapps en TrustWallet - Smartphone/Tablet
 
 ## Cómo usar las Dapps de Binance Smart Chain
 
@@ -18,7 +18,7 @@ Una vez que hayas recargado la billetera, abre el navegador Dapp presionando los
 
 ### 3. Navega hacia una Dapp de Binance Smart Chain como Pancake Swap y selecciona la aplicación.
 
-Una de las Dapp utilizadas para agregar toquens LP a nuestras bóvedas es PancakeSwap, para más información puedes ir al [apartado correspondiente](como-participar-en-una-ballevault-movil-tablet/anadir-liquidez-a-una-lp-movil-tablet.md).
+Una de las Dapp utilizadas para agregar toquens LP a nuestras bóvedas es PancakeSwap, para más información puedes ir al [apartado correspondiente](como-participar-en-una-ballevault-smartphone-tablet/anadir-liquidez-a-una-lp-smartphone-tablet.md).
 
 
 

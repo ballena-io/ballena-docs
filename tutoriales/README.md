@@ -12,5 +12,5 @@ Una vez entendido el esquema a grandes rasgos empezamos con los tutoriales uno a
 
 {% page-ref page="pc/" %}
 
-{% page-ref page="movil-tablet/" %}
+{% page-ref page="smartphone-tablet/" %}
 

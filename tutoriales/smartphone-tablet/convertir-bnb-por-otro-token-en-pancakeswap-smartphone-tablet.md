@@ -1,4 +1,4 @@
-# Convertir BNB por otro Token en PancakeSwap - Móvil/Tablet
+# Convertir BNB por otro Token en PancakeSwap - Smartphone/Tablet
 
 ## Convertir BNB por otro Token en PancakeSwap - Móvil/Tablet
 

@@ -1,4 +1,4 @@
-# Añadir liquidez a una LP - Móvil/Tablet
+# Añadir liquidez a una LP - Smartphone/Tablet
 
 ## Cómo añadir liquidez en Pancakeswap con Trust Wallet
 

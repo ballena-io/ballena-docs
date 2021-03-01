@@ -1,4 +1,4 @@
-# Configurar Wallet: Trust Wallet - Móvil/Tablet
+# Configurar Wallet: Trust Wallet - Smartphone/Tablet
 
 Para poder empezar a utilizar Trust Wallet en Binance Smart Chain se deben seguir los siguientes pasos.
 
