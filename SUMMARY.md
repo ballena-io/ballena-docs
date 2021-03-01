@@ -22,7 +22,6 @@
   * [Móvil/Tablet](tutoriales/movil-tablet/README.md)
     * [Primeros pasos: Binance - Móvil/Tablet](tutoriales/movil-tablet/primeros-pasos-binance-movil-tablet/README.md)
       * [Abrir y configurar una cuenta en Binance - Móvil/Tablet](tutoriales/movil-tablet/primeros-pasos-binance-movil-tablet/abrir-y-configurar-una-cuenta-en-binance-movil-tablet.md)
-      * [Depositar fondos en Binance - Móvil/Tablet](tutoriales/movil-tablet/primeros-pasos-binance-movil-tablet/depositar-fondos-en-binance-movil-tablet.md)
       * [Comprar BNB en Binance - Móvil/Tablet](tutoriales/movil-tablet/primeros-pasos-binance-movil-tablet/comprar-bnb-en-binance-movil-tablet.md)
     * [Configurar Wallet: Trust Wallet - Móvil/Tablet](tutoriales/movil-tablet/configurar-wallet-trust-wallet-movil-tablet.md)
     * [Cómo enviar fondos de Binance a TrustWallet - Móvil/Tablet](tutoriales/movil-tablet/como-enviar-fondos-de-binance-a-trustwallet-movil-tablet.md)
