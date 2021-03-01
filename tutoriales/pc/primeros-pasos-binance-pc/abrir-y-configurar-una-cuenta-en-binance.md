@@ -14,7 +14,7 @@ Para darte de alta en [Binance](https://www.binance.com/es) lo primero que tiene
 
 
 
-![](../../../.gitbook/assets/1%20%282%29.png)
+![](../../../.gitbook/assets/binance_1.png)
 
 ### 
 
@@ -24,7 +24,7 @@ Rellenamos los campos utilizando nuestro correo electrónico y una contraseña s
 
 
 
-![](../../../.gitbook/assets/2%20%281%29.png)
+![](../../../.gitbook/assets/binance_2%20%282%29.png)
 
 ### 
 
@@ -34,7 +34,7 @@ A continuación, pulsamos el botón “Crear cuenta” y completamos la verifica
 
 
 
-![](../../../.gitbook/assets/3%20%281%29.png)
+![](../../../.gitbook/assets/binance_4%20%281%29.png)
 
 ### 
 
@@ -44,7 +44,7 @@ Una vez hecho se nos pedirá en la página que introduzcamos un código de verif
 
 
 
-![](../../../.gitbook/assets/4%20%282%29.png)
+![](../../../.gitbook/assets/binance_5.png)
 
 
 
@@ -52,7 +52,7 @@ Nos habrá llegado un correo electrónico de este estilo.
 
 
 
-![](../../../.gitbook/assets/5%20%281%29%20%281%29%20%281%29.png)
+![](../../../.gitbook/assets/binance_6%20%281%29.png)
 
 ### 
 
@@ -66,7 +66,7 @@ Utiliza el código de seis dígitos enviado a tu correo para completar la verifi
 
 
 
-![](../../../.gitbook/assets/6%20%282%29%20%281%29%20%281%29.png)
+![](../../../.gitbook/assets/binance_7.png)
 
 
 

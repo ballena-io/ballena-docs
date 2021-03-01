@@ -50,7 +50,7 @@ Rellenamos los campos utilizando nuestro número de teléfono móvil o nuestro c
 
 
 
-![](../../../.gitbook/assets/binance_2.png)
+![](../../../.gitbook/assets/binance_2%20%281%29.png)
 
 
 
@@ -70,7 +70,7 @@ Una vez hecho se nos pedirá que introduzcamos un código de verificación que s
 
 
 
-![](../../../.gitbook/assets/binance_5.png)
+![](../../../.gitbook/assets/binance_5%20%281%29.png)
 
 
 
