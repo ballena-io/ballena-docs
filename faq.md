@@ -8,6 +8,8 @@ description: TODO
 
 ### 1. Token BALLE
 
+
+
 BALLE token is Ballena.io´s native token. Ballena.io is a yield optimizing automated platform based on the BSC and BALLE serves as the governance token, allowing holders to vote and get revenue from staking it.
 
 
