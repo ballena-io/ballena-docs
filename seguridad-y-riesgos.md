@@ -2,13 +2,19 @@
 
 En el mundo de las criptomonedas, especialmente en el espacio de las Finanzas Descentralizadas \(DeFi\), los usuarios tienen que entender los riesgos asociados a los proyectos y los contratos inteligentes \(Smart contracts\) antes de aventurarse en el mismo. Nosotros le llamamos "DYOR" \(Do Your Own Research\), o lo que es lo mismo, estudia el caso por tu cuenta antes de entrar.
 
+
+
 ### Riesgos Generales de las DeFi
 
 Las DeFi cuentan con un amplio abanico de riesgos desde el [impermanent loss](https://www.bsc.news/post/cryptonomics-what-is-impermanent-loss) hasta riesgos de scam como el vaciado de la cartera, robo de las contraseñas, etc. Por lo tanto, los usuarios DeFi tienen que cuidar sus movimientos y aprender sobre seguridad en la medida de lo posible para maximizar la misma. Puedes encontrar una guía de como mantener la seguridad de tus fondos [aquí](https://letmeape.medium.com/how-to-keep-your-funds-safe-metamask-guide-816773968310).
 
+
+
 ### Riesgos de Terceros
 
 [ballena.io](https://ballena.io/) actúa como un proveedor de vaults con estrategia de auto-reinversión para maximizar los resultados. El Equipo de Desarrollo se encarga de verificar la seguridad de estas vaults de las Apps correspondientes antes de su publicación. Sin embargo, [ballena.io](https://ballena.io/) no es responsable ni trabaja conjuntamente con estas Vaults ni estas Apps.
+
+
 
 ## Contratos Inteligentes \(Smart Contracts\)
 
