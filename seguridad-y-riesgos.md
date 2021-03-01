@@ -28,6 +28,26 @@ Auditorías en curso actualmente. Se publicarán aquí.
 
 Los contratos \(código\) actualmente activos han sido verificados y publicados en [Tokenomics](tokenomics.md) y en [BSCScan](https://github.com/ballena-io/ballena-docs/tree/edb9b44ab86eb32086df590f127987db2128ee8a/link/README.md).
 
+El suministro total ha sido producido y depositado en los siguientes contratos inteligentes para su distribución:
+
+* Recompensa usuarios de la plataforma. 24000 BALLE en Smart Contracts: 0x2305423942390582058092
+* Recompensa usuarios poseedores de BALLE. 13300 BALLE en Smart Contracts: 0x2305423942390582058092
+* Fondos Equipo de Desarrollo. 2700 BALLE en Smart Contracts:
+
+
+
+  * 0x2305423942390582058092
+  * 0x2305423942390582058092
+  * 0x2305423942390582058092
+  * 0x2305423942390582058092
+  * 0x2305423942390582058092
+  * 0x2305423942390582058092
+  * 0x2305423942390582058092
+
+
+
+Transacciones: 0x2305423942390582058092 and 0x2305423942390582058092.
+
 
 
 
