@@ -18,31 +18,27 @@ For more information go to [Governance](governance.md) and [BALLE Staking Pools]
 
 ## SimpleFarming
 
-One of our short term goals. The [ballena.io](https://ballena.io/) dev. Team is working hard on the development of a new tool, a new strategy called SimpleFarming. Adding an extra layer of optimization, this ads a complete atuomation layer for our crypto flow finding the best yield farming for the BSC. 
-
-Una de nuestras metas a corto plazo, el Equipo [ballena.io](https://ballena.io/) está desarrollando una herramienta, una estrategia, llamada SimpleFarming. Esta añade un nivel de optimización más a la cadena, una completa automatización del flujo de nuestras cripto encontrando los mejores rendimientos en la red BSC. tus monedas al SimpleFarming y [ballena.io](https://ballena.io/) se encargará de maximizar beneficios a través de las oportunidades más rentables en la red. Más información en breve.
+One of our short term goals. The [ballena.io](https://ballena.io/) dev. Team is working hard on the development of a new tool, a new strategy called SimpleFarming. Adding an extra layer of optimization, this ads a complete atuomation layer for our crypto flow finding the best yield farming for the BSC. Allocate your crypto to SimpleFarming and [ballena.io](https://ballena.io/)  will maximize your returns through the most profitable oportunities in this network. More info coming soon.
 
 
 
-## BalleVaults \(Bóvedas\)
+## BalleVaults
 
-Ballena.io offers a wide variety of vaults and each one of them is backed by a top end strategy that seeks the maximum revenue. Add liquidity the vaults and the Ballena will take care of allocating the most suitable strategies for you.
+[ballena.io](https://ballena.io/)  offers a wide variety of vaults and each one of them is backed by a top end strategy that seeks the maximum revenue. Add liquidity the vaults and the [ballena.io](https://ballena.io/) will take care of allocating the most suitable strategies for you.
 
-Esto es: Proveer liquidez a una LP de un par de alta rentabilidad.
+This kind of investment requires the addition of two diferent assets at the exact same rate. Thus, the revenue will come in the form of this two assets too, the liquidity pool will grow your LP tokens. For example, we could add liquidity to the CAKE/BNB pair. We would trade half our BNB tokens for CAKE and add them to a LP. Afterwards, we would add these LP tokens to a BalleVault in order to obtain the greatest returns after aplying optimized strategies as well as reinvesting everyday´s revenue.
 
-[ballena.io](https://ballena.io/) cuenta con un gran número de vaults, o bóvedas, y cada una cuenta con su estrategia para dar un alto rendimiento. Añade liquidez a las vaults y [ballena.io](https://ballena.io/) se encarga de implementar las estrategias más rentables para las mismas.
-
-Es una forma de inversión en la que se añaden a partes iguales dos assets. El retorno, por lo tanto, será de estos dos assets también a partes iguales. El LP lo que hará será aumentar los tokens que tenemos asignados al par seleccionado. Por ejemplo, podríamos añadir liquidez al par CAKE/BNB. Lo que haremos en este caso será cambiar la mitad de nuestros BNB por CAKE y añadiremos ambos a una LP. Después añadiremos estos tokens de la LP a una BalleVault para obtener retornos mayores al aplicar estrategias optimizadas y reinvertir todas las ganancias diarias.
-
-Para más información, acceda a [BalleVaults](products/ballevaults-pancake-swap.md).
+For more info go to [BalleVaults](products/ballevaults-pancake-swap.md).
 
 
 
 ## Why [ballena.io](https://ballena.io/)?
 
-Digamos que es un paso más allá de lo tan rentable ahora mismo en el mercado, se trata de la optimización de aportar liquidez a un exchange y plataforma de pools como PancakeSwap, ya que [ballena.io](https://ballena.io/) se encarga de buscar la mayor rentabilidad y de reinvertir los retornos automáticamente haciendo exponenciales tus ganancias.
+Lets say [ballena.io](https://ballena.io/)  is a step forward in nowadays most profitable market, it aims the optimization of adding liquidity to a LP platform such asPancakeSwap, as [ballena.io](https://ballena.io/) finds the highest profit and automatically reinvests your revenue converting it in an exponential grotwh.
 
-Además, debido a la ventaja y rentabilidad que esto supone frente a otras plataformas, la posesión del token BALLE te aportará amplias ganancias por su revalorización en el mercado. Además de las comisiones que ganas por el hecho de poseerlo.
+Moreover, holding BALLE will reward users with more profits as the improving utility of the platform will rise its price, as well as the rewards originated from a percentage of the total platform revenue.
 
-Y como no, la comunidad! [ballena.io](https://ballena.io/) cuenta con una comunidad muy amplia y en constante crecimiento. En caso de tener cualquier pregunta, contacta con nuestro equipo a través de cualquiera de nuestros canales, nuestra comunidad [ballena.io](https://ballena.io/) está siempre en disposición de ayudarte.
+And finally, the community! [ballena.io](https://ballena.io/) offers a great and in constant growth community, you should head there with any doubt as we will be pleased to help you. Contact us in the links [here](./#community).
+
+
 
