@@ -12,77 +12,89 @@ Además, los usuarios de las BalleVaults recibirán una recompensa de tokens BAL
 
 
 
-## CAKE SMART <a id="cake-smart"></a>
+## BalleVaults Simples <a id="cake-smart"></a>
+
+#### CAKE SMART
 
 Cultiva rendimiento con CAKE y recibe CAKE tokens, [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
 
-## CAKE-BNB LP <a id="cake-bnb-lp"></a>
+
+
+## BalleVaults Duales
+
+La estrategia realiza farming dos tokens LP \(Liquidity pool\), por ejemplo CAKE-BNB LP tokens. Esto se consigue mediante la obtención de tokens CAKE y posterior venta por los LP tokens correspondientes a la hora de su retirada.
+
+A continuación se redacta la lista de las bóvedas activas:
+
+
+
+#### CAKE-BNB LP
 
 La estrategia realiza farming con tokens CAKE-BNB LP \(Liquidity pool\).
 
 Esto se consigue mediante la obtención de tokens CAKE y posterior venta por los LP tokens correspondientes a la hora de su retirada.
 
-## SWINGBY-BNB LP <a id="swingby-bnb-lp"></a>
+#### SWINGBY-BNB LP
 
 La estrategia realiza farming con tokens SWINGBY-BNB LP.
 
 Esto se consigue mediante la obtención de tokens CAKE y posterior venta por los LP tokens correspondientes a la hora de su retirada.
 
-## BRY-BNB LP <a id="bry-bnb-lp"></a>
+#### BRY-BNB LP
 
 La estrategia realiza farming con tokens BRY-BNB LP.
 
 Esto se consigue mediante la obtención de tokens CAKE y posterior venta por los LP tokens correspondientes a la hora de su retirada.
 
-## ZEE-BNB LP <a id="zee-bnb-lp"></a>
+#### ZEE-BNB LP
 
 La estrategia realiza farming con tokens ZEE-BNB LP.
 
 Esto se consigue mediante la obtención de tokens CAKE y posterior venta por los LP tokens correspondientes a la hora de su retirada.
 
-## SWGB-BNB LP <a id="swgb-bnb-lp"></a>
+#### SWGB-BNB LP
 
 La estrategia realiza farming con tokens SWGB-BNB LP.
 
 Esto se consigue mediante la obtención de tokens CAKE y posterior venta por los LP tokens correspondientes a la hora de su retirada.
 
-## COMP-ETH LP <a id="comp-eth-lp"></a>
+#### COMP-ETH LP
 
 La estrategia realiza farming con tokens COMP-ETH LP.
 
 Esto se consigue mediante la obtención de tokens CAKE y posterior venta por los LP tokens correspondientes a la hora de su retirada.
 
-## SFP-BNB LP <a id="sfp-bnb-lp"></a>
+#### SFP-BNB LP
 
 TLa estrategia realiza farming con tokens SFP-BNB LP.
 
 Esto se consigue mediante la obtención de tokens CAKE y posterior venta por los LP tokens correspondientes a la hora de su retirada.
 
-## BETH-ETH LP <a id="BETH-ETH-lp"></a>
+#### BETH-ETH LP
 
 La estrategia realiza farming con tokens BETH-ETH LP.
 
 Esto se consigue mediante la obtención de tokens CAKE y posterior venta por los LP tokens correspondientes a la hora de su retirada.
 
-## LINA-BUSD LP <a id="LINA-BUSD-lp"></a>
+#### LINA-BUSD LP
 
 La estrategia realiza farming con tokens LINA-BUSD LP.
 
 Esto se consigue mediante la obtención de tokens CAKE y posterior venta por los LP tokens correspondientes a la hora de su retirada.
 
-## LIT-BNB LP <a id="LIT-BNB-lp"></a>
+#### LIT-BNB LP
 
 La estrategia realiza farming con tokens LIT-BNB LP.
 
 Esto se consigue mediante la obtención de tokens CAKE y posterior venta por los LP tokens correspondientes a la hora de su retirada.
 
-## HGET-BNB LP <a id="HGET-BNB-lp"></a>
+#### HGET-BNB LP
 
 La estrategia realiza farming con tokens HGET-BNB LP.
 
 Esto se consigue mediante la obtención de tokens CAKE y posterior venta por los LP tokens correspondientes a la hora de su retirada.
 
-## BDO-BNB LP <a id="BDO-BNB-lp"></a>
+#### BDO-BNB LP
 
 La estrategia realiza farming con tokens BDO-BNB LP.
 
