@@ -34,7 +34,7 @@ For more info go to [BalleVaults](products/ballevaults-pancake-swap.md).
 
 Lets say [ballena.io](https://ballena.io/) is a step forward in nowadays most profitable market, it aims the optimization of adding liquidity to a LP platform such asPancakeSwap, as [ballena.io](https://ballena.io/) finds the highest profit and automatically reinvests your revenue converting it in an exponential growth.
 
-Moreover, holding BALLE will reward users with more profits as the improving utility of the platform will raise its price, as well as the rewards originated from a percentage of the total platform revenue.
+Moreover, holding BALLE will reward users with more profits as the improving utility of the platform will rise its price, as well as the rewards originated from a percentage of the total platform revenue.
 
 And finally, the community! [ballena.io](https://ballena.io/) offers a great and in constant growth community, you should head there with any doubt as we will be pleased to help you. Contact us in the links [here](./#community).
 
