@@ -16,7 +16,7 @@ Además, los usuarios de las BalleVaults recibirán una recompensa de tokens BAL
 
 ## BalleVaults Simples <a id="cake-smart"></a>
 
-La estrategia realiza farming con un solo token. A continuación se listan de las bóvedas activas:
+La estrategia realiza farming con un solo token. A continuación se listan las bóvedas activas:
 
 #### CAKE SMART
 
@@ -36,7 +36,7 @@ La estrategia realiza farming con tokens CAKE-BNB LP \(Liquidity pool\). Esto se
 
 
 
-A continuación se listan de las bóvedas activas:
+A continuación se listan las bóvedas activas:
 
 #### CAKE-BNB LP
 
