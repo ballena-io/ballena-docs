@@ -12,7 +12,7 @@ Ve a tu billetera Smart Chain y presiona recibir para encontrar tu dirección �
 
 ![](https://user-images.githubusercontent.com/79335891/108876360-6d403700-75fe-11eb-939b-80df41248836.png)
 
-### 
+
 
 ### 2. Depositar activos desde Binance.
 
@@ -20,11 +20,81 @@ Para depositar activos BEP20 en tu billetera. La manera más fácil es hacerlo d
 
 
 
-![](https://user-images.githubusercontent.com/79335891/108876361-6dd8cd80-75fe-11eb-8f5d-f54513188d54.png)
+### 3. Abrir la aplicación Binance.
 
-### 
 
-### 3. Buen trabajo! Has terminado de configurar tu Trust Wallet y de enviar tus criptomonedas. Ya puedes usar Binance Smart Chain.
+
+![](../../.gitbook/assets/screenshot_20210224-221417%20%281%29.jpg)
+
+
+
+### 4. Accede a la billetera.
+
+Accede a la Billetera pulsando el icono “Billetera” en la parte inferior de la pantalla.
+
+
+
+![](../../.gitbook/assets/screenshot_20210224-221906%20%285%29.jpg)
+
+
+
+### 5. Selecciona Spot.
+
+Aparece la pantalla con el resumen de tu Billetera Spot.
+
+
+
+![](../../.gitbook/assets/screenshot_20210228-173736.jpg)
+
+
+
+### 6. Selecciona el Token “BNB”.
+
+Se mostrará el detalle de token BNB.
+
+
+
+![](../../.gitbook/assets/screenshot_20210228-173743.jpg)
+
+
+
+### 7. Selecciona "Retirar".
+
+Selecciona “Retirar” pulsando el botón amarillo en la parte inferior.
+
+
+
+![](../../.gitbook/assets/screenshot_20210228-173757.jpg)
+
+
+
+### 8. Pegar la dirección copiada de Trust Wallet en la dirección a la que enviar los BNB.
+
+Ver paso 1.
+
+
+
+### 9. Seleccionar la red “Binance Smart Chain \(BNB\)” BEP20 \(BSC\).
+
+
+
+### 10. Introducir el número de BNB a enviar a la billetera y pulsar “Retirar”.
+
+
+
+
+
+![](../../.gitbook/assets/screenshot_20210228-173805.jpg)
+
+
+
+Una vez enviada aparecerá una pantalla de verificación. Después, pasado unos minutos te llegará un correo de Binance confirmando el retiro. 
+
+A continuación, te llegará una notificación de Trust Wallet indicando que se han recibido los BNB enviados.
+
+
+
+### 4. Buen trabajo! Has terminado de enviar tus criptomonedas. Ya puedes usar tus BNB en TrustWallet.
 
 Una vez que recibas un token BEP20, para ver tu ID de transacción puedes hacer clic en la transacción, presionar el botón de compartir en la esquina superior derecha y luego copiar el ID de transacción.
 
