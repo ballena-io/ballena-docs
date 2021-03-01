@@ -1,7 +1,3 @@
----
-description: CAMBIAR SEÑALIZACIÓN Y CALIDAD DE LAS FOTOS
----
-
 # Cómo enviar fondos de Binance a Metamask - PC
 
 ## Cómo enviar fondos de Binance a Metamask
@@ -16,9 +12,7 @@ description: CAMBIAR SEÑALIZACIÓN Y CALIDAD DE LAS FOTOS
 
 
 
-![](../../.gitbook/assets/21.png)
-
-#### 
+![](../../.gitbook/assets/binance_enviarbnb1.png)
 
 ### 
 
@@ -26,7 +20,7 @@ description: CAMBIAR SEÑALIZACIÓN Y CALIDAD DE LAS FOTOS
 
 ​​
 
-![](../../.gitbook/assets/23.png)
+![](../../.gitbook/assets/binance_enviarbnb2.png)
 
 ​
 
@@ -46,7 +40,9 @@ No tengas prisa, en un par de minutos tus BNB aparecerán en tu Wallet de Metama
 
 ​​
 
-![](../../.gitbook/assets/9-2-.png)
+![](../../.gitbook/assets/binance_enviarbnb3.png)
+
+
 
 
 
