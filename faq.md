@@ -10,9 +10,13 @@ description: TODO
 
 BALLE token is Ballena.io´s native token. Ballena.io is a yield optimizing automated platform based on the BSC and BALLE serves as the governance token, allowing holders to vote and get revenue from staking it.
 
+
+
 ### 2. ¿Dónde está listada?
 
 BALLE token is listed on \[Coinmarketcap\] \(link\), \[Coingecko\] \(link\), \(add others\). You can get BALLE at \(link\).
+
+
 
 ### 3. ¿Qué ofrece la plataforma [Ballena.io](https://ballena.io/)?
 
