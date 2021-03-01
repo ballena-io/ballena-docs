@@ -4,6 +4,8 @@ Para participar en una BalleVault, primero tendrás que añadir liquidez a una L
 
 Haz click en los siguientes links, en orden, para seguir con el tutorial correspondiente. 
 
+
+
 {% page-ref page="anadir-liquidez-a-una-lp.md" %}
 
 {% page-ref page="agregar-los-tokens-de-lp-a-ballevault-pc.md" %}

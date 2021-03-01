@@ -8,6 +8,8 @@
 
 ### 1. Abrir nuestra página de [Binance](https://www.binance.com/es) e ingresar con nuestra cuenta. Una vez ahí entramos en Billetera-Spot.
 
+### 
+
 ### ​2. Selecciona “Retirar” en la línea del Token BNB.
 
 

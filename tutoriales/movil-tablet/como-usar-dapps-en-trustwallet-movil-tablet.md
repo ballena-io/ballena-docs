@@ -28,7 +28,11 @@ Una de las Dapp utilizadas para agregar toquens LP a nuestras bóvedas es Pancak
 
 ### 3. ¡Listo! Utiliza la Dapp y diviértete!!
 
+
+
 ## Cómo usar la Dapps de Ballena.io en Binance Smart Chain
+
+
 
 ### 1. Para poder acceder a esta funcionalidad en Trust Wallet, los usuarios de iOS necesitan el navegador Dapp.
 

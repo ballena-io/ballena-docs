@@ -6,14 +6,20 @@ Para poder empezar a utilizar Trust Wallet en Binance Smart Chain se deben segui
 
 Puedes descargar la billetera de Trust Wallet desde el siguiente [link](https://share.trustwallet.com/kuBobNL1Mab) . Siempre se recomienda actualizar la aplicación a la última versión. Realiza la configuración básica de la billetera. Recuerda que debes guardar tus palabras de recuperación. Los pasos para crear su primera billetera Trust Wallet son muy simples:
 
+
+
 ### 1. Descarga Trust Wallet solo de fuentes oficiales.
 
 * [App Store](https://apps.apple.com/app/trust-ethereum-wallet/id1288339409)
 * [Google Play](https://play.google.com/store/apps/details?id=com.wallet.crypto.trustapp)
 
+### 
+
 ### 2. Inicia Trust Wallet
 
 Tras el primer inicio de la aplicación, se le presentará la siguiente pantalla donde puede seleccionar entre “Crear una nueva billetera” o “Importar” una existente. Para esta guía, seleccionaremos “Crear una nueva billetera”.
+
+
 
 ![](https://user-images.githubusercontent.com/79335891/108876340-6adddd00-75fe-11eb-8726-9d7b82e7ef48.png)
 
@@ -62,4 +68,8 @@ Después de pasar por el proceso de respaldo y verificación se redirigirá a la
 ![](https://user-images.githubusercontent.com/79335891/108876357-6d403700-75fe-11eb-9ba2-30c231cd9be2.png)
 
 ![](https://user-images.githubusercontent.com/79335891/108876359-6d403700-75fe-11eb-80f2-45b1dba7bf70.png)
+
+
+
+
 
