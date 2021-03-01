@@ -34,6 +34,7 @@
       * [Agregar los tokens de LP a BalleVault- Móvil/Tablet](tutoriales/movil-tablet/como-participar-en-una-ballevault-movil-tablet/agregar-los-tokens-de-lp-a-ballevault-movil-tablet.md)
     * [Recoger beneficios - Móvil/Tablet](tutoriales/movil-tablet/recoger-beneficios-movil-tablet.md)
 * [Productos](productos/README.md)
+  * [SimpleFarming](productos/simplefarming.md)
   * [BALLE Staking Pool](productos/balle-staking-pool.md)
   * [BalleVaults de Pancake Swap](productos/ballevaults-de-pancake-swap.md)
 * [Tokenomics](tokenomics.md)
