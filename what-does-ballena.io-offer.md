@@ -18,7 +18,9 @@ For more information go to [Governance](governance.md) and [BALLE Staking Pools]
 
 ## SimpleFarming
 
-Una de nuestras metas a corto plazo, el Equipo [ballena.io](https://ballena.io/) está desarrollando una herramienta, una estrategia, llamada SimpleFarming. Esta añade un nivel de optimización más a la cadena, una completa automatización del flujo de nuestras cripto encontrando los mejores rendimientos en la red BSC. Aloca tus monedas al SimpleFarming y [ballena.io](https://ballena.io/) se encargará de maximizar beneficios a través de las oportunidades más rentables en la red. Más información en breve.
+One of our short term goals. The [ballena.io](https://ballena.io/) dev. Team is working hard on the development of a new tool, a new strategy called SimpleFarming. Adding an extra layer of optimization, this ads a complete atuomation layer for our crypto flow finding the best yield farming for the BSC. 
+
+Una de nuestras metas a corto plazo, el Equipo [ballena.io](https://ballena.io/) está desarrollando una herramienta, una estrategia, llamada SimpleFarming. Esta añade un nivel de optimización más a la cadena, una completa automatización del flujo de nuestras cripto encontrando los mejores rendimientos en la red BSC. tus monedas al SimpleFarming y [ballena.io](https://ballena.io/) se encargará de maximizar beneficios a través de las oportunidades más rentables en la red. Más información en breve.
 
 
 
