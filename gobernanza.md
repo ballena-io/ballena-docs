@@ -4,7 +4,7 @@ description: TODO add new info
 
 # Gobernanza
 
-¡Poseedores de Balle! Debido a vuestra participación en el proyecto, gobernais y poseeis parte del mismo, y por lo tanto, sois merecedores de recibir parte de los beneficios de lo que habéis construido. Recibiréis beneficio, por cada token BALLE que poseéis, generado por el rendimiento de la plataforma. También os corresponde el voto por cualquier cambio e idea de la plataforma BALLE.
+¡Poseedores de BALLE! Debido a vuestra participación en el proyecto, gobernais y poseeis parte del mismo, y por lo tanto, sois merecedores de recibir parte de los beneficios de lo que habéis construido. Recibiréis beneficio, por cada token BALLE que poseéis, generado por el rendimiento de la plataforma. También os corresponde el voto por cualquier cambio e idea de la plataforma BALLE.
 
 Los usuarios que poseen tokens BALLE y que participan activamente en la App de Gobernanza \(BALLEReward Pool o BALLE Staking Pool\), recibirán el 3% de los beneficios obtenidos por los usuarios en la Yield Optimizer App. 
 
