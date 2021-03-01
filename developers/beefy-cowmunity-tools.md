@@ -1,4 +1,4 @@
-# Ballena.io Cowmunity Tools
+# Ballena.io Community Tools
 
 Tools to help the Binance Smart Chain Community
 
