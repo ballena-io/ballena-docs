@@ -18,6 +18,8 @@ El recibir tokens, y además contar con una recompensa extra, por el mero hecho 
 
 Además la plataforma permite hacer staking de más criptomonedas para alimentar así los proyectos de la red BSC.
 
+
+
 ## BalleVaults \(Bóvedas\)
 
 #### Resumen: Genera beneficios en el par aportado \(BALLE-BNB, por ejemplo\) y obtener recompensa de tokens BALLE.
@@ -33,4 +35,8 @@ Es una forma de inversión en la que se añaden a partes iguales dos assets. El 
 Además, estos usuarios recibirán tokens BALLE cada 3 segundos. Se reparten 24000 tokens BALLE a lo largo de un año para estos usuarios que reciben una parte proporcional a la cantidad aportada en las vaults. Los token BALLE recibidos se pueden recoger en cualquier momento y reinvertirlos en la App de Gobernanza o la staking pool BALLE para aumentar su cantidad de forma pasiva.
 
 Digamos que es la optimización de aportar liquidez a PancakeSwap, un nivel más allá, ya que Ballena se encarga de buscar la mayor rentabilidad y de reinvertir los retornos automáticamente haciendo exponenciales tus ganancias.
+
+
+
+
 
