@@ -18,7 +18,7 @@ Esta recompensa extra será distribuida como un multiplicador sobre el retorno g
 
 El beneficio generado del staking del token BALLE en la [Pool de Gobernanza](https://github.com/ballena-io/ballena-docs/tree/7598f81eedce3b787518f11966a2ced4c11c047e/link/README.md) se reciben como BALLE tokens proporcionalmente al número de tokens aportados a la misma. Estos beneficios pueden ser retirados en cualquier momento sin ninguna penalización. ​
 
-\*\*image of governance tokens page
+
 
 
 
