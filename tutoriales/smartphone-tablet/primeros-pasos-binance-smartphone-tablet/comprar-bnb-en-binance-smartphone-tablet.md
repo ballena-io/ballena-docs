@@ -1,6 +1,6 @@
 # Comprar BNB en Binance - Smartphone/Tablet
 
-## Cómo comprar BNB en Binance a través de Móvil/Tablet \(Tarjeta de Crédito\)
+## Cómo comprar BNB en Binance a través de Smartphone/Tablet \(Tarjeta de Crédito\)
 
 Para comprar cripto con tarjeta de crédito en la app de Binance para el Smartphone haremos lo siguiente.
 

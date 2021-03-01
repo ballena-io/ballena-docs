@@ -1,6 +1,6 @@
 # Convertir BNB por otro Token en PancakeSwap - Smartphone/Tablet
 
-## Convertir BNB por otro Token en PancakeSwap - Móvil/Tablet
+## Convertir BNB por otro Token en PancakeSwap - Smartphone/Tablet
 
 En muchas ocasiones querrás trabajar con tokens que no tengas directamente en tu billetera, para eso es necesario acceder a un Exchange como “Pancakeswap” donde podremos hacer cambios de multitud de tokens dentro de la Binance Smart Chain. Para llevar a cabo este pequeño tutorial tenemos que tener claro si queremos invertir en una LP \(Liquidity Pool\) o si queremos hacer staking con el token BALLE, ya que cambiará por lo tanto el token al que queremos convertir nuestros BNB. Lo vemos en los siguientes pasos.
 
