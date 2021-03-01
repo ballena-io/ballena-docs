@@ -1,4 +1,4 @@
-# Pancake Swap
+# BalleVaults - Pancake Swap
 
 ## Active Vaults <a id="active-vaults"></a>
 
