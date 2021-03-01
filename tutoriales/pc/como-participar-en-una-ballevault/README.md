@@ -1,7 +1,3 @@
----
-description: TODO
----
-
 # Cómo participar en una BalleVault - PC
 
 Para participar en una BalleVault, primero tendrás que añadir liquidez a una LP en PancakeSwap y después añadir esos tokens LP a una BalleVault. Esto puede sonar complicado pero no te preocupes, iremos paso a paso.
