@@ -8,7 +8,7 @@ Las Vaults, o bóvedas, sirven como generadores pasivos de tokens para los usuar
 
 -Pagar las tasas \(Gas Fees\) de las operaciones de harvest o recolección de beneficios. Se aplica un 0.1% de tasa para dichas operaciones.
 
--El resto es distribuido a los usuarios que hacen staking de $BALLE en la [BALLE Reward Pool](https://github.com/ballena-io/ballena-docs/tree/5bd75cc3a48b7c7fd3639459ce78234cc933dd65/productos/link/README.md)
+-El resto es distribuido a los usuarios que hacen staking de BALLE en la [BALLE Reward Pool](https://github.com/ballena-io/ballena-docs/tree/5bd75cc3a48b7c7fd3639459ce78234cc933dd65/productos/link/README.md)
 
 ## CAKE SMART <a id="cake-smart"></a>
 
