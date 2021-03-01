@@ -94,7 +94,7 @@ Utiliza el código de seis dígitos enviado a tu correo para completar la verifi
 
 
 
-![](../../../.gitbook/assets/screenshot_20210224-221906.jpg)
+![](../../../.gitbook/assets/screenshot_20210224-221906%20%281%29.jpg)
 
 
 
