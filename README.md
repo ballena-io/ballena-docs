@@ -4,6 +4,8 @@
 
 [ballena.io](https://ballena.io/) is a yield optimizing automated platform based on the BSC. Yield optimization has become one of the most profitable areas in the Crypto currency market nowadays, specially those projects working on the BSC environment. We, as developers, focused our resources in solving some of the most ballasting issues among the yielding on the Ethereum ecosystem. These are our bases:
 
+
+
 ## Decentralized Finance for Everyone
 
 ## DAO \(Decentralized Autonomous Organization\)
