@@ -22,7 +22,7 @@ Además la plataforma permite hacer staking de más criptomonedas para alimentar
 
 #### Resumen: [ballena.io](https://ballena.io/) se encarga de asignar, cambiar y reinvertir tus tokens siguiendo la estrategia más rentable de la plataforma. Aporta liquidez a SimpleFarming y recoge beneficios sin ocuparte de nada más.
 
-Añade un nivel de optimización más a la cadena, una completa automatización del flujo de nuestras cripto encontrando los mejores rendimientos en la red BSC. Aloca tus monedas al SimpleFarming y [ballena.io](https://ballena.io/) se encargará de maximizar beneficios a través de las oportunidades más rentables en la red. Más información en breve.
+Añade un nivel de optimización más a la cadena, una completa automatización del flujo de nuestras cripto encontrando los mejores rendimientos en la red BSC. Asigna tus monedas al SimpleFarming y [ballena.io](https://ballena.io/) se encargará de maximizar beneficios a través de las oportunidades más rentables en la red. Más información en breve.
 
 
 
