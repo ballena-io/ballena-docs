@@ -4,9 +4,13 @@
 
 MetaMask es una billetera, o wallet, compatible con ERC20. En este tutorial explicaremos cómo configurar una wallet en MetaMask desde el comienzo.
 
-### Cómo instalar MetaMask en tu navegador.
 
-#### 1. Abre [https://metamask.io/](https://metamask.io/) en tu navegador y descarga la extensión. MetaMask soporta los navegadores Chrome, Firefox, Brave and Edge. Hagámoslo en Chrome. Una vez en la web de MetaMask, hacer click en "Download" y "Install MetaMask for Chrome" para obtener la extensión.
+
+## Cómo instalar MetaMask en tu navegador.
+
+### 1. Abre [https://metamask.io/](https://metamask.io/) en tu navegador y descarga la extensión. 
+
+MetaMask soporta los navegadores Chrome, Firefox, Brave and Edge. Hagámoslo en Chrome. Una vez en la web de MetaMask, hacer click en "Download" y "Install MetaMask for Chrome" para obtener la extensión.
 
 ​
 
@@ -18,7 +22,7 @@ MetaMask es una billetera, o wallet, compatible con ERC20. En este tutorial expl
 
 #### 
 
-#### 2. Una vez en la Store de Chrome, haz click en "Add to Chrome". Ahora haz Click en "Add extensión" y el icono de MetaMask aparecerá en la parte superior derecha de tu navegador.
+### 2. Una vez en la Store de Chrome, haz click en "Add to Chrome". Ahora haz Click en "Add extensión" y el icono de MetaMask aparecerá en la parte superior derecha de tu navegador.
 
 ​​
 
@@ -28,7 +32,7 @@ MetaMask es una billetera, o wallet, compatible con ERC20. En este tutorial expl
 
 #### 
 
-#### 3. Ahora haz click en el botón de extensiones, parte superior derecha, y haz click en Pin para el MetaMask para que el icono sea siempre visible.
+### 3. Ahora haz click en el botón de extensiones, parte superior derecha, y haz click en Pin para el MetaMask para que el icono sea siempre visible.
 
 ​​
 
@@ -36,7 +40,7 @@ MetaMask es una billetera, o wallet, compatible con ERC20. En este tutorial expl
 
 #### 
 
-#### 4. Crea una cuenta. Haz click en el botón "Get Started" de Metamask y después en "Create a Wallet". Sigue los siguientes pasos y acepta las condiciones.
+### 4. Crea una cuenta. Haz click en el botón "Get Started" de Metamask y después en "Create a Wallet". Sigue los siguientes pasos y acepta las condiciones.
 
 ​   ​
 
@@ -48,7 +52,7 @@ MetaMask es una billetera, o wallet, compatible con ERC20. En este tutorial expl
 
 #### 
 
-#### 5. Crea una contraseña y acepta los términos.
+### 5. Crea una contraseña y acepta los términos.
 
 ​​
 
@@ -58,7 +62,9 @@ MetaMask es una billetera, o wallet, compatible con ERC20. En este tutorial expl
 
 #### 
 
-#### 6. Secret Backup Phrase. Esta es la clave secreta de recuperación de tu cuenta. Anotala en un lugar seguro. Después escríbela en el recuadro y confirma.
+### 6. Secret Backup Phrase. 
+
+Esta es la clave secreta de recuperación de tu cuenta. Anotala en un lugar seguro. Después escríbela en el recuadro y confirma.
 
  ​
 
@@ -68,7 +74,7 @@ MetaMask es una billetera, o wallet, compatible con ERC20. En este tutorial expl
 
 #### 
 
-#### 7. ¡Hecho! ¡Has creado tu cuenta de MetaMask!
+### 7. ¡Hecho! ¡Has creado tu cuenta de MetaMask!
 
 ​​
 
@@ -78,9 +84,11 @@ MetaMask es una billetera, o wallet, compatible con ERC20. En este tutorial expl
 
 ### 
 
-### Cómo configurar la red BSC en tu Wallet de MetaMask
+## Cómo configurar la red BSC en tu Wallet de MetaMask
 
-#### 1. Ahora vamos a configurar la red BSC en tu Wallet. Primero haz click en el desplegable que pone "Ethereum mainnet" y haz click en "Custom RPC" en el menú.
+
+
+### 1. Ahora vamos a configurar la red BSC en tu Wallet. Primero haz click en el desplegable que pone "Ethereum mainnet" y haz click en "Custom RPC" en el menú.
 
 ​​
 
@@ -88,7 +96,7 @@ MetaMask es una billetera, o wallet, compatible con ERC20. En este tutorial expl
 
 #### 
 
-#### 2. Añade los datos de la BSC que mostramos a continuación y haz click en "Save".
+### 2. Añade los datos de la BSC que mostramos a continuación y haz click en "Save".
 
 ​​
 
@@ -96,11 +104,13 @@ MetaMask es una billetera, o wallet, compatible con ERC20. En este tutorial expl
 
 #### 
 
-#### 3. Ahora tu Wallet está lista para operar en la red Binance Smart Chain, ¡enhorabuena!
+### 3. Ahora tu Wallet está lista para operar en la red Binance Smart Chain, ¡enhorabuena!
 
  ​
 
 ![](https://user-images.githubusercontent.com/79335891/108597785-1c74d800-738b-11eb-9e21-c3db4fcdcaad.png)
+
+
 
 Sigue con Ballena en los siguientes pasos!
 

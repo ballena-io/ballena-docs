@@ -20,9 +20,15 @@ Para cargar fondos en Binance lo haremos de la siguiente manera.
 
 ### 3. Selecciona la moneda correspondiente, introduce la cuantía y has clic en continuar.
 
+
+
 ![](../../../.gitbook/assets/8.png)
 
+### 
+
 ### 4. Rellena la información de pago detallada.
+
+
 
 ![](../../../.gitbook/assets/binance_trans_2.png)
 

@@ -11,7 +11,11 @@ El navegador web nos servirá para navegar por las webs y Dapps de las que nos n
 
 Recuerda el esquema visto anteriormente y no te perderás. [ballena.io](https://ballena.io/)🐋 te lo vuelve a mostrar.
 
+
+
 ![](../../.gitbook/assets/esquema-tutoriales-2.png)
+
+
 
 Para comenzar haz click en el siguiente enlace:
 

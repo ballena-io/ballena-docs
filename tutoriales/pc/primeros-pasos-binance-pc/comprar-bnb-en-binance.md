@@ -58,6 +58,8 @@ En cuanto tengas la identidad verificada podrás seguir al siguiente paso y conf
 
 Una vez validada la operación te aparecerá una pantalla de confirmación. Hay que tener en cuenta que el pago puede necesitar de acciones propias de tu banco.
 
+
+
 ### 7. Completada.
 
 
