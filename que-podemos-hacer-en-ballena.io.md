@@ -4,9 +4,9 @@
 
 ### Ramas de actuación
 
-1. Gobernanza y staking.
-2. SimpleFarming.
-3. BalleVaults \(Bóvedas\).
+1. [Gobernanza y staking](gobernanza.md).
+2. [SimpleFarming](productos/simplefarming.md).
+3. [BalleVaults \(Bóvedas\)](productos/balle-staking-pool.md).
 
 
 
