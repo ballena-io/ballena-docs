@@ -19,27 +19,29 @@ El token BALLE está listado en \[Coinmarketcap\] \(link\), \[Coingecko\] \(link
 
 ### 3. ¿Qué ofrece la plataforma [Ballena.io](https://ballena.io/)?
 
-Ballena.io offers revenue strategies based upon staking and vaults. It also offers the governance token BALLE as mentioned above, as well as voting for holders. For more info click \[here\] \(link to What does ballena offer\).
+ballena.io ofrece estrategias de rendimiento basadas en staking y vaults(bóvedas). También ofrece el token de gobernanza BALLE mencionado en el apartado anterior, el token de nuestra DAO, donde el usuario tiene voz y voto para las decisiones de desarrollo. Para más información haz click aquí \(link to What does ballena offer\).
 
-But not only that! Ballena´s immersive community is growing at an exponential rate and is waiting for you to join it, seek for help and share your ideas. Feel free to come and say hi in \[here\] \(links to social media\)
+No solo eso, la comunidad de ballena.io, actualmente en crecimiento exponencial, está a la espera de recibirte para brindarte ayuda y recibir consejos e ideas para mejorar la plataforma. Pasate a saludar!\(links to social media\)
+
 
 ## Seguridad
 
-TODO
 
 ### 1. ¿Está auditado el proyecto?
 
-TODO
+El proyecto se encuentra actualmente en procesos de auditoría. La resolución se hará pública inmediatamente.
+
 
 ### 2. ¿Se han verificado sus contratos?
 
-Yes, all contracts´ codes have been verified and published on \[BSCScan\] \(link\)
+Sí, el código de todos los contratos ha sido verificado y publicado en BSCScan. Para más información haz click aquí.  \(link\)
 
-### 3. [Ballena.io](https://ballena.io/), ¿es seguro?
 
-Our project is audited, our contracts verified and we are part of a huge comunnity on the social media. We truly believe in the transparency of the project serving as a proof of the safety provided.
+### 3. [ballena.io](https://ballena.io/), ¿es seguro?
 
-Nevertheless the DeFi and Crypto world counts with some inherent risks which you should be aware of. For more info about Security and Risks click \[here\] \(link\).
+Nuestro proyecto está siendo auditado, nuestros contratos han sido verificados y formamos parte de una gran comunidad en los medios. Apostamos por la transparencia del proyecto como prueba de seguridad y confianza del mismo, y podrás encontrar todos los datos vinculantes en la documentación oficial.
+Sin embargo, el mundo DeFi y Cripto en general cuenta con riesgos inherentes a la operación de los cuales deberías ser consciente como usuario. Para más información acerca de este tema haz click en Seguridad y Riesgos\(link\).
+
 
 ## Tokenomics
 
