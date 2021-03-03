@@ -4,43 +4,42 @@
 
 
 
-## App de Gobernanza: Staking BALLE
+## Governance App: Staking BALLE
 
-#### Resumen: Genera beneficios en BALLE al aportar BALLE.
+#### Summary: Earn BALLE when adding BALLE.
+
+Here we can add liquidity to the BALLe staking pool. This way of investing consists in adding liquidity to BALLE exclusively. Thus, you will receive BALLE tokens as revenue, helping it rise its price at the same time. Apart from its high profitability due to its rising value, you will be able to be part of the governance of the token, meaning users will be able to vote and practice staking gaining some of the platform transaction fees as a reward.
+
+Users actively participating in the Balle Staking Pool will receive 3% of the revenue obtained from the revenue of the platform by all users. They will also be rewarded with an extra 13000 tokens distributed as a multiplier to the 3% fee clearly shown in the Governance App.
+
+Receiving BALLE tokens, as well as an extra reward just for having them deposited in the Staking Pool, makes it a high profitable strategy, especially when the token supply is limited.
+
+The [ballena.io](https://ballena.io/) also permits staking some other crypto assets.
 
 
-
-Aquí podemos proveer liquidez al staking del token BALLE. Es una forma de inversión en la que añades liquidez exclusivamente del token BALLE. Esto, por lo tanto, genera retorno en token BALLE, contribuyendo además a su revalorización y el potenciamiento de la plataforma. Además de su alta rentabilidad, debido a su incremento de valor, podrás formar parte en la Gobernanza. La posesión del mismo nos permite votar y hacer staking del mismo para obtener un % de las fees generadas en las transacciones.
-
-Los usuarios que participan activamente en el staking de BALLE recibirán el 3% de las ganancias obtenidas por todos los usuarios de la plataforma. Además se obsequiará a estos usuarios con una recompensa de 13000 tokens a mayores que se repartirán como un multiplicador a esta tasa del 3%. El factor multiplicador aparecerá claramente en la App de Gobernanza, es decir, en la pool. 
-
-El recibir tokens, y además contar con una recompensa extra, por el mero hecho de mantenerlos dentro de la pool \(generando ingresos\), hace que sea una estrategia muy rentable. Especialmente teniendo en cuenta que el suministro de los tokens es limitado.
-
-Además la plataforma permite hacer staking de más criptomonedas para alimentar así los proyectos de la red BSC.
 
 ## SimpleFarming
 
-#### Resumen: [ballena.io](https://ballena.io/) se encarga de asignar, cambiar y reinvertir tus tokens siguiendo la estrategia más rentable de la plataforma. Aporta liquidez a SimpleFarming y recoge beneficios sin ocuparte de nada más.
+#### Summary: [ballena.io](https://ballena.io/) allocates, swaps and reinvests your tokens based upon the most profitable strategy. Add liquidity to SimpleFarming and harvest revenue with no effort.
 
-Añade un nivel de optimización más a la cadena, una completa automatización del flujo de nuestras cripto encontrando los mejores rendimientos en la red BSC. Asigna tus monedas al SimpleFarming y [ballena.io](https://ballena.io/) se encargará de maximizar beneficios a través de las oportunidades más rentables en la red. Más información en breve.
-
-
-
-## BalleVaults \(Bóvedas\)
-
-#### Resumen: Genera beneficios en el par aportado \(BALLE-BNB, por ejemplo\) y obtener recompensa de tokens BALLE.
+SimpleFarming adds a level of optimization to the chain, the complete automation of our crypto flow finding the best yields in the BSC. Add your tokens to SimpleFarming and [ballena.io](https://ballena.io/) will maximize your benefits through the most profitable strategies. More info coming soon.
 
 
 
-Esto es: Proveer liquidez a una LP de un par de alta rentabilidad de PancakeSwap.
+## BalleVaults 
 
-[ballena.io](https://ballena.io/) cuenta con un gran número de vaults, o bóvedas, y cada una cuenta con su estrategia para dar un alto rendimiento. Añade liquidez a las vaults y Ballena se encarga de implementar las estrategias más rentables para las mismas.
+#### Summary: Increase your LP tokens \(BALLE-BNB, i.e.\) and obtain BALLE as a reward.
 
-Es una forma de inversión en la que se añaden a partes iguales dos assets. El retorno, por lo tanto, será de estos dos assets también a partes iguales. El LP lo que hará será aumentar los tokens que tenemos asignados al par seleccionado. Por ejemplo, podríamos añadir liquidez al par CAKE/BNB. Lo que haremos en este caso será cambiar la mitad de nuestros BNB por CAKE y añadiremos ambos a una LP. Después añadiremos estos tokens de la LP a una BalleVault para obtener retornos mayores al aplicar estrategias optimizadas y reinvertir todas las ganancias diarias.
 
-Además, estos usuarios recibirán tokens BALLE cada 3 segundos. Se reparten 24000 tokens BALLE a lo largo de un año para estos usuarios que reciben una parte proporcional a la cantidad aportada en las vaults. Los token BALLE recibidos se pueden recoger en cualquier momento y reinvertirlos en la App de Gobernanza o la staking pool BALLE para aumentar su cantidad de forma pasiva.
+Add liquidity to a high profitable pair in PancakeSwap and [ballena.io](https://ballena.io/) will be in charge of its autocompound.
+[ballena.io](https://ballena.io/) offers a great number of vaults, each one of them applying its own high yielding strategy. Add liquidity to the vaults and [ballena.io](https://ballena.io/) will take care of the strategies.
 
-Digamos que es la optimización de aportar liquidez a PancakeSwap, un nivel más allá, ya que Ballena se encarga de buscar la mayor rentabilidad y de reinvertir los retornos automáticamente haciendo exponenciales tus ganancias.
+In this kind of investment the user adds two assets of equal value. The revenue will be as these two assets then, the LP will increase the token amount of these two assets. We could add liquidity to the pair CAKE/BNB, for example. We would swap half of our BNB for CAKE and add these two to the LP. Afterwards, We would add these tokens to a BallleVault seeking the highest yields through the optimized strategies and the autocompound of the daily gains.
+
+These users will also receive BALLE tokens each 3 seconds. 24000 BALLE tokens are distributed during the first year among these users that receive a proportional amount of these regarding their pool share. These BALLE tokens can, at any time, be harvested and reinvested in the Governance App.
+
+We could say it´s the optimization of adding liquidity to PancakeSwap, the next level. [ballena.io](https://ballena.io/) offers the greatest profit and autocompunds your revenue making your gains grow exponentially.
+
 
 
 
