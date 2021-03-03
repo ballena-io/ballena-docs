@@ -14,7 +14,7 @@ Los usuarios que poseen tokens BALLE y que participan activamente en la App de G
 
 #### Recompensa extra, ¡13300 BALLE tokens!
 
-Además de este reparto, estos usuarios serán recompensados con una distribución gradual de 13300 tokens BALLE. En resumen, poseer BALLE \(token de suministro limitado\) es muy rentable.
+Además de este reparto, estos usuarios serán recompensados con una distribución gradual de 13000 tokens BALLE. En resumen, poseer BALLE \(token de suministro limitado\) es muy rentable.
 
 Esta recompensa extra será distribuida como un multiplicador sobre el retorno generado de la tasa de la Yield Optimizer App. Este multiplicador aparecerá como un x10, x100 o x200 en la pool de gobernanza, o staking pool. De esta manera, el usuario recibirá la parte proporcional de la tasa multiplicada por este factor dependiendo del porcentaje aportado a la pool.
 
