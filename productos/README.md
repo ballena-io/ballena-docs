@@ -12,7 +12,7 @@ La plataforma [ballena.io](https://ballena.io/) ofrece una amplia variedad de fa
 
 Aquí podemos proveer liquidez al staking del token BALLE. Es una forma de inversión en la que añades liquidez exclusivamente del token BALLE. Esto, por lo tanto, genera retorno en token BALLE, contribuyendo además a su revalorización y el potenciamiento de la plataforma. Además de su alta rentabilidad, debido a su incremento de valor, podrás formar parte en la Gobernanza. La posesión del mismo nos permite votar y hacer staking del mismo para obtener un % de las fees generadas en las transacciones.
 
-Los usuarios que participan activamente en el staking de BALLE recibirán el 3% de las ganancias obtenidas por todos los usuarios de la plataforma. Además se obsequiará a estos usuarios con una recompensa de 13300 tokens a mayores que se repartirán como un multiplicador a esta tasa del 3%. El factor multiplicador aparecerá claramente en la App de Gobernanza, es decir, en la pool. 
+Los usuarios que participan activamente en el staking de BALLE recibirán el 3% de las ganancias obtenidas por todos los usuarios de la plataforma. Además se obsequiará a estos usuarios con una recompensa de 13000 tokens a mayores que se repartirán como un multiplicador a esta tasa del 3%. El factor multiplicador aparecerá claramente en la App de Gobernanza, es decir, en la pool. 
 
 El recibir tokens, y además contar con una recompensa extra, por el mero hecho de mantenerlos dentro de la pool \(generando ingresos\), hace que sea una estrategia muy rentable. Especialmente teniendo en cuenta que el suministro de los tokens es limitado.
 
