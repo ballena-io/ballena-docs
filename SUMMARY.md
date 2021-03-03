@@ -2,7 +2,6 @@
 
 * [Introducción a ballena.io](README.md)
 * [¿Qué podemos hacer en ballena.io?](que-podemos-hacer-en-ballena.io.md)
-* [Resumen para los más nuevos](resumen-para-los-mas-nuevos.md)
 * [Tutoriales](tutoriales/README.md)
   * [PC](tutoriales/pc/README.md)
     * [Primeros pasos: Binance - PC](tutoriales/pc/primeros-pasos-binance-pc/README.md)
