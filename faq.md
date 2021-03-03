@@ -8,7 +8,8 @@ description: TODO
 
 ### 1. Token BALLE
 
-BALLE es el token nativo de ballena.io. La plataforma se centra en la optimización de rendimiento automatizada basada en la red BSC y el BALLE sirve como token de gobernanza, con el cual los usuarios pueden votar y generar retornos al hacer staking.
+BALLE es el token nativo de [ballena.io](https://ballena.io/). La plataforma se centra en la optimización de rendimiento automatizada basada en la red BSC y el BALLE sirve como token de gobernanza, con el cual los usuarios pueden votar y generar retornos al hacer staking.
+
 
 
 ### 2. ¿Dónde está listada?
@@ -17,30 +18,32 @@ El token BALLE está listado en \[Coinmarketcap\] \(link\), \[Coingecko\] \(link
 
 
 
-### 3. ¿Qué ofrece la plataforma [Ballena.io](https://ballena.io/)?
+### 3. ¿Qué ofrece la plataforma [ballena.io](https://ballena.io/)?
 
-ballena.io ofrece estrategias de rendimiento basadas en staking y vaults(bóvedas). También ofrece el token de gobernanza BALLE mencionado en el apartado anterior, el token de nuestra DAO, donde el usuario tiene voz y voto para las decisiones de desarrollo. Para más información haz click aquí \(link to What does ballena offer\).
+[ballena.io](https://ballena.io/) ofrece estrategias de rendimiento basadas en staking y vaults\(bóvedas\). También ofrece el token de gobernanza BALLE mencionado en el apartado anterior, el token de nuestra DAO, donde el usuario tiene voz y voto para las decisiones de desarrollo. Para más información haz click [aquí](que-podemos-hacer-en-ballena.io.md).
 
-No solo eso, la comunidad de ballena.io, actualmente en crecimiento exponencial, está a la espera de recibirte para brindarte ayuda y recibir consejos e ideas para mejorar la plataforma. Pasate a saludar!\(links to social media\)
+No solo eso, la comunidad de [ballena.io](https://ballena.io/), actualmente en crecimiento exponencial, está a la espera de recibirte para brindarte ayuda y recibir consejos e ideas para mejorar la plataforma. Pásate a [saludar!](./#comunidad)
+
 
 
 ## Seguridad
-
 
 ### 1. ¿Está auditado el proyecto?
 
 El proyecto se encuentra actualmente en procesos de auditoría. La resolución se hará pública inmediatamente.
 
 
+
 ### 2. ¿Se han verificado sus contratos?
 
-Sí, el código de todos los contratos ha sido verificado y publicado en BSCScan. Para más información haz click aquí.  \(link\)
+Sí, el código de todos los contratos ha sido verificado y publicado en BSCScan. Para más información haz click [aquí](tokenomics.md#smart-contracts).
+
 
 
 ### 3. [ballena.io](https://ballena.io/), ¿es seguro?
 
-Nuestro proyecto está siendo auditado, nuestros contratos han sido verificados y formamos parte de una gran comunidad en los medios. Apostamos por la transparencia del proyecto como prueba de seguridad y confianza del mismo, y podrás encontrar todos los datos vinculantes en la documentación oficial.
-Sin embargo, el mundo DeFi y Cripto en general cuenta con riesgos inherentes a la operación de los cuales deberías ser consciente como usuario. Para más información acerca de este tema haz click en Seguridad y Riesgos\(link\).
+Nuestro proyecto está siendo auditado, nuestros contratos han sido verificados y formamos parte de una gran comunidad en los medios. Apostamos por la transparencia del proyecto como prueba de seguridad y confianza del mismo, y podrás encontrar todos los datos vinculantes en la documentación oficial. Sin embargo, el mundo DeFi y Cripto en general cuenta con riesgos inherentes a la operación de los cuales deberías ser consciente como usuario. Para más información acerca de este tema haz click en [Seguridad y Riesgos](seguridad-y-riesgos.md).
+
 
 
 ## Tokenomics

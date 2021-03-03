@@ -50,7 +50,7 @@ Rellenamos los campos utilizando nuestro número de teléfono móvil o nuestro c
 
 
 
-![](../../../.gitbook/assets/binance_2%20%282%29%20%281%29.png)
+![](../../../.gitbook/assets/binance_2%20%282%29%20%282%29%20%281%29.png)
 
 
 
@@ -60,7 +60,7 @@ A continuación, pulsamos el botón “Crear cuenta” y completamos la verifica
 
 
 
-![](../../../.gitbook/assets/binance_4%20%282%29.png)
+![](../../../.gitbook/assets/binance_4%20%282%29%20%282%29.png)
 
 
 
@@ -70,7 +70,7 @@ Una vez hecho se nos pedirá que introduzcamos un código de verificación que s
 
 
 
-![](../../../.gitbook/assets/binance_5%20%281%29%20%281%29.png)
+![](../../../.gitbook/assets/binance_5%20%281%29%20%281%29%20%281%29.png)
 
 
 
@@ -80,7 +80,7 @@ Nos habrá llegado un correo electrónico de este estilo
 
 
 
-![](../../../.gitbook/assets/binance_6%20%281%29.png)
+![](../../../.gitbook/assets/binance_6%20%281%29%20%281%29.png)
 
 
 
@@ -94,7 +94,7 @@ Utiliza el código de seis dígitos enviado a tu correo para completar la verifi
 
 
 
-![](../../../.gitbook/assets/screenshot_20210224-221906%20%286%29%20%283%29.jpg)
+![](../../../.gitbook/assets/screenshot_20210224-221906%20%286%29%20%286%29%20%283%29.jpg)
 
 
 
