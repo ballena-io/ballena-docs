@@ -8,7 +8,7 @@
 
 
 
-En este pequeño tutorial Ballena os muestra cómo agregar tanto LP tokens como tokens en forma singular a las BalleVaults.
+En este pequeño tutorial [ballena.io](https://ballena.io/) os muestra cómo agregar tanto LP tokens como tokens en forma singular a las BalleVaults.
 
 Cuando queramos sacar rendimiento de nuestros tokens LP de las distintas plataformas las pondremos en la Bóveda que deseemos y a continuación ya nos irá generando rendimiento. Recuerda que para participar en las bóvedas LP antes es necesario que hayas agregado liquidez al de los pares indicados y en el Exchange al que hace referencia cada Bóveda.
 
