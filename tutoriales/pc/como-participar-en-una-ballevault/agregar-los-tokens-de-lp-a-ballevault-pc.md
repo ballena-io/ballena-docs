@@ -10,6 +10,8 @@ Cuando queramos sacar rendimiento de nuestros tokens LP de las distintas platafo
 
 ### 1. Navegar a la página web [ballena.io](https://ballena.io/).
 
+### 
+
 ### 2. Presiona el botón "Launch App" en la parte superior derecha.
 
 
