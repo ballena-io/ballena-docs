@@ -14,6 +14,8 @@ The extra reward will be distributed as a multiplier to the standard fee allocat
 
 The revenue will then be generated as BALLE tokens in the [Governance Pool](products/balle-staking-pool.md) and can be harvested at any time with no penalty.
 
+
+
 ## Multisig
 
 A multiple signature wallet is a cryptocurrency wallet that controls access and changes to one or more Smart Contracts. Most of the community governed projects in the Ethereum network often require multiple signers to approve a transaction before it will be executed. In Binance Smart Chain, we are the first project implementing Gnosis Safe to run our DAO. In BALLE we implemented it as 6 of 9 wallets, where 6 of 9 community wallet signers must agree to sign a transaction before a Smart Contract can be implemented.
