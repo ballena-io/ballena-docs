@@ -12,7 +12,7 @@ Los usuarios que poseen tokens BALLE y que participan activamente en la App de G
 
 
 
-#### Recompensa extra, ¡13300 BALLE tokens!
+#### Recompensa extra, ¡13000 BALLE tokens!
 
 Además de este reparto, estos usuarios serán recompensados con una distribución gradual de 13000 tokens BALLE. En resumen, poseer BALLE \(token de suministro limitado\) es muy rentable.
 
