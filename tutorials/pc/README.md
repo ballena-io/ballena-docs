@@ -4,8 +4,8 @@ You have chosen the PC. The steps are almost similar for both platforms but we h
 
 We will need these tools for the PC:
 
-* Web browser - This tutorial is performed in Google Chrome.
-* Wallet - We will use Metamask in this case.
+* **Web browser** - This tutorial is performed in Google Chrome.
+* **Wallet** - We will use Metamask in this case.
 
 
 

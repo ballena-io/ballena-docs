@@ -6,8 +6,8 @@ You have chosen the Smartphone/Tablet. The steps are almost similar for both pla
 
 We will need these tools for the Smartphone/Tablet:
 
-* Binance App.
-* Wallet - We will use TrustWallet.
+* **Binance App**.
+* **Wallet** - We will use TrustWallet.
 
 
 
