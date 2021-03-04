@@ -50,7 +50,7 @@ Yes, all contracts´ codes have been verified and published on BSCScan. For more
 
 #### 3. Is Ballena.io safe?
 
-Our project is audited, our contracts verified and we are part of a huge comunnity on the social media. We truly believe in the transparency of the project serving as a proof of the safety provided.
+Our project is audited, our contracts verified and we are part of a huge community on social media. We truly believe in the transparency of the project serving as a proof of the safety provided.
 
 Nevertheless the DeFi and Crypto world counts with some inherent risks which you should be aware of. For more info about Security and Risks click [here](security-and-risks.md).
 
@@ -64,124 +64,99 @@ After conducting a deep research through the tokenomics in the DeFi market, the 
 
 
 
-#### 2. What is the maximum supply and how is it realeased?
+#### 2. What is the maximum supply and how is it released?
 
 The maximum total supply is 40000 BALLE tokens. These tokens are divided in 3 groups:
 
 * 24000 tokens distributed during the first year for the BalleVaults´ users.
 * 13000 tokens distributed as an extra reward for users practicing BALLE staking.
-* 3000 tokens fo the Dev. Team and promotion purposes.
+* 3000 tokens for the Dev. Team and promotion purposes.
 
 
 
 #### 3. Is there a buy-back program? When does it happen?
 
-#### 
+Yes, the [ballena.io](https://ballena.io/)  platform buys BALLE tokens as a percentage of its WBNB benefit coming from the total platform´s revenue. [ballena.io](https://ballena.io/)  distributes these tokens among the users actively forming part of the BALLE Staking Pool.
 
 
-
-#### 3. Existe un programa de buy-back?
-
-Sí, la plataforma [ballena.io](https://ballena.io/) se encarga de comprar tokens BALLE con un porcentaje de WBNB correspondientes a los beneficios de la plataforma y se encarga de repartirlos entre los usuarios que practican staking de BALLE.
 
 ## Products
 
-### 1. Farms & Vaults
+#### **1. BalleVaults**
 
-### 2. How do the strategies work upon them?
+The BalleVaults increase your LP tokens for the corresponding pair. If the user adds liquidity to the pool CAKE-BNB, he will find that the LP tokens increase as the time goes by. These users will also receive a BALLE tokens reward from the 24000 tokens distribution. These BALLE can then be used for staking at the BALLE Staking Pool found at the Governance APP. More info in Products.
 
-### 3. Who is in control of these strategies?
+**‌**
 
-### 4. APR/APY
+#### **2. BALLE Staking**
 
-### 5. Why do Vaults´ APR values look that weird?
+Staking BALLE will essentially increase your BALLE tokens. This product also enables users to gain access to an extra reward of 13000 BALLE tokens. You will find the BALLE Staking Pool at the Governance App and you will be able to access the voting platform for actively participating in the decision making process of the community.
 
-### 6. How does auto-compound work?
+**‌**
 
-### 7. What about fees?
+#### **3. SimpleFarming**
 
-### 8. Revenue
+[ballena.io](https://ballena.io/) allocates, swaps and reinvests your tokens based upon the most profitable strategy. Add liquidity to SimpleFarming and harvest revenue with no effort.
 
-## Governance & Voting
+SimpleFarming adds a level of optimization to the chain, the complete automation of our crypto flow finding the best yields in the BSC. Add your tokens to SimpleFarming and[ ballena.io](https://ballena.io/) will maximize your benefits through the most profitable strategies. More info coming soon.
 
-### 1. Is there a treasury?
+**‌**
 
-add answer and what is its goal and who controls it.
+#### **4. APR/APY**
 
-### 2. Platform for voting?
+The APY is the Annual Percentage Yield. Assets added to the liquidity of a pool will generate yields along the whole year shown as APY. The APY is taking into account the auto-compound, meaning the reinvestment of all the returns gained in the pool.[ ballena.io](https://ballena.io/) takes care of the auto-compound and shows the APY, thus. On the other hand, the APR is the Annual Percentage Rate and doesn't take into account the compound interest.
 
-[platform](https://github.com/ballena-io/ballena-docs/tree/0397a98509666bd529a1bdadf35b8d58c8b286f4/link/README.md)
+**‌**
 
-​
+#### **5. Why some weird APY values?**
 
-​
+If the APY values look weird or don't appear, usually means you are not in the proper network. In case of any bugs in the platform, it would immediately be published in the social media.
+
+**‌**
+
+#### **6. How does auto-compound work?**
+
+The auto-compound is the automatic reinvestment of all your pool gains.[ ballena.io](https://ballena.io/) harvests your revenue and reinvests it for the gains to be exponential. A 0.5% of the platform benefits is used for paying off reinvestment fees.
+
+**‌**
+
+#### **7. What about fees?**
+
+[ballena.io](https://ballena.io/) products must comply with some fees stated below:
+
+* The 0.4% of the platform´s total revenue are distributed as:
+  * 3% for the BALLE holders actively participating in the BALLE Staking Pool.
+  * 0.5% is used for the reinvesting process fee.
+  * 0.5% allocated to the project treasury.
+* A 10% of the Governance Pool´s extra reward is also allocated to the treasury only during its distribution process.
+* 0.1% is the vaults´ harvest fee.
+
+**‌**
+
+#### **8. Connection error while launching the App**
+
+Newbie users can usually find the message "Connection error" at the time of launching the App. This error is usually due to a lack of proper configuration of the user´s wallet for the BSC. Make sure you are on the Binance Smart Chain on your wallet´s network. You can find how to do this in our tutorials.  
+
 
 ### 
 
-#### 
+## Governance & Voting
 
-### Productos
+#### 1. Is there a treasury?
 
-#### 1. BalleVaults
+Yes, there is a treasury in the [ballena.io](https://ballena.io/) to ensure the correct development of the project. The treasury receives 0.5% of the platform´s revenue, as well as the 10% of the extra reward during its distribution.
 
-Las bóvedas BalleVaults son productos que aumentan tu cantidad de tokens Liquidity Pool del par correspondiente. Es decir, si el usuario aporta liquidez a la bóveda CAKE-BNB, el usuario verá como el número de tokens de este par aumenta a medida que pasa el tiempo. Además, estos usuarios recibirán una recompensa en forma de tokens BALLE que provienen del grupo de 24000 tokens a repartir. Estos BALLE podrán ser utilizados para hacer staking en la BALLE Reward Pool o BALLE Staking Pool de la App de Gobernanza para más beneficios. Más info en [Productos](https://github.com/ballena-io/ballena-docs/blob/es/productos).
+### 
 
-#### 2. Staking de BALLE
+#### 2. Voting platform?
 
-El staking de BALLE sirve para aumentar el número de tokens BALLE esencialmente. Esto significa que además de lucrarse por la subida de precio exponencial del token, cada vez poseerán más BALLE. Además, esta participación te permitirá tener acceso a una recompensa extra de 13000 tokens BALLE a repartir entre los usuarios que aquí participan. Encontrarás el staking de BALLE en la App de Gobernanza y podrás acceder así a la plataforma de votación para formar parte activamente en la toma de decisiones de la comunidad.
+[ballena.io](https://ballena.io/)´s decisions are taken among the community following the DAO bases. Users actively participating in the Governance APP with BALLE tokens will have access to the voting platform. 
 
-#### 3. SimpleFarming
-
-[ballena.io](https://ballena.io/) se encarga de asignar, cambiar y reinvertir tus tokens siguiendo la estrategia más rentable de la plataforma. Aporta liquidez a SimpleFarming y recoge beneficios sin ocuparte de nada más.
-
-Añade un nivel de optimización más a la cadena, una completa automatización del flujo de nuestras cripto encontrando los mejores rendimientos en la red BSC. Asigna tus monedas al SimpleFarming y [ballena.io](https://ballena.io/) se encargará de maximizar beneficios a través de las oportunidades más rentables en la red. Más información en breve.
-
-#### 4. APR/APY
-
-El APY\(Annual Percentage Yield\) es el porcentaje de rendimiento anual. El hecho de tener assets en una vault o staking genera un rendimiento anual que se muestra como APY. El APY tiene en cuenta el compound, es decir, la reinversión de los retornos obtenidos para poder generar así más beneficios. [ballena.io](https://ballena.io/) se encarga de este auto-compound y por lo tanto muestra el APY. Por otro lado, el APR\(Annual Percentage Rate\) es el rendimiento anual sin tener en cuenta el interés compuesto.
-
-#### 5. ¿Por qué aparecen valores extraños en APY o son inexistentes?
-
-Cuando el valor de la APY no es correcto suele indicar que no estás en la red apropiada. En el caso de que el valor extraño fuese causado por algún problema en la plataforma, este aparecería inmediatamente en todas nuestras redes sociales.
-
-#### 6. ¿Cómo funciona el auto-compound?
-
-El auto-compound, o reinversión automática, recoge tus beneficios de cada una de las bóvedas y lo reinvierte para que tus ganancias sean exponenciales en vez de lineales. Esto hará que tus liquidity pool tokens, o tokens agregados al fondo de liquidez vayan creciendo exponencialmente. Se utiliza un 0.5% de los beneficios de la plataforma para afrontar las tasas del proceso de reinversión.
-
-#### 7. ¿Qué hay de las fees?
-
-En los productos de [ballena.io](https://ballena.io/) hay implicitas unas fees que se redactan a continuación:
-
-* El 0.4% de los beneficios de la plataforma se reparten como:
-  * 3% para los holders de BALLE que participen activamente en la Staking Pool.
-  * 0.5% se utiliza para pagar la tasa del proceso de reinversión.
-  * 0.5% destinado a la tesorería del proyecto.
-* Un 10% de la recompensa extra de la pool de gobernanza está destinado también a la misma. Esta fee sólo será recaudada mientras se siga repartiendo la recompensa extra.
-* La tasa de retiro de las Vaults o pools es del 0.1%.
-
-#### 8. Error de conexión al abrir la app
-
-Cuando intentamos abrir la App y nos aparece el mensaje "Error de conexión" suele ser porque no tenemos configurada la Wallet, o billetera, para la red BSC. La mayoría de las veces estamos en la red Ethereum y por lo tanto no nos deja acceder a ella. En los tutoriales podrá encontrar como configurar tu Wallet.
-
-### Gobernanza & Votación
-
-#### 1. ¿La DAO cuenta con una tesorería?
-
-Sí, [ballena.io](https://ballena.io/) cuenta con una tesorería para garantizar el correcto desarrollo del proyecto. La misma se lucra del 0.5% de los beneficios de la plataforma. Además, durante el reparto de la recompensa extra se destina un 10% de la misma a la tesorería.
-
-#### 2. ¿Plataforma de voto?
-
-[ballena.io](https://ballena.io/) cuenta con un sistema de voto que garantiza una toma de decisiones consensuada de acuerdo a las bases de la DAO. Los usuarios que participen activamente en la App de Gobernanza con tokens BALLE tendrán acceso a este voto en la plataforma:
-
-\(link en proceso\)
+\(link in progress\)
 
 ​
 
 ​
 
-**​**
 
-**​**
-
-**​**
 
