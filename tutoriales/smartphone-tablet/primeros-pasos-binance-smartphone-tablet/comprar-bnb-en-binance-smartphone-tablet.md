@@ -12,7 +12,7 @@ En lugar de EUR puede aparecer otra divisa si es la divisa por defecto en tu pa√
 
 
 
-![](../../../.gitbook/assets/screenshot_20210224-221906%20%286%29%20%286%29%20%286%29%20%286%29%20%286%29%20%282%29.jpg)
+![](../../../.gitbook/assets/screenshot_20210224-221906%20%286%29%20%286%29%20%286%29%20%286%29%20%286%29%20%286%29%20%282%29.jpg)
 
 
 

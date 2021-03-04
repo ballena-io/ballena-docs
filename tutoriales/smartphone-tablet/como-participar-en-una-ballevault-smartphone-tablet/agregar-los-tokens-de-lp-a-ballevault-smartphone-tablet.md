@@ -4,7 +4,7 @@
 
 
 
-![](../../../.gitbook/assets/screenshot_20210223-181850%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%281%29.jpg)
+![](../../../.gitbook/assets/screenshot_20210223-181850%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%281%29.jpg)
 
 
 
@@ -28,7 +28,7 @@ Si no lo has hecho puedes seguir los pasos en el apartado [Cómo añadir liquide
 
 
 
-![](../../../.gitbook/assets/screenshot_20210223-181850%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.jpg)
+![](../../../.gitbook/assets/screenshot_20210223-181850%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.jpg)
 
 ### 
 
@@ -96,7 +96,7 @@ Una vez confirmada la transacción nos tenemos que esperar unos segundos para qu
 
 
 
-![](../../../.gitbook/assets/ballena_boveda_deposita%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.jpg)
+![](../../../.gitbook/assets/ballena_boveda_deposita%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.jpg)
 
 ### 
 
