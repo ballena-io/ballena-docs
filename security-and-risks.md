@@ -4,13 +4,13 @@ In the space of crypto, especially in the Decentralised Finance \(DeFi\) space, 
 
 
 
-### General DeFi Risks
+## General DeFi Risks
 
 DeFi risks encapsulates a wide range of risks such as [impermanent loss](https://www.bsc.news/post/cryptonomics-what-is-impermanent-loss) to risks of falling for scams such as wallet draining, private key being stolen, et cetera. Hence, DeFi users have to be careful themselves and learn to educate themselves constantly in this space. You can find a guide to keeping your funds SAFU [here](https://letmeape.medium.com/how-to-keep-your-funds-safe-metamask-guide-816773968310).
 
 
 
-### 3rd Party Risks
+## 3rd Party Risks
 
 [ballena.io](https://ballena.io/) serves as a yield aggregator by providing vaults which auto-compounds rewards. We've verified the security of each of the vaults before publishing. However, vaults does not indicate any partnership or support by [ballena.io](https://ballena.io/).
 
