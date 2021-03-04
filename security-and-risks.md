@@ -8,17 +8,37 @@ DeFi risks encapsulates a wide range of risks such as [impermanent loss](https:/
 
 ### 3rd Party Risks
 
-TODO
-
-Ballena serves as a yield aggregator by providing vaults which auto-compounds rewards. However, vaults does not indicate any partnership or support by ballena.io. We've mitigated this risk by splitting the vaults into 'turbo' and 'non-turbo' based on the individual yield farm's reputability on the BSC space, of which 'turbo' vaults are considered more risky.
+ballena.io serves as a yield aggregator by providing vaults which auto-compounds rewards. We've verified the security of each of the vaults before publishing. However, vaults does not indicate any partnership or support by ballena.io. 
 
 ## Smart Contracts
 
 ### Audits
 
-name, ex. DefiYield.info 1 \(release date\) name, ex. Hacken - ACryptoSFarmV2 \(release date\) Smart contracts are forked from yearn.finance and beefy.finance.
+Audits in progress. Published here soon.
+
 
 ### Deployed
 
-All deployed contracts have verified and published source codes on BscScan. \(link\)
 
+All deployed contracts have verified and published source codes on tokenomics () and BscScan. \(link\)
+
+
+
+Activos
+Los contratos (código) actualmente activos han sido verificados y publicados en Tokenomics y en BSCScan.
+
+Total supply was minted and deposited to corresponding Smart Contracts for distribution:
+Platform users rewards, 24,000 BALLE in Smart Contracts: 0x2305423942390582058092
+BALLE holders rewards, 13,000 BALLE in Smart Contracts: 0x2305423942390582058092
+Dev Team funds, 3000 BALLE in Smart Contracts:
+
+0x2305423942390582058092
+0x2305423942390582058092
+0x2305423942390582058092
+0x2305423942390582058092
+0x2305423942390582058092
+0x2305423942390582058092
+0x2305423942390582058092
+
+No more supply is possible, minter account was removed from Smart Contractsand is not possible to set a new one.
+Transactions: 0x2305423942390582058092 and 0x2305423942390582058092.
