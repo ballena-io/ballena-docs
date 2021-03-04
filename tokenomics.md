@@ -4,17 +4,15 @@
 
 [ballena.io](https://ballena.io/) started with no pre-sale and has an immutable max supply of 40000 BALLE token. All of them will be freely distributed to our community of users and holders and a small amount allocated to our Dev. Team and promotion purposes.
 
-
-
-![](.gitbook/assets/BALLE_Token_Distribution.png)
+![](.gitbook/assets/balle_token_distribution%20%281%29.png)
 
 ### **Percentage Breakdown**
 
 Total fix supply distributed as:
 
 * **60% - 24000 BALLE tokens:** Distributed among all platform users.
-* **33.3% - 13300 BALLE tokens:** Distributed among BALLE holders as an extra reward.
-* **6.8% - 2700 BALLE tokens:** Dev. Team funds, these are dedicated to the dev team to ensure sustainable and rapid innovation and for promotion actions.
+* **32.5% - 13000 BALLE tokens:** Distributed among BALLE holders as an extra reward.
+* **7.5% - 3000 BALLE tokens:** Dev. Team funds, these are dedicated to the dev team to ensure sustainable and rapid innovation and for promotion actions.
 
 
 
@@ -30,7 +28,7 @@ Total fix supply distributed as:
 
 All distribution mechanisms are already implemented in our Smart Contracts. Only a multiplier can be modified in order to adjust the rewards rate for certain pools. All info will be clearly stated on the user interface.
 
-A total of 37300 BALLE tokens will be distributed among Yield Optimizer App and Governance App users accordingly.
+A total of 37000 BALLE tokens will be distributed among Yield Optimizer App and Governance App users accordingly.
 
 
 
@@ -44,7 +42,7 @@ Every 3 seconds a BSC block is released. At the same time, a fixed BALLE amount 
 
 ### BALLE holders distribution \(Governance App\)
 
-BALLE holders actively participating in the Governance APP \(BALLEReward Pool or BALLE Staking Pool\) will receive a 3% of the Yield Optimizer App revenue. Apart from these gains, BALLE holders actively participating in the BALLE staking pool, or governance pool, will be rewarded with an extra 13300 BALLE token distribution.
+BALLE holders actively participating in the Governance APP \(BALLEReward Pool or BALLE Staking Pool\) will receive a 3% of the Yield Optimizer App revenue. Apart from these gains, BALLE holders actively participating in the BALLE staking pool, or governance pool, will be rewarded with an extra 13000 BALLE token distribution.
 
 This extra reward will be distributed as a multiplier to the standard fee allocation resulting from the Yield Optimizer App revenue. The extra reward multiplier will clearly appear as a x10, x100 or x200 multiplier in the BALLE staking pool, meaning the user will receive the fees proportional amount of BALLE regarding his pool share multiplied by this value.
 
@@ -55,8 +53,8 @@ This extra reward will be distributed as a multiplier to the standard fee alloca
 Total supply was minted and deposited to corresponding Smart Contracts for distribution:
 
 * Platform users rewards, 24,000 BALLE in Smart Contracts: 0x2305423942390582058092
-* BALLE holders rewards, 13,300 BALLE in Smart Contracts: 0x2305423942390582058092
-* Dev Team funds, 2,700 BALLE in Smart Contracts:
+* BALLE holders rewards, 13,000 BALLE in Smart Contracts: 0x2305423942390582058092
+* Dev Team funds, 3000 BALLE in Smart Contracts:
 
 
 
