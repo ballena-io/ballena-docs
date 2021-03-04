@@ -34,7 +34,7 @@ Accede a la Billetera pulsando el icono “Billetera” en la parte inferior de 
 
 
 
-![](../../.gitbook/assets/screenshot_20210224-221906%20%286%29%20%286%29%20%286%29%20%285%29.jpg)
+![](../../.gitbook/assets/screenshot_20210224-221906%20%286%29%20%286%29%20%286%29%20%286%29%20%286%29%20%285%29.jpg)
 
 
 
