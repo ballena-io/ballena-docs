@@ -48,6 +48,18 @@ This extra reward will be distributed as a multiplier to the standard fee alloca
 
 
 
+## Fees
+
+[ballena.io](https://ballena.io/) products must comply with some fees stated below:
+
+* The 4% of the platform´s total revenue are distributed as:
+  * 3% for the BALLE holders actively participating in the BALLE Staking Pool.
+  * 1% allocated to the project treasury \(this amount faces the reinvesting fees and Smart Contracts deployment fees\).
+* A 10% of the Governance Pool´s extra reward is also allocated to the treasury only during its distribution process.
+* 0.1% is the vaults´ harvest fee.
+
+
+
 ## Smart contracts
 
 Total supply was minted and deposited to corresponding Smart Contracts for distribution:
