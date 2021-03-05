@@ -16,7 +16,7 @@ La DAO cuenta con un protocolo de consenso. Este garantiza una toma de decisione
 
 El token BALLE garantiza la solvencia económica de la DAO mediante su distribución regulada y constatada en los Smart Contracts. Además este token otorga a los usuarios el poder de votar nuevos cambios e ideas y recompensa económicamente a los que lo poseen. Para más información acceder a [Gobernanza](gobernanza.md).
 
-## Wallet Safety
+## Wallet Safety: Primer proyecto de la BSC bajo la seguridad Gnosis
 
 Estamos orgullosos de anunciar que **Somos el primer proyecto en implementar Gnosis** como sistema Multi-firma en la BSC.
 
