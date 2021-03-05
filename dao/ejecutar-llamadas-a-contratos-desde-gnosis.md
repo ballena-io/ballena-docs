@@ -18,8 +18,9 @@ El ABI lo podemos obtener en BscScan de la siguiente manera:
 
 Por ejemplo, vamos a convertir BNB en WBNB, esto se hace enviando al contrato de WBNB la cantidad de BNB a convertir y nos devolverá la misma cantidad en WBNB.
 
-Navegando a [https://bscscan.com/address/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c\#code](https://bscscan.com/address/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c#code) en la zona inferior de la página encontramos el apartado “Contract ABI” que habrá que copiar y pegar en Gnosis  
-****
+Navegando a [https://bscscan.com/address/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c\#code](https://bscscan.com/address/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c#code) en la zona inferior de la página encontramos el apartado “Contract ABI” que habrá que copiar y pegar en Gnosis.
+
+
 
 ![](https://lh4.googleusercontent.com/yFFxY5qDccg_XYPMuGQ4u_ymRXG_fi4ENlgxmOV1DfbAFu1KQWoHtHdcNuTEbCqVo6B7MdqTIsNdrSghX1viDvNLXNAkMv-ZJ8sOc0Flt_qvY2mgaXP3xGdhbWLg4ZAe6vbsWvvC)
 
