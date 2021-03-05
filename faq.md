@@ -124,10 +124,9 @@ The auto-compound is the automatic reinvestment of all your pool gains.[ ballena
 
 [ballena.io](https://ballena.io/) products must comply with some fees stated below:
 
-* The 0.4% of the platform´s total revenue are distributed as:
+* The 4% of the platform´s total revenue are distributed as:
   * 3% for the BALLE holders actively participating in the BALLE Staking Pool.
-  * 0.5% is used for the reinvesting process fee.
-  * 0.5% allocated to the project treasury.
+  * 1% allocated to the project treasury \(this amount faces the reinvesting fees and Smart Contracts deployment\).
 * A 10% of the Governance Pool´s extra reward is also allocated to the treasury only during its distribution process.
 * 0.1% is the vaults´ harvest fee.
 
