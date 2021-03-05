@@ -6,7 +6,7 @@
   * [PC](tutorials/pc/README.md)
     * [First steps: Binance - PC](tutorials/pc/first-steps-binance-pc/README.md)
       * [Set up a Binance account - PC](tutorials/pc/first-steps-binance-pc/set-up-a-binance-account-pc.md)
-      * [Deposit funds on Binance - PC](tutorials/pc/first-steps-binance-pc/deposit-funds-on-binance-pc.md)
+      * [Deposit funds in Binance - PC](tutorials/pc/first-steps-binance-pc/deposit-funds-in-binance-pc.md)
       * [Buy BNB on Binance - PC](tutorials/pc/first-steps-binance-pc/buy-bnb-on-binance-pc.md)
     * [Set up Metamask - PC](tutorials/pc/set-up-metamask-pc/README.md)
       * [How to set up Metamask - PC](tutorials/pc/set-up-metamask-pc/how-to-set-up-metamask.md)
