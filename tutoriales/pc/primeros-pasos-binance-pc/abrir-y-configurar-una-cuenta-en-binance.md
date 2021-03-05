@@ -1,6 +1,6 @@
 # Abrir y configurar una cuenta en Binance - PC
 
-## Cómo dar de alta en Binance
+## Cómo darse de alta en Binance
 
 Para poder empezar a trabajar en el mundo de las criptomonedas, es recomendable darse de alta en un Exchange. Puedes utilizar cualquier Exchange a tu elección, este tutorial se centra en [Binance](https://www.binance.com/es).
 
@@ -79,6 +79,10 @@ Para las opciones de depósito Fiat o compra con tarjeta de crédito deberás pa
 ### 7. Ya estas dado de alta en Binance.
 
 Una vez identificado en la plataforma podrás cargar saldo o comprar cripto para pasar a Binance Smart Chain. Estos pasos los podrás ver en el correspondiente tutorial.
+
+
+
+
 
 
 
