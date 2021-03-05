@@ -46,6 +46,16 @@ Los usuarios que poseen tokens BALLE y que participan activamente en la App de G
 
 Esta recompensa extra será distribuida como un multiplicador sobre el retorno generado de la tasa de la Yield Optimizer App. Este multiplicador aparecerá como un x10, x100 o x200 en la pool de gobernanza, o staking pool. De esta manera, el usuario recibirá la parte proporcional de la tasa multiplicada por este factor dependiendo del porcentaje aportado a la pool.
 
+## Fees
+
+En los productos de [ballena.io](https://ballena.io/) hay implicitas unas fees que se redactan a continuación:
+
+* El 4% de los beneficios de la plataforma se reparten como:
+  * 3% para los holders de BALLE que participen activamente en la Staking Pool.
+  * 1% destinado a la tesorería del proyecto \(Tambíen destinados a pagar las tasas de reinversión, despliegues de contratos, etc.\)
+* Un 10% de la recompensa extra de la pool de gobernanza está destinado también a la misma. Esta fee sólo será recaudada mientras se siga repartiendo la recompensa extra.
+* La tasa de retiro de las Vaults o pools es del 0.1%.
+
 
 
 ## Smart contracts
