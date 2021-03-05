@@ -6,7 +6,7 @@ We need to set up an account in one of the exchanges in the crypto-market. Which
 
 
 
-### 1. Navigate to [Binance](https://www.binance.com/en).
+### 1. Navigate to [Binance](https://www.binance.com/en) in your browser.
 
 Open your browser and navigate to the [Binance ](https://www.binance.com/en)webpage. We recommend you insert the address directly into your browser and always verify you are working in the right domain.
 
