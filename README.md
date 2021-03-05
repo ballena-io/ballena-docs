@@ -24,7 +24,7 @@ The BALLE Governance token guarantees the economic stability of the DAO through 
 
 
 
-## Wallet Safety
+## Wallet Safety: First BSC project under Gnosis Safety
 
 We are glad to announce **We are the first project working with Gnosis** Multisig system in the Binance Smart Chain. 
 
