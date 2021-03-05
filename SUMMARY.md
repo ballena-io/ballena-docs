@@ -39,6 +39,7 @@
 * [Gobernanza](gobernanza.md)
 * [Seguridad y Riesgos](seguridad-y-riesgos.md)
 * [FAQ](faq.md)
+* [DAO](dao.md)
 * [Desarrolladores](desarrolladores/README.md)
   * [Deployed Contract Registry](desarrolladores/deployed-contract-registry.md)
   * [Code Repositories](desarrolladores/code-repositories.md)
