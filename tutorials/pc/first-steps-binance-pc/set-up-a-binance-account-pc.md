@@ -16,7 +16,7 @@ Open your browser and navigate to the [Binance ](https://www.binance.com/en)webp
 
 
 
-![](../../../.gitbook/assets/binance_1.png)
+![](../../../.gitbook/assets/abrirbinance1.png)
 
 ### 
 
@@ -26,7 +26,7 @@ Fill in the required fields with our mail and a safe password.
 
 
 
-![](../../../.gitbook/assets/binance_2%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.png)
+![](../../../.gitbook/assets/abrirbinance2.png)
 
 ### 
 
@@ -36,7 +36,7 @@ Click on "Create account" and complete the security verification sliding the puz
 
 
 
-![](../../../.gitbook/assets/binance_4%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%281%29.png)
+![](../../../.gitbook/assets/abrirbinance3.png)
 
 ### 
 
@@ -46,7 +46,9 @@ Check your mail and get the required code.
 
 
 
-![](../../../.gitbook/assets/binance_5%20%281%29%20%281%29%20%281%29%20%281%29.png)
+![](../../../.gitbook/assets/abrirbinance4.png)
+
+
 
 
 
@@ -54,7 +56,7 @@ We shall see an email like the following one.
 
 
 
-![](../../../.gitbook/assets/binance_6%20%281%29%20%281%29%20%281%29.png)
+![](../../../.gitbook/assets/abrirbinance5.png)
 
 ### 
 
@@ -65,12 +67,6 @@ Use the received six digit code to complete the verification phase.
 
 
 ### 6. Once verified, you have successfully set up a Binance account. 
-
-You will now see three ways for depositing funds. We will cover this step in the next tutorial.
-
-
-
-![](../../../.gitbook/assets/binance_7.png)
 
 
 
