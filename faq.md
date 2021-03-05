@@ -122,10 +122,9 @@ El auto-compound, o reinversión automática, recoge tus beneficios de cada una 
 
 En los productos de [ballena.io](https://ballena.io/) hay implicitas unas fees que se redactan a continuación:
 
-* El 0.4% de los beneficios de la plataforma se reparten como:
+* El 4% de los beneficios de la plataforma se reparten como:
   * 3% para los holders de BALLE que participen activamente en la Staking Pool.
-  * 0.5% se utiliza para pagar la tasa del proceso de reinversión.
-  * 0.5% destinado a la tesorería del proyecto.
+  * 1% destinado a la tesorería del proyecto \(Tambíen destinados a pagar las tasas de reinversión, despliegues de contratos, etc.\)
 * Un 10% de la recompensa extra de la pool de gobernanza está destinado también a la misma. Esta fee sólo será recaudada mientras se siga repartiendo la recompensa extra.
 * La tasa de retiro de las Vaults o pools es del 0.1%.
 
