@@ -18,7 +18,7 @@ The revenue will then be generated as BALLE tokens in the [Governance Pool](prod
 
 ## Wallet Safety
 
-We are glad to announce **we are the first project working with Gnosis** Multisig system in the Binance Smart Chain. 
+We are glad to announce **We are the first project working with Gnosis** Multisig system in the Binance Smart Chain. 
 
 A multiple signature wallet is a cryptocurrency wallet that controls access and changes to one or more Smart Contracts. Most of the community governed projects in the Ethereum network often require multiple signers to approve a transaction before it will be executed. In Binance Smart Chain, we are the first project implementing Gnosis Safe to run our DAO. 
 
