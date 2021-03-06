@@ -1,6 +1,6 @@
 # ¿Qué es esto? Guía para los más nuevos
 
-## ¿Qué es esto de las DeFi  y porqué está tan de moda? 
+## ¿Qué es esto de las DeFi  y porqué está tan de moda?
 
 Finanzas descentralizadas. Es decir, no hay una institución que gobierne la aplicación. Esto evita manipulación, malversación y altas tasas de operación que tan acostumbrados estamos a ver.  
 
