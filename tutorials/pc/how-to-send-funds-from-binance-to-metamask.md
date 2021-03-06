@@ -20,11 +20,13 @@
 
 ### 
 
-### 3. El siguiente paso será rellenar los campos del cuadro de la parte derecha del panel. Lo rimero que tendremos que hacer aquí es seleccionar "Binance Smart Chain \(BSC\)".
+### 3. Fill in the fields in the right hand panel. First, select "Binance Smart Chain \(BSC\)".
 
 ​​
 
-![](../../.gitbook/assets/binance_enviarbnb2.png)
+![](../../.gitbook/assets/enviarbnb1.png)
+
+
 
 ​
 
