@@ -18,7 +18,7 @@
 
 ### 
 
-### 3. El siguiente paso será rellenar los campos del cuadro de la parte derecha del panel. Lo rimero que tendremos que hacer aquí es seleccionar "Binance Smart Chain \(BSC\)".
+### 3. El siguiente paso será rellenar los campos del cuadro de la parte derecha del panel. Lo primero que tendremos que hacer aquí es seleccionar "Binance Smart Chain \(BSC\)".
 
 ​​
 
