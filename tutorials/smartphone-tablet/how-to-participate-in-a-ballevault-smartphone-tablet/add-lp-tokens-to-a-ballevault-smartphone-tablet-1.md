@@ -1,6 +1,10 @@
 # Add LP tokens to a BalleVault - Smartphone-Tablet
 
-## Cómo añadir los tokens LP a una BalleVault \(Bóveda\) en Ballena.io
+## Add LP tokens to a BalleVault in [ballena.io](https://ballena.io/)
+
+You will learn how to add your LP tokens to the BalleVaults in this short tutorial.
+
+Remember that [adding liquidity](add-liquidity-to-a-lp-smartphone-tablet.md) to a pair in PancakeSwap is mandatory in order to participate in a BalleVault as LP tokens are deposited.
 
 
 
@@ -8,23 +12,13 @@
 
 
 
-En este pequeño tutorial [ballena.io](https://ballena.io/) os muestra cómo agregar tanto LP tokens como tokens en forma singular a las BalleVaults.
-
-Cuando queramos sacar rendimiento de nuestros tokens LP de las distintas plataformas las pondremos en la Bóveda que deseemos y a continuación ya nos irá generando rendimiento. Recuerda que para participar en las bóvedas LP antes es necesario que hayas agregado liquidez al de los pares indicados y en el Exchange al que hace referencia cada Bóveda.
 
 
-
-### 1. Antes de añadir tokens LP a un Bóveda debes haber añadido liquidez.
-
-Si no lo has hecho puedes seguir los pasos en el apartado [Cómo añadir liquidez en Pancakeswap con Trust Wallet](). Cuando aportas liquidez, los tokens aportados ya no se visualizarán en tu billetera de Trust Wallet, pero podrás ver que te aparecen unos Tokens LP vinculados a la liquidez aportada.
-
-
-
-### 2. Navega a la dirección [ballena.io](https://ballena.io) utilizando la parte superior de la pantalla, donde aparece “Buscar o ingresar la url del sitio web”.
+### 2. Navigate to [ballena.io](https://ballena.io).
 
 ### 
 
-### 3. Pulsar la tecla “Launch App”.
+### 3. Press “Launch App”.
 
 
 
@@ -32,29 +26,9 @@ Si no lo has hecho puedes seguir los pasos en el apartado [Cómo añadir liquide
 
 ### 
 
-### 4. Encuentra la BalleVault deseada.
+### 4. Find your desired BalleVault.
 
-Cuando entras en [ballena.io](https://ballena.io) accedes directamente al apartado de Bóvedas. Utiliza el buscador para encontrar la Bóveda en la que quieres participar agregando tus token LP. Para encontrar la Bóveda. Utiliza los filtros siguientes:
-
-⦁  Plataforma: Selecciona la plataforma en la que has agregado liquidez. 
-
-⦁ Tipo de Bóveda: Selecciona entre los tipos siguientes: 
-
-⦁ ALL: Se muestran todas las Bóvedas activas en Ballena.io 
-
-⦁ Single Assets: Bóvedas que funcionan directamente con un Token. No es necesario agregar tokens LP. Funcionan directamente con Tokens. 
-
-⦁ Stable LP: Bóvedas que funcionan con Tokens o Tokens LP basados en tokens estables. 
-
-⦁ Stable: Bóvedas que funcionan con Tokens estables o con Tokens LP basados en tokens estable como mínimo en uno de sus pares. A diferencia de “Stable LP” en este caso podemos encontrarnos LP donde hay tokens stables y tokens no estable como el BNB. 
-
-⦁ Asset: Filtra las diferentes Bóvedas por el Token seleccionado. 
-
-⦁ Sort By: Puedes filtrar las Bóvedas según lo siguiente: 
-
-⦁ APY: Rendimiento % 
-
-⦁ TVL: Valor de todas las inversiones depositadas en la bóveda
+Once in [ballena.io](https://ballena.io), you can see all the BalleVaults in the first screen. Use the browser for easy navigation through all of them and use the filters as desired.
 
 
 
@@ -62,7 +36,7 @@ Cuando entras en [ballena.io](https://ballena.io) accedes directamente al aparta
 
 ### 
 
-### 5. Una vez seleccionada la Bóveda en la que queremos participar pulsar el icono de la flecha para desplegar las opciones de la bóveda.
+### 5. Once our BalleVault is selected, click on the downwards arrow to see the vault´s details.
 
 
 
@@ -70,7 +44,7 @@ Cuando entras en [ballena.io](https://ballena.io) accedes directamente al aparta
 
 ### 
 
-### 6. Una vez desplegado el detalle de la Bóveda, para añadir los tokens LP seleccionaremos “Aprobar”.
+### 6. Now approve the contract clicking on “Aprobar”.
 
 
 
@@ -78,9 +52,7 @@ Cuando entras en [ballena.io](https://ballena.io) accedes directamente al aparta
 
 ### 
 
-### 7. Aprobamos la transacción para poder trabajar con la Bóveda.
-
-Una vez confirmada la transacción nos tenemos que esperar unos segundos para que nos aparezcan las opciones de depósito.
+### 7. Confirm the transaction.
 
 
 
@@ -88,27 +60,23 @@ Una vez confirmada la transacción nos tenemos que esperar unos segundos para qu
 
 ### 
 
-### 8. Seleccionaremos la cantidad de LP a introducir en la Bóveda de las siguientes maneras:
+### 8. Select the desired LP tokens amount to be deposited in the BalleVault.
 
-⦁ Introducir directamente el valor en el recuadro. Fíjate que en “Balance” ya te debe aparecer el balance de esos LP que tienes en tu billetera. 
+### 9. Deposit the funds \("DEPOSITAR"\) in the desired BalleVault.
 
-⦁ Arrastrar la pelota de % hasta el porcentaje deseado.
+You can add a value to be deposited or press Deposit All\("DEPOSITAR TODO"\) in order to deposit your LP tokens.
 
 
 
 ![](../../../.gitbook/assets/ballena_boveda_deposita%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.jpg)
 
-### 
-
-### 9. Una vez seleccionada la cantidad a depositar pulsaremos “Depositar” o “Depositar Todo”.
-
-En el caso de pulsar depositar todo, asegúrate que el valor que aparece en el recuadro no sea superior al balance real disponible en tu billetera. En algunas ocasiones el balance que aparece en el recuadro al seleccionar “Depositar todo” es un balance redondeado y puede ser superior al que realmente tienes y no se realizará la operación. En este caso, por favor introduce manualmente el balance real de tu billetera que aparece en el campo “Balance”.
 
 
 
-### 10. Aprobamos la transacción para añadir nuestros tokens LP a la Bóveda.
 
-Tras unos segundos nos aparecerá la confirmación y veremos como los tokens LP que teníamos en el campo Balance, ahora aparecen en Depositado.
+### 10. Confirm the transaction.
+
+After confirmation you will see that your LP tokens transfer from the field Balance to the field Deposited. This process can take a little while.
 
 
 
@@ -116,7 +84,11 @@ Tras unos segundos nos aparecerá la confirmación y veremos como los tokens LP 
 
 ### 
 
-### 11. Tu bóveda ya está generando rendimiento. Ahora a disfrutar.
+### 11. Done! Your BalleVault is already working and yield farming.
+
+
+
+
 
 
 
