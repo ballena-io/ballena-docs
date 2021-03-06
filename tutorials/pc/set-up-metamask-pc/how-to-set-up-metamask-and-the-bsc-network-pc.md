@@ -1,6 +1,6 @@
-# How to set up Metamask - PC
+# How to set up Metamask and the BSC network- PC
 
-MetaMask is an ERC20 compatible wallet. This tutorial explains how to set up a Metamask wallet from scratch.
+MetaMask is an ERC20 compatible wallet. This tutorial explains how to set up a Metamask wallet from scratch. We will also learn how to set up the BSC network for this wallet.
 
 ## How to install MetaMask on your browser
 

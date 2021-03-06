@@ -10,7 +10,7 @@
       * [Trade your funds for BNB in Binance - PC](tutorials/pc/first-steps-binance-pc/trade-your-funds-for-bnb-in-binance-pc.md)
       * [Buy BNB in Binance\(Credit Card\) - PC](tutorials/pc/first-steps-binance-pc/buy-bnb-in-binance-credit-card-pc.md)
     * [Set up Metamask - PC](tutorials/pc/set-up-metamask-pc/README.md)
-      * [How to set up Metamask - PC](tutorials/pc/set-up-metamask-pc/how-to-set-up-metamask.md)
+      * [How to set up Metamask and the BSC network- PC](tutorials/pc/set-up-metamask-pc/how-to-set-up-metamask-and-the-bsc-network-pc.md)
       * [How to Add a Custom Token to Metamask - PC](tutorials/pc/set-up-metamask-pc/how-to-add-a-custom-token-to-metamask.md)
     * [How to send funds from Binance to Metamask - PC](tutorials/pc/how-to-send-funds-from-binance-to-metamask.md)
     * [How to trade BNB for another Token on PancakeSwap - PC](tutorials/pc/how-to-trade-bnb-for-another-token-on-pancakeswap.md)

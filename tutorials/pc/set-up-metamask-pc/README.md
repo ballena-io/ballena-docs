@@ -6,7 +6,7 @@ Click on the links below.
 
 
 
-{% page-ref page="how-to-set-up-metamask.md" %}
+{% page-ref page="how-to-set-up-metamask-and-the-bsc-network-pc.md" %}
 
 {% page-ref page="how-to-add-a-custom-token-to-metamask.md" %}
 

@@ -20,7 +20,7 @@ Remember that adding liquidity to a pair in PancakeSwap is mandatory in order to
 
 
 
-In case of "Connection error" message display, make sure you have selected the BSC network on your Metamask.  Check it out in [this ](../set-up-metamask-pc/how-to-set-up-metamask.md#how-to-set-up-the-bsc-on-your-wallet)tutorial.
+In case of "Connection error" message display, make sure you have selected the BSC network on your Metamask.  Check it out in [this ](../set-up-metamask-pc/how-to-set-up-metamask-and-the-bsc-network-pc.md#how-to-set-up-the-bsc-on-your-wallet)tutorial.
 
 
 
