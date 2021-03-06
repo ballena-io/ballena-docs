@@ -1,8 +1,8 @@
 # Cómo configurar Metamask y la red BSC - PC
 
-## Cómo configurar MetaMask
+## Cómo configurar MetaMask y la red BSC
 
-MetaMask es una billetera, o wallet, compatible con ERC20. En este tutorial explicaremos cómo configurar una wallet en MetaMask desde el comienzo.
+MetaMask es una billetera, o wallet, compatible con ERC20. En este tutorial explicaremos cómo configurar una wallet en MetaMask desde el comienzo. Además veremos cómo configurar la red BSC para la misma.
 
 
 
