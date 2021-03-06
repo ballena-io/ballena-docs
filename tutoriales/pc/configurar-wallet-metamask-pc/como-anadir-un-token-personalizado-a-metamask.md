@@ -2,7 +2,9 @@
 
 ## IN PROGESS- NO SEGUIR ESTE TUTORIAL HASTA SU FINALIZACIÓN
 
-## 
+
+
+Explicar para que sirve agregar un token
 
 ## Cómo añadir un Token personalizado a Metemask
 
