@@ -2,21 +2,19 @@
 
 ## How to add liquidity in PancakeSwap through Trust Wallet
 
-## Cómo añadir liquidez en Pancakeswap con Trust Wallet
-
-En muchas ocasiones querrás añadir liquidez en Pancakeswap para obtener un rendimiento en base a estos tokens LP en [ballena.io](https://ballena.io/). Para eso es necesario acceder a “Pancakeswap” donde podremos añadir liquidez al par que queramos. Hay que tener en cuenta que hay que proporcionar el mismo valor en los dos tokens que utilicemos para añadir liquidez, si no tenemos suficientes deberemos utilizar la opción swap y realizar los cambios que necesitemos.
+If you want to participate in a BalleVault at [ballena.io](https://ballena.io/), you should add liquidity to a LP\(Liquidity Pool\) in PancakeSwap. You should then open your browser and navigate to [Pancakeswap](https://pancakeswap.finance/) for that purpose. We need to take into account that if we are adding liquidity to a pair, we will need to supply the same value for both assets, so swaps may be required before this operation.
 
 
 
-### 1. Accede a PancakeSwap en el navegador Dapp.
+### 1. Access PancakeSwap in your Dapp browser.
 
-Una vez que hayas recargado la billetera con BNB, abre el navegador Dapp presionando los cuatro cuadros en la parte inferior de la aplicación. Navega hacia la Dapp de PancakeSwap dentro del apartado “Smart Chain” o introduciendo directamente su url: [https://exchange.pancakeswap.finance/](https://exchange.pancakeswap.finance/).
+Click on the 4 square icon at the lower part of the screen for accessing the Dapp browser. Go to the PancakeSwap Dapp in the Smart Chain part or enter the url: [https://exchange.pancakeswap.finance/](https://exchange.pancakeswap.finance/).
 
 
 
-### 2. Haz Clic en “Liquidity” para empezar a suministrar tokens a la plataforma PancakeSwap. Para continuar haz click en “Add Liquitidy”. 
+### 2. Click on “Liquidity” for supplying PancakeSwap. Now press “Add Liquidity”. 
 
-Escoge los tokens que deseas depositar y aprueba primero. Introduzca la cantidad de tokens, la plataforma calculará automáticamente la cantidad proporcional que debe proporcionar.
+Choose the tokens to be supplied and approve the contract. Now enter the desired token amount and the platform will automatically select the proportional other token´s amount.
 
 
 
@@ -24,7 +22,7 @@ Escoge los tokens que deseas depositar y aprueba primero. Introduzca la cantidad
 
 ### 
 
-### 3. Haga click en “Supply” y luego “Confirm Supply”. A continuación, la aplicación le pedirá nuevamente que confirme. Presione “Send” para depositar sus tokens en la plataforma.
+### 3. Click on "Supply" and then "Confirm Supply". The app will require confirmation. Press "Send" for supplying the tokens to PancakeSwap.
 
 
 
@@ -32,7 +30,7 @@ Escoge los tokens que deseas depositar y aprueba primero. Introduzca la cantidad
 
 
 
-Verás una confirmación una vez que se hayan proporcionado los tokens. Obtendrás tokens de “Proveedor de Liquidez” \(LP\) que te otorgan una parte de las tarifas que gana el intercambio PancakeSwap. Estos tokens LP también se denominan tokens FLIP.
+Once the tokens are supplied you will see a confirmation sign. Now that the tokens are supplied you won´t be able to see them in your wallet but you will be able to see the supplied LP Tokens.
 
 
 
@@ -40,9 +38,13 @@ Verás una confirmación una vez que se hayan proporcionado los tokens. Obtendr�
 
 
 
-Ten en cuenta que cuando aportas liquidez, los tokens aportados ya no se visualizarán en tu billetera de Trust Wallet, pero podrás ver que te aparecen unos Tokens LP vinculados a la liquidez aportada.
+
+
+### 4. The liquidity has been added.
 
 
 
-### 4. La liquidez ha sido aportada.
+
+
+
 
