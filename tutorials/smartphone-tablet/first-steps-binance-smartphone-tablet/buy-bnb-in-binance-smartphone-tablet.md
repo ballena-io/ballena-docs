@@ -24,7 +24,7 @@ You can use some other currencies depending on your country or base currency.
 
 
 
-Remember that you will need BNB for the fees payment in most of the BSC network projects 
+Remember that you will need BNB for the fees payment in most of the BSC network projects.
 
 
 
