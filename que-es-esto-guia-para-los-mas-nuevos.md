@@ -12,11 +12,7 @@ Esto sería como cuando antiguamente el banco ofrecía ciertos intereses por dep
 
 La aplicación de [ballena.io](https://ballena.io/) funciona como enlace a este tipo de fondos de liquidez. Por lo general, en este tipo de plataformas puedes cosechar manualmente los beneficios obtenidos para sacarlos de la plataforma o volverlos a reinvertir pagando unas tasas.
 
-
-
 ![](.gitbook/assets/image%20%282%29.png)
-
-
 
 [ballena.io](https://ballena.io/) tiene como uno de sus objetivos principales **reinvertir continuamente tus beneficios generando así ganancias exponenciales**. Para entender esto veamos el siguiente gráfico. La línea azul denota la inversión de interés simple, es decir, no tiene en cuenta la reinversión. En cambio la línea naranja muestra la progresión de tus fondos como **inversión compuesta**.  
   
@@ -43,19 +39,15 @@ Si estás pensando en **invertir** en un proyecto de DeFi tienes que estar segur
 
 El proyecto [ballena.io](https://ballena.io/) es completamente transparente y puedes ver todos estos datos en su documentación junto a los tutoriales. Podrás ver los [tokenomics](tokenomics.md), es decir, cómo se gestiona la economía del proyecto y más detalles de este tipo. A continuación se muestran las características principales en respuesta a preguntas típicas y estos puntos citados anteriormente.
 
-
-
 ### ¿Quién está detrás del proyecto?
 
-Detrás del proyecto se encuentra la comunidad que nació en [Telegram](https://t.me/stgcrypto) con afán de crear un grupo de trabajo en el mundo de las crypto. Con más de 7.000 usuarios en el grupo, ahora esta comunidad tiene la forma de [DAO](dao/), Organización Autónoma Descentralizada, donde la organización se coordina de manera autónoma por los contratos inteligentes. Es decir, **las decisiones se toman en comunidad** y el poder no recae sobre unos pocos.
-
-  
+Detrás del proyecto se encuentra la comunidad que nació en [Telegram](https://t.me/stgcrypto) con afán de crear un grupo de trabajo en el mundo de las crypto. Con más de 7.000 usuarios en el grupo, ahora esta comunidad tiene la forma de [DAO](dao/), Organización Autónoma Descentralizada, donde la organización se coordina de manera autónoma por los contratos inteligentes. Es decir, **las decisiones se toman en comunidad** y el poder no recae sobre unos pocos.  
 
 
 ### ¿Cuál es su objetivo?
 
-De interés social y lucrativo para toda la comunidad de libre acceso y con objetivo de ofrecer también un producto útil de alto rendimiento para el público general. Además se centra en dar respuesta a los problemas originados por el lenguaje, ya que todas las plataformas DeFi se encuentran en inglés, [**ballena.io**](https://ballena.io/) **apuesta por el español** como lengua principal y el inglés como secundaria. Otro de los objetivos más perseguidos es la accesibilidad para los usuarios de todos los niveles, como podrás comprobar [ballena.io](https://ballena.io/) hace fácil lo complicado.
-
+De interés social y lucrativo para toda la comunidad de libre acceso y con objetivo de ofrecer también un producto útil de alto rendimiento para el público general. Además se centra en dar respuesta a los problemas originados por el lenguaje, ya que todas las plataformas DeFi se encuentran en inglés, [**ballena.io**](https://ballena.io/) **apuesta por el español** como lengua principal y el inglés como secundaria. Otro de los objetivos más perseguidos es la accesibilidad para los usuarios de todos los niveles, como podrás comprobar [ballena.io](https://ballena.io/) hace fácil lo complicado.  
+  
 
 
 ### ¿Quién y cómo se toman las decisiones?
@@ -63,8 +55,6 @@ De interés social y lucrativo para toda la comunidad de libre acceso y con obje
 Las decisiones se toman en comunidad entre todos los usuarios que poseen el token de la plataforma BALLE. Es decir, si tu como usuario tienes algún token BALLE tendrás derecho a votar las decisiones. 
 
 [ballena.io](https://ballena.io/) cuenta con una [plataforma de votación](https://vote.ballena.io) en la que se proponen nuevos cambios y son votados por todos los usuarios para su puesta en marcha. 
-
-
 
 ### ¿Quién se encarga de gestionar los fondos de tesorería del proyecto?
 
@@ -74,9 +64,7 @@ El proyecto cuenta con una tesorería que se lleva un mínimo porcentaje de los 
 * Pagar las tasas de transacciones.
 * Costes de promoción
 
-Los fondos de tesorería se gestionan mediante un [sistema multi-firma llamado Gnosis](https://gnosis-safe.binance.org/#/safes/0x0b56828DfA6fe4144B8619c0f66b9FD594766c29/transactions). Se detalla con profundidad en la plataforma pero resumidamente **requiere un mínimo número de firmas de la comunidad** para llevar a cabo cualquier movimiento evitando así la malversación de fondos.
-
-
+Los fondos de tesorería se gestionan mediante un [sistema multi-firma llamado Gnosis](https://gnosis-safe.binance.org/#/safes/0x0b56828DfA6fe4144B8619c0f66b9FD594766c29/transactions). See detalla con profundidad en la plataforma pero resumidamente **requiere un mínimo número de firmas de la comunidad** para llevar a cabo cualquier movimiento evitando así la malversación de fondos.
 
 ### Rendimientos
 
@@ -86,16 +74,12 @@ En resumidas cuentas, **obtendrás un beneficio por aportar fondos y además una
 
 A parte de esto, tendrás que tener en cuenta la fluctuación de la criptodivisa para el cálculo de tus beneficios. Es decir, el hecho de que el precio de la criptomoneda que has decidido aportar suba o baje causará un impacto en el valor de tu inversión. Es decir, los tokens aportados serán siempre los mismos y los tokens generados por el rendimiento irá creciendo exponencialmente, pero esto es independiente del valor de estos tokens. Por lo tanto, además de contar con este crecimiento del número de tokens aportados tendrás que estar atento a la tendencia que tiene el valor de tus criptomonedas aportadas.
 
-
-
 ### ¿Con qué fondos de liquidez trabaja [ballena.io](https://ballena.io/) ?
 
 [ballena.io](https://ballena.io/) trabaja con dos grupos de fondos de liquidez. 
 
 * Por un lado el fondo BALLE de nuestra comunidad, llamado **BALLE Staking Pool**. Podrás ver el código de los contratos en nuestra documentación.
 * Por otro lado, [ballena.io](https://ballena.io/) trabaja sobre los fondos de [PancakeSwap](https://pancakeswap.finance/). Una de las mejores plataformas DeFi hasta el momento. Puedes ver todo su código y [auditorias de seguridad](https://certik-public-assets.s3.amazonaws.com/REP-PancakeSwap-16_10_2020.pdf) en la documentación de su plataforma.
-
-### 
 
 ### ¿Es complicado operar en [ballena.io](https://ballena.io/) o cualquier DeFi de este tipo?
 
@@ -105,17 +89,11 @@ El proyecto nace por un bien común de la comunidad, buscar los máximos rendimi
 
 El hecho de actuar todos de manera conjunta en busca de estas oportunidades hace que las tasas de operación se paguen de manera conjunta y reduzcan al mínimo el impacto sobre el individuo.
 
-
-
 ### ¿Puedo retirar el dinero cuando quiera?
 
-Por supuesto! Una vez aportado el capital, [ballena.io](https://ballena.io/) se encarga de maximizar tus rendimientos automáticamente pero puedes retirarlos en cualquier momento de manera instantánea. Simplemente haciendo click en "**Cosechar"**, recibirás en tu billetera tanto los tokens que invertiste cómo los beneficios generados.
-
-
+Por supuesto! Una vez aportado el capital, [ballena.io](https://ballena.io/) se encarga de maximizar tus rendimientos automáticamente pero puedes retirarlos en cualquier momento de manera instantánea. Simplemente haciendo click en "**Recolectar"**, recibirás en tu billetera tanto los tokens que invertiste cómo los beneficios generados.
 
 ![](.gitbook/assets/image%20%281%29.png)
-
-### 
 
 ### Me gusta como suena esto, ¿por dónde empiezo?
 
