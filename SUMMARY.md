@@ -7,6 +7,7 @@
     * [Primeros pasos: Binance - PC](tutoriales/pc/primeros-pasos-binance-pc/README.md)
       * [Abrir y configurar una cuenta en Binance - PC](tutoriales/pc/primeros-pasos-binance-pc/abrir-y-configurar-una-cuenta-en-binance.md)
       * [Depositar fondos en Binance - PC](tutoriales/pc/primeros-pasos-binance-pc/depositar-fondos-en-binance.md)
+      * [Convertir tus fondos a BNB en Binance - PC](tutoriales/pc/primeros-pasos-binance-pc/convertir-tus-fondos-a-bnb-en-binance-pc.md)
       * [Comprar BNB en Binance - PC](tutoriales/pc/primeros-pasos-binance-pc/comprar-bnb-en-binance.md)
     * [Configurar Wallet: Metamask - PC](tutoriales/pc/configurar-wallet-metamask-pc/README.md)
       * [Cómo configurar Metamask - PC](tutoriales/pc/configurar-wallet-metamask-pc/como-configurar-metamask.md)
