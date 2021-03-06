@@ -28,7 +28,7 @@
 
 
 
-![](../../../.gitbook/assets/fondosbinance3.png)
+![](../../../.gitbook/assets/fondosbinance3%20%281%29.png)
 
 ### 
 
