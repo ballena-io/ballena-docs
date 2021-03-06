@@ -1,8 +1,8 @@
----
-description: TODO with BALLE
----
-
 # Cómo añadir un Token personalizado a Metamask - PC
+
+## IN PROGESS- NO SEGUIR ESTE TUTORIAL HASTA SU FINALIZACIÓN
+
+## 
 
 ## Cómo añadir un Token personalizado a Metemask
 
