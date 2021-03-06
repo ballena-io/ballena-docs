@@ -6,8 +6,6 @@
 
 
 
-## Step by step
-
 ### 1. Open the Binance web page and log in with your credentials. Now, navigate to "Wallet-Fiat and Spot".
 
 ### 
