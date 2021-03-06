@@ -1,24 +1,20 @@
 # How to navigate through Dapps in TrustWallet -  Smartphone/Tablet
 
-## Cómo usar las Dapps de Binance Smart Chain
+## How to navigate through Dapps in Trust Wallet
+
+### 1. iOS users will need the Dapp browser for accessing this utility. 
+
+You can get the required browser in this [link](https://community.trustwallet.com/t/how-to-use-the-dapp-browser-on-ios/69390?ref=JLI1VBLA&utm_source=TrustTwitter&utm_medium=TrustSocial&utm_campaign=TrustSocial). The Dapp browser is included for all Android users, so if you are one of these, you don´t need to worry about it.
 
 
 
-### 1. Para poder acceder a esta funcionalidad en Trust Wallet, los usuarios de iOS necesitan el navegador Dapp.
+### 2. Open the Dapp browser.
 
-Este navegador se puede conseguir en la siguiente guía haciendo click [aquí](https://community.trustwallet.com/t/how-to-use-the-dapp-browser-on-ios/69390?ref=JLI1VBLA&utm_source=TrustTwitter&utm_medium=TrustSocial&utm_campaign=TrustSocial). Los usuarios de Android cuentan con el navegador DApp de manera predeterminada.
-
-
-
-### 2. Abre el navegador Dapp.
-
-Una vez que hayas recargado la billetera, abre el navegador Dapp presionando los cuatro cuadros en la parte inferior de la aplicación.
+Click on the 4 square icon at the lower part of the screen for accessing the Dapp browser.
 
 
 
-### 3. Navega hacia una Dapp de Binance Smart Chain como Pancake Swap y selecciona la aplicación.
-
-Una de las Dapp utilizadas para agregar toquens LP a nuestras bóvedas es PancakeSwap, para más información puedes ir al [apartado correspondiente]().
+### 3. Navigate to any BSC Dapps like PancakeSwap and open it.
 
 
 
@@ -26,31 +22,39 @@ Una de las Dapp utilizadas para agregar toquens LP a nuestras bóvedas es Pancak
 
 
 
-### 3. ¡Listo! Utiliza la Dapp y diviértete!!
+### 3. Done! You are able to use the Dapps now!
 
 
 
-## Cómo usar la Dapps de Ballena.io en Binance Smart Chain
+## How to use the [ballena.io](https://ballena.io)  Dapp
+
+### 1. iOS users will need the Dapp browser for accessing this utility. 
+
+You can get the required browser in this [link](https://community.trustwallet.com/t/how-to-use-the-dapp-browser-on-ios/69390?ref=JLI1VBLA&utm_source=TrustTwitter&utm_medium=TrustSocial&utm_campaign=TrustSocial). The Dapp browser is included for all Android users, so if you are one of these, you don´t need to worry about it.
 
 
 
-### 1. Para poder acceder a esta funcionalidad en Trust Wallet, los usuarios de iOS necesitan el navegador Dapp.
+### 2. Open the Dapp browser.
 
-Este navegador se puede conseguir en la siguiente guía haciendo click [aquí](https://community.trustwallet.com/t/how-to-use-the-dapp-browser-on-ios/69390?ref=JLI1VBLA&utm_source=TrustTwitter&utm_medium=TrustSocial&utm_campaign=TrustSocial). Los usuarios de Android cuentan con el navegador DApp de manera predeterminada.
-
-### 2. Abre el navegador Dapp.
-
-Una vez que hayas recargado la billetera, abre el navegador Dapp presionando los cuatro cuadros en la parte inferior de la aplicación.
+Click on the 4 square icon at the lower part of the screen for accessing the Dapp browser.
 
 
 
-### 3. Navega a la dirección [https://ballena.io](https://ballena.io) utilizando la parte superior de la pantalla, donde aparece “Buscar o ingresar la url del sitio web”.
+### 3. Navigate to [https://ballena.io](https://ballena.io) entering this address at the top search bar.
 
-### 4. Pulsa la tecla "Launch App".
+### 
+
+### 4. Press the button "Launch App".
+
+
 
 ![](../../.gitbook/assets/ballenaio.jpg)
 
 
 
-### 5. ¡Listo! Utiliza la Dapp y diviértete con Ballena!!
+### 5. Done! Now you can use the [ballena.io](https://ballena.io) Dapp!!
+
+
+
+
 
