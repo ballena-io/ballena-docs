@@ -1,7 +1,5 @@
 # Smartphone/Tablet
 
-
-
 You have chosen the Smartphone/Tablet. The steps are almost similar for both platforms but we have designed these highly detailed steps in[ ballena.io](https://ballena.io/).
 
 We will need these tools for the Smartphone/Tablet:

@@ -32,7 +32,7 @@ For more info go to [BalleVaults](products/ballevaults-pancake-swap.md).
 
 ## Why [ballena.io](https://ballena.io/)?
 
-Lets say [ballena.io](https://ballena.io/) is a step forward in nowadays most profitable market, it aims the optimization of adding liquidity to a LP platform such asPancakeSwap, as [ballena.io](https://ballena.io/) finds the highest profit and automatically reinvests your revenue converting it in an exponential growth.
+Let´s say [ballena.io](https://ballena.io/) is a step forward in nowadays most profitable market, it aims the optimization of adding liquidity to a LP platform such as PancakeSwap, as [ballena.io](https://ballena.io/) finds the highest profit and automatically reinvests your revenue converting it in an exponential growth.
 
 Moreover, holding BALLE will reward users with more profits as the improving utility of the platform will rise its price, as well as the rewards originated from a percentage of the total platform revenue.
 
