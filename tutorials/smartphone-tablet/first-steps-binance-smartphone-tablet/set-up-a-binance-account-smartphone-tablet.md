@@ -12,7 +12,7 @@ Open your browser and navigate to the [Binance ](https://www.binance.com/en)webp
 
 
 
-![](../../../.gitbook/assets/1.jpg)
+![](../../../.gitbook/assets/1615032035012.jpg)
 
 
 
@@ -22,27 +22,17 @@ Press the banner to the App Store for the app download.
 
 
 
-
-
-![](../../../.gitbook/assets/screenshot_20210224-221349.jpg)
-
-
-
-### 3. Press "Install".
+![](../../../.gitbook/assets/1615032035020.jpg)
 
 
 
-![](../../../.gitbook/assets/screenshot_20210224-221359.jpg)
+### 3. Press "Install" in the App Store.
 
 
 
 ### 4. Wait till the download process is completed and press "Open".
 
 
-
-
-
-![](../../../.gitbook/assets/screenshot_20210224-221411.jpg)
 
 ![](../../../.gitbook/assets/screenshot_20210224-221417.jpg)
 
@@ -98,9 +88,7 @@ Use the received six digit code to complete the verification phase.
 
 
 
-
-
-![](../../../.gitbook/assets/screenshot_20210224-221906%20%286%29%20%286%29%20%286%29%20%286%29%20%286%29%20%286%29%20%283%29.jpg)
+![](../../../.gitbook/assets/1615028657935.jpg)
 
 
 
