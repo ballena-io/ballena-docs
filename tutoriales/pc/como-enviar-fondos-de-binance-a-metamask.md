@@ -4,7 +4,7 @@
 
 [ballena.io](https://ballena.io/)🐋 te ayuda a transferir tus fondos desde Binance a Metamask en 5 sencillos pasos. ¡Vamos allá!
 
-## Paso a paso
+
 
 ### 1. Abrir nuestra página de [Binance](https://www.binance.com/es) e ingresar con nuestra cuenta. Una vez ahí entramos en Billetera-Spot.
 
