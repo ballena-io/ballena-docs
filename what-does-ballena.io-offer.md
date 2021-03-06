@@ -22,7 +22,7 @@ One of our short term goals. The [ballena.io](https://ballena.io/) dev. Team is 
 
 ## BalleVaults
 
-[ballena.io](https://ballena.io/) offers a wide variety of vaults and each one of them is backed by a top end strategy that seeks the maximum revenue. Add liquidity the vaults and the [ballena.io](https://ballena.io/) will take care of allocating the most suitable strategies for you.
+[ballena.io](https://ballena.io/) offers a wide variety of vaults and each one of them is backed by a top end strategy that seeks the maximum revenue. Add liquidity to the vaults and [ballena.io](https://ballena.io/) will take care of allocating the most suitable strategies for you.
 
 This kind of investment requires the addition of two different assets at the exact same rate. Thus, the revenue will come in the form of these two assets too, the liquidity pool will grow your LP tokens. For example, we could add liquidity to the CAKE/BNB pair. We would trade half our BNB tokens for CAKE and add them to a LP. Afterwards, we would add these LP tokens to a BalleVault in order to obtain the greatest returns after applying optimized strategies as well as reinvesting everyday´s revenue.
 
