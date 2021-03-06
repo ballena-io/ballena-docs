@@ -44,7 +44,7 @@ Give it a couple of minutes for your BNB tokens to appear in your Metamask walle
 
 ​​
 
-![](../../.gitbook/assets/enviarbnb3.png)
+![](../../.gitbook/assets/enviarbnb3%20%281%29.png)
 
 
 

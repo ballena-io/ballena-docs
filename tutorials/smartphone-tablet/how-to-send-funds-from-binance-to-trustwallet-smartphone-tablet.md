@@ -1,10 +1,6 @@
 # How to send funds from Binance to TrustWallet - Smartphone/Tablet
 
-## Cómo enviar fondos de Binance a TrustWallet - Smartphone/Tablet <a id="como-enviar-fondos-de-binance-a-trustwallet-smartphone-tablet"></a>
-
-​
-
-### 1. Averiguar tu dirección de BSC. <a id="1-averiguar-tu-direccion-de-bsc"></a>
+### 1. Get your BSC address. <a id="1-averiguar-tu-direccion-de-bsc"></a>
 
 Ve a tu billetera Smart Chain y presiona recibir para encontrar tu dirección “Smart Chain”.
 

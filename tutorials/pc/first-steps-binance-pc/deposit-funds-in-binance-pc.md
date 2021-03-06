@@ -8,7 +8,7 @@
 
 
 
-![](../../../.gitbook/assets/buybnb0%20%281%29.png)
+![](../../../.gitbook/assets/fondosbinance1.png)
 
 ### 
 
