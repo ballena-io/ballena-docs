@@ -1,9 +1,5 @@
 # How to Add a Custom Token to Metamask - PC
 
-## IN PROGESS- DO NOT FOLLOW THIS TUTORIAL
-
-## 
-
 ## How to Add a Custom Token to Metamask
 
 Ballena🐋 will help you add any token to Metamask. We will use BALLE token as an example.
