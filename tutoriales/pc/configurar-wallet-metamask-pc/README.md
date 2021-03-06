@@ -1,4 +1,4 @@
-# Configurar Wallet: Metamask - PC
+# Configurar Wallet: Metamask- PC
 
 ## Cómo configurar tu Wallet: Metamask
 
@@ -8,7 +8,7 @@ Haz click en los siguientes enlaces para empezar.
 
 
 
-{% page-ref page="como-configurar-metamask.md" %}
+{% page-ref page="como-configurar-metamask-y-la-red-bsc-pc.md" %}
 
 {% page-ref page="como-anadir-un-token-personalizado-a-metamask.md" %}
 
