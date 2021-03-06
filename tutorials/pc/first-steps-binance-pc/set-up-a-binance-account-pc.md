@@ -1,6 +1,6 @@
 # Set up a Binance account - PC
 
-## How to set up a Binance account.
+## How to set up a Binance account
 
 We need to set up an account in one of the exchanges in the crypto-market. Which one will you use? The choice is yours! Our tutorial is based on [Binance](https://www.binance.com/en).
 
