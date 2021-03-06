@@ -1,70 +1,58 @@
 # Buy BNB in Binance - Smartphone/Tablet
 
-## Cómo comprar BNB en Binance a través de Smartphone/Tablet \(Tarjeta de Crédito\)
-
-Para comprar cripto con tarjeta de crédito en la app de Binance para el Smartphone haremos lo siguiente.
+## How to purchase BNB in Binance with your Credit Card
 
 
 
-### 1. Pulsa el botón “Comprar con EUR” de la parte central de la pantalla. 
+### 1. Open the Binance app.
 
-En lugar de EUR puede aparecer otra divisa si es la divisa por defecto en tu país.
+### 2. Press "Buy with EUR".
 
-
-
-![](../../../.gitbook/assets/screenshot_20210224-221906%20%286%29%20%286%29%20%286%29%20%286%29%20%286%29%20%286%29%20%282%29.jpg)
+You can use some other currencies depending on your country or base currency.
 
 
 
-### 2. Selecciona el importe en Euros.
+![](../../../.gitbook/assets/1615028657935.jpg)
+
+### 
+
+### 2. Select the "Spend" currency.
 
 
 
-![](../../../.gitbook/assets/screenshot_20210224-221923%20%281%29.jpg)
+![](../../../.gitbook/assets/1615028657928.jpg)
 
 
 
-Recuerda que, en la mayoría de proyectos de la Red Binance Smart Chain utilizan como toquen básico BNB y además se utiliza BNB para pagar las comisiones. Por lo tanto, necesitarás tener BNB en tu billetera para trabajar en Binance Smart Chain. Puedes seleccionar BNB en el combo de selección de criptomoneda.
+Remember that you will need BNB for the fees payment in most of the BSC network projects 
 
 
 
-### 3. Selecciona BNB.
+### 3. Select BNB.
 
 
 
-![](../../../.gitbook/assets/screenshot_20210224-221941.jpg)
+![](../../../.gitbook/assets/1615028657920.jpg)
 
 
 
-### 4. Introducir el importe en EUR.
-
-Una vez seleccionada la criptomoneda que deseamos comprar, nos aparece el número de criptomonedas que vamos a comprar con el importe en EUR \(Fiat\) que hemos seleccionado anteriormente.
+### 4. Enter the "Spend" amount.
 
 
 
-![](../../../.gitbook/assets/screenshot_20210224-222002.jpg)
+![](../../../.gitbook/assets/1615028657912.jpg)
 
 
 
-### 5. Pulsa “Continuar”.
-
-Te aparece una pantalla con el detalle exacto de la operación.
 
 
-
-![](../../../.gitbook/assets/screenshot_20210224-222017.jpg)
+### 5. Press “Continue” & Confirm the transaction.
 
 
 
-### 6. Pulsa "Confirmar".
-
-Revisa los datos de la transacción y si estas conforme pulsa “Confirmar”. Ten en cuenta que estas operaciones tienen una validez de 60 segundos, pasado este tiempo se tendrán que recargar.
+### 6. Deposit completed.
 
 
-
-### 7. Ingreso finalizado.
-
-Una vez validada la operación te aparecerá una pantalla de confirmación. Hay que tener en cuenta que el pago puede necesitar de acciones propias de tu banco.
 
 
 
