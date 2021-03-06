@@ -98,7 +98,9 @@ Esta es la clave secreta de recuperación de tu cuenta. Anotala en un lugar segu
 
 ### 2. Añade los datos de la BSC que mostramos a continuación y haz click en "Save".
 
-​​
+​​En el campo "Chain ID" puedes escribir 0x38 o 56, ya que son equivalentes. No debería precuparos si al hacer click en "Save" los valores se intercambian entre estos dos citados.
+
+
 
 ![](https://user-images.githubusercontent.com/79335891/108597783-1c74d800-738b-11eb-973f-9a89f22fe0ae.png)
 
