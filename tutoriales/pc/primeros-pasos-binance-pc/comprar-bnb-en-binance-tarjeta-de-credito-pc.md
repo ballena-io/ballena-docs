@@ -70,3 +70,7 @@ Una vez validada la operación te aparecerá una pantalla de confirmación. Hay 
 
 * Puedes obtener información más detallada y respuestas a preguntes frecuentes en la propia web de Binance [Cómo hacer depósitos de monedas fíat por transferencia bancaria \(SEPA\)](https://www.binance.com/es/support/faq/e117b4c063534e5f93b735b980575000) o [Comprar cripto](https://www.binance.com/es/support/faq/c-66?navId=75).
 
+
+
+
+
