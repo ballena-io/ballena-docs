@@ -43,7 +43,6 @@
   * [Introducción DAO](dao/introduccion.md)
   * [Normas de la Organización](dao/normas-de-la-organizacion.md)
   * [Cómo formar parte de la DAO](dao/como-formar-parte-de-la-dao.md)
-  * [Propuestas](dao/propuestas.md)
   * [Otros tutoriales DAO](dao/otros-tutoriales-dao/README.md)
     * [Conectar Wallet para votar](dao/otros-tutoriales-dao/conectar-wallet-para-votar.md)
     * [Crear propuestas](dao/otros-tutoriales-dao/crear-propuestas.md)

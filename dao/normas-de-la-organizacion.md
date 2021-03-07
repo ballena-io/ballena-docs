@@ -1,6 +1,10 @@
 # Normas de la Organización
 
-La DAO es una organización transparente y gestionada por los contratos inteligentes. Sin embargo, los miembros de la misma tienen la capacidad de proponer y de votar nuevas propuestas. Para ello se han instaurado una serie de normas para garantizar su correcto desarrollo.
+\*\***IN PROGRESS\*\***
+
+\*\*\*\*
+
+La DAO es una organización transparente y gestionada por los contratos inteligentes. Sin embargo, los miembros de la misma tienen la capacidad de proponer y de votar nuevas propuestas. Para ello se han instaurado una serie de **normas** para garantizar su correcto desarrollo.
 
 
 
