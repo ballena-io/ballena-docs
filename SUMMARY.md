@@ -41,8 +41,5 @@
 * [Security and Risks](security-and-risks.md)
 * [FAQ](faq.md)
 * [DAO](dao.md)
-* [Developers](developers/README.md)
-  * [Deployed Contract Registry](developers/deployed-contract-registry.md)
-  * [Code Repositories](developers/code-repositories.md)
-  * [Beefy Cowmunity Tools](developers/beefy-cowmunity-tools.md)
+* [Developers](developers.md)
 
