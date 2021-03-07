@@ -1,4 +1,4 @@
-# Conectar Wallet para votar
+# Conectar Wallet para votar y crear propuestas
 
 \*\***IN PROGRESS\*\***
 
@@ -40,7 +40,7 @@ Esta aparece en la parte derecha del menú superior.
 
 
 
-![](../../.gitbook/assets/6.png)
+![](../../.gitbook/assets/6%20%281%29.png)
 
 
 

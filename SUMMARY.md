@@ -44,7 +44,7 @@
   * [Normas de la Organización](dao/normas-de-la-organizacion.md)
   * [Cómo formar parte de la DAO](dao/como-formar-parte-de-la-dao.md)
   * [Otros tutoriales DAO](dao/otros-tutoriales-dao/README.md)
-    * [Conectar Wallet para votar](dao/otros-tutoriales-dao/conectar-wallet-para-votar.md)
+    * [Conectar Wallet para votar y crear propuestas](dao/otros-tutoriales-dao/conectar-wallet-para-votarpara-votar-y-crear-propuestas.md)
     * [Crear propuestas](dao/otros-tutoriales-dao/crear-propuestas.md)
     * [Votar](dao/otros-tutoriales-dao/votar.md)
     * [Ejecutar llamadas a contratos desde Gnosis](dao/otros-tutoriales-dao/ejecutar-llamadas-a-contratos-desde-gnosis.md)
