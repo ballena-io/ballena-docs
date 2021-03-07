@@ -12,7 +12,7 @@ La DAO es una organización transparente y gestionada por los contratos intelige
 * Cualquier miembro de la Gobernanza de BALLE \(que posea BALLE token\) puede **votar propuestas**.
 * El **peso del voto** de cada usuario será **proporcional a la cantidad de tokens BALLE** que tenga.
 * Crear y votar una propuesta es **gratuito**.
-* Los usuarios no podrán participar en la votación de propuestas creadas en fecha anterior a su compra del token BALLE.
+* Los usuarios no podrán participar en la votación de propuestas creadas en fecha anterior a su compra del token BALLE. Más información en Número de Bloque.
 * Las propuestas tienen una **fecha límite para su cierre**. Está fecha la define el autor de la misma.
 
 
