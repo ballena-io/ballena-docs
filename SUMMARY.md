@@ -2,6 +2,7 @@
 
 * [Introduction to ballena.io](README.md)
 * [What does Ballena.io offer?](what-does-ballena.io-offer.md)
+* [First steps](first-steps.md)
 * [Tutorials](tutorials/README.md)
   * [PC](tutorials/pc/README.md)
     * [First steps: Binance - PC](tutorials/pc/first-steps-binance-pc/README.md)
@@ -39,6 +40,7 @@
 * [Governance](governance.md)
 * [Security and Risks](security-and-risks.md)
 * [FAQ](faq.md)
+* [DAO](dao.md)
 * [Developers](developers/README.md)
   * [Deployed Contract Registry](developers/deployed-contract-registry.md)
   * [Code Repositories](developers/code-repositories.md)
