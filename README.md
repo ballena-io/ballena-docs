@@ -1,7 +1,3 @@
----
-description: IN PROGRESS
----
-
 # Introduction to ballena.io
 
 ## Welcome! Immerse yourself in the [ballena.io](https://ballena.io/) pond 🐋 <a id="welcome!-immerse-yourself-in-the-Ballena-pond"></a>
