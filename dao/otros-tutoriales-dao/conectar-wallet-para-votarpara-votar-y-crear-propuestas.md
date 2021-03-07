@@ -4,6 +4,10 @@ Para formar parte en el proceso de creación y votación de nuevas propuestas, t
 
 
 
+![](../../.gitbook/assets/presentation-1454403_1280.webp)
+
+### 
+
 ### 1. Navega a la [plataforma de votación](https://vote.ballena.io/).
 
 * Link: [https://vote.ballena.io/](https://vote.ballena.io/)
