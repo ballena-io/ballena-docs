@@ -1,8 +1,8 @@
 # Conectar Wallet para votar y crear propuestas
 
-\*\***IN PROGRESS\*\***
-
 Para formar parte en el proceso de creación y votación de nuevas propuestas, tendremos que conectar nuestra wallet en primer lugar. En los siguientes pasos veremos cómo hacerlo.
+
+
 
 ### 1. Navega a la [plataforma de votación](https://vote.ballena.io/).
 
