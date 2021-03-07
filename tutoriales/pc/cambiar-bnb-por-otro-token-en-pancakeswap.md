@@ -1,7 +1,5 @@
 # Convertir BNB por otro Token en PancakeSwap - PC
 
-IN PROGRESS \(BALLE release required\)
-
 En este tutorial veremos como **convertir tus BNB** por otro token para poder, posteriormente, agregar liquidez al par seleccionado y así agregar tokens LP a una BalleVault.
 
 Recuerda que para poder agregar liquidez a una LP necesitaremos el **mismo valor en ambos assets**. En caso de no tenerlo habrá que hacer el cambio correspondiente en el exchange correspondiente.
@@ -84,7 +82,7 @@ No podremos cambiar el valor justo del 50% debido a que tenemos que reservar una
 
 ### 8. Completado!
 
-Tus tokens deberían aparecer en tu Metamask. En caso de no verlos, asegurate de haber agregado el token a tu metamask, si no sabes como hacerlo ve a [este tutorial](configurar-wallet-metamask-pc/como-anadir-un-token-personalizado-a-metamask.md).
+Tus tokens deberían aparecer en tu Metamask. En caso de no verlos, asegúrate de haber agregado el token a tu metamask, si no sabes como hacerlo ve a [este tutorial](configurar-wallet-metamask-pc/como-anadir-un-token-personalizado-a-metamask.md).
 
 
 
