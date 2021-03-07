@@ -51,8 +51,5 @@
     * [Crear propuestas](dao/otros-tutoriales-dao/crear-propuestas.md)
     * [Votar](dao/otros-tutoriales-dao/votar.md)
     * [Ejecutar llamadas a contratos desde Gnosis](dao/otros-tutoriales-dao/ejecutar-llamadas-a-contratos-desde-gnosis.md)
-* [Desarrolladores](desarrolladores/README.md)
-  * [Deployed Contract Registry](desarrolladores/deployed-contract-registry.md)
-  * [Code Repositories](desarrolladores/code-repositories.md)
-  * [Beefy Cowmunity Tools](desarrolladores/beefy-cowmunity-tools.md)
+* [Desarrolladores](desarrolladores.md)
 
