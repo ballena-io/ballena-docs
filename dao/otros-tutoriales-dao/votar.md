@@ -1,4 +1,2 @@
 # Votar
 
-\*\***IN PROGRESS\*\***
-

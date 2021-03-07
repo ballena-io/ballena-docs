@@ -42,7 +42,7 @@ Una de nuestras metas a corto plazo, el Equipo [ballena.io](https://ballena.io/)
 
 ## BALLE
 
-**BALLE es nuestro token**. Podrás lucrarte de su revalorización, hacer staking y disfrutar de su gobernanza. La comunidad y el equipo crece sin medida a la par que la red de BSC. Nuestros desarrolladores trabajan duro para implementar nuevas estrategias e ideas que son compartidas con el resto de la comunidad y los poseedores de BALLE.
+**BALLE es nuestro token**. Podrás lucrarte de su revalorización, hacer staking y disfrutar de su gobernanza. La comunidad y el equipo crece sin medida a la par que la red de BSC. Nuestros desarrolladores trabajan duro para implementar nuevas estrategias e ideas que son compartidas con el resto de la comunidad y los poseedores de BALLE
 
 ## Comunidad 🐋
 

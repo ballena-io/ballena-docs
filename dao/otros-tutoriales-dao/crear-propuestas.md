@@ -1,4 +1,2 @@
 # Crear propuestas
 
-\*\***IN PROGRESS\*\***
-

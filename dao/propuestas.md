@@ -1,4 +1,2 @@
 # Propuestas
 
-\*\***IN PROGRESS\*\***
-
