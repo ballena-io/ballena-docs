@@ -43,7 +43,7 @@ La **confianza es un pilar esencial** en una DAO, es por ello que apostamos por 
 
 
 
-Llegados a este punto, recomendamos a los usuarios ver los siguientes apartados de la documentación relacionada con esta organización descentralizada. Aquí podrás aprender cómo proponer ideas, cómo votar otras existentes, las normas de la organización y muchas cosas más. Como ya habrás podido comprobar, además de esta plataforma de votación mencionada, [ballena.io](https://ballena.io/) cuenta con una amplia comunidad donde si no lo has hecho ya, puedes formar parte cuando quieras.
+Llegados a este punto, recomendamos a los usuarios ver los siguientes apartados de la documentación relacionada con esta organización descentralizada. Aquí podrás aprender cómo proponer ideas, cómo votar otras existentes, las normas de la organización y muchas cosas más. Como ya habrás podido comprobar, además de esta plataforma de votación mencionada, [ballena.io](https://ballena.io/) cuenta con una amplia comunidad donde si no lo has hecho ya, [**puedes formar parte cuando quieras**](../#comunidad).
 
 
 
