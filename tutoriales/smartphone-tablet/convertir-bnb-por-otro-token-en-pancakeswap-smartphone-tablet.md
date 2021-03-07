@@ -10,6 +10,8 @@ En muchas ocasiones querrás trabajar con tokens que no tengas directamente en t
 
 Esta decisión marcará la diferencia en los siguientes pasos del tutorial. Tenemos dos vías de actuación:
 
+
+
 #### Proveer liquidez a una LP de un par que nos llame la atención.
 
 Es una forma de inversión en la que se añaden a partes iguales dos assets. El retorno, por lo tanto, será de estos dos assets también a partes iguales. El LP lo que hará será aumentar los tokens que tenemos asignados al par seleccionado. Por ejemplo, podríamos añadir liquidez al par CAKE/BNB. Lo que haremos en este caso será cambiar la mitad de nuestros BNB por CAKE y añadiremos ambos a una LP. 
@@ -72,9 +74,7 @@ Cambiaremos nuestros BNB a BALLE de la siguiente manera.
   * Dirección:
 
 * Pulsar Swap y confirmar swap aceptando las tasas que hubiere.
-
-\(imagen cambio BALLE\)
-
+* 
 ### 3. Confirma la transacción.
 
 Espera a que la red lo procese y cuando este listo se verán reflejados tus tokens en tu billetera.
