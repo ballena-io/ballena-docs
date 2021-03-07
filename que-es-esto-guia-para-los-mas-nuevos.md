@@ -86,6 +86,8 @@ En resumidas cuentas, **obtendrás un beneficio por aportar fondos y además una
 
 A parte de esto, tendrás que tener en cuenta la fluctuación de la criptodivisa para el cálculo de tus beneficios. Es decir, el hecho de que el precio de la criptomoneda que has decidido aportar suba o baje causará un impacto en el valor de tu inversión. Es decir, los tokens aportados serán siempre los mismos y los tokens generados por el rendimiento irá creciendo exponencialmente, pero esto es independiente del valor de estos tokens. Por lo tanto, además de contar con este crecimiento del número de tokens aportados tendrás que estar atento a la tendencia que tiene el valor de tus criptomonedas aportadas.
 
+Otro de los puntos más importantes a favor de [ballena.io](https://ballena.io/) la inmensa reducción en costes para cada individuo en concepto de tasas de transacción. El usuario promedio se sorprendería al ver los gastos anuales destinados únicamente a las tasas de transacción. En  [ballena.io](https://ballena.io/) las operaciones de reinversión de los usuarios se hace de manera conjunta por el mismo valor, con lo que el impacto sobre el individuo es mínimo e inapreciable. Una vez entendido el potencial del interés compuesto de nuestras inversiones en este tipo de plataformas, podemos deducir el impacto que puede tener el hecho de pagar las comisiones de operación individualmente respecto a pagarlas entre miles de usuarios. 
+
 
 
 ### ¿Con qué fondos de liquidez trabaja [ballena.io](https://ballena.io/) ?
