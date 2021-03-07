@@ -18,8 +18,6 @@ Sigue los pasos del tutorial [Conectar Wallet para votar y crear propuestas](con
 
 
 
-
-
 ### 3. Pulsa el botón "New propolsal".
 
 
