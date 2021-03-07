@@ -1,4 +1,4 @@
-# Convertir BNB en PancakeSwap
+# Convertir BNB en PancakeSwap - PC
 
 En este tutorial veremos como **convertir tus BNB** por otro token para poder, posteriormente, agregar liquidez al par seleccionado y así agregar tokens LP a una BalleVault.
 
