@@ -1,0 +1,2 @@
+# Conectar Wallet para votar
+
