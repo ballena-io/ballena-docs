@@ -105,7 +105,7 @@ Sí, es bastante complejo a primera vista. Es necesario que alguien te ayude en 
 
 El proyecto nace por un bien común de la comunidad, buscar los máximos rendimientos para todos nosotros de una forma segura. Nos podernos lucrar todos los involucrados **a través de una plataforma que genera flujo de capital y tasas que son repartidas entre todos los usuarios y no se destinan a la propia institución**, ya que en este nuevo concepto de organización, esta recae sobre todos los usuarios. 
 
-El hecho de actuar todos de manera conjunta en busca de estas oportunidades hace que las tasas de operación se paguen de manera conjunta y reduzcan al mínimo el impacto sobre el individuo.
+El hecho de actuar todos de manera conjunta en busca de estas oportunidades hace que los gastos de operación se paguen de manera conjunta y reduzcan al mínimo el impacto sobre el individuo.
 
 
 
