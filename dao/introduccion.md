@@ -33,7 +33,7 @@ Cuanto más extensa sea nuestra comunidad, más fuerza tendremos, más rentable 
 
 
 
-Ésta DAO ha nacido en comunidad para quedarse en comunidad. **Rompe con la jerarquía tradicional** empresarial y busca el **beneficio conjunto** de sus miembros. Nútrete de todos los recursos publicados, [**ballena.io** ](https://ballena.io/)apuesta por la transparencia y por la divulgación de todos los datos que la gobiernan. A través de la plataforma de votación, **podrás proponer nuevas ideas** que serán escuchadas y estudiadas por todos los miembros interesados como tú en implantar este sistema justo.  
+A través de la plataforma de votación, **podrás proponer nuevas ideas** que serán escuchadas y estudiadas por todos los miembros interesados como tú en implantar este sistema justo.  
 
 Las **operaciones relacionadas con la tesorería** están vinculadas a un **sistema multi-firma** llamado Gnosis. Esto quiere decir que todas las nuevas ideas serán propuestas en comunidad, serán votadas por todos los miembros y que además antes de hacer **cualquier movimiento, este tendrá que ser aprobado previamente por un mínimo de usuarios** de la misma garantizando la democratización de su trayectoria.  
 
