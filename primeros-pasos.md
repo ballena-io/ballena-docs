@@ -98,7 +98,7 @@ En resumidas cuentas, **obtendrás un beneficio por aportar fondos y además una
 
 
 
-A parte de esto, tendrás que tener en cuenta la fluctuación de la criptodivisa para el cálculo de tus beneficios. Es decir, el hecho de que el precio de la criptomoneda que has decidido aportar suba o baje causará un impacto en el valor de tu inversión. Es decir, el número de tokens aportados siempre irá creciendo en base a un ratio exponencial, ahora bien, si el valor de la tokens aumenta, habrás ganado muchos más beneficios y si decrece, estarás en perdidas siempre y cuando su valor caiga tanto como para contrarrestar los tokens de más obtenidos. 
+A parte de esto, tendrás que **tener en cuenta la fluctuación de la criptodivisa** para el cálculo de tus beneficios. Es decir, el hecho de que el precio de la criptomoneda que has decidido aportar suba o baje causará un **impacto en el valor de tu inversión**. Es decir, el número de tokens aportados siempre irá creciendo en base a un ratio exponencial, ahora bien, si el valor de la tokens aumenta, habrás ganado muchos más beneficios y si decrece, estarás en perdidas siempre y cuando su valor caiga tanto como para contrarrestar los tokens de más obtenidos. 
 
 Por ejemplo, digamos que hemos aportado 10 tokens BNB a un fondo de liquidez de [ballena.io](https://ballena.io/) y al cabo de un tiempo estos se convierten en 11 tokens debido a los beneficios obtenidos del interés compuesto que ofrece la plataforma. En principio nuestro capital ha aumentado pero habrá que observar el valor del token BNB para saber en que medida ha aumentado o incluso si estamos en perdidas. Si el BNB valía 100€ cuando lo compramos, invertimos 1000€. 
 
@@ -106,11 +106,11 @@ Por ejemplo, digamos que hemos aportado 10 tokens BNB a un fondo de liquidez de 
 * En el caso de que el token BNB ahora valga 200€, entonces tendremos 11 tokens equivalentes a 2200€. Habremos ganado 1200€, 1000€ por su revalorización  y 200€ por el token extra que hemos ganado como intereses. 
 * Y por último, si el BNB cae a 80€ por ejemplo, tendremos 11 tokens que equivalen a 880€, hemos perdido 120€. Así como la caída del valor de BNB nos habría hecho perder 200€, la ganancia del token extra por el interés compuesto nos reduce la perdida a 120€.
 
-Es por esta razón por la que será muy importante elegir en que proyectos de la red queremos invertir, ya que [ballena.io](https://ballena.io/) nos ayudará a aumentar su número de tokens pero no tendrá nada que ver en las fluctuaciones del precio del mismo.
+Es por esta razón por la que será **muy importante elegir en que proyectos de la red queremos invertir**, ya que [ballena.io](https://ballena.io/) nos ayudará a aumentar su número de tokens pero no tendrá nada que ver en las fluctuaciones del precio del mismo.
 
 Los tokens aportados serán siempre los mismos y los tokens generados por el rendimiento irá creciendo exponencialmente, pero esto es independiente del valor de estos tokens. Por lo tanto, además de contar con este crecimiento del número de tokens aportados tendrás que estar atento a la tendencia que tiene el valor de tus criptomonedas aportadas.
 
-Otro de los puntos más importantes a favor de [ballena.io](https://ballena.io/) la inmensa reducción en costes para cada individuo en concepto de tasas de transacción. El usuario promedio se sorprendería al ver los gastos anuales destinados únicamente a las tasas de transacción. En  [ballena.io](https://ballena.io/) las operaciones de reinversión de los usuarios se hace de manera conjunta por el mismo valor, con lo que el impacto sobre el individuo es mínimo e inapreciable. 
+Otro de los puntos más importantes a favor de [ballena.io](https://ballena.io/) la **inmensa reducción en costes** para cada individuo en concepto de tasas de transacción. El usuario promedio se sorprendería al ver los gastos anuales destinados únicamente a las **tasas de transacción**. En  [ballena.io](https://ballena.io/) las operaciones de reinversión de los usuarios se hace de manera conjunta por el mismo valor, con lo que el **impacto sobre el individuo es mínimo e inapreciable**. 
 
 
 
