@@ -42,7 +42,7 @@
 * [Seguridad y Riesgos](seguridad-y-riesgos.md)
 * [FAQ](faq.md)
 * [DAO](dao/README.md)
-  * [Introducción](dao/introduccion.md)
+  * [Introducción DAO](dao/introduccion.md)
   * [Cómo formar parte de la DAO](dao/como-formar-parte-de-la-dao.md)
   * [Propuestas](dao/propuestas.md)
   * [Otros tutoriales DAO](dao/otros-tutoriales-dao/README.md)
