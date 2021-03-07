@@ -40,7 +40,7 @@ Esta aparece en la parte derecha del menú superior.
 
 
 
-![](../../.gitbook/assets/6%20%282%29.png)
+![](../../.gitbook/assets/6%20%283%29.png)
 
 
 

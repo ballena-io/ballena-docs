@@ -34,7 +34,7 @@ En este ejemplo convertiremos BNB por BDO.
 
 
 
-![](../../../.gitbook/assets/4%20%286%29.png)
+![](../../../.gitbook/assets/4%20%287%29.png)
 
 
 
@@ -56,7 +56,7 @@ Introducir BDO o el token deseado en el buscador y hacer click en él.
 
 
 
-![](../../../.gitbook/assets/6.png)
+![](../../../.gitbook/assets/6%20%281%29.png)
 
 
 
@@ -68,7 +68,7 @@ No podremos cambiar el valor justo del 50% debido a que tenemos que reservar una
 
 
 
-![](../../../.gitbook/assets/7%20%283%29.png)
+![](../../../.gitbook/assets/7%20%284%29.png)
 
 
 
