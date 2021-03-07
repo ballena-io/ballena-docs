@@ -98,8 +98,6 @@ Una vez entendido el potencial del interés compuesto de nuestras inversiones en
 
 
 
-
-
 ### ¿Con qué fondos de liquidez trabaja [ballena.io](https://ballena.io/) ?
 
 [ballena.io](https://ballena.io/) trabaja con dos grupos de fondos de liquidez. 
