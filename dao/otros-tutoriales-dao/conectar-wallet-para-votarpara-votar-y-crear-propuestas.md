@@ -4,7 +4,7 @@ Para formar parte en el proceso de creación y votación de nuevas propuestas, t
 
 
 
-![](../../.gitbook/assets/presentation-1454403_1280.webp)
+![](../../.gitbook/assets/presentation-1454403_1280%20%281%29.webp)
 
 ### 
 

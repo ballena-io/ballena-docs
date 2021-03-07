@@ -1,10 +1,10 @@
 # Cómo formar parte de la DAO
 
-\*\***IN PROGRESS\*\***
-
 La gobernanza de [ballena.io](https://ballena.io/) está formada por todos los usuarios de nuestra comunidad que poseen el token BALLE. Como bien sabes [ballena.io ](https://ballena.io/)está 100% gestionada por la comunidad que la compone y todos los miembros de la misma tienen voz y voto para dirigirla. 
 
-\*imagen BALLE token\*
+
+
+![](../.gitbook/assets/presentation-1454403_1280.webp)
 
 La posesión de este token te aportará, además de beneficios económicos:
 
