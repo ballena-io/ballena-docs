@@ -8,14 +8,45 @@
 
 Tanto si formas parte del equipo de gobernanza de [**ballena.io** ](https://ballena.io/), como si quieres formar parte de él, estás a tiempo y en el lugar adecuado. **El proyecto** [**ballena.io** ](https://ballena.io/)**es de la comunidad**, es de todos nosotros, se aleja de la tradicional estructura y objetivos de una empresa tal y como la conocemos y rompe con la jerarquía centralizada para dar **el poder y los beneficios a todos los miembros** de la misma por igual.  
 
-Con el auge de la tecnología en un amplio abanico de sectores era hora de que llegara a la **gestión de los fondos de inversión**. Las entidades bancarias se han acomodado en el mercado actual y cada vez son más difíciles las variaciones en el sistema implantado. La tecnología blockchain en cambio es una de las vías prometedoras para este cambio en busca de la descentralización. ¿Nunca has pensado en una sociedad u organización en la cual todas las tasas y comisiones van directamente al uso y disfrute de los que las aportan? Y, ¿Nunca has soñado con una organización regida por votación rigurosa de los miembros de la misma? En eso exactamente consiste nuestra DAO. **Esta DAO se gestiona de manera autónoma en base a los contratos inteligentes** que se han desarrollado y que tras su lanzamiento son inmutables. Esto quiere decir que los usuarios, ya sean del equipo de desarrollo como poseedores del token BALLE, no podrán alterar el curso de la plataforma por ellos mismos. Solo la propuesta y votación de nuevas ideas vinculadas a estos contratos inteligentes tienen el poder de modificar las características del proyecto, y en esto, tu tienes mucho que ver.
+
+
+![](../.gitbook/assets/dao1.png)
+
+
+
+Con el auge de la tecnología en un amplio abanico de sectores era hora de que llegara a la **gestión de los fondos de inversión**. Las entidades bancarias se han acomodado en el mercado actual y cada vez son más difíciles las variaciones en el sistema implantado. La tecnología blockchain en cambio es una de las vías prometedoras para este cambio en busca de la **descentralización**. 
+
+* ¿Nunca has pensado en una sociedad u organización en la cual todas las tasas y comisiones van directamente al uso y disfrute de los que las aportan? 
+* ¿Nunca has soñado con una organización regida por votación rigurosa de los miembros de la misma? 
+
+En eso exactamente consiste nuestra DAO. 
+
+
+
+**Esta DAO se gestiona de manera autónoma en base a los contratos inteligentes** que se han desarrollado y que tras su lanzamiento son inmutables. Esto quiere decir que los usuarios, ya sean del equipo de desarrollo como poseedores del token BALLE, no podrán alterar el curso de la plataforma por ellos mismos. Solo la propuesta y votación de nuevas ideas vinculadas a estos contratos inteligentes tienen el poder de modificar las características del proyecto, y en esto, tu tienes mucho que ver.
 
 Cuanto más extensa sea nuestra comunidad, más fuerza tendremos, más rentable será nuestra plataforma, aparecerán más ideas de desarrollo y la seguridad cada vez será mayor. Tu podrás elegir dónde colocar tu dinero para obtener rendimientos pero además **tendrás voz y voto para decidir el futuro de esta organización** para garantizar su seguridad, y quizás, explorar nuevas vías de inversión. 
 
-Ésta DAO ha nacido en comunidad para quedarse en comunidad. Rompe con la jerarquía tradicional empresarial y busca el beneficio conjunto de sus miembros. Nútrete de todos los recursos publicados, ballena.io es apuesta por la transparencia y por la divulgación de todos los datos que la gobiernan. De esta manera creemos que tanto tú, como el resto de usuarios de la comunidad, podréis aportar a esta organización. A través de la plataforma de votación, podrás proponer nuevas ideas que serán escuchadas y estudiadas por todos los miembros interesados como tú en implantar este sistema justo.  
 
-La confianza es un pilar esencial en una DAO, es por ello que apostamos por esa medida de transparencia, así como de máxima seguridad. Si has aprovechado para echar un vistazo a la documentación podrás comprobarlo, el proyecto está auditado y todos sus contratos inteligentes publicados para que puedas estudiarlos. Además, las operaciones relacionadas con la tesorería están vinculadas a un sistema multi-firma como podrás ver en la documentación correspondiente, este sistema es el Gnosis. Esto quiere decir que todas las nuevas ideas serán propuestas en comunidad, serán votadas por todos los miembros y que además antes de hacer cualquier movimiento, este tendrá que ser aprobado previamente por un mínimo de usuarios de la misma. De esta manera ballena.io garantiza la democratización de su trayectoria que intentará ajustarse tanto a las necesidades del mercado como a las de los miembros de su organización. 
 
-Llegados a este punto, recomendamos a los usuarios ver los siguientes apartados de la documentación relacionada con esta organización descentralizada. Aquí podrás aprender cómo proponer ideas, cómo votar otras existentes, las normas de la organización y muchas cosas más. Como ya habrás podido comprobar, además de esta plataforma de votación mencionada, [ballena.io](https://ballena.io/) cuenta con una amplia comunidad donde si no lo has hecho ya, puedes formar parte cuando quieras.  
+![](../.gitbook/assets/voting-illustration.png)
+
+
+
+Ésta DAO ha nacido en comunidad para quedarse en comunidad. **Rompe con la jerarquía tradicional** empresarial y busca el **beneficio conjunto** de sus miembros. Nútrete de todos los recursos publicados, [**ballena.io** ](https://ballena.io/)apuesta por la transparencia y por la divulgación de todos los datos que la gobiernan. De esta manera creemos que tanto tú, como el resto de usuarios de la comunidad, podréis aportar a esta organización. A través de la plataforma de votación, **podrás proponer nuevas ideas** que serán escuchadas y estudiadas por todos los miembros interesados como tú en implantar este sistema justo.  
+
+La **confianza es un pilar esencial** en una DAO, es por ello que apostamos por esa medida de **transparencia**, así como de **máxima** **seguridad**. Si has aprovechado para echar un vistazo a la documentación podrás comprobarlo, el proyecto está auditado y todos sus contratos inteligentes publicados para que puedas estudiarlos. Además, las operaciones relacionadas con la tesorería están vinculadas a un sistema multi-firma como podrás ver en la documentación correspondiente, el sistema implementado es Gnosis. Esto quiere decir que todas las nuevas ideas serán propuestas en comunidad, serán votadas por todos los miembros y que además antes de hacer **cualquier movimiento, este tendrá que ser aprobado previamente por un mínimo de usuarios** de la misma. De esta manera [**ballena.io** ](https://ballena.io/) **garantiza la democratización** de su trayectoria que intentará ajustarse tanto a las necesidades del mercado como a las de los miembros de su organización. 
+
+
+
+![](../.gitbook/assets/0.png)
+
+
+
+Llegados a este punto, recomendamos a los usuarios ver los siguientes apartados de la documentación relacionada con esta organización descentralizada. Aquí podrás aprender cómo proponer ideas, cómo votar otras existentes, las normas de la organización y muchas cosas más. Como ya habrás podido comprobar, además de esta plataforma de votación mencionada, [ballena.io](https://ballena.io/) cuenta con una amplia comunidad donde si no lo has hecho ya, puedes formar parte cuando quieras.
+
+
+
+  
 
 
