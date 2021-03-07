@@ -14,6 +14,7 @@
       * [How to Add a Custom Token to Metamask - PC](tutorials/pc/set-up-metamask-pc/how-to-add-a-custom-token-to-metamask.md)
     * [How to send funds from Binance to Metamask - PC](tutorials/pc/how-to-send-funds-from-binance-to-metamask.md)
     * [How to trade BNB for another Token on PancakeSwap - PC](tutorials/pc/how-to-trade-bnb-for-another-token-on-pancakeswap.md)
+    * [How to purchase the BALLE token](tutorials/pc/how-to-purchase-the-balle-token.md)
     * [How to participate in the BALLE Staking Pool - PC](tutorials/pc/how-to-participate-in-the-balle-staking-pool-pc.md)
     * [How to participate in a BalleVault - PC](tutorials/pc/how-to-participate-in-a-ballevault/README.md)
       * [Add liquidity to a LP - PC](tutorials/pc/how-to-participate-in-a-ballevault/add-liquidity-to-a-lp.md)
