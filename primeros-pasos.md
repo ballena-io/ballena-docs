@@ -6,6 +6,12 @@ Finanzas descentralizadas. Es decir, no hay una institución que gobierne la apl
 
 Aquí podemos encontrar una gran cantidad de proyectos que proponen nuevas ideas o utilidades en la web. Cada día surgen nuevos proyectos, ya sea para solucionar problemas existentes, proyectos de inversión, etc. Por ejemplo, [ballena.io](https://ballena.io/) es un proyecto que **se encarga principalmente de reinvertir tus ganancias obtenidas en fondos de inversión** de tal manera que no tengas que preocuparte de hacerlo tu manualmente. Además de esta manera, tus beneficios son **exponenciales**.
 
+
+
+![](.gitbook/assets/bitcoin-5675758_1280.png)
+
+
+
 Esto quizás te suene un poco abstracto pero en resumidas cuentas esto funciona de la siguiente manera: Aportas una cantidad de dinero a una plataforma y por el hecho de mantener ahí tu capital está te compensará con ciertos beneficios diarios, por ejemplo del 5%. 
 
 Esto sería como cuando antiguamente el banco ofrecía ciertos intereses por depositar y confiar tu dinero en su institución. Una de las grandes diferencias es que este tipo de proyectos son descentralizados y todos los beneficios se reparten entre los usuarios de la plataforma y no van a bolsillo de unos pocos.
@@ -47,10 +53,12 @@ El proyecto [ballena.io](https://ballena.io/) es completamente transparente y pu
 
 ### ¿Quién está detrás del proyecto?
 
-Detrás del proyecto se encuentra la comunidad que nació en [Telegram](https://t.me/stgcrypto) con afán de crear un grupo de trabajo en el mundo de las crypto. Con más de 7.000 usuarios en el grupo, ahora esta comunidad tiene la forma de [DAO](dao/), Organización Autónoma Descentralizada, donde la organización se coordina de manera autónoma por los contratos inteligentes. Es decir, **las decisiones se toman en comunidad** y el poder no recae sobre unos pocos.
+Detrás del proyecto se encuentra la comunidad que nació en [Telegram](https://t.me/stgcrypto) con afán de crear un grupo de trabajo en el mundo de las crypto. Con más de 7.000 usuarios en el grupo, ahora esta comunidad tiene la forma de [DAO](dao/), Organización Autónoma Descentralizada, donde la organización se coordina de manera autónoma por los contratos inteligentes. Es decir, **las decisiones se toman en comunidad** y el poder no recae sobre unos pocos.  
 
-  
 
+![](.gitbook/assets/communication-1297544_1280.webp)
+
+### 
 
 ### ¿Cuál es su objetivo?
 
@@ -84,6 +92,12 @@ Los rendimientos de los fondos de nuestra plataforma son muy altos como podrás 
 
 En resumidas cuentas, **obtendrás un beneficio por aportar fondos y además una recompensa extra de tokens BALLE.** Como ventaja adicional, el sistema permite re-invertir los token BALLE y estos tokens también empezarán a generar más rendimiento. Los tokens BALLE no solo tienen valor en el mercado si no que además te permitirán participar en la toma de decisiones.
 
+
+
+![](.gitbook/assets/tap-6039919_1280%20%281%29.webp)
+
+
+
 A parte de esto, tendrás que tener en cuenta la fluctuación de la criptodivisa para el cálculo de tus beneficios. Es decir, el hecho de que el precio de la criptomoneda que has decidido aportar suba o baje causará un impacto en el valor de tu inversión. Es decir, el número de tokens aportados siempre irá creciendo en base a un ratio exponencial, ahora bien, si el valor de la tokens aumenta, habrás ganado muchos más beneficios y si decrece, estarás en perdidas siempre y cuando su valor caiga tanto como para contrarrestar los tokens de más obtenidos. 
 
 Por ejemplo, digamos que hemos aportado 10 tokens BNB a un fondo de liquidez de [ballena.io](https://ballena.io/) y al cabo de un tiempo estos se convierten en 11 tokens debido a los beneficios obtenidos del interés compuesto que ofrece la plataforma. En principio nuestro capital ha aumentado pero habrá que observar el valor del token BNB para saber en que medida ha aumentado o incluso si estamos en perdidas. Si el BNB valía 100€ cuando lo compramos, invertimos 1000€. 
@@ -94,7 +108,7 @@ Por ejemplo, digamos que hemos aportado 10 tokens BNB a un fondo de liquidez de 
 
 Es por esta razón por la que será muy importante elegir en que proyectos de la red queremos invertir, ya que [ballena.io](https://ballena.io/) nos ayudará a aumentar su número de tokens pero no tendrá nada que ver en las fluctuaciones del precio del mismo.
 
-los tokens aportados serán siempre los mismos y los tokens generados por el rendimiento irá creciendo exponencialmente, pero esto es independiente del valor de estos tokens. Por lo tanto, además de contar con este crecimiento del número de tokens aportados tendrás que estar atento a la tendencia que tiene el valor de tus criptomonedas aportadas.
+Los tokens aportados serán siempre los mismos y los tokens generados por el rendimiento irá creciendo exponencialmente, pero esto es independiente del valor de estos tokens. Por lo tanto, además de contar con este crecimiento del número de tokens aportados tendrás que estar atento a la tendencia que tiene el valor de tus criptomonedas aportadas.
 
 Otro de los puntos más importantes a favor de [ballena.io](https://ballena.io/) la inmensa reducción en costes para cada individuo en concepto de tasas de transacción. El usuario promedio se sorprendería al ver los gastos anuales destinados únicamente a las tasas de transacción. En  [ballena.io](https://ballena.io/) las operaciones de reinversión de los usuarios se hace de manera conjunta por el mismo valor, con lo que el impacto sobre el individuo es mínimo e inapreciable. 
 
