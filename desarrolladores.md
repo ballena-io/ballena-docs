@@ -1,6 +1,6 @@
 # Desarrolladores
 
-IN PROGRESS
+**\*\*IN PROGRESS\*\***
 
 Smart Contracts Registry
 
