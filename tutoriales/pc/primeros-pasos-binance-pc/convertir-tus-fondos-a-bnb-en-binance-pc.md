@@ -4,7 +4,7 @@
 
 Una vez hayamos depositado dinero en Binance, en el caso de este tutorial en Euro, tenemos que convertir este capital a BNB para poder trabajar en la red BSC y en [ballena.io](https://ballena.io/). 
 
-En el caso de haber depositado euro tenemos que llevar a cabo dos conversiones debido a las restricciones que esta moneda nos ofrece, no podemos cambiar directamente de EUR a BNB, con lo que convertiremos nuestros EUR a USDT y después los USDT a BNB.
+En el caso de haber depositado Euro tenemos que llevar a cabo dos conversiones debido a las restricciones que esta moneda nos ofrece, no podemos cambiar directamente de EUR a BNB, con lo que convertiremos nuestros EUR a USDT y después los USDT a BNB.
 
 
 
@@ -38,7 +38,7 @@ En el caso de haber depositado euro tenemos que llevar a cabo dos conversiones d
 
 ### 5.Introduce la cantidad y Confirma la conversión.
 
-Antes de confirmarla te dará una previsión del cambio, mira que esté todo bien y haz click en Confirmar.
+Antes de confirmarla, te dará una previsión del cambio. Mira que esté todo bien y haz click en Confirmar.
 
 
 
@@ -50,7 +50,7 @@ Antes de confirmarla te dará una previsión del cambio, mira que esté todo bie
 
 ### 7.Introduce la cantidad y Confirma la conversión.
 
-Antes de confirmarla te dará una previsión del cambio, mira que esté todo bien y haz click en Confirmar.
+Antes de confirmarla, te dará una previsión del cambio. Mira que esté todo bien y haz click en Confirmar.
 
 
 
