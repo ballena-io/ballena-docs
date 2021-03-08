@@ -18,13 +18,13 @@ El token BALLE garantiza la solvencia económica de la DAO mediante su distribuc
 
 ## BSC
 
-La red **Binance Smart Chain** evita las restricciones de flujo de capital que surgen de las altas tasas de transacción se pagan en la misma. Este ecosistema trabaja sobre **mínimas tasas** permitiendo así a los inversores saltar entre los diversos fondos de liquidez \(Liquidity Pools, farms, etc.\) sin gastos excesivos, maximizando así los beneficios con la máxima flexibilidad. Esto sirve también como un perfecto ecosistema para usuarios con poca liquidez para invertir, quienes pueden ahora entrar en el juego con mínimas pérdidas debidas a las tasas, lo cual antes era imposible de imaginar y no merecía la pena embarcarse en estas inversiones.
+La red **Binance Smart Chain** evita las restricciones de flujo de capital que surgen de las altas tasas de transacción que se pagan en las mismas. Este ecosistema trabaja sobre **mínimas tasas** permitiendo así a los inversores saltar entre los diversos fondos de liquidez \(Liquidity Pools, farms, etc.\) sin gastos excesivos, maximizando así los beneficios con la máxima flexibilidad. Esto sirve también como un perfecto ecosistema para usuarios con poca liquidez para invertir, quienes pueden ahora entrar en el juego con mínimas pérdidas debidas a las tasas, lo cual antes era imposible de imaginar y no merecía la pena embarcarse en estas inversiones.
 
 ## Seguridad Gnosis
 
 Estamos orgullosos de anunciar que **somos el primer proyecto en implementar Gnosis** como sistema Multi-firma en la BSC.
 
-Una wallet de firma múltiple es una billetera de criptomonedas que controla el acceso y los cambios de uno o varios contratos inteligentes \(Smart Contracts\). La mayoría de los proyectos controlados por la comunidad de la red Ethereum requieren un sistema Multisig, es decir, múltiples firmas, para aprobar una transacción antes de ser ejecutada.
+Una wallet de firma múltiple es una billetera de criptomonedas que controla el acceso y los cambios de uno o varios contratos inteligentes \(Smart Contracts\). La mayoría de los proyectos controlados por la comunidad de la red Ethereum requieren un sistema Multisig, es decir, múltiples firmas para aprobar una transacción antes de ser ejecutada.
 
 Para más información acerca del sistema Mulit-firma Gnosis haz click en el siguiente [link](gobernanza.md#seguridad-de-la-wallet).
 
