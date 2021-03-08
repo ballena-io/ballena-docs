@@ -2,9 +2,9 @@
 
 ## ¿Qué son las DeFi y porqué está tan de moda?
 
-Finanzas descentralizadas. Es decir, no hay una institución que gobierne la aplicación. Esto evita manipulación, malversación y altas tasas de operación que tan acostumbrados estamos a ver.
+Finanzas descentralizadas. Es decir, no hay una institución que gobierne la aplicación. Esto evita manipulación, malversación y altas tasas de operación que tan acostumbrados estamos de ver.
 
-Aquí podemos encontrar una gran cantidad de proyectos que proponen nuevas ideas o utilidades en la web. Cada día surgen nuevos proyectos, ya sea para solucionar problemas existentes, proyectos de inversión, etc. Por ejemplo, [ballena.io](https://ballena.io/) es un proyecto que **se encarga principalmente de reinvertir tus ganancias obtenidas en fondos de inversión** de tal manera que no tengas que preocuparte de hacerlo tu manualmente. Además de esta manera, tus beneficios son **exponenciales**.
+Aquí podemos encontrar una gran cantidad de proyectos que proponen nuevas ideas o utilidades en la web. Cada día surgen nuevos proyectos, ya sea para solucionar problemas existentes, proyectos de inversión, etc. Por ejemplo, [ballena.io](https://ballena.io/) es un proyecto que **se encarga principalmente de reinvertir tus ganancias obtenidas en fondos de inversión** de tal manera que no tengas que preocuparte de hacerlo tu manualmente. Además, de esta manera, tus beneficios son **exponenciales**.
 
 
 
@@ -12,7 +12,7 @@ Aquí podemos encontrar una gran cantidad de proyectos que proponen nuevas ideas
 
 
 
-Esto quizás te suene un poco abstracto pero en resumidas cuentas esto funciona de la siguiente manera: Aportas una cantidad de dinero a una plataforma y por el hecho de mantener ahí tu capital está te compensará con ciertos beneficios diarios, por ejemplo del 5%. 
+Esto quizás te suene un poco abstracto pero en resumidas cuentas funciona de la siguiente manera: Aportas una cantidad de dinero a una plataforma y por el hecho de mantener ahí tu capital está te compensará con ciertos beneficios diarios, por ejemplo del 5%. 
 
 Esto sería como cuando antiguamente el banco ofrecía ciertos intereses por depositar y confiar tu dinero en su institución. Una de las grandes diferencias es que este tipo de proyectos son descentralizados y todos los beneficios se reparten entre los usuarios de la plataforma y no van a bolsillo de unos pocos.
 
@@ -34,7 +34,7 @@ La aplicación de [ballena.io](https://ballena.io/) funciona como enlace a este 
 
 Supongamos que has invertido 100€. Si recibes el 1% diario de este importe, a final de año tendrás 365\*1€ = 365€ de beneficio. En cambio si cada día **reinviertes** ese 1€ de beneficio, el 1% de los próximos días actuará sobre una cantidad mayor a 100€, con lo cual tus beneficios serán mayores. Estos crecerán de manera exponencial hasta el valor de 3847.27€ a final de año exactamente.
 
-Esto es lo que hace esencialmente[ ballena.io.](https://ballena.io/) Además el equipo de desarrollo **busca los mejores fondos de liquidez**, las mejores oportunidades e implementa las estrategias más adecuadas para cada una de ellas. 
+Esto es lo que hace esencialmente[ ballena.io.](https://ballena.io/) Además, el equipo de desarrollo **busca los mejores fondos de liquidez**, las mejores oportunidades e implementa las estrategias más adecuadas para cada una de ellas. 
 
 ## ¿Por qué [ballena.io](https://ballena.io/)?
 
@@ -98,9 +98,9 @@ En resumidas cuentas, **obtendrás un beneficio por aportar fondos y además una
 
 
 
-A parte de esto, tendrás que **tener en cuenta la fluctuación de la criptodivisa** para el cálculo de tus beneficios. Es decir, el hecho de que el precio de la criptomoneda que has decidido aportar suba o baje causará un **impacto en el valor de tu inversión**. Es decir, el número de tokens aportados siempre irá creciendo en base a un ratio exponencial, ahora bien, si el valor de la tokens aumenta, habrás ganado muchos más beneficios y si decrece, estarás en perdidas siempre y cuando su valor caiga tanto como para contrarrestar los tokens de más obtenidos. 
+Aparte de esto, tendrás que **tener en cuenta la fluctuación de la criptodivisa** para el cálculo de tus beneficios. Es decir, el hecho de que el precio de la criptomoneda que has decidido aportar suba o baje causará un **impacto en el valor de tu inversión**. Es decir, el número de tokens aportados siempre irá creciendo en base a un ratio exponencial. Ahora bien, si el valor de la tokens aumenta, habrás ganado muchos más beneficios y si decrece, estarás en perdidas siempre y cuando su valor caiga tanto como para contrarrestar los tokens de más obtenidos. 
 
-Por ejemplo, digamos que hemos aportado 10 tokens BNB a un fondo de liquidez de [ballena.io](https://ballena.io/) y al cabo de un tiempo estos se convierten en 11 tokens debido a los beneficios obtenidos del interés compuesto que ofrece la plataforma. En principio nuestro capital ha aumentado pero habrá que observar el valor del token BNB para saber en que medida ha aumentado o incluso si estamos en perdidas. Si el BNB valía 100€ cuando lo compramos, invertimos 1000€. 
+Por ejemplo, supongamos que hemos aportado 10 tokens BNB a un fondo de liquidez de [ballena.io](https://ballena.io/) y al cabo de un tiempo estos se convierten en 11 tokens debido a los beneficios obtenidos del interés compuesto que ofrece la plataforma. En principio nuestro capital ha aumentado pero habrá que observar el valor del token BNB para saber en que medida ha aumentado o incluso si estamos en perdidas. Si el BNB valía 100€ cuando lo compramos, invertimos 1000€. 
 
 * En el caso de que ahora siga con el mismo valor, tendremos 11 tokens equivalentes a 1100€ y habremos ganado 100€. 
 * En el caso de que el token BNB ahora valga 200€, entonces tendremos 11 tokens equivalentes a 2200€. Habremos ganado 1200€, 1000€ por su revalorización  y 200€ por el token extra que hemos ganado como intereses. 
@@ -110,7 +110,7 @@ Es por esta razón por la que será **muy importante elegir en que proyectos de 
 
 Los tokens aportados serán siempre los mismos y los tokens generados por el rendimiento irá creciendo exponencialmente, pero esto es independiente del valor de estos tokens. Por lo tanto, además de contar con este crecimiento del número de tokens aportados tendrás que estar atento a la tendencia que tiene el valor de tus criptomonedas aportadas.
 
-Otro de los puntos más importantes a favor de [ballena.io](https://ballena.io/) la **inmensa reducción en costes** para cada individuo en concepto de tasas de transacción. El usuario promedio se sorprendería al ver los gastos anuales destinados únicamente a las **tasas de transacción**. En  [ballena.io](https://ballena.io/) las operaciones de reinversión de los usuarios se hace de manera conjunta por el mismo valor, con lo que el **impacto sobre el individuo es mínimo e inapreciable**. 
+Otro de los puntos más importantes a favor de [ballena.io](https://ballena.io/) es la **inmensa reducción en costes** para cada individuo en concepto de tasas de transacción. El usuario promedio se sorprendería al ver los gastos anuales destinados únicamente a las **tasas de transacción**. En  [ballena.io](https://ballena.io/) las operaciones de reinversión de los usuarios se hace de manera conjunta por el mismo valor, con lo que el **impacto sobre el individuo es mínimo e inapreciable**. 
 
 
 
@@ -126,7 +126,7 @@ Una vez entendido el potencial del interés compuesto de nuestras inversiones en
 
 [ballena.io](https://ballena.io/) trabaja con dos grupos de fondos de liquidez. 
 
-* Por un lado el fondo BALLE de nuestra comunidad, llamado **BALLE Staking Pool**. Podrás ver el código de los contratos en nuestra documentación.
+* Por un lado, el fondo BALLE de nuestra comunidad, llamado **BALLE Staking Pool**. Podrás ver el código de los contratos en nuestra documentación.
 * Por otro lado, [ballena.io](https://ballena.io/) trabaja sobre los fondos de [PancakeSwap](https://pancakeswap.finance/). Una de las mejores plataformas DeFi hasta el momento. Puedes ver todo su código y [auditorias de seguridad](https://certik-public-assets.s3.amazonaws.com/REP-PancakeSwap-16_10_2020.pdf) en la documentación de su plataforma.
 
 ### 
