@@ -34,11 +34,11 @@ Para cargar fondos en Binance lo haremos de la siguiente manera.
 
 ### 
 
-### 5. Completa el depósito en tu cuenta desde la aplicación o la web de tu de tu banco.
+### 5. Completa el depósito en tu cuenta desde la aplicación o la web de tu banco.
 
 Importante: Recuerda completar correctamente los campos a la hora de realizar la transferencia bancaria.
 
-Puedes obtener información más detallada y respuestas a preguntes frecuentas en la propia web de Binance [Cómo hacer depósitos de monedas fíat por transferencia bancaria \(SEPA\)](https://www.binance.com/es/support/faq/e117b4c063534e5f93b735b980575000) o [Comprar cripto](https://www.binance.com/es/support/faq/c-66?navId=75).
+Puedes obtener información más detallada y respuestas a preguntas frecuentes en la propia web de Binance [Cómo hacer depósitos de monedas fíat por transferencia bancaria \(SEPA\)](https://www.binance.com/es/support/faq/e117b4c063534e5f93b735b980575000) o [Comprar cripto](https://www.binance.com/es/support/faq/c-66?navId=75).
 
 
 
