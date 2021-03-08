@@ -10,7 +10,7 @@ MetaMask es una billetera, o wallet, compatible con ERC20. En este tutorial expl
 
 ### 1. Abre [https://metamask.io/](https://metamask.io/) en tu navegador y descarga la extensión. 
 
-MetaMask soporta los navegadores Chrome, Firefox, Brave and Edge. Hagámoslo en Chrome. Una vez en la web de MetaMask, hacer click en "Download" y "Install MetaMask for Chrome" para obtener la extensión.
+MetaMask soporta los navegadores Chrome, Firefox, Brave and Edge. Hagámoslo en Chrome. Una vez en la web de MetaMask, hacer click en "Download" y luego en "Install MetaMask for Chrome" para obtener la extensión.
 
 ​
 
@@ -64,7 +64,7 @@ MetaMask soporta los navegadores Chrome, Firefox, Brave and Edge. Hagámoslo en 
 
 ### 6. Secret Backup Phrase. 
 
-Esta es la clave secreta de recuperación de tu cuenta. Anotala en un lugar seguro. Después escríbela en el recuadro y confirma.
+Esta es la clave secreta de recuperación de tu cuenta. Anotala en un lugar seguro. Después escríbela en el recuadro y confirma. (ponemos algo sobre la importancia de no perder estas semillas?)
 
  ​
 
