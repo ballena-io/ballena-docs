@@ -1,4 +1,4 @@
-# Configurar Wallet: Metamask- PC
+# Configurar Wallet: Metamask - PC
 
 ## Cómo configurar tu Wallet: Metamask
 
