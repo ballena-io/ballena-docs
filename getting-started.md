@@ -1,7 +1,5 @@
 # Getting started
 
-\*\***IN PROGRESS**\*\*
-
 ## What are DeFi´s and why are they trending? 
 
 DeFi for ‘Decentralized Finance’. There is no institution that governs the app. This avoids manipulation, embezzlement and those high fees we are used to. 
@@ -10,7 +8,7 @@ Every day, new projects are launched with different aims like, solving existing 
 
 
 
-
+![](.gitbook/assets/bitcoin-5675758_1280.png)
 
 
 
@@ -20,15 +18,17 @@ In DeFi, all the profits are distributed within the Comunity, just unlike banks,
 
 
 
-
+![](.gitbook/assets/image%20%282%29.png)
 
 
 
 One of the main aims of [ballena.io](https://ballena.io/) is to **reinvest continously and automatically all your profits, so they grow exponentially**. This is better known as **compound interest**. 
 
-See the graphic below to understand how it works. The blue line stands for what is called, simple interest, where the profits are not being reinvested. The orange line instead, shows the progression made by compound interest, where the profits are being reinvested continously.
+See the graphic below to understand how it works. The blue line stands for what is called, simple interest, where the profits are not being reinvested. The orange line instead, shows the progression made by **compound interest**, where the profits are being reinvested continously.
 
 
+
+![](.gitbook/assets/sin-titulo%20%283%29.png)
 
 
 
@@ -65,7 +65,7 @@ Behind the project there is a huge comunity, born in Telegram with the aim of cr
 
 
 
-
+![](.gitbook/assets/communication-1297544_1280.webp)
 
 
 
@@ -103,7 +103,13 @@ The yields at the platform are quite high as you can see under the APY value wit
 
 In other words, you will **get a profit for providing funds and also, you´ll get an extra reward in BALLE tokens**. As an additional advantage, the system will let you reinvesting your BALLE tokens and they will start generating more profits. As you already know, BALLE tokens not only have market value, but you will be allowed to vote in the platform.
 
-Apart from that, you will have to consider cryptocurrency fluctuations to calculate your profits. The amount of provided tokens will always increase, based on an exponential ratio. If the value of the crypto you decide to provide, increases or decreases, it will cause an impact on your investment value. If the tokens’ value increases, you will have earned much more profits, and if it decreases, you will be losing as long as its value doesn’t drop as much to offset the extra tokens. 
+
+
+![](.gitbook/assets/tap-6039919_1280%20%281%29.webp)
+
+
+
+Apart from that, you will have to consider **cryptocurrency fluctuations** to calculate your profits. The amount of provided tokens will always increase, based on an exponential ratio. If the value of the crypto you decide to provide, increases or decreases, it will cause an **impact on your investment value**. If the tokens’ value increases, you will have earned much more profits, and if it decreases, you will be losing as long as its value doesn’t drop as much to offset the extra tokens. 
 
 For example, you provide 10 $BNB tokens to a liquidity fund in ballena.io and after some time, those tokens get into 11 due to the profits obtained thanks to the compound interest offered by the platform. Your equity has increased, but you must pay attention on the $BNB token value to see if you are actually in profits or even losing. If $BNB was 100€ x 10 tokens = 1000€ is that you would have invested at first. 
 
@@ -111,22 +117,26 @@ For example, you provide 10 $BNB tokens to a liquidity fund in ballena.io and af
 * In the case the token has increased its value to 200€, then you got 11 tokens at a total value of 2200€. You would have earned 1200€, 1000€ due to it´s revaluation, and 200€ due to the extra $BNB token. 
 * As last, let´s say $BNB drops down to 80€, you have 11 tokens that worth 880€. You would have lost 120€ thanks to the extra $BNB token and the compound interest, otherwise the lost would have been 200€. 
 
-This is the reason why it is so important to choose carefully what projects you want to invest in.[ ](https://vote.ballena.io/)[ballena.io](https://ballena.io/) will help you to increase the amount of tokens you own, but we got nothing to do with the price fluctuations of them. The amount of provided tokens will always be the same, and the amount of generated tokens due to compound interest, will increase exponentially. But this is got nothing to do with their value. 
+This is the reason why it is so important to **choose carefully what projects you want to invest in**.[ ](https://vote.ballena.io/)[ballena.io](https://ballena.io/) will help you to increase the amount of tokens you own, but we got nothing to do with the price fluctuations of them. The amount of provided tokens will always be the same, and the amount of generated tokens due to compound interest, will increase exponentially. But this is got nothing to do with their value. 
 
 Having said that, you will have to watch out the trend and periodically check the value of the cryptos you provided. 
 
-Another great point about [ballena.io](https://ballena.io/), is the huge cost reduction per user in regard to transaction fees. An average user would shock after realising about how expensive it can be doing it on his own. In [ballena.io](https://ballena.io/), all the reinvesting transactions are made together for the same value, so the impact on the user is ridiculously low and inappreciable, because you split the cost with thousands of users. 
 
 
+![](.gitbook/assets/compos.png)
+
+
+
+Another great point about [ballena.io](https://ballena.io/), is the **huge cost reduction per user in regard to transaction fees**. An average user would shock after realising about how expensive it can be doing it on his own. In [ballena.io](https://ballena.io/), all the reinvesting transactions are made together for the same value, so **the impact on the user is ridiculously low and inappreciable**, because you split the cost with thousands of users. 
 
 
 
 ### What liquidity funds it works with?
 
-Ballena.io works with two different liquidity funds. 
+[ballena.io](https://ballena.io/) works with two different liquidity funds. 
 
-* On one side, the comunity BALLE fund, called BALLE Staking Pool. Please find the contracts within the documentation. 
-* On the other side, ballena.io works on PancakeSwap funds. One of the best DeFi platforms so far. Please check their code and safety audits on their platform documentation.
+* On one side, the comunity BALLE fund, called **BALLE Staking Pool**. Please find the contracts within the documentation. 
+* On the other side, [ballena.io](https://ballena.io/) works on [PancakeSwap ](https://pancakeswap.finance/)funds. One of the best DeFi platforms so far. Please check their code and [safety audits](https://certik-public-assets.s3.amazonaws.com/REP-PancakeSwap-16_10_2020.pdf) on their platform documentation.
 
 
 
@@ -142,19 +152,27 @@ We can all **lucrate throught a platform that generates capital flux and fees th
 
 ### Can I cash all out whenever?
 
-Of course! Once the capital is provided, [ballena.io](https://ballena.io/) optimizes and maximices your yields automatically, but you can instantly cash them out anytime. All you have to do, is to click ‘Harvest’. Then you will receive in your wallet all the tokens you invested, plus the generated tokens.
+Of course! Once the capital is provided, [ballena.io](https://ballena.io/) optimizes and maximices your yields automatically, but you can instantly cash them out anytime. All you have to do, is to click ‘**Harvest**’. Then you will receive in your wallet all the tokens you invested, plus the generated tokens.
 
 
 
+![](.gitbook/assets/image%20%281%29.png)
 
+### 
 
-### I like how it sounds, how do I get started?
+### Sounds good, how do I get started?
 
-Go to the tab Tutorials and make sure you complete them all. Here you´ll learn how to invest in ballena.io without having been into DeFi´s never before. 
+Go to the tab [Tutorials ](tutorials/)and make sure you complete them all. Here you´ll learn how to invest in [ballena.io](https://ballena.io/) without having been into DeFi´s never before. 
 
 We also recomend you to **join the comunity**. Please contact us through any of the channels in case you got any question. Our comunity [ballena.io](https://ballena.io/) is always willing to help you. Jump and say hello even if you don´t need any help!
 
+Twitter:[ https://twitter.com/ballenaio](https://twitter.com/ballenaio)
 
+Discord:[ https://discord.gg/ydRbEAaqqc](https://discord.gg/ydRbEAaqqc)
+
+Medium:[ https://medium.com/@ballena](https://medium.com/@ballena)
+
+‌Website:[ https://ballena.io](https://ballena.io/)
 
 
 
