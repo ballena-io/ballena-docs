@@ -1,6 +1,6 @@
 # Primeros Pasos
 
-## ¿Qué son las DeFi y porqué está tan de moda?
+## ¿Qué son las DeFi y porqué están tan de moda?
 
 Finanzas descentralizadas. Es decir, no hay una institución que gobierne la aplicación. Esto evita manipulación, malversación y altas tasas de operación que tan acostumbrados estamos a ver.
 
