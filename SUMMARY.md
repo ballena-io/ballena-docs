@@ -2,7 +2,7 @@
 
 * [Introduction to ballena.io](README.md)
 * [What does Ballena.io offer?](what-does-ballena.io-offer.md)
-* [First steps](first-steps.md)
+* [Getting started](getting-started.md)
 * [Tutorials](tutorials/README.md)
   * [PC](tutorials/pc/README.md)
     * [First steps: Binance - PC](tutorials/pc/first-steps-binance-pc/README.md)
