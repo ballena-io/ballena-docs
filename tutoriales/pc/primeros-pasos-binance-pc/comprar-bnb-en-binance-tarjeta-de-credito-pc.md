@@ -48,7 +48,7 @@ Si no has completado el proceso de verificación no se permitirá realizar esta 
 
 ### 6. Confirma la transacción.
 
-En cuanto tengas la identidad verificada podrás seguir al siguiente paso y confirmar la transacción.
+En cuanto tengas la identidad verificada podrás seguir continuar con el siguiente paso y confirmar la transacción.
 
 
 
