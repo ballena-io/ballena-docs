@@ -14,7 +14,7 @@ Los Smart Contracts implementados son de carácter transparente e inmutable desd
 
 La DAO cuenta con un **protocolo de consenso**. Este garantiza una toma de decisiones regulada y consensuada dentro de la comunidad. Para ello [ballena.io](https://ballena.io/) cuenta con el **sistema Gnosis Multisig** o multi-firma que se detalla en [Multisig](gobernanza.md#seguridad-de-la-wallet). Este sistema realza la seguridad del proyecto requiriendo un número mínimo de firmas de la comunidad para cualquiera de las nuevas implementaciones. [ballena.io](https://ballena.io/) es el primer proyecto de la red Binance Smart Chain en implementar Gnosis Safe para controlar nuestra DAO.
 
-El token BALLE garantiza la solvencia económica de la DAO mediante su distribución regulada y constatada en los Smart Contracts. Además este token otorga a los usuarios el **poder de votar nuevos cambios e ideas y recompensa económicamente a los que lo poseen**. Para más información acceder a [Gobernanza](gobernanza.md).
+El token BALLE garantiza la solvencia económica de la DAO mediante su distribución regulada y constatada en los Smart Contracts. Además, este token otorga a los usuarios el **poder de votar nuevos cambios e ideas y recompensa económicamente a los que lo poseen**. Para más información acceder a [Gobernanza](gobernanza.md).
 
 ## BSC
 
