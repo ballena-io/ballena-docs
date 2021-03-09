@@ -16,7 +16,7 @@ El token BALLE está listado en \[Coinmarketcap\] \(link\), \[Coingecko\] \(link
 
 #### 3. ¿Qué ofrece la plataforma [ballena.io](https://ballena.io/)?
 
-[ballena.io](https://ballena.io/) ofrece estrategias de rendimiento basadas en staking y vaults\(bóvedas\). También ofrece el token de gobernanza BALLE mencionado en el apartado anterior, el token de nuestra DAO, donde el usuario tiene voz y voto para las decisiones de desarrollo. Para más información haz click [aquí](que-podemos-hacer-en-ballena.io.md).
+[ballena.io](https://ballena.io/) ofrece estrategias de rendimiento basadas en staking y vaults\(bóvedas\). También ofrece el token de gobernanza BALLE mencionado en el apartado anterior, el token de nuestra DAO, donde el usuario tiene voz y voto para las decisiones de desarrollo. Para más información haz click [aquí](introduccion/que-podemos-hacer-en-ballena.io.md).
 
 No solo eso, la comunidad de [ballena.io](https://ballena.io/), actualmente en crecimiento exponencial, está a la espera de recibirte para brindarte ayuda y recibir consejos e ideas para mejorar la plataforma. Pásate a [saludar!](./#comunidad)
 
@@ -30,7 +30,7 @@ Una de las preguntas más importantes. La comunidad de [ballena.io](https://ball
 
 #### 5. Estoy perdido en esto, ¿Qué hago?
 
-Si te encuentras perdido pero quieres sacar la mayor rentabilidad a tus inversiones en el mundo de las Finanzas Descentralizadas, en [ballena.io](https://ballena.io/) hemos creado un apartado con tutoriales completamente detallados, haz click [aquí](tutoriales/) y comienza con ellos.
+Si te encuentras perdido pero quieres sacar la mayor rentabilidad a tus inversiones en el mundo de las Finanzas Descentralizadas, en [ballena.io](https://ballena.io/) hemos creado un apartado con tutoriales completamente detallados, haz click [aquí](tutoriales-y-herramientas/tutoriales/) y comienza con ellos.
 
 
 
