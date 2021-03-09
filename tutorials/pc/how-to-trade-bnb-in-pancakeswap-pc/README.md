@@ -18,6 +18,12 @@ We will have to trade BNB for BDO in PancakeSwap as explained [here](how-to-trad
 
 
 
+#### 2. Provide liquidity to the BALLE Staking Pool \(BALLE Reward Pool or Governance Pool\).
+
+
+
+
+
 #### Proveer liquidez al staking del token BALLE.
 
 Es otra forma de inversión en la que añades liquidez exclusivamente del token BALLE. Esto, por lo tanto, genera retorno en token BALLE, contribuyendo además a su revalorización y el potenciamiento de la plataforma. Además de su alta rentabilidad, debido a su incremento de valor, podrás formar parte en la [Gobernanza](../../../governance.md). 
