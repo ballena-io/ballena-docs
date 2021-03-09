@@ -12,23 +12,19 @@ This decision will guide you through two different branches in this tutorial:
 
 #### 1. Provide liquidity to a BalleVault.
 
-The user provides two assets of equal value. The return will then be in the form of these two assets too, the BalleVault will increase the LP tokens assigned to this BalleVault. For example, we could add liquidity to the pair BDO/BNB. We will trade half of our BNB for BDO and provide both to a BDO/BNB LP. Adding the same value for both tokens means we should add 200$ worht in BDO if we want to add 200$ worth of BNB.
+The user provides two assets of equal value. The return will then be in the form of these two assets too, the BalleVault will increase the LP tokens assigned to this BalleVault. For example, we could add liquidity to the pair BDO/BNB. We will trade half of our BNB for BDO and provide both to a BDO/BNB LP. Adding the same value for both tokens means we should add 200$ worth in BDO if we want to add 200$ worth of BNB.
 
-We will have to trade BNB for BDO in PancakeSwap as explained [here](how-to-trade-bnb-for-another-token-on-pancakeswap.md).
+We will have to trade BNB for BDO in [PancakeSwap ](https://pancakeswap.finance/)as explained [here](how-to-trade-bnb-for-another-token-on-pancakeswap.md).
 
 
 
 #### 2. Provide liquidity to the BALLE Staking Pool \(BALLE Reward Pool or Governance Pool\).
 
+The user provides liquidity to the BALLE Staking Pool adding BALLE tokens. Thus, the return will be in the form of BALLE, contributing to the token´s and the platform´s empowerment. You will also be able to form part of our Governance and take part in our decision-making process.
 
+The user will have to trade BNB for BALLE in [PancakeSwap ](https://pancakeswap.finance/)as explained [here](how-to-purchase-the-balle-token.md).
 
-
-
-#### Proveer liquidez al staking del token BALLE.
-
-Es otra forma de inversión en la que añades liquidez exclusivamente del token BALLE. Esto, por lo tanto, genera retorno en token BALLE, contribuyendo además a su revalorización y el potenciamiento de la plataforma. Además de su alta rentabilidad, debido a su incremento de valor, podrás formar parte en la [Gobernanza](../../../governance.md). 
-
-Para ello tendremos que cambiar BNB por BALLE en PancakeSwap como se detalla en [este tutorial]().
+#### 
 
 
 
