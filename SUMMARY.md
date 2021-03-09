@@ -39,10 +39,10 @@
       * [Convertir BNB por otro Token en PancakeSwap - Smartphone/Tablet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/convertir-bnb-en-pancakeswap-smartphone-tablet/convertir-bnb-por-otro-token-en-pancakeswap-smartphone-tablet.md)
       * [Cómo comprar el token BALLE](tutoriales-y-herramientas/tutoriales/smartphone-tablet/convertir-bnb-en-pancakeswap-smartphone-tablet/como-comprar-el-token-balle.md)
     * [Cómo participar en Staking de BALLE - Smartphone/Tablet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/como-participar-en-staking-de-balle-smartphone-tablet.md)
-    * [Retirar las ganancias - Smartphone/Tablet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/retirar-las-ganancias-smartphone-tablet.md)
     * [Cómo participar en una BalleVault - Smartphone/Tablet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/como-participar-en-una-ballevault-smartphone-tablet/README.md)
       * [Añadir liquidez a una LP - Smartphone/Tablet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/como-participar-en-una-ballevault-smartphone-tablet/anadir-liquidez-a-una-lp-smartphone-tablet.md)
       * [Agregar los tokens de LP a BalleVault- Smartphone/Tablet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/como-participar-en-una-ballevault-smartphone-tablet/agregar-los-tokens-de-lp-a-ballevault-smartphone-tablet.md)
+    * [Retirar las ganancias - Smartphone/Tablet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/retirar-las-ganancias-smartphone-tablet.md)
 * [Recursos de aprendizaje](tutoriales-y-herramientas/herramientas-de-aprendizaje.md)
 
 ## Técnico <a id="bloque-tecnico"></a>
