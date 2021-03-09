@@ -43,7 +43,7 @@
       * [Agregar los tokens de LP a BalleVault- Smartphone/Tablet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/como-participar-en-una-ballevault-smartphone-tablet/agregar-los-tokens-de-lp-a-ballevault-smartphone-tablet.md)
 * [Recursos de aprendizaje](tutoriales-y-herramientas/herramientas-de-aprendizaje.md)
 
-## Bloque Técnico
+## Técnico <a id="bloque-tecnico"></a>
 
 * [Productos](bloque-tecnico/productos/README.md)
   * [SimpleFarming](bloque-tecnico/productos/simplefarming.md)
