@@ -34,7 +34,7 @@ Para cargar fondos en Binance lo haremos de la siguiente manera.
 
 ### 
 
-### 5. Completa el depósito en tu cuenta desde la aplicación o la web de tu de tu banco.
+### 5. Completa el depósito en tu cuenta desde la aplicación o la web de tu banco.
 
 Importante: Recuerda completar correctamente los campos a la hora de realizar la transferencia bancaria.
 
