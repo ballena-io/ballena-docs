@@ -64,15 +64,12 @@
   * [Votar](dao-organizacion/otros-tutoriales-dao/votar.md)
   * [Ejecutar llamadas a contratos desde Gnosis](dao-organizacion/otros-tutoriales-dao/ejecutar-llamadas-a-contratos-desde-gnosis.md)
 
-## Preguntas Frecuentes
+## Recursos para el usuario
 
-* [FAQ](preguntas-frecuentes/faq.md)
+* [Recursos](recursos-para-el-usuario/recursos.md)
+* [FAQ](recursos-para-el-usuario/faq.md)
 
 ## Otros
 
 * [Desarrolladores](otros/desarrolladores.md)
-
-## Recursos para el usuario
-
-* [Recursos](recursos-para-el-usuario/recursos.md)
 
