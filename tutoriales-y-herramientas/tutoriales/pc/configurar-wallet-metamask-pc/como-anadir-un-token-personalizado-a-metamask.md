@@ -2,7 +2,7 @@
 
 ## Cómo añadir un Token personalizado a Metemask
 
-[ballena.io](https://ballena.io/)🐋 te ayuda a añadir un token personalizado a Metamask. En este caso añadiremos nuestro token BALLE como ejemplo. El añadir un token a Metamask no varía su cuantía, sino que simplemente permite a Metamask mostrarlo en su menú, de esta manera, serás capaz de ver cuantos tokens BALLE tienes por ejemplo en la misma. 
+[ballena.io](https://ballena.io/)🐋 te ayuda a añadir un token personalizado a Metamask. En este caso añadiremos nuestro token BALLE como ejemplo. El añadir un token a Metamask no varía su cuantía, sino que simplemente permite a Metamask mostrarlo en su menú. De esta manera serás capaz de ver cuantos tokens BALLE tienes por ejemplo en la misma. 
 
 Recomendamos siempre añadir los tokens a Metamask antes de enviar fondos a tu wallet para evitar sustos.
 

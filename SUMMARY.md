@@ -16,7 +16,7 @@
       * [Depositar fondos en Binance - PC](tutoriales-y-herramientas/tutoriales/pc/primeros-pasos-binance-pc/depositar-fondos-en-binance.md)
       * [Convertir tus fondos a BNB en Binance - PC](tutoriales-y-herramientas/tutoriales/pc/primeros-pasos-binance-pc/convertir-tus-fondos-a-bnb-en-binance-pc.md)
       * [Comprar BNB en Binance \(Tarjeta de crédito\) - PC](tutoriales-y-herramientas/tutoriales/pc/primeros-pasos-binance-pc/comprar-bnb-en-binance-tarjeta-de-credito-pc.md)
-    * [Configurar Wallet: Metamask- PC](tutoriales-y-herramientas/tutoriales/pc/configurar-wallet-metamask-pc/README.md)
+    * [Configurar Wallet: Metamask - PC](tutoriales-y-herramientas/tutoriales/pc/configurar-wallet-metamask-pc/README.md)
       * [Cómo configurar Metamask y la red BSC - PC](tutoriales-y-herramientas/tutoriales/pc/configurar-wallet-metamask-pc/como-configurar-metamask-y-la-red-bsc-pc.md)
       * [Cómo añadir un Token personalizado a Metamask - PC](tutoriales-y-herramientas/tutoriales/pc/configurar-wallet-metamask-pc/como-anadir-un-token-personalizado-a-metamask.md)
     * [Cómo enviar fondos de Binance a Metamask - PC](tutoriales-y-herramientas/tutoriales/pc/como-enviar-fondos-de-binance-a-metamask.md)
