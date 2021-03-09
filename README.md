@@ -18,7 +18,7 @@ El token BALLE garantiza la solvencia económica de la DAO mediante su distribuc
 
 ## BSC
 
-La red **Binance Smart Chain** evita las restricciones de flujo de capital que surgen de las altas tasas de transacción se pagan en la misma. Este ecosistema trabaja sobre **mínimas tasas** permitiendo así a los inversores saltar entre los diversos fondos de liquidez \(Liquidity Pools, farms, etc.\) sin gastos excesivos, maximizando así los beneficios con la máxima flexibilidad. Esto sirve también como un perfecto ecosistema para usuarios con poca liquidez para invertir, quienes pueden ahora entrar en el juego con mínimas pérdidas debidas a las tasas, lo cual antes era imposible de imaginar y no merecía la pena embarcarse en estas inversiones.
+La red **Binance Smart Chain** evita las restricciones de flujo de capital que surgen de las altas comisiones de transacción se pagan en la misma. Este ecosistema trabaja sobre **mínimas comisiones** permitiendo así a los inversores saltar entre los diversos fondos de liquidez \(Liquidity Pools, farms, etc.\) sin gastos excesivos, maximizando así los beneficios con la máxima flexibilidad. Esto sirve también como un perfecto ecosistema para usuarios con poca liquidez para invertir, quienes pueden ahora entrar en el juego con mínimas pérdidas debidas a las comisiones, lo cual antes era imposible de imaginar y no merecía la pena embarcarse en estas inversiones.
 
 ## Seguridad Gnosis
 
@@ -30,11 +30,11 @@ Para más información acerca del sistema Mulit-firma Gnosis haz click en el sig
 
 ## Automatización
 
-[ballena.io](https://ballena.io/) simplifica y **automatiza la optimización de rendimiento** de diferentes oportunidades en el mercado evitando el gasto innecesario de tiempo del usuario que surge de las constantes interacciones requeridas para encontrar el mejor APY y la implementación de estrategias complejas. Las estrategias se automatizan para cada bóveda por smart contracts para encontrar los mayores rendimientos. Esto permite a los inversores de alta experiencia ahorrar tiempo y optimizar rendimientos y ayuda a los usuarios noveles a contar con un acceso fácil a oportunidades y asegurar beneficios desde el primer instante.
+[ballena.io](https://ballena.io/) simplifica y **automatiza la optimización de rendimiento** de diferentes oportunidades en el mercado evitando el gasto innecesario de tiempo del usuario que surge de las constantes interacciones requeridas para encontrar el mejor APY y la implementación de estrategias complejas. Las estrategias se automatizan para cada bóveda por smart contracts para encontrar los mayores rendimientos. Esto permite a los inversores de alta experiencia ahorrar tiempo y optimizar rendimientos y ayuda a los usuarios noveles a contar con un acceso fácil a oportunidades y asegurar beneficios desde el primer momento.
 
 ## Accesibilidad para los nuevos en este mundo
 
-Fondos de liquidez, Farms, Vaults, APY, ilustraciones sin sentido y palabras que no habías oído nunca. ¡Qué lío! No te preocupes. Nuestro equipo conoce la pobre accesibilidad a este mercado para los usuarios más noveles y estamos centrados en ayudaros a llegar hasta la cumbre desde lo más básico. Caminaremos juntos a través de todos los pasos uno a uno hasta que podáis formar parte de este mercado.
+Fondos de liquidez, Farms, Vaults, APY, ilustraciones sin sentido y palabras que no habías oído nunca. ¡Qué lío! No te preocupes. Nuestro equipo conoce la difícil accesibilidad a este mercado para los usuarios más noveles y estamos centrados en ayudaros a llegar hasta la cumbre desde lo más básico. Caminaremos juntos a través de todos los pasos uno a uno hasta que podáis formar parte de este mercado.
 
 ## SimpleFarming
 

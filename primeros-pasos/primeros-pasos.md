@@ -1,10 +1,10 @@
 # Primeros Pasos
 
-## ¿Qué son las DeFi y porqué está tan de moda?
+## ¿Qué son las DeFi y por qué están tan de moda?
 
-Finanzas descentralizadas. Es decir, no hay una institución que gobierne la aplicación. Esto evita manipulación, malversación y altas tasas de operación que tan acostumbrados estamos a ver.
+Finanzas descentralizadas. Es decir, no hay una institución que gobierne la aplicación. Esto evita manipulación, malversación y altas comisiones de operación que tan acostumbrados estamos a ver.
 
-Aquí podemos encontrar una gran cantidad de proyectos que proponen nuevas ideas o utilidades en la web. Cada día surgen nuevos proyectos, ya sea para solucionar problemas existentes, proyectos de inversión, etc. Por ejemplo, [ballena.io](https://ballena.io/) es un proyecto que **se encarga principalmente de reinvertir tus ganancias obtenidas en fondos de inversión** de tal manera que no tengas que preocuparte de hacerlo tu manualmente. Además de esta manera, tus beneficios son **exponenciales**.
+Aquí podemos encontrar una gran cantidad de proyectos que proponen nuevas ideas o utilidades en la web. Cada día surgen nuevos proyectos, ya sea para solucionar problemas existentes, proyectos de inversión, etc. Por ejemplo, [ballena.io](https://ballena.io/) es un proyecto que **se encarga principalmente de reinvertir tus ganancias obtenidas en fondos de inversión** de tal manera que no tengas que preocuparte de hacerlo manualmente. Además de esta manera, tus beneficios son **exponenciales**. Es decir, se aplica el **interés compuesto**.
 
 
 
@@ -12,9 +12,9 @@ Aquí podemos encontrar una gran cantidad de proyectos que proponen nuevas ideas
 
 
 
-Esto quizás te suene un poco abstracto pero en resumidas cuentas esto funciona de la siguiente manera: Aportas una cantidad de dinero a una plataforma y por el hecho de mantener ahí tu capital está te compensará con ciertos beneficios diarios, por ejemplo del 5%. 
+Esto quizás te suene un poco abstracto pero en resumidas cuentas esto funciona de la siguiente manera: Aportas una cantidad de dinero a una plataforma y por el hecho de mantener ahí tu capital está te compensará con ciertos beneficios diarios, por ejemplo del 1%. 
 
-Esto sería como cuando antiguamente el banco ofrecía ciertos intereses por depositar y confiar tu dinero en su institución. Una de las grandes diferencias es que este tipo de proyectos son descentralizados y todos los beneficios se reparten entre los usuarios de la plataforma y no van a bolsillo de unos pocos.
+Esto sería como cuando antiguamente el banco ofrecía ciertos intereses por depositar y confiar tu dinero en su institución. Una de las grandes diferencias es que este tipo de proyectos son descentralizados y todos los beneficios se reparten entre los usuarios de la plataforma y no van al bolsillo de unos pocos.
 
 La aplicación de [ballena.io](https://ballena.io/) funciona como enlace a este tipo de fondos de liquidez. Por lo general, en este tipo de plataformas puedes cosechar manualmente los beneficios obtenidos para sacarlos de la plataforma o volverlos a reinvertir pagando unas tasas.
 
@@ -47,7 +47,7 @@ Si estás pensando en **invertir** en un proyecto de DeFi tienes que estar segur
 * Qué rendimientos tiene.
 * Su comunidad y accesibilidad.
 
-El proyecto [ballena.io](https://ballena.io/) es completamente transparente y puedes ver todos estos datos en su documentación junto a los tutoriales. Podrás ver los [tokenomics](../bloque-tecnico/tokenomics.md), es decir, cómo se gestiona la economía del proyecto y más detalles de este tipo. A continuación se muestran las características principales en respuesta a preguntas típicas y estos puntos citados anteriormente.
+El proyecto [ballena.io](https://ballena.io/) es completamente transparente y puedes ver todos estos datos en su documentación junto a los tutoriales. Podrás ver los [tokenomics](../bloque-tecnico/tokenomics.md), es decir, cómo se gestiona la economía del proyecto y más detalles de este tipo. A continuación se muestran las características principales en respuesta a preguntas frecuentes y estos puntos citados anteriormente.
 
 
 
@@ -62,7 +62,7 @@ Detrás del proyecto se encuentra la comunidad que nació en [Telegram](https://
 
 ### ¿Cuál es su objetivo?
 
-De interés social y lucrativo para toda la comunidad de libre acceso y con objetivo de ofrecer también un producto útil de alto rendimiento para el público general. Además se centra en dar respuesta a los problemas originados por el lenguaje, ya que todas las plataformas DeFi se encuentran en inglés, [**ballena.io**](https://ballena.io/) **apuesta por el español** como lengua principal y el inglés como secundaria. Otro de los objetivos más perseguidos es la accesibilidad para los usuarios de todos los niveles, como podrás comprobar [ballena.io](https://ballena.io/) hace fácil lo complicado.
+De interés social y lucrativo para toda la comunidad de libre acceso y con objetivo de ofrecer también un producto útil de alto rendimiento para el público general. Además se centra en dar respuesta a los problemas originados por el lenguaje, ya que todas las plataformas DeFi se encuentran en inglés, [**ballena.io**](https://ballena.io/) **apuesta por el español** como lengua principal y el inglés como secundaria. Otro de los objetivos más perseguidos es la accesibilidad para los usuarios de todos los niveles, como podrás comprobar, [ballena.io](https://ballena.io/) hace fácil lo complicado.
 
 
 
@@ -90,7 +90,7 @@ Los fondos de tesorería se gestionan mediante un [sistema multi-firma llamado G
 
 Los rendimientos de los fondos de nuestra plataforma son muy altos como podrás ver en el valor [APY](https://academy.binance.com/es/articles/what-is-yield-farming-in-decentralized-finance-defi#:~:text=Algunas%20m%C3%A9tricas%20habitualmente%20utilizadas%20son,espa%C3%B1ol%20Porcentaje%20de%20Rendimiento%20Anual%29.) de cada uno de nuestros productos. Los retornos son muchísimo más altos que cualquier fondo de inversión tradicional. Además, los usuarios de la plataforma son recompensados con pagos del token BALLE. Este token, debido a la utilidad del proyecto, se revalorizará de manera gradual y bastante rápida generando así un extra de beneficios.
 
-En resumidas cuentas, **obtendrás un beneficio por aportar fondos y además una recompensa extra de tokens BALLE.** Como ventaja adicional, el sistema permite re-invertir los token BALLE y estos tokens también empezarán a generar más rendimiento. Los tokens BALLE no solo tienen valor en el mercado si no que además te permitirán participar en la toma de decisiones.
+En resumidas cuentas, **obtendrás un beneficio por aportar fondos y además una recompensa extra de tokens BALLE.** Como ventaja adicional, el sistema permite reinvertir los token BALLE y estos tokens también empezarán a generar más rendimiento. Los tokens BALLE no solo tienen valor en el mercado si no que además te permitirán participar en la toma de decisiones.
 
 
 
@@ -110,7 +110,7 @@ Es por esta razón por la que será **muy importante elegir en que proyectos de 
 
 Los tokens aportados serán siempre los mismos y los tokens generados por el rendimiento irá creciendo exponencialmente, pero esto es independiente del valor de estos tokens. Por lo tanto, además de contar con este crecimiento del número de tokens aportados tendrás que estar atento a la tendencia que tiene el valor de tus criptomonedas aportadas.
 
-Otro de los puntos más importantes a favor de [ballena.io](https://ballena.io/) la **inmensa reducción en costes** para cada individuo en concepto de tasas de transacción. El usuario promedio se sorprendería al ver los gastos anuales destinados únicamente a las **tasas de transacción**. En  [ballena.io](https://ballena.io/) las operaciones de reinversión de los usuarios se hace de manera conjunta por el mismo valor, con lo que el **impacto sobre el individuo es mínimo e inapreciable**. 
+Otro de los puntos más importantes a favor de [ballena.io](https://ballena.io/) la **inmensa reducción en costes** para cada individuo en concepto de comisiones de transacción. El usuario promedio se sorprendería al ver los gastos anuales destinados únicamente a las **comisión de transacción**. En  [ballena.io](https://ballena.io/) las operaciones de reinversión de los usuarios se hace de manera conjunta por el mismo valor, con lo que el **impacto sobre el individuo es mínimo e inapreciable**. 
 
 
 
@@ -143,7 +143,7 @@ El hecho de actuar todos de manera conjunta en busca de estas oportunidades hace
 
 ### ¿Puedo retirar el dinero cuando quiera?
 
-Por supuesto! Una vez aportado el capital, [ballena.io](https://ballena.io/) se encarga de maximizar tus rendimientos automáticamente pero puedes retirarlos en cualquier momento de manera instantánea. Simplemente haciendo click en "**Cosechar"**, recibirás en tu billetera tanto los tokens que invertiste cómo los beneficios generados.
+¡Por supuesto! Una vez aportado el capital, [ballena.io](https://ballena.io/) se encarga de maximizar tus rendimientos automáticamente pero puedes retirarlos en cualquier momento de manera instantánea. Simplemente haciendo click en "**Cosechar"**, recibirás en tu billetera tanto los tokens que invertiste cómo los beneficios generados.
 
 
 
