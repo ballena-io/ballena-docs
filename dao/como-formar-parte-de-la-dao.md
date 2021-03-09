@@ -4,7 +4,7 @@ La gobernanza de [ballena.io](https://ballena.io/) está formada por todos los u
 
 
 
-![](../.gitbook/assets/presentation-1454403_1280.webp)
+![](../.gitbook/assets/presentation-1454403_1280%20%281%29.webp)
 
 La posesión de este token te aportará, además de beneficios económicos:
 

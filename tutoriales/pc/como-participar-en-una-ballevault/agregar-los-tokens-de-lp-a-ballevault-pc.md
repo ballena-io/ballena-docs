@@ -44,7 +44,7 @@ En caso de aparecer "Error de conexión" asegúrate de haber configurado y selec
 
 
 
-![](../../../.gitbook/assets/2%20%283%29%20%281%29.png)
+![](../../../.gitbook/assets/2%20%283%29%20%281%29%20%281%29.png)
 
 
 

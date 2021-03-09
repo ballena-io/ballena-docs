@@ -4,7 +4,7 @@ En este tutorial veremos como **convertir tus BNB** por otro token para poder, p
 
 
 
-### Decide si invertirás en un LP determinado o si buscarás rentabilidad en staking de nuestro token BALLE.
+### Decide si invertirás en una BalleVault determinada o si buscarás rentabilidad en staking de nuestro token BALLE.
 
 Esta decisión marcará la diferencia en los siguientes pasos del tutorial. Tenemos dos vías de actuación:
 

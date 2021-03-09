@@ -8,7 +8,5 @@ Nosotros queremos sacar una rentabilidad a nuestro dinero, con lo que buscamos c
 
 Comenzaremos a comprar esos BNB siguiendo todos los pasos de este tutorial. Haz click en el enlace para navegar al primer tutorial de Binance, [Abrir y configurar una cuenta en Binance](abrir-y-configurar-una-cuenta-en-binance-smartphone-tablet.md).
 
-
-
 {% page-ref page="abrir-y-configurar-una-cuenta-en-binance-smartphone-tablet.md" %}
 

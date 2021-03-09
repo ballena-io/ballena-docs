@@ -22,7 +22,7 @@ Sigue los pasos del tutorial [Conectar Wallet para votar y crear propuestas](con
 
 
 
-![](../../.gitbook/assets/6%20%282%29.png)
+![](../../.gitbook/assets/6%20%283%29.png)
 
 
 
@@ -37,7 +37,7 @@ Sigue los pasos del tutorial [Conectar Wallet para votar y crear propuestas](con
 
 
 
-![](../../.gitbook/assets/5%20%284%29.png)
+![](../../.gitbook/assets/5%20%284%29%20%281%29.png)
 
 
 
@@ -63,7 +63,7 @@ El **número de bloque** es un registro del momento de lanzamiento de la propues
 
 
 
-![](../../.gitbook/assets/5%20%282%29.png)
+![](../../.gitbook/assets/5%20%284%29.png)
 
 ### 
 
