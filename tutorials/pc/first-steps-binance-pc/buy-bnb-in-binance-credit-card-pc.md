@@ -12,7 +12,7 @@ You can also buy BNB directly with your credit card instead of depositing and co
 
 
 
-![](../../../.gitbook/assets/buybnb0.png)
+![](../../../.gitbook/assets/buybnb0%20%281%29.png)
 
 ### 
 
