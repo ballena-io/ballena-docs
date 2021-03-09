@@ -72,3 +72,7 @@
 
 * [Desarrolladores](otros/desarrolladores.md)
 
+## Recursos para el usuario
+
+* [Recursos](recursos-para-el-usuario/recursos.md)
+
