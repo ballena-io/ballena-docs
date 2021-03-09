@@ -143,11 +143,11 @@ El hecho de actuar todos de manera conjunta en busca de estas oportunidades hace
 
 ### ¿Puedo retirar el dinero cuando quiera?
 
-¡Por supuesto! Una vez aportado el capital, [ballena.io](https://ballena.io/) se encarga de maximizar tus rendimientos automáticamente pero puedes retirarlos en cualquier momento de manera instantánea. Simplemente haciendo click en "**Cosechar"**, recibirás en tu billetera tanto los tokens que invertiste cómo los beneficios generados.
+¡Por supuesto! Una vez aportado el capital, [ballena.io](https://ballena.io/) se encarga de maximizar tus rendimientos automáticamente pero puedes retirarlos en cualquier momento de manera instantánea. Simplemente haciendo click en "**RETIRAR"**, recibirás en tu billetera tanto los tokens que invertiste cómo los beneficios generados.
 
 
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 ### 
 
