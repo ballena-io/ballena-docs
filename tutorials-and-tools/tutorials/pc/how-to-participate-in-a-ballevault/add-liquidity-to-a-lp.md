@@ -14,7 +14,7 @@ If you want to participate in a BalleVault at [ballena.io](https://ballena.io/),
 
 
 
-![](../../../.gitbook/assets/foto-1.png)
+![](../../../../.gitbook/assets/foto-1.png)
 
 
 
@@ -24,7 +24,7 @@ Remember that if we are adding liquidity to a pair, we will need to supply the s
 
 
 
-![](../../../.gitbook/assets/foto-2.png)
+![](../../../../.gitbook/assets/foto-2.png)
 
 
 
@@ -32,7 +32,7 @@ Remember that if we are adding liquidity to a pair, we will need to supply the s
 
 
 
-![](../../../.gitbook/assets/foto-3.png)
+![](../../../../.gitbook/assets/foto-3.png)
 
 ### 
 
@@ -40,7 +40,7 @@ Remember that if we are adding liquidity to a pair, we will need to supply the s
 
 
 
-![](../../../.gitbook/assets/foto-4.jpg)
+![](../../../../.gitbook/assets/foto-4.jpg)
 
 
 
@@ -48,7 +48,7 @@ Remember that if we are adding liquidity to a pair, we will need to supply the s
 
 
 
-![](../../../.gitbook/assets/foto-5.jpg)
+![](../../../../.gitbook/assets/foto-5.jpg)
 
 
 

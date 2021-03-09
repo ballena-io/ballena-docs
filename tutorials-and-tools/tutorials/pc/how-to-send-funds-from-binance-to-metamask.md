@@ -14,7 +14,7 @@
 
 
 
-![](../../.gitbook/assets/enviarbnb0.png)
+![](../../../.gitbook/assets/enviarbnb0.png)
 
 ### 
 
@@ -22,7 +22,7 @@
 
 ​​
 
-![](../../.gitbook/assets/enviarbnb1.png)
+![](../../../.gitbook/assets/enviarbnb1.png)
 
 
 
@@ -34,7 +34,7 @@ Click on the Metamask extension in our browser and make sure that the BSC networ
 
 ​
 
-![](../../.gitbook/assets/enviarbnb2.png)
+![](../../../.gitbook/assets/enviarbnb2.png)
 
 ### 
 
@@ -44,7 +44,7 @@ Give it a couple of minutes for your BNB tokens to appear in your Metamask walle
 
 ​​
 
-![](../../.gitbook/assets/enviarbnb3%20%281%29.png)
+![](../../../.gitbook/assets/enviarbnb3%20%281%29.png)
 
 
 

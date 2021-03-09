@@ -18,7 +18,7 @@ Choose the tokens to be supplied and approve the contract. Now enter the desired
 
 
 
-![](../../../.gitbook/assets/pancake_liquidity.png)
+![](../../../../.gitbook/assets/pancake_liquidity.png)
 
 ### 
 
@@ -26,7 +26,7 @@ Choose the tokens to be supplied and approve the contract. Now enter the desired
 
 
 
-![](../../../.gitbook/assets/pancake_lp.png)
+![](../../../../.gitbook/assets/pancake_lp.png)
 
 
 
@@ -34,7 +34,7 @@ Once the tokens are supplied you will see a confirmation sign. Now that the toke
 
 
 
-![](../../../.gitbook/assets/9a50ca34dcacf14236cc41499e30fe72ba1b8c0e_2_253x500.png)
+![](../../../../.gitbook/assets/9a50ca34dcacf14236cc41499e30fe72ba1b8c0e_2_253x500.png)
 
 
 

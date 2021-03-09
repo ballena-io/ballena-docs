@@ -1,4 +1,0 @@
-# DAO
-
-\*\***IN PROGRESS**\*\*
-

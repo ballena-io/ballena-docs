@@ -6,7 +6,7 @@ Once the illustration is understood, we will start with the tutorials one by one
 
 
 
-![](../.gitbook/assets/illustration-general.png)
+![](../../.gitbook/assets/illustration-general.png)
 
 
 

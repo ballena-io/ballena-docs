@@ -12,7 +12,7 @@ You can use some other currencies depending on your country or base currency.
 
 
 
-![](../../../.gitbook/assets/1615028657935%20%282%29%20%282%29.jpg)
+![](../../../../.gitbook/assets/1615028657935%20%282%29%20%282%29.jpg)
 
 ### 
 
@@ -20,7 +20,7 @@ You can use some other currencies depending on your country or base currency.
 
 
 
-![](../../../.gitbook/assets/1615028657928.jpg)
+![](../../../../.gitbook/assets/1615028657928.jpg)
 
 
 
@@ -32,7 +32,7 @@ Remember that you will need BNB for the fees payment in most of the BSC network 
 
 
 
-![](../../../.gitbook/assets/1615028657920.jpg)
+![](../../../../.gitbook/assets/1615028657920.jpg)
 
 
 
@@ -40,7 +40,7 @@ Remember that you will need BNB for the fees payment in most of the BSC network 
 
 
 
-![](../../../.gitbook/assets/1615028657912.jpg)
+![](../../../../.gitbook/assets/1615028657912.jpg)
 
 
 

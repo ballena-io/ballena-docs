@@ -13,7 +13,7 @@ We will need these tools for the PC:
 
 
 
-![](../../.gitbook/assets/illustration-pc.png)
+![](../../../.gitbook/assets/illustration-pc.png)
 
 
 

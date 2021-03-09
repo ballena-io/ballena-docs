@@ -16,7 +16,7 @@ In case we have deposited EUR we will have to convert this money twice due to so
 
 
 
-![](../../../.gitbook/assets/1en.png)
+![](../../../../.gitbook/assets/1en.png)
 
 
 
@@ -24,9 +24,9 @@ In case we have deposited EUR we will have to convert this money twice due to so
 
 
 
-![](../../../.gitbook/assets/2en.png)
+![](../../../../.gitbook/assets/2en.png)
 
-![](../../../.gitbook/assets/3en.png)
+![](../../../../.gitbook/assets/3en.png)
 
 
 
@@ -34,7 +34,7 @@ In case we have deposited EUR we will have to convert this money twice due to so
 
 
 
-![](../../../.gitbook/assets/4en.png)
+![](../../../../.gitbook/assets/4en.png)
 
 
 
@@ -48,7 +48,7 @@ Before confirming the transaction you will be given a conversion preview, check 
 
 
 
-![](../../../.gitbook/assets/5en.png)
+![](../../../../.gitbook/assets/5en.png)
 
 
 

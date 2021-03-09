@@ -35,7 +35,7 @@ For more information regarding Gnosis Multi signature system check this link:
 
 
 
-![](.gitbook/assets/image.png)
+![](../.gitbook/assets/image.png)
 
 
 

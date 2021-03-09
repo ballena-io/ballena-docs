@@ -16,7 +16,7 @@ Remember that adding liquidity to a pair in PancakeSwap is mandatory in order to
 
 
 
-![](../../../.gitbook/assets/5.png)
+![](../../../../.gitbook/assets/5.png)
 
 
 
@@ -28,7 +28,7 @@ In case of "Connection error" message display, make sure you have selected the B
 
 
 
-![](../../../.gitbook/assets/sin-titulo%20%282%29.png)
+![](../../../../.gitbook/assets/sin-titulo%20%282%29.png)
 
 
 
@@ -36,7 +36,7 @@ In case of "Connection error" message display, make sure you have selected the B
 
 
 
-![](../../../.gitbook/assets/foto_3.png)
+![](../../../../.gitbook/assets/foto_3.png)
 
 
 
@@ -44,7 +44,7 @@ In case of "Connection error" message display, make sure you have selected the B
 
 
 
-![](../../../.gitbook/assets/2%20%283%29%20%281%29%20%281%29.png)
+![](../../../../.gitbook/assets/2%20%283%29%20%281%29%20%281%29.png)
 
 
 
@@ -52,7 +52,7 @@ In case of "Connection error" message display, make sure you have selected the B
 
 
 
-![](../../../.gitbook/assets/3%20%283%29.png)
+![](../../../../.gitbook/assets/3%20%283%29.png)
 
 
 
@@ -60,7 +60,7 @@ In case of "Connection error" message display, make sure you have selected the B
 
 
 
-![](../../../.gitbook/assets/4%20%283%29.png)
+![](../../../../.gitbook/assets/4%20%283%29.png)
 
 
 

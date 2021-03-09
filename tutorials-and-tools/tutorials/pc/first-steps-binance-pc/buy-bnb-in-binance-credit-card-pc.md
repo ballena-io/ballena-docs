@@ -12,7 +12,7 @@ You can also buy BNB directly with your credit card instead of depositing and co
 
 
 
-![](../../../.gitbook/assets/buybnb0%20%281%29.png)
+![](../../../../.gitbook/assets/buybnb0%20%281%29.png)
 
 ### 
 
@@ -24,7 +24,7 @@ You can also buy BNB directly with your credit card instead of depositing and co
 
 
 
-![](../../../.gitbook/assets/buybnb1.png)
+![](../../../../.gitbook/assets/buybnb1.png)
 
 ### 
 
@@ -34,7 +34,7 @@ Remember that almost all projects in the BSC use BNB as a trade coin and as the 
 
 
 
-![](../../../.gitbook/assets/buybnb2.png)
+![](../../../../.gitbook/assets/buybnb2.png)
 
 
 
@@ -44,7 +44,7 @@ If you haven't done this yet, you won't be able to perform the operation and a s
 
 
 
-![](../../../.gitbook/assets/buybnb3.png)
+![](../../../../.gitbook/assets/buybnb3.png)
 
 
 
@@ -54,7 +54,7 @@ As soon as your identity has been verified, you will be able to proceed with the
 
 
 
-![](../../../.gitbook/assets/buybnb4.png)
+![](../../../../.gitbook/assets/buybnb4.png)
 
 
 
@@ -66,7 +66,7 @@ Once the operation has been validated you will be shown the confirmation screen.
 
 
 
-![](../../../.gitbook/assets/binance_credit_5.png)
+![](../../../../.gitbook/assets/binance_credit_5.png)
 
 
 

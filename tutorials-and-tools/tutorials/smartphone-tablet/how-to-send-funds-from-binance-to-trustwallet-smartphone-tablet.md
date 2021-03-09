@@ -30,7 +30,7 @@ Click on the "Wallet" icon at the lower part of your screen.
 
 ​
 
-![](../../.gitbook/assets/1615028657935%20%282%29.jpg)
+![](../../../.gitbook/assets/1615028657935%20%282%29.jpg)
 
 ​
 
@@ -40,7 +40,7 @@ You will now see the Spot Wallet screen on your device.
 
 ​
 
-![](../../.gitbook/assets/1615033140220.jpg)
+![](../../../.gitbook/assets/1615033140220.jpg)
 
 ​
 
@@ -48,7 +48,7 @@ You will now see the Spot Wallet screen on your device.
 
 ​
 
-![](../../.gitbook/assets/1615033140213.jpg)
+![](../../../.gitbook/assets/1615033140213.jpg)
 
 ​
 
@@ -56,7 +56,7 @@ You will now see the Spot Wallet screen on your device.
 
 ​
 
-![](../../.gitbook/assets/1615033140205.jpg)
+![](../../../.gitbook/assets/1615033140205.jpg)
 
 ​
 
@@ -70,7 +70,7 @@ You will now see the Spot Wallet screen on your device.
 
 ### 10. Enter the desired BNB amount and press "Withdrawal". <a id="10-introducir-el-numero-de-bnb-a-enviar-a-la-billetera-y-pulsar-retirar"></a>
 
-![](../../.gitbook/assets/1615033140194.jpg)
+![](../../../.gitbook/assets/1615033140194.jpg)
 
 ​
 

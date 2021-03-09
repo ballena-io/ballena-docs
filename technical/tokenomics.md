@@ -4,7 +4,7 @@
 
 [ballena.io](https://ballena.io/) started with no pre-sale and has an immutable max supply of 40000 BALLE token. All of them will be freely distributed to our community of users and holders and a small amount allocated to our Dev. Team and promotion purposes.
 
-![](.gitbook/assets/balle_token_distribution%20%281%29.png)
+![](../.gitbook/assets/balle_token_distribution%20%281%29.png)
 
 ### **Percentage Breakdown**
 

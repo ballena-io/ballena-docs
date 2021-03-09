@@ -8,7 +8,7 @@ Every day, new projects are launched with different aims like, solving existing 
 
 
 
-![](.gitbook/assets/bitcoin-5675758_1280.png)
+![](../.gitbook/assets/bitcoin-5675758_1280.png)
 
 
 
@@ -18,7 +18,7 @@ In DeFi, all the profits are distributed within the Comunity, just unlike banks,
 
 
 
-![](.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
 
 
@@ -28,7 +28,7 @@ See the graphic below to understand how it works. The blue line stands for what 
 
 
 
-![](.gitbook/assets/sin-titulo%20%283%29.png)
+![](../.gitbook/assets/sin-titulo%20%283%29.png)
 
 
 
@@ -65,7 +65,7 @@ Behind the project there is a huge comunity, born in Telegram with the aim of cr
 
 
 
-![](.gitbook/assets/communication-1297544_1280.webp)
+![](../.gitbook/assets/communication-1297544_1280.webp)
 
 
 
@@ -105,7 +105,7 @@ In other words, you will **get a profit for providing funds and also, you´ll ge
 
 
 
-![](.gitbook/assets/tap-6039919_1280%20%281%29.webp)
+![](../.gitbook/assets/tap-6039919_1280%20%281%29.webp)
 
 
 
@@ -123,7 +123,7 @@ Having said that, you will have to watch out the trend and periodically check th
 
 
 
-![](.gitbook/assets/compos.png)
+![](../.gitbook/assets/compos.png)
 
 
 
@@ -156,13 +156,13 @@ Of course! Once the capital is provided, [ballena.io](https://ballena.io/) optim
 
 
 
-![](.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
 ### 
 
 ### Sounds good, how do I get started?
 
-Go to the tab [Tutorials ](tutorials/)and make sure you complete them all. Here you´ll learn how to invest in [ballena.io](https://ballena.io/) without having been into DeFi´s never before. 
+Go to the tab [Tutorials ](../tutorials-and-tools/tutorials/)and make sure you complete them all. Here you´ll learn how to invest in [ballena.io](https://ballena.io/) without having been into DeFi´s never before. 
 
 We also recomend you to **join the comunity**. Please contact us through any of the channels in case you got any question. Our comunity [ballena.io](https://ballena.io/) is always willing to help you. Jump and say hello even if you don´t need any help!
 

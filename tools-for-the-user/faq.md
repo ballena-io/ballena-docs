@@ -16,9 +16,9 @@ BALLE token is listed on Coinmarketcap \(link\), Coingecko \(link\), \(add other
 
 #### 3. What does Ballena.io platform offer?
 
-[ballena.io](https://ballena.io/)  offers revenue strategies based upon staking and vaults. It also offers the governance token BALLE as mentioned above, as well as voting for holders. For more info click [here](what-does-ballena.io-offer.md).
+[ballena.io](https://ballena.io/)  offers revenue strategies based upon staking and vaults. It also offers the governance token BALLE as mentioned above, as well as voting for holders. For more info click [here](../getting-started-1/what-does-ballena.io-offer.md).
 
-But not only that! [ballena.io](https://ballena.io/) ´s immersive community is growing at an exponential rate and is waiting for you to join it, seek for help and share your ideas. Feel free to come and say hi in [here](./#community).
+But not only that! [ballena.io](https://ballena.io/) ´s immersive community is growing at an exponential rate and is waiting for you to join it, seek for help and share your ideas. Feel free to come and say hi in [here](../#community).
 
 
 
@@ -30,7 +30,7 @@ One of the greatest questions. The [ballena.io](https://ballena.io/) community w
 
 #### 5. I´m lost in here, What should I do?
 
-If you can´t find yourself in this DeFI world but you still want to get the greatest yield out of your investment, [ballena.io](https://ballena.io/) will help you with this. We have created an extensive highly detailed tutorial. Click [here ](tutorials/)and start with us.
+If you can´t find yourself in this DeFI world but you still want to get the greatest yield out of your investment, [ballena.io](https://ballena.io/) will help you with this. We have created an extensive highly detailed tutorial. Click [here ](../tutorials-and-tools/tutorials/)and start with us.
 
 #### 
 
@@ -44,7 +44,7 @@ The project is currently undergoing an audit process. It will be published here.
 
 #### 2. Are its contracts verified?
 
-Yes, all contracts´ codes have been verified and published on BSCScan. For more information click [here](tokenomics.md#smart-contracts).
+Yes, all contracts´ codes have been verified and published on BSCScan. For more information click [here](../technical/tokenomics.md#smart-contracts).
 
 
 
@@ -52,7 +52,7 @@ Yes, all contracts´ codes have been verified and published on BSCScan. For more
 
 Our project is audited, our contracts verified and we are part of a huge community on social media. We truly believe in the transparency of the project serving as a proof of the safety provided.
 
-Nevertheless the DeFi and Crypto world counts with some inherent risks which you should be aware of. For more info about Security and Risks click [here](security-and-risks.md).
+Nevertheless the DeFi and Crypto world counts with some inherent risks which you should be aware of. For more info about Security and Risks click [here](../technical/security-and-risks.md).
 
 
 
@@ -60,7 +60,7 @@ Nevertheless the DeFi and Crypto world counts with some inherent risks which you
 
 #### 1. Are the tokenomics of this project sustainable?
 
-After conducting a deep research through the tokenomics in the DeFi market, the Dev. Team has developed a tokenomics structure that guarantees the economic success of the project, as well as the profitability of its token and listed products. For more information regarding this question click in [tokenomics](tokenomics.md).
+After conducting a deep research through the tokenomics in the DeFi market, the Dev. Team has developed a tokenomics structure that guarantees the economic success of the project, as well as the profitability of its token and listed products. For more information regarding this question click in [tokenomics](../technical/tokenomics.md).
 
 
 

@@ -48,7 +48,7 @@ Click on the 4 square icon at the lower part of the screen for accessing the Dap
 
 
 
-![](../../.gitbook/assets/ballenaio.jpg)
+![](../../../.gitbook/assets/ballenaio.jpg)
 
 
 

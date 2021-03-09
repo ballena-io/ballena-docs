@@ -12,11 +12,11 @@
 
 The project [ballena.io](https://ballena.io/) is based on a Decentralized Autonomous Organization, meaning the organization is autonomously directed by the Smart Contracts.
 
-The implemented Smart Contracts  are clearly shown on our platform and are immutable since original development. This way, community users are able to check the proper running of the platform periodically and this won´t be able to be altered by anyone in the future. For more information regarding the Smart Contracts click on [Tokenomics](tokenomics.md).
+The implemented Smart Contracts  are clearly shown on our platform and are immutable since original development. This way, community users are able to check the proper running of the platform periodically and this won´t be able to be altered by anyone in the future. For more information regarding the Smart Contracts click on [Tokenomics](technical/tokenomics.md).
 
-Decisions among the DAO are based upon a consensus protocol. [ballena.io](https://ballena.io/) uses the Gnosis Multisig system for this purpose. The system adds a layer of security to the project requiring a minimum number of signatures among the community users for any new adoptions in the Smart Contracts. For more info regarding Multisig click in [here](governance.md#wallet-safety).
+Decisions among the DAO are based upon a consensus protocol. [ballena.io](https://ballena.io/) uses the Gnosis Multisig system for this purpose. The system adds a layer of security to the project requiring a minimum number of signatures among the community users for any new adoptions in the Smart Contracts. For more info regarding Multisig click in [here](technical/governance.md#wallet-safety).
 
-The BALLE Governance token guarantees the economic stability of the DAO through its regulated supply stated in the Smart Contracts. The BALLE token also makes the community users able to vote for new changes and ideas, as well as rewarding them with an extra revenue. For more info click in [Governance](governance.md).
+The BALLE Governance token guarantees the economic stability of the DAO through its regulated supply stated in the Smart Contracts. The BALLE token also makes the community users able to vote for new changes and ideas, as well as rewarding them with an extra revenue. For more info click in [Governance](technical/governance.md).
 
 
 
@@ -26,7 +26,7 @@ We are glad to announce **We are the first project working with Gnosis** Multisi
 
 A multiple signature wallet is a cryptocurrency wallet that controls access and changes to one or more Smart Contracts. Most of the community governed projects in the Ethereum network often require multiple signers to approve a transaction before it will be executed. In Binance Smart Chain, we are the first project implementing Gnosis Safe to run our DAO. 
 
-For more information regarding Gnosis Multi signature system check this [link](governance.md#wallet-safety).
+For more information regarding Gnosis Multi signature system check this [link](technical/governance.md#wallet-safety).
 
 
 

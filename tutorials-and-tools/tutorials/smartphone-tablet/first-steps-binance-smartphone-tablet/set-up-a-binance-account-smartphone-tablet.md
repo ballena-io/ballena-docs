@@ -12,7 +12,7 @@ Open your browser and navigate to the [Binance ](https://www.binance.com/en)webp
 
 
 
-![](../../../.gitbook/assets/1615032035012.jpg)
+![](../../../../.gitbook/assets/1615032035012.jpg)
 
 
 
@@ -22,7 +22,7 @@ Press the banner to the App Store for the app download.
 
 
 
-![](../../../.gitbook/assets/1615032035020.jpg)
+![](../../../../.gitbook/assets/1615032035020.jpg)
 
 
 
@@ -34,7 +34,7 @@ Press the banner to the App Store for the app download.
 
 
 
-![](../../../.gitbook/assets/screenshot_20210224-221417.jpg)
+![](../../../../.gitbook/assets/screenshot_20210224-221417.jpg)
 
 
 
@@ -44,7 +44,7 @@ Fill in the required fields in this section.
 
 
 
-![](../../../.gitbook/assets/abrirbinance2.png)
+![](../../../../.gitbook/assets/abrirbinance2.png)
 
 
 
@@ -54,7 +54,7 @@ Click on "Create account" and complete the security verification sliding the puz
 
 
 
-![](../../../.gitbook/assets/abrirbinance3.png)
+![](../../../../.gitbook/assets/abrirbinance3.png)
 
 ### 
 
@@ -64,7 +64,7 @@ Check your mail and get the required code.
 
 
 
-![](../../../.gitbook/assets/abrirbinance4.png)
+![](../../../../.gitbook/assets/abrirbinance4.png)
 
 
 
@@ -74,7 +74,7 @@ We shall see an email like the following one.
 
 
 
-![](../../../.gitbook/assets/abrirbinance5.png)
+![](../../../../.gitbook/assets/abrirbinance5.png)
 
 ### 
 
@@ -88,7 +88,7 @@ Use the received six digit code to complete the verification phase.
 
 
 
-![](../../../.gitbook/assets/1615028657935%20%282%29%20%281%29.jpg)
+![](../../../../.gitbook/assets/1615028657935%20%282%29%20%281%29.jpg)
 
 
 

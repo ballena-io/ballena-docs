@@ -15,7 +15,7 @@ TrustWallet will be used for accessing the Dapps like PancakeSwap and [ballena.i
 
 
 
-![](../../.gitbook/assets/illustration-smart.png)
+![](../../../.gitbook/assets/illustration-smart.png)
 
 
 
