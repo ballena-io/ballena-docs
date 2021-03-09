@@ -12,7 +12,7 @@ Esta decisión marcará la diferencia en los siguientes pasos del tutorial. Tene
 
 #### Proveer liquidez a una BalleVault de un par que nos llame la atención.
 
-Es una forma de inversión en la que se añaden a partes iguales dos assets. El retorno, por lo tanto, será de estos dos assets también a partes iguales. La BalleVault lo que hará será aumentar los tokens que tenemos asignados al par seleccionado. Por ejemplo, podríamos añadir liquidez al par BDO/BNB. Lo que haremos en este caso será cambiar la mitad de nuestros BNB por BDO y añadiremos ambos a una LP. 
+Es una forma de inversión en la que se añaden a partes iguales dos assets con el mismo valor. El retorno, por lo tanto, será de estos dos assets también a partes iguales. La BalleVault lo que hará será aumentar los tokens que tenemos asignados al par seleccionado. Por ejemplo, podríamos añadir liquidez al par BDO/BNB. Lo que haremos en este caso será cambiar la mitad de nuestros BNB por BDO y añadiremos ambos a una LP. El hecho de añadir el mismo valor para ambos significa que si queremos aportar tokens BNB con valor de 200€, tendremos que añadir también tokens BDO equivalentes a 200€.
 
 Para ello tendremos que cambiar BNB por BDO en PancakeSwap como se detalla en [este tutorial](cambiar-bnb-por-otro-token-en-pancakeswap.md).
 
