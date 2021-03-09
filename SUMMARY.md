@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Introducción a ballena.io](README.md)
-* [¿Qué podemos hacer en ballena.io?](que-podemos-hacer-en-ballena.io.md)
 * [Primeros Pasos](primeros-pasos.md)
+* [¿Qué podemos hacer en ballena.io?](que-podemos-hacer-en-ballena.io.md)
 * [Tutoriales](tutoriales/README.md)
   * [PC](tutoriales/pc/README.md)
     * [Primeros pasos: Binance - PC](tutoriales/pc/primeros-pasos-binance-pc/README.md)
