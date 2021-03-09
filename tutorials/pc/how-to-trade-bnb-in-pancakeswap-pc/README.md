@@ -4,13 +4,15 @@ In this tutorial we will learn how to **trade BNB** for another token in [Pancak
 
 
 
-Decide whether you will invest in a BalleVault or you will find revenue staking the BALLE token.
+### Decide whether you will invest in a BalleVault or you will find revenue staking the BALLE token.
+
+This decision will guide you through two different branches in this tutorial:
 
 
 
-### Decide si invertirás en una LP determinado o si buscarás rentabilidad en staking de nuestro token BALLE.
+#### 1. Provide liquidity to a BalleVault.
 
-Esta decisión marcará la diferencia en los siguientes pasos del tutorial. Tenemos dos vías de actuación:
+
 
 
 
