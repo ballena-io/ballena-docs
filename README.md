@@ -10,11 +10,11 @@
 
 El proyecto [ballena.io](https://ballena.io/) opta por la forma de **organización autónoma descentralizada**, es decir, la organización se coordina de manera autónoma por los contratos inteligentes \(Smart Contracts\).
 
-Los Smart Contracts implementados son de carácter transparente e inmutable desde el momento de su liberación. De esta manera el correcto funcionamiento queda a la vista de la comunidad y este no podrá ser modificado en un futuro por cualquier integrante. Para más información acerca de estos contratos inteligentes haz click en [Tokenomics](tokenomics.md).
+Los Smart Contracts implementados son de carácter transparente e inmutable desde el momento de su liberación. De esta manera el correcto funcionamiento queda a la vista de la comunidad y este no podrá ser modificado en un futuro por cualquier integrante. Para más información acerca de estos contratos inteligentes haz click en [Tokenomics](bloque-tecnico/tokenomics.md).
 
-La DAO cuenta con un **protocolo de consenso**. Este garantiza una toma de decisiones regulada y consensuada dentro de la comunidad. Para ello [ballena.io](https://ballena.io/) cuenta con el **sistema Gnosis Multisig** o multi-firma que se detalla en [Multisig](gobernanza.md#seguridad-de-la-wallet). Este sistema realza la seguridad del proyecto requiriendo un número mínimo de firmas de la comunidad para cualquiera de las nuevas implementaciones. [ballena.io](https://ballena.io/) es el primer proyecto de la red Binance Smart Chain en implementar Gnosis Safe para controlar nuestra DAO.
+La DAO cuenta con un **protocolo de consenso**. Este garantiza una toma de decisiones regulada y consensuada dentro de la comunidad. Para ello [ballena.io](https://ballena.io/) cuenta con el **sistema Gnosis Multisig** o multi-firma que se detalla en [Multisig](bloque-tecnico/gobernanza.md#seguridad-de-la-wallet). Este sistema realza la seguridad del proyecto requiriendo un número mínimo de firmas de la comunidad para cualquiera de las nuevas implementaciones. [ballena.io](https://ballena.io/) es el primer proyecto de la red Binance Smart Chain en implementar Gnosis Safe para controlar nuestra DAO.
 
-El token BALLE garantiza la solvencia económica de la DAO mediante su distribución regulada y constatada en los Smart Contracts. Además este token otorga a los usuarios el **poder de votar nuevos cambios e ideas y recompensa económicamente a los que lo poseen**. Para más información acceder a [Gobernanza](gobernanza.md).
+El token BALLE garantiza la solvencia económica de la DAO mediante su distribución regulada y constatada en los Smart Contracts. Además este token otorga a los usuarios el **poder de votar nuevos cambios e ideas y recompensa económicamente a los que lo poseen**. Para más información acceder a [Gobernanza](bloque-tecnico/gobernanza.md).
 
 ## BSC
 
@@ -26,7 +26,7 @@ Estamos orgullosos de anunciar que **somos el primer proyecto en implementar Gno
 
 Una wallet de firma múltiple es una billetera de criptomonedas que controla el acceso y los cambios de uno o varios contratos inteligentes \(Smart Contracts\). La mayoría de los proyectos controlados por la comunidad de la red Ethereum requieren un sistema Multisig, es decir, múltiples firmas, para aprobar una transacción antes de ser ejecutada.
 
-Para más información acerca del sistema Mulit-firma Gnosis haz click en el siguiente [link](gobernanza.md#seguridad-de-la-wallet).
+Para más información acerca del sistema Mulit-firma Gnosis haz click en el siguiente [link](bloque-tecnico/gobernanza.md#seguridad-de-la-wallet).
 
 ## Automatización
 

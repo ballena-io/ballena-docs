@@ -2,10 +2,10 @@
 
 * [Introducción a ballena.io](README.md)
 
-## Introducción
+## Primeros Pasos
 
-* [Primeros Pasos](introduccion/primeros-pasos.md)
-* [¿Qué podemos hacer en ballena.io?](introduccion/que-podemos-hacer-en-ballena.io.md)
+* [Primeros Pasos](primeros-pasos/primeros-pasos.md)
+* [¿Qué podemos hacer en ballena.io?](primeros-pasos/que-podemos-hacer-en-ballena.io.md)
 
 ## Tutoriales y herramientas
 
@@ -41,20 +41,17 @@
     * [Cómo participar en una BalleVault - Smartphone/Tablet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/como-participar-en-una-ballevault-smartphone-tablet/README.md)
       * [Añadir liquidez a una LP - Smartphone/Tablet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/como-participar-en-una-ballevault-smartphone-tablet/anadir-liquidez-a-una-lp-smartphone-tablet.md)
       * [Agregar los tokens de LP a BalleVault- Smartphone/Tablet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/como-participar-en-una-ballevault-smartphone-tablet/agregar-los-tokens-de-lp-a-ballevault-smartphone-tablet.md)
-* [Herramientas de aprendizaje](tutoriales-y-herramientas/herramientas-de-aprendizaje.md)
+* [Recursos de aprendizaje](tutoriales-y-herramientas/herramientas-de-aprendizaje.md)
 
----
+## Bloque Técnico
 
-* [Productos](productos/README.md)
-  * [SimpleFarming](productos/simplefarming.md)
-  * [BALLE Staking Pool](productos/balle-staking-pool.md)
-  * [BalleVaults de Pancake Swap](productos/ballevaults-de-pancake-swap.md)
-* [Tokenomics](tokenomics.md)
-* [Gobernanza](gobernanza.md)
-* [Seguridad y Riesgos](seguridad-y-riesgos.md)
-* [FAQ](faq.md)
-* [DAO](dao.md)
-* [Desarrolladores](desarrolladores.md)
+* [Productos](bloque-tecnico/productos/README.md)
+  * [SimpleFarming](bloque-tecnico/productos/simplefarming.md)
+  * [BALLE Staking Pool](bloque-tecnico/productos/balle-staking-pool.md)
+  * [BalleVaults de Pancake Swap](bloque-tecnico/productos/ballevaults-de-pancake-swap.md)
+* [Tokenomics](bloque-tecnico/tokenomics.md)
+* [Gobernanza](bloque-tecnico/gobernanza.md)
+* [Seguridad y Riesgos](bloque-tecnico/seguridad-y-riesgos.md)
 
 ## DAO Organización
 
@@ -66,4 +63,12 @@
   * [Crear propuestas](dao-organizacion/otros-tutoriales-dao/crear-propuestas.md)
   * [Votar](dao-organizacion/otros-tutoriales-dao/votar.md)
   * [Ejecutar llamadas a contratos desde Gnosis](dao-organizacion/otros-tutoriales-dao/ejecutar-llamadas-a-contratos-desde-gnosis.md)
+
+## Preguntas Frecuentes
+
+* [FAQ](preguntas-frecuentes/faq.md)
+
+## Otros
+
+* [Desarrolladores](otros/desarrolladores.md)
 
