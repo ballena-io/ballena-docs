@@ -80,7 +80,7 @@ Cuando entras en [ballena.io](https://ballena.io) accedes directamente al aparta
 
 ### 7. Aprobamos la transacción para poder trabajar con la Bóveda.
 
-Una vez confirmada la transacción nos tenemos que esperar unos segundos para que nos aparezcan las opciones de depósito.
+Una vez confirmada la transacción, esperaremos unos segundos para que nos aparezcan las opciones de depósito.
 
 
 
@@ -90,7 +90,7 @@ Una vez confirmada la transacción nos tenemos que esperar unos segundos para qu
 
 ### 8. Seleccionaremos la cantidad de LP a introducir en la Bóveda de las siguientes maneras:
 
-⦁ Introducir directamente el valor en el recuadro. Fíjate que en “Balance” ya te debe aparecer el balance de esos LP que tienes en tu billetera. 
+⦁ Introducir directamente el valor en el recuadro. Observa que en “Balance” ya te debe aparecer el balance de esos LP que tienes en tu billetera. 
 
 ⦁ Arrastrar la pelota de % hasta el porcentaje deseado.
 
@@ -108,7 +108,7 @@ En el caso de pulsar depositar todo, asegúrate que el valor que aparece en el r
 
 ### 10. Aprobamos la transacción para añadir nuestros tokens LP a la Bóveda.
 
-Tras unos segundos nos aparecerá la confirmación y veremos como los tokens LP que teníamos en el campo Balance, ahora aparecen en Depositado.
+Tras unos segundos, nos aparecerá la confirmación y veremos como los tokens LP que teníamos en el campo Balance ahora aparecen en Depositado.
 
 
 

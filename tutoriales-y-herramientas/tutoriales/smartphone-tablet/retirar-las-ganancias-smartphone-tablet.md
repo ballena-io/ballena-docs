@@ -34,7 +34,7 @@ Sigue los siguientes pasos para ello:
 
 ### 5. Ya has retirado tus fondos. Comprueba que en tu wallet cuentas con los LP correspondientes y los tokens BALLE. 
 
-Una vez hayas retirado los LP tokens tendrán que ser disueltos en PancakeSwap para poder disponer de ellos como dos assets individuales de nuevo. Tendrás que suprimir la liquidez de ese par llevando a cabo los pasos de añadir liquidez pero a la inversa.
+Una vez hayas retirado los LP tokens, tendrán que ser disueltos en PancakeSwap para poder disponer de ellos como dos assets individuales de nuevo. Tendrás que suprimir la liquidez de ese par llevando a cabo los pasos de añadir liquidez pero a la inversa.
 
  **\*\* IN PROGRESS** \*\*
 
