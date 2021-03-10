@@ -4,16 +4,16 @@
 
 \*\*\*\*
 
-[_ballena.io_](https://ballena.io/) _project is managed at its 100% by the community and all users are eligible to vote and take part in the decision-making process._  
+[**ballena.io**](https://ballena.io/) **project is managed at its 100% by the community and all users are eligible to vote and take part in the decision-making process.**  
 
 
-Whether you are part of the Governance team, or whether you are willing to, you are in the right place. The project ballena.io belongs to its community, it´s ours, it flies away from the traditional company structure and brakes with the commonly established centralised JERARQUIA for giving the power and the benefits to its community members.  
+Whether you are part of the Governance team, or whether you are willing to, you are in the right place. **The project** [**ballena.io**](https://ballena.io/) **belongs to its community**, it´s ours, it flies away from the traditional company structure and brakes with the commonly established centralised hierarchy for giving **the power and the benefits to its community members**.  
 
 
 Image  
 
 
-The blockchain tech is REVOLUCIONANDO the FONDOS DE INVERSION management. Traditional bank institutions are partially losing control of the market they were comfortably well established in. The Blockchain is a game changing technology seeking the decentralization that we have all lost.
+The blockchain tech is changing the investment funds management. Traditional bank institutions are partially losing control of the market they were comfortably well established in. The Blockchain is a game changing technology seeking the decentralization that we have all lost.
 
 * Have you ever thought in a society where the fees go directly to all users and not to some few wallets?
 * Have you ever dreamt of a community led company?
