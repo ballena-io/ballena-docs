@@ -30,13 +30,13 @@ Images
 
 You will be able to **propose new ideas** which will be studied and voted among all members in the community seeking the success of the project.
 
-The tr**easury related operations rely on a** [**Multi-signature system called Gnosis**](../technical/governance.md#wallet-safety). This means the new ideas will be proposed in our community, voted by all members and before any transaction or change becomes effective, it will need the approval of a minimum number of users.  
+The tr**easury related operations rely on a** [**Multi-signature system called Gnosis**](../technical/governance.md#wallet-safety). This means the new ideas will be proposed in our community, voted by all members and before **any transaction or change** becomes effective, it **will need** **the approval of a minimum number of users**.  
   
 
 
 image  
 
 
-We strongly recommend users read the documentation related to this decentralized organization. You will learn how to create and vote on new proposals, rules and much more. If you have any questions, reach us out on any of our channels. You will probably know our community, but if you don´t, come become one of us!  
-
+We strongly recommend users read the documentation related to this decentralized organization. You will learn how to create and vote on new proposals, rules and much more. If you have any questions, reach us out on any of our channels. You will probably know our community, but if you don´t, come [become one of us!  
+](../#community)
 
