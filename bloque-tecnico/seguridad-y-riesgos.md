@@ -1,6 +1,6 @@
 # Seguridad y Riesgos
 
-En el mundo de las criptomonedas, especialmente en el espacio de las Finanzas Descentralizadas \(DeFi\), los usuarios tienen que entender los riesgos asociados a los proyectos y los contratos inteligentes \(Smart contracts\) antes de aventurarse en el mismo. Nosotros le llamamos "DYOR" \(Do Your Own Research\), o lo que es lo mismo, estudia el caso por tu cuenta antes de entrar.
+En el mundo de las criptomonedas, especialmente en el espacio de las Finanzas Descentralizadas \(DeFi\), los usuarios tienen que entender los riesgos asociados a los proyectos y los contratos inteligentes \(Smart contracts\) antes de aventurarse en el mismo. Nosotros lo llamamos "DYOR" \(Do Your Own Research\), o lo que es lo mismo, estudia el caso por tu cuenta antes de entrar.
 
 
 

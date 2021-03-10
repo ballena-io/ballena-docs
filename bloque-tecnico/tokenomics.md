@@ -10,9 +10,9 @@
 
 La distribución del total, fijo e inmutable, se compone de:
 
-* **60% - 24000 BALLE tokens:** Distribuido entre todos los usuarios de la plataforma [ballena.io](https://ballena.io/).
-* **32.5% - 13000 BALLE tokens:** Distribuido entre los holders del token BALLE como recompensa.
-* **7.5% - 3000 BALLE tokens:** Fondos para el Equipo de Desarrollo, están dedicados al equipo de desarrollo promoviendo la innovación rápida, sostenible y segura de la plataforma, así como para acciones con objeto de promoción.
+* **60% - 24000 BALLE tokens:** Distribuidos entre todos los usuarios de la plataforma [ballena.io](https://ballena.io/).
+* **32.5% - 13000 BALLE tokens:** Distribuidos entre los holders del token BALLE como recompensa.
+* **7.5% - 3000 BALLE tokens:** Fondos para el Equipo de Desarrollo. Están dedicados al equipo de desarrollo promoviendo la innovación rápida, sostenible y segura de la plataforma, así como para acciones con objeto de promoción.
 
 
 
@@ -48,11 +48,11 @@ Esta recompensa extra será distribuida como un multiplicador sobre el retorno g
 
 ## Fees
 
-En los productos de [ballena.io](https://ballena.io/) hay implicitas unas fees que se redactan a continuación:
+En los productos de [ballena.io](https://ballena.io/) hay implícitas unas fees que se redactan a continuación:
 
 * El 4% de los beneficios de la plataforma se reparten como:
   * 3% para los holders de BALLE que participen activamente en la Staking Pool.
-  * 1% destinado a la tesorería del proyecto \(Tambíen destinados a pagar las tasas de reinversión, despliegues de contratos, etc.\)
+  * 1% destinado a la tesorería del proyecto \(También destinados a pagar las tasas de reinversión, despliegues de contratos, etc.\)
 * Un 10% de la recompensa extra de la pool de gobernanza está destinado también a la misma. Esta fee sólo será recaudada mientras se siga repartiendo la recompensa extra.
 * La tasa de retiro de las Vaults o pools es del 0.1%.
 
