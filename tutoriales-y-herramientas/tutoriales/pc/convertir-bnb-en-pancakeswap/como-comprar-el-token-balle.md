@@ -1,11 +1,5 @@
 # Cómo comprar el token BALLE - PC
 
-\*\***IN PROGRESS**\*\*
-
-BSC address: 0x9f0D5f45CE8573f43E0BA17876329784be0fd700
-
-
-
 En este tutorial veremos como **convertir tus BNB** **por el token BALLE** y además para poder así participar en la Gobernanza agregándolos a la BALLE Staking Pool para obtener más beneficios y participar en el proceso de toma de decisiones de la comunidad.
 
 
