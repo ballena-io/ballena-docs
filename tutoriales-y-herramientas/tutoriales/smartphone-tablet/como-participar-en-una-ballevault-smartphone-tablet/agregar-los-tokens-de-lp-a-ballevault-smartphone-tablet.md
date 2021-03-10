@@ -10,17 +10,17 @@
 
 En este pequeño tutorial [ballena.io](https://ballena.io/) os muestra cómo agregar tanto LP tokens como tokens en forma singular a las BalleVaults.
 
-Cuando queramos sacar rendimiento de nuestros tokens LP de las distintas plataformas las pondremos en la Bóveda que deseemos y a continuación ya nos irá generando rendimiento. Recuerda que para participar en las bóvedas LP antes es necesario que hayas agregado liquidez al de los pares indicados y en el Exchange al que hace referencia cada Bóveda.
+Cuando queramos sacar rendimiento de nuestros tokens LP de las distintas plataformas las pondremos en la Bóveda que deseemos y a continuación ya nos irá generando rendimiento. Recuerda que para participar en las bóvedas LP  es necesario que antes hayas agregado liquidez al de los pares indicados y en el Exchange al que hace referencia cada Bóveda.
 
 
 
 ### 1. Antes de añadir tokens LP a un Bóveda debes haber añadido liquidez.
 
-Si no lo has hecho puedes seguir los pasos en el apartado [Cómo añadir liquidez en Pancakeswap con Trust Wallet](anadir-liquidez-a-una-lp-smartphone-tablet.md). Cuando aportas liquidez, los tokens aportados ya no se visualizarán en tu billetera de Trust Wallet, pero podrás ver que te aparecen unos Tokens LP vinculados a la liquidez aportada.
+Si no lo has hecho, puedes seguir los pasos en el apartado [Cómo añadir liquidez en Pancakeswap con Trust Wallet](anadir-liquidez-a-una-lp-smartphone-tablet.md). Cuando aportas liquidez, los tokens aportados ya no se visualizarán en tu billetera de Trust Wallet, pero podrás ver que te aparecen unos Tokens LP vinculados a la liquidez aportada.
 
 
 
-### 2. Navega a la dirección [ballena.io](https://ballena.io) utilizando la parte superior de la pantalla, donde aparece “Buscar o ingresar la url del sitio web”.
+### 2. Navega a la dirección [ballena.io](https://ballena.io) utilizando la parte superior de la pantalla, donde aparece “Buscar” o ingresa la url del sitio web.
 
 ### 
 
@@ -34,7 +34,7 @@ Si no lo has hecho puedes seguir los pasos en el apartado [Cómo añadir liquide
 
 ### 4. Encuentra la BalleVault deseada.
 
-Cuando entras en [ballena.io](https://ballena.io) accedes directamente al apartado de Bóvedas. Utiliza el buscador para encontrar la Bóveda en la que quieres participar agregando tus token LP. Para encontrar la Bóveda. Utiliza los filtros siguientes:
+Cuando entras en [ballena.io](https://ballena.io) accedes directamente al apartado de Bóvedas. Utiliza el buscador para encontrar la Bóveda en la que quieres participar agregando tus token LP. Para encontrar la Bóveda, utiliza los filtros siguientes:
 
 ⦁  Plataforma: Selecciona la plataforma en la que has agregado liquidez. 
 
@@ -46,7 +46,7 @@ Cuando entras en [ballena.io](https://ballena.io) accedes directamente al aparta
 
 ⦁ Stable LP: Bóvedas que funcionan con Tokens o Tokens LP basados en tokens estables. 
 
-⦁ Stable: Bóvedas que funcionan con Tokens estables o con Tokens LP basados en tokens estable como mínimo en uno de sus pares. A diferencia de “Stable LP” en este caso podemos encontrarnos LP donde hay tokens stables y tokens no estable como el BNB. 
+⦁ Stable: Bóvedas que funcionan con Tokens estables o con Tokens LP basados en tokens estables como mínimo en uno de sus pares. A diferencia de “Stable LP” en este caso podemos encontrarnos LP donde hay tokens estables y tokens no estables como el BNB. 
 
 ⦁ Asset: Filtra las diferentes Bóvedas por el Token seleccionado. 
 

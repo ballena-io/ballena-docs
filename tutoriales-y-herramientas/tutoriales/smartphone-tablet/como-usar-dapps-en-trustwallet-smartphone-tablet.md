@@ -6,7 +6,7 @@
 
 ### 1. Para poder acceder a esta funcionalidad en Trust Wallet, los usuarios de iOS necesitan el navegador Dapp.
 
-Este navegador se puede conseguir en la siguiente guía haciendo click [aquí](https://community.trustwallet.com/t/how-to-use-the-dapp-browser-on-ios/69390?ref=JLI1VBLA&utm_source=TrustTwitter&utm_medium=TrustSocial&utm_campaign=TrustSocial). Los usuarios de Android cuentan con el navegador DApp de manera predeterminada.
+Este navegador se puede conseguir en la siguiente guía haciendo clic [aquí](https://community.trustwallet.com/t/how-to-use-the-dapp-browser-on-ios/69390?ref=JLI1VBLA&utm_source=TrustTwitter&utm_medium=TrustSocial&utm_campaign=TrustSocial). Los usuarios de Android cuentan con el navegador DApp de manera predeterminada.
 
 
 
@@ -18,7 +18,7 @@ Una vez que hayas recargado la billetera, abre el navegador Dapp presionando los
 
 ### 3. Navega hacia una Dapp de Binance Smart Chain como Pancake Swap y selecciona la aplicación.
 
-Una de las Dapp utilizadas para agregar toquens LP a nuestras bóvedas es PancakeSwap, para más información puedes ir al [apartado correspondiente](como-participar-en-una-ballevault-smartphone-tablet/anadir-liquidez-a-una-lp-smartphone-tablet.md).
+Una de las Dapp utilizadas para agregar toquens LP a nuestras bóvedas es PancakeSwap. Para más información puedes ir al [apartado correspondiente](como-participar-en-una-ballevault-smartphone-tablet/anadir-liquidez-a-una-lp-smartphone-tablet.md).
 
 
 
@@ -36,7 +36,7 @@ Una de las Dapp utilizadas para agregar toquens LP a nuestras bóvedas es Pancak
 
 ### 1. Para poder acceder a esta funcionalidad en Trust Wallet, los usuarios de iOS necesitan el navegador Dapp.
 
-Este navegador se puede conseguir en la siguiente guía haciendo click [aquí](https://community.trustwallet.com/t/how-to-use-the-dapp-browser-on-ios/69390?ref=JLI1VBLA&utm_source=TrustTwitter&utm_medium=TrustSocial&utm_campaign=TrustSocial). Los usuarios de Android cuentan con el navegador DApp de manera predeterminada.
+Este navegador se puede conseguir en la siguiente guía haciendo clic [aquí](https://community.trustwallet.com/t/how-to-use-the-dapp-browser-on-ios/69390?ref=JLI1VBLA&utm_source=TrustTwitter&utm_medium=TrustSocial&utm_campaign=TrustSocial). Los usuarios de Android cuentan con el navegador Dapp de manera predeterminada.
 
 ### 2. Abre el navegador Dapp.
 

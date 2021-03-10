@@ -1,8 +1,8 @@
 # Añadir liquidez a una LP - Smartphone/Tablet
 
-## Cómo añadir liquidez en Pancakeswap con Trust Wallet
+## Cómo añadir liquidez en PancakeSwap con Trust Wallet
 
-En muchas ocasiones querrás añadir liquidez en Pancakeswap para obtener un rendimiento en base a estos tokens LP en [ballena.io](https://ballena.io/). Para eso es necesario acceder a “Pancakeswap” donde podremos añadir liquidez al par que queramos. Hay que tener en cuenta que hay que proporcionar el mismo valor en los dos tokens que utilicemos para añadir liquidez, si no tenemos suficientes deberemos utilizar la opción swap y realizar los cambios que necesitemos.
+En muchas ocasiones querrás añadir liquidez en PancakeSwap para obtener un rendimiento en base a estos tokens LP en [ballena.io](https://ballena.io/). Para eso es necesario acceder a “PancakeSwap” donde podremos añadir liquidez al par que queramos. Hay que tener en cuenta que hay que proporcionar el mismo valor en los dos tokens que utilicemos para añadir liquidez. Si no tenemos suficientes deberemos utilizar la opción swap y realizar los cambios que necesitemos.
 
 
 
@@ -14,7 +14,7 @@ Una vez que hayas recargado la billetera con BNB, abre el navegador Dapp presion
 
 ### 2. Haz Clic en “Liquidity” para empezar a suministrar tokens a la plataforma PancakeSwap. Para continuar haz click en “Add Liquitidy”. 
 
-Escoge los tokens que deseas depositar y aprueba primero. Introduzca la cantidad de tokens, la plataforma calculará automáticamente la cantidad proporcional que debe proporcionar.
+Escoge los tokens que deseas depositar y aprueba primero. Introduzca la cantidad de tokens. La plataforma calculará automáticamente la cantidad proporcional que debe proporcionar.
 
 
 
@@ -22,7 +22,7 @@ Escoge los tokens que deseas depositar y aprueba primero. Introduzca la cantidad
 
 ### 
 
-### 3. Haga click en “Supply” y luego “Confirm Supply”. A continuación, la aplicación le pedirá nuevamente que confirme. Presione “Send” para depositar sus tokens en la plataforma.
+### 3. Haga clic en “Supply” y luego en “Confirm Supply”. A continuación, la aplicación le pedirá nuevamente que confirme. Presiona “Send” para depositar sus tokens en la plataforma.
 
 
 
