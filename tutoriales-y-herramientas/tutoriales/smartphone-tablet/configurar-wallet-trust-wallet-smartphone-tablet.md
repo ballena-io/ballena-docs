@@ -37,7 +37,9 @@ Para continuar, debe aceptar los términos de uso. Simplemente coloque una check
 
 ### 4. Guarde sus palabras clave de recuperación.
 
-Esta es la parte más importante de la configuración de su billetera. Necesita tomar nota de sus palabras clave de recuperación. Las palabras de recuperación son las claves de su billetera criptográfica. Así que asegúrate de guardarlos en un lugar seguro. Pulsa “Continuar” para continuar.
+Esta es la parte más importante de la configuración de su billetera. **Necesitas tomar nota de sus palabras clave de recuperación EXACTAMENTE EN EL MISMO ORDEN QUE APARECE EN NUESTRA PANTALLA**. Las palabras de recuperación son las claves de su billetera criptográfica. **Asegúrate de guardarlas en un lugar seguro, preferente offline. Al no respetar el orden de dichas palabras, la clave privada no será correcta y en caso de pérdida ocasionará la PERDIDA TOTAL DE LOS FONDOS.**
+
+Pulsa “Continuar” para continuar.
 
 
 
