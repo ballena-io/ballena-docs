@@ -66,6 +66,8 @@ MetaMask soporta los navegadores Chrome, Firefox, Brave and Edge. Hagámoslo en 
 
 Esta es la clave secreta de recuperación de tu cuenta. Anótala en un lugar seguro. Después escríbela en el recuadro y confirma.
 
+**NOTA: Es sumamente importante guardar la clave secreta EXACTAMENTE EN EL MISMO ORDEN QUE APARECE EN NUESTRA PANTALLA en un lugar seguro, preferiblemente offline. De no ser así, la clave privada no será correcta y en caso de pérdida ocasionará la PERDIDA TOTAL DE LOS FONDOS.**
+
  ​
 
 ![](https://user-images.githubusercontent.com/79335891/108597312-b424f700-7388-11eb-87f6-a2a026b295e5.png)
