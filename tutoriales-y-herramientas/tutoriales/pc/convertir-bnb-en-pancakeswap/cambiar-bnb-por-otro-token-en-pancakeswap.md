@@ -4,7 +4,7 @@ En este tutorial veremos como **convertir tus BNB** por otro token para poder, p
 
 Recuerda que para poder agregar liquidez a una LP necesitaremos el **mismo valor en ambos assets**. En caso de no tenerlo habrá que hacer el cambio correspondiente en el exchange correspondiente.
 
-En este ejemplo convertiremos BNB por BDO.
+En este ejemplo convertiremos BNB por Balbt.
 
 
 
@@ -46,17 +46,11 @@ En este ejemplo convertiremos BNB por BDO.
 
 
 
-### 5. A modo de ejemplo, seleccionaremos BDO en este ejemplo.
+### 5. A modo de ejemplo, seleccionaremos Balbt en este ejemplo.
 
-Introducir BDO o el token deseado en el buscador y hacer click en él.
+Introducir Balbt o el token deseado en el buscador y hacer click en él.
 
-
-
-![](../../../../.gitbook/assets/5%20%283%29.png)
-
-
-
-![](../../../../.gitbook/assets/6%20%281%29.png)
+![](../../../../.gitbook/assets/image%20%2810%29.png)
 
 
 
@@ -68,21 +62,27 @@ No podremos cambiar el valor justo del 50% debido a que tenemos que reservar una
 
 
 
-![](../../../../.gitbook/assets/7%20%284%29.png)
+![](../../../../.gitbook/assets/image%20%2811%29.png)
 
 
 
-### 7. Confirma la transacción en Metamask.
+### 7. Haz click en "Confirm swap" y confirma la transacción en Metamask.
 
 
 
-![](../../../../.gitbook/assets/9%20%282%29.png)
+![](../../../../.gitbook/assets/image%20%2813%29.png)
+
+
+
+![](../../../../.gitbook/assets/image%20%288%29.png)
 
 ### 
 
 ### 8. Completado!
 
 Tus tokens deberían aparecer en tu Metamask. En caso de no verlos, asegúrate de haber agregado el token a tu metamask, si no sabes como hacerlo ve a [este tutorial](../configurar-wallet-metamask-pc/como-anadir-un-token-personalizado-a-metamask.md).
+
+
 
 
 
