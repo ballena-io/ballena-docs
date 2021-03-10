@@ -23,6 +23,8 @@ The blockchain tech is changing **the investment funds management**. Traditional
 
 That is exactly what our DAO is, this is what is all about.
 
+
+
 **Our DAO is autonomously managed by the deployed Smart Contracts**. They are clearly published in BSCScan \(See Tokenomics\) and immutable, meaning no user will be able to modify them, not even ballena.io´s dev. team. Only through the proposal and voting of new ideas the platform will suffer new modifications or implementations, and this decision-making process is completely led by the user. **You, as a member of our community, will be heard and you will be able to decide the direction this DAO takes.**
 
 \*\*\*\*
