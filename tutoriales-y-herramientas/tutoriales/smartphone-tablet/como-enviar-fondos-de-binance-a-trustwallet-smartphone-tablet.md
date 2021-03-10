@@ -16,7 +16,7 @@ Ve a tu billetera Smart Chain y presiona recibir para encontrar tu dirección �
 
 ### 2. Depositar activos desde Binance.
 
-Para depositar activos BEP20 en tu billetera. La manera más fácil es hacerlo desde Binance, ya sea con la APP o desde la página web. Escoge en Binance la criptomoneda que admita retiros a través de BEP20 y realiza un retiro a la dirección de Binance Smart Chain de tu Trust Wallet \(la que has copiado en el punto 3\). Ten en cuenta que se requiere tener BNB para realizar cualquier tipo de transacción en Binance Smart Chain. Por lo tanto, en el paso [Comprar BNB en Binance - Móvil/Tablet](primeros-pasos-binance-smartphone-tablet/comprar-bnb-en-binance-smartphone-tablet.md) habrás comprado los BNB que ahora transferirás.
+Para depositar activos BEP20 en tu billetera, la manera más fácil es hacerlo desde Binance, ya sea con la APP o desde la página web. Escoge en Binance la criptomoneda que admita retiros a través de BEP20 y realiza un retiro a la dirección de Binance Smart Chain de tu Trust Wallet \(la que has copiado en el punto 3\). Ten en cuenta que se requiere tener BNB para realizar cualquier tipo de transacción en Binance Smart Chain. Por lo tanto, en el paso [Comprar BNB en Binance - Móvil/Tablet](primeros-pasos-binance-smartphone-tablet/comprar-bnb-en-binance-smartphone-tablet.md) habrás comprado los BNB que ahora transferirás.
 
 
 
