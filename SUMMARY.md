@@ -44,7 +44,8 @@
         * [Añadir liquidez a una LP - Smartphone/Tablet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/trustwallet-smartphone-tablet/como-participar-en-una-ballevault-smartphone-tablet/anadir-liquidez-a-una-lp-smartphone-tablet.md)
         * [Agregar los tokens de LP a BalleVault- Smartphone/Tablet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/trustwallet-smartphone-tablet/como-participar-en-una-ballevault-smartphone-tablet/agregar-los-tokens-de-lp-a-ballevault-smartphone-tablet.md)
       * [Retirar las ganancias - Smartphone/Tablet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/trustwallet-smartphone-tablet/retirar-las-ganancias-smartphone-tablet.md)
-    * [Metamask - Smartphone/Tablet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/metamask-smartphone-tablet.md)
+    * [Metamask - Smartphone/Tablet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/metamask-smartphone-tablet/README.md)
+      * [Configurar Wallet: Metamask - Smartphone/Tablet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/metamask-smartphone-tablet/configurar-wallet-metamask-smartphone-tablet.md)
 * [Recursos de aprendizaje](tutoriales-y-herramientas/herramientas-de-aprendizaje.md)
 
 ## Técnico <a id="bloque-tecnico"></a>
