@@ -12,9 +12,9 @@ This decision will guide you through two different branches in this tutorial:
 
 #### 1. Provide liquidity to a BalleVault.
 
-The user provides two assets of equal value. The return will then be in the form of these two assets too, the BalleVault will increase the LP tokens assigned to this BalleVault. For example, we could add liquidity to the pair BDO/BNB. We will trade half of our BNB for BDO and provide both to a BDO/BNB LP. Adding the same value for both tokens means we should add 200$ worth in BDO if we want to add 200$ worth of BNB.
+The user provides two assets of equal value. The return will then be in the form of these two assets too, the BalleVault will increase the LP tokens assigned to this BalleVault. For example, we could add liquidity to the pair Balbt /BNB. We will trade half of our BNB for Balbt and provide both to a Balbt /BNB LP. Adding the same value for both tokens means we should add 200$ worth in Balbt if we want to add 200$ worth of BNB.
 
-We will have to trade BNB for BDO in [PancakeSwap ](https://pancakeswap.finance/)as explained [here](../../pc/how-to-trade-bnb-in-pancakeswap-pc/how-to-trade-bnb-for-another-token-on-pancakeswap.md).
+We will have to trade BNB for Balbt in [PancakeSwap ](https://pancakeswap.finance/)as explained [here](../../pc/how-to-trade-bnb-in-pancakeswap-pc/how-to-trade-bnb-for-another-token-on-pancakeswap.md).
 
 
 
