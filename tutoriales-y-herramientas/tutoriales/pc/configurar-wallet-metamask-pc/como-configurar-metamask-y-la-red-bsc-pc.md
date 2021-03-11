@@ -118,5 +118,5 @@ Escríbela en el recuadro y confirma.​
 
 
 
-Sigue con Ballena en los siguientes pasos!
+Sigue con [ballena.io](https://ballena.io/) en los siguientes pasos!
 
