@@ -16,9 +16,7 @@ In DeFi, all the profits are distributed within the Comunity, just unlike banks,
 
 [ballena.io](https://ballena.io/) app, works as a bond between people and liquidity funds. In this kind of platforms, you can usually harvest the profits manually to cash them out, or just to reinvest them into the platform after paying a fee.
 
-
-
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%2820%29.png)
 
 
 
@@ -121,9 +119,7 @@ This is the reason why it is so important to **choose carefully what projects yo
 
 Having said that, you will have to watch out the trend and periodically check the value of the cryptos you provided. 
 
-
-
-![](../.gitbook/assets/compos.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
 
 
@@ -152,11 +148,11 @@ We can all **lucrate throught a platform that generates capital flux and fees th
 
 ### Can I cash all out whenever?
 
-Of course! Once the capital is provided, [ballena.io](https://ballena.io/) optimizes and maximices your yields automatically, but you can instantly cash them out anytime. All you have to do, is to click ‘**Harvest**’. Then you will receive in your wallet all the tokens you invested, plus the generated tokens.
+Of course! Once the capital is provided, [ballena.io](https://ballena.io/) optimizes and maximices your yields automatically, but you can instantly cash them out anytime. All you have to do, is to click ‘**RETIRAR**’ \(Harvest\). Then you will receive in your wallet all the tokens you invested, plus the generated tokens.
 
 
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
 ### 
 
