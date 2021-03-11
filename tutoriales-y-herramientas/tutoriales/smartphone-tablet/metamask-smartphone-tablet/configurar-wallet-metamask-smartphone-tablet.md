@@ -1,4 +1,4 @@
-# Configurar Wallet: Metamask - Smartphone/Tablet
+# Configurar Wallet: Metamask y la red BSC - Smartphone/Tablet
 
 \*\***IN PROGRESS**\*\*
 
