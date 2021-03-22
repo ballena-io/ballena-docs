@@ -31,7 +31,7 @@ Una wallet de firma múltiple es una billetera de criptomonedas que controla el 
 
 Para más información acerca del sistema Mulit-firma Gnosis haz click en el siguiente link:
 
-* **Gonsis**: [https://docs.binance.org/smart-chain/developer/gnosis.html](https://docs.binance.org/smart-chain/developer/gnosis.html)
+* **Gnosis**: [https://docs.binance.org/smart-chain/developer/gnosis.html](https://docs.binance.org/smart-chain/developer/gnosis.html)
 
 
 
