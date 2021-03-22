@@ -88,7 +88,7 @@ Use the received six digit code to complete the verification phase.
 
 
 
-![](../../../../.gitbook/assets/1615028657935%20%282%29%20%281%29.jpg)
+![](../../../../.gitbook/assets/1615028657935%20%282%29%20%282%29%20%281%29.jpg)
 
 
 
