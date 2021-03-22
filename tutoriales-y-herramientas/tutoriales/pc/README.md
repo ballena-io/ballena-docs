@@ -4,8 +4,8 @@ Te has decido por el PC. Los pasos son muy parecidos para los distintos disposit
 
 En el caso del PC, independientemente del sistema operativo con el que cuentes, se utilizarán las siguientes herramientas:
 
-* Navegador web - El tutorial se basa en Google Chrome.
-* Wallet - En este caso utilizaremos Metamask.
+* **Navegador web** - El tutorial se basa en Google Chrome.
+* **Wallet** - En este caso utilizaremos Metamask.
 
 El navegador web nos servirá para navegar por las webs y Dapps de las que nos nutrimos: [ballena.io](https://ballena.io/), Binance y PancakeSwap, por ejemplo. Y la Wallet, o billetera, la utilizaremos tanto para acceder a las Dapps, como para mover nuestras criptomonedas, acciones como comprar, vender, convertir, aportar liquidez y pagar las tasas.
 
