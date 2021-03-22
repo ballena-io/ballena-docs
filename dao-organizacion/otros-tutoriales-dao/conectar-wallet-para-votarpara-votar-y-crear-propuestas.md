@@ -22,7 +22,7 @@ Para formar parte en el proceso de creación y votación de nuevas propuestas, t
 
 
 
-![](../../.gitbook/assets/2%20%284%29.png)
+![](../../.gitbook/assets/2%20%284%29%20%281%29.png)
 
 
 
@@ -40,7 +40,7 @@ Esta aparece en la parte derecha del menú superior.
 
 
 
-![](../../.gitbook/assets/6%20%283%29%20%281%29.png)
+![](../../.gitbook/assets/6%20%283%29%20%281%29%20%281%29.png)
 
 
 

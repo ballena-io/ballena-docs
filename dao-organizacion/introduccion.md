@@ -35,7 +35,7 @@ Cuanto más extensa sea nuestra comunidad, más fuerza tendremos, más rentable 
 
 A través de la plataforma de votación, **podrás proponer nuevas ideas** que serán escuchadas y estudiadas por todos los miembros interesados como tú en implantar este sistema justo.  
 
-Las **operaciones relacionadas con la tesorería** están vinculadas a un [**sistema multi-firma**](../bloque-tecnico/gobernanza.md#seguridad-de-la-wallet) llamado Gnosis. Esto quiere decir que todas las nuevas ideas serán propuestas en comunidad, serán votadas por todos los miembros y que además antes de hacer **cualquier movimiento, este tendrá que ser aprobado previamente por un mínimo de usuarios** de la misma garantizando la democratización de su trayectoria.  
+Las **operaciones relacionadas con la tesorería** están vinculadas a un [**sistema multi-firma**](../tecnico/gobernanza.md#seguridad-de-la-wallet) llamado Gnosis. Esto quiere decir que todas las nuevas ideas serán propuestas en comunidad, serán votadas por todos los miembros y que además antes de hacer **cualquier movimiento, este tendrá que ser aprobado previamente por un mínimo de usuarios** de la misma garantizando la democratización de su trayectoria.  
 
 
 

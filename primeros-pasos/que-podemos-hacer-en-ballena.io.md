@@ -4,9 +4,9 @@
 
 ### Ramas de actuación
 
-1. [Gobernanza ](../bloque-tecnico/gobernanza.md)y [staking](../bloque-tecnico/productos/balle-staking-pool.md#balle-staking-pool-app-de-gobernanza).
-2. [SimpleFarming](../bloque-tecnico/productos/simplefarming.md).
-3. [BalleVaults \(Bóvedas\)](../bloque-tecnico/productos/#ballevaults-bovedas).
+1. [Gobernanza ](../tecnico/gobernanza.md)y [staking](../tecnico/productos/balle-staking-pool.md#balle-staking-pool-app-de-gobernanza).
+2. [SimpleFarming](../tecnico/productos/simplefarming.md).
+3. [BalleVaults \(Bóvedas\)](../tecnico/productos/#ballevaults-bovedas).
 
 
 
@@ -16,7 +16,7 @@ El token de Gobernanza de [ballena.io](https://ballena.io/) es el BALLE. La pose
 
 Aquí podemos proveer liquidez al staking del token BALLE. Es una forma de inversión en la que añades liquidez exclusivamente del token BALLE. Esto, por lo tanto, genera retorno en token BALLE, contribuyendo además a su revalorización y el potenciamiento de la plataforma. Además de su alta rentabilidad, debido a su incremento de valor, **podrás formar parte en la Gobernanza**.
 
-Para más información, acceda a [Gobernanza](../bloque-tecnico/gobernanza.md) y a [BALLE Staking Pools](../bloque-tecnico/productos/balle-staking-pool.md).
+Para más información, acceda a [Gobernanza](../tecnico/gobernanza.md) y a [BALLE Staking Pools](../tecnico/productos/balle-staking-pool.md).
 
 
 
@@ -34,7 +34,7 @@ Esta es una de nuestras metas a corto plazo. El Equipo [ballena.io](https://ball
 
 Es una forma de inversión en la que se añaden a partes iguales dos assets. El retorno, por lo tanto, será de estos dos assets también a partes iguales. El LP lo que hará es aumentar los tokens que tenemos asignados al par seleccionado. Por ejemplo, podríamos añadir liquidez al par INJ/BNB. Lo que haremos en este caso será cambiar la mitad de nuestros BNB por INJ \(si aún no teníamos INJ\) y añadiremos ambos a una LP. Después añadiremos estos tokens de la LP a una BalleVault para obtener retornos mayores al aplicar estrategias optimizadas y reinvertir todas las ganancias diarias.
 
-Para más información, acceda a [BalleVaults](../bloque-tecnico/productos/ballevaults-de-pancake-swap.md).
+Para más información, acceda a [BalleVaults](../tecnico/productos/ballevaults-de-pancake-swap.md).
 
 
 

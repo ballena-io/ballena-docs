@@ -6,13 +6,13 @@ En vez de depositar fondos a través de una transferencia bancaria para su poste
 
 ### 1. Pulsa el botón “Comprar Cripto” del menú de la Barra superior en Binance.
 
-![](../../../../.gitbook/assets/binance_comprar_cripto%20%281%29.jpg)
+![](../../../../.gitbook/assets/binance_comprar_cripto%20%282%29%20%281%29.jpg)
 
 ### 2. Selecciona la opción “Tarjeta de crédito/débito”.
 
 ### 3. Selecciona la moneda correspondiente, introduce la cuantía y haz clic en continuar.
 
-![](../../../../.gitbook/assets/binance_credit_1%20%281%29.png)
+![](../../../../.gitbook/assets/binance_credit_1%20%282%29%20%281%29.png)
 
 ### 4. Selecciona BNB.
 

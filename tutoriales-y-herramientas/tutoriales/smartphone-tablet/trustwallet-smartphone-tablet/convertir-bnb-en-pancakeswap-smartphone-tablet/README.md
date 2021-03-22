@@ -20,7 +20,7 @@ Para ello tendremos que cambiar BNB por Balbt en PancakeSwap como se detalla en 
 
 #### Proveer liquidez al staking del token BALLE.
 
-Es otra forma de inversión en la que añades liquidez exclusivamente del token BALLE. Esto, por lo tanto, genera retorno en token BALLE, contribuyendo además a su revalorización y el potenciamiento de la plataforma. Además de su alta rentabilidad, debido a su incremento de valor, podrás formar parte en la [Gobernanza](../../../../../bloque-tecnico/gobernanza.md). 
+Es otra forma de inversión en la que añades liquidez exclusivamente del token BALLE. Esto, por lo tanto, genera retorno en token BALLE, contribuyendo además a su revalorización y el potenciamiento de la plataforma. Además de su alta rentabilidad, debido a su incremento de valor, podrás formar parte en la [Gobernanza](../../../../../tecnico/gobernanza.md). 
 
 Para ello tendremos que cambiar BNB por BALLE en PancakeSwap como se detalla en [este tutorial](convertir-bnb-por-otro-token-en-pancakeswap-smartphone-tablet.md).
 

@@ -44,13 +44,13 @@ El proyecto se encuentra actualmente en procesos de auditoría. La resolución s
 
 #### 2. ¿Se han verificado sus contratos?
 
-Sí, el código de todos los contratos ha sido verificado y publicado en BSCScan. Para más información haz click [aquí](../bloque-tecnico/tokenomics.md#smart-contracts).
+Sí, el código de todos los contratos ha sido verificado y publicado en BSCScan. Para más información haz click [aquí](../tecnico/tokenomics.md#smart-contracts).
 
 
 
 #### 3. [ballena.io](https://ballena.io/), ¿es seguro?
 
-Nuestro proyecto está siendo auditado, nuestros contratos han sido verificados y formamos parte de una gran comunidad en los medios. Apostamos por la transparencia del proyecto como prueba de seguridad y confianza del mismo, y podrás encontrar todos los datos vinculantes en la documentación oficial. Sin embargo, el mundo DeFi y Cripto en general cuenta con riesgos inherentes a la operación de los cuales deberías ser consciente como usuario. Para más información acerca de este tema haz click en [Seguridad y Riesgos](../bloque-tecnico/seguridad-y-riesgos.md).
+Nuestro proyecto está siendo auditado, nuestros contratos han sido verificados y formamos parte de una gran comunidad en los medios. Apostamos por la transparencia del proyecto como prueba de seguridad y confianza del mismo, y podrás encontrar todos los datos vinculantes en la documentación oficial. Sin embargo, el mundo DeFi y Cripto en general cuenta con riesgos inherentes a la operación de los cuales deberías ser consciente como usuario. Para más información acerca de este tema haz click en [Seguridad y Riesgos](../tecnico/seguridad-y-riesgos.md).
 
 
 
@@ -58,7 +58,7 @@ Nuestro proyecto está siendo auditado, nuestros contratos han sido verificados 
 
 #### 1. ¿Son sostenibles los tokenomics de este proyecto?
 
-Tras un estudio exhaustivo de los tokenomics del mercado DeFi, el Equipo de Desarrollo de [ballena.io](https://ballena.io/) ha desarrollado una estructura de tokenomics que garantiza la solvencia del proyecto, así como la rentabilidad de su token y productos listados. Para más información acerca de esta pregunta haz click en [tokenomics](../bloque-tecnico/tokenomics.md).
+Tras un estudio exhaustivo de los tokenomics del mercado DeFi, el Equipo de Desarrollo de [ballena.io](https://ballena.io/) ha desarrollado una estructura de tokenomics que garantiza la solvencia del proyecto, así como la rentabilidad de su token y productos listados. Para más información acerca de esta pregunta haz click en [tokenomics](../tecnico/tokenomics.md).
 
 
 
@@ -82,7 +82,7 @@ Sí, la plataforma [ballena.io](https://ballena.io/) se encarga de comprar token
 
 #### 1. BalleVaults
 
-Las bóvedas BalleVaults son productos que aumentan tu cantidad de tokens Liquidity Pool del par correspondiente. Es decir, si el usuario aporta liquidez a la bóveda CAKE-BNB, el usuario verá como el número de tokens de este par aumenta a medida que pasa el tiempo. Además, estos usuarios recibirán una recompensa en forma de tokens BALLE que provienen del grupo de 24000 tokens a repartir. Estos BALLE podrán ser utilizados para hacer staking en la BALLE Reward Pool o BALLE Staking Pool de la App de Gobernanza para más beneficios. Más info en [Productos](../bloque-tecnico/productos/).
+Las bóvedas BalleVaults son productos que aumentan tu cantidad de tokens Liquidity Pool del par correspondiente. Es decir, si el usuario aporta liquidez a la bóveda CAKE-BNB, el usuario verá como el número de tokens de este par aumenta a medida que pasa el tiempo. Además, estos usuarios recibirán una recompensa en forma de tokens BALLE que provienen del grupo de 24000 tokens a repartir. Estos BALLE podrán ser utilizados para hacer staking en la BALLE Reward Pool o BALLE Staking Pool de la App de Gobernanza para más beneficios. Más info en [Productos](../tecnico/productos/).
 
 
 

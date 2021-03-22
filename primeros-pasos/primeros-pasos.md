@@ -47,7 +47,7 @@ Si estás pensando en **invertir** en un proyecto de DeFi tienes que estar segur
 * Qué rendimientos tiene.
 * Su comunidad y accesibilidad.
 
-El proyecto [ballena.io](https://ballena.io/) es completamente transparente y puedes ver todos estos datos en su documentación junto a los tutoriales. Podrás ver los [tokenomics](../bloque-tecnico/tokenomics.md), es decir, cómo se gestiona la economía del proyecto y más detalles de este tipo. A continuación se muestran las características principales en respuesta a preguntas frecuentes y estos puntos citados anteriormente.
+El proyecto [ballena.io](https://ballena.io/) es completamente transparente y puedes ver todos estos datos en su documentación junto a los tutoriales. Podrás ver los [tokenomics](../tecnico/tokenomics.md), es decir, cómo se gestiona la economía del proyecto y más detalles de este tipo. A continuación se muestran las características principales en respuesta a preguntas frecuentes y estos puntos citados anteriormente.
 
 
 

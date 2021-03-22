@@ -48,15 +48,15 @@
       * [Configurar Wallet: Metamask y la red BSC - Smartphone/Tablet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/metamask-smartphone-tablet/configurar-wallet-metamask-smartphone-tablet.md)
 * [Recursos de aprendizaje](tutoriales-y-herramientas/herramientas-de-aprendizaje.md)
 
-## Técnico <a id="bloque-tecnico"></a>
+## Técnico
 
-* [Productos](bloque-tecnico/productos/README.md)
-  * [SimpleFarming](bloque-tecnico/productos/simplefarming.md)
-  * [BALLE Staking Pool](bloque-tecnico/productos/balle-staking-pool.md)
-  * [BalleVaults de Pancake Swap](bloque-tecnico/productos/ballevaults-de-pancake-swap.md)
-* [Tokenomics](bloque-tecnico/tokenomics.md)
-* [Gobernanza](bloque-tecnico/gobernanza.md)
-* [Seguridad y Riesgos](bloque-tecnico/seguridad-y-riesgos.md)
+* [Productos](tecnico/productos/README.md)
+  * [SimpleFarming](tecnico/productos/simplefarming.md)
+  * [BALLE Staking Pool](tecnico/productos/balle-staking-pool.md)
+  * [BalleVaults de Pancake Swap](tecnico/productos/ballevaults-de-pancake-swap.md)
+* [Tokenomics](tecnico/tokenomics.md)
+* [Gobernanza](tecnico/gobernanza.md)
+* [Seguridad y Riesgos](tecnico/seguridad-y-riesgos.md)
 
 ## DAO Organización
 
