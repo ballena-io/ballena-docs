@@ -30,7 +30,7 @@ Rellenamos los campos utilizando nuestro correo electrónico y una contraseña s
 
 ### 
 
-### 3. Pulsa "Crear cuenta".
+### 4. Pulsa "Crear cuenta".
 
 A continuación, pulsamos el botón “Crear cuenta” y completamos la verificación de seguridad deslizando la pieza del puzzle al lugar correcto haciendo clic y deslizando sobre la pieza o en la flecha amarilla.
 
@@ -40,7 +40,7 @@ A continuación, pulsamos el botón “Crear cuenta” y completamos la verifica
 
 ### 
 
-### 4. Obtener el código de verificación.
+### 5. Obtener el código de verificación.
 
 Una vez hecho se nos pedirá en la página que introduzcamos un código de verificación que se nos ha enviado al correo electrónico que hemos utilizado para dar el alta.
 
@@ -58,13 +58,13 @@ Nos habrá llegado un correo electrónico de este estilo.
 
 ### 
 
-### 5. Introducir el código de verificación.
+### 6. Introducir el código de verificación.
 
 Utiliza el código de seis dígitos enviado a tu correo para completar la verificación.
 
 
 
-### 6. Una vez completada la verificación ya estamos dados de alta en Binance y se nos ofrecen tres opciones.
+### 7. Una vez completada la verificación ya estamos dados de alta en Binance y se nos ofrecen tres opciones.
 
 
 
@@ -76,7 +76,7 @@ Para las opciones de depósito Fiat o compra con tarjeta de crédito deberás pa
 
 ### 
 
-### 7. Ya estas dado de alta en Binance.
+### 8. Ya estas dado de alta en Binance.
 
 Una vez identificado en la plataforma podrás cargar saldo o comprar cripto para pasar a Binance Smart Chain. Estos pasos los podrás ver en el correspondiente tutorial.
 
