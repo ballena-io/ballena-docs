@@ -11,7 +11,7 @@ La posesión de este token te aportará, además de beneficios económicos:
 * **Derecho de voto** de propuestas.
 * **Derecho de creación** de propuestas.
 
-Para comprar el token BALLE dirigete a nuestros [tutoriales](../tutoriales-y-herramientas/tutoriales/) y ve a la sección [Convertir BNB por otro Token](../tutoriales-y-herramientas/tutoriales/pc/convertir-bnb-en-pancakeswap/cambiar-bnb-por-otro-token-en-pancakeswap.md).
+Para comprar el token BALLE dirigete a nuestros [tutoriales](../tutoriales-y-herramientas/tutoriales/) y ve a la sección [Convertir BNB por otro Token](../tutoriales-y-herramientas/tutoriales/pc/participar-en-ballena.io/como-participar-en-una-ballevault/cambiar-bnb-por-otro-token-en-pancakeswap.md).
 
 
 
