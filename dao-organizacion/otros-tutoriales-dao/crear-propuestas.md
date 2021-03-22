@@ -29,7 +29,7 @@ Sigue los pasos del tutorial [Conectar Wallet para votar y crear propuestas](con
 ### 4. Completa los campos de tu propuesta.
 
 * Añade un título en "Question".
-* Expón tu propuesta en "What is your propolsal". 
+* Expón tu propuesta en "What is your proposal". 
 * Rellena el Número de bloque en este apartado. Para más información acerca de número de bloque haz click [aquí](crear-propuestas.md#numero-de-bloque). 
 * Selecciona el rango de fechas en "Actions".
 * Añade las opciones a elegir entre los usuarios en "Choices".
