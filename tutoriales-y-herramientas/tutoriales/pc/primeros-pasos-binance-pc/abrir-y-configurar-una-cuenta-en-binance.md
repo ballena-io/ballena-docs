@@ -86,7 +86,7 @@ Una vez identificado en la plataforma podrás cargar saldo o comprar cripto para
 
 
 
-{% page-ref page="depositar-fondos-en-binance.md" %}
+{% page-ref page="comprar-bnb-en-binance-transferencia-bancaria-pc/depositar-fondos-en-binance.md" %}
 
 
 

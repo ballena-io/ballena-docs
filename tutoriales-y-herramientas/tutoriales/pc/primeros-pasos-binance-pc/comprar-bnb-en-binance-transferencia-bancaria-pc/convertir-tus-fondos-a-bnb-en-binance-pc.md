@@ -14,7 +14,7 @@ En el caso de haber depositado Euro tenemos que llevar a cabo dos conversiones d
 
 
 
-![](../../../../.gitbook/assets/1%20%284%29.png)
+![](../../../../../.gitbook/assets/1%20%284%29.png)
 
 
 
@@ -22,11 +22,11 @@ En el caso de haber depositado Euro tenemos que llevar a cabo dos conversiones d
 
 
 
-![](../../../../.gitbook/assets/2%20%282%29.png)
+![](../../../../../.gitbook/assets/2%20%282%29.png)
 
 
 
-![](../../../../.gitbook/assets/3%20%282%29.png)
+![](../../../../../.gitbook/assets/3%20%282%29.png)
 
 
 
@@ -34,7 +34,7 @@ En el caso de haber depositado Euro tenemos que llevar a cabo dos conversiones d
 
 
 
-![](../../../../.gitbook/assets/4%20%284%29.png)
+![](../../../../../.gitbook/assets/4%20%284%29.png)
 
 ### 5.Introduce la cantidad y Confirma la conversión.
 
@@ -46,7 +46,7 @@ Antes de confirmarla, te dará una previsión del cambio. Mira que esté todo bi
 
 
 
-![](../../../../.gitbook/assets/5%20%281%29.png)
+![](../../../../../.gitbook/assets/5%20%281%29.png)
 
 ### 7.Introduce la cantidad y Confirma la conversión.
 
