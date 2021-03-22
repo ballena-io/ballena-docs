@@ -14,7 +14,7 @@ In this tutorial we are going to learn how to trade your BNB for another token. 
 
 **‌**
 
-![](../../../../.gitbook/assets/1%20%287%29.png)
+![](../../../../../.gitbook/assets/1%20%287%29.png)
 
 **‌**
 
@@ -22,11 +22,11 @@ In this tutorial we are going to learn how to trade your BNB for another token. 
 
 **‌**
 
-![](../../../../.gitbook/assets/2%20%286%29.png)
+![](../../../../../.gitbook/assets/2%20%286%29.png)
 
 \*\*\*\*
 
-![](../../../../.gitbook/assets/3%20%286%29.png)
+![](../../../../../.gitbook/assets/3%20%286%29.png)
 
 **‌**
 
@@ -34,7 +34,7 @@ In this tutorial we are going to learn how to trade your BNB for another token. 
 
 **‌**
 
-![](../../../../.gitbook/assets/4%20%287%29.png)
+![](../../../../../.gitbook/assets/4%20%287%29.png)
 
 **‌**
 
@@ -42,7 +42,7 @@ In this tutorial we are going to learn how to trade your BNB for another token. 
 
 **‌**
 
-![](../../../../.gitbook/assets/4.5.png)
+![](../../../../../.gitbook/assets/4.5.png)
 
 **‌**
 
@@ -52,7 +52,7 @@ In this tutorial we are going to learn how to trade your BNB for another token. 
 
 **‌**
 
-![](../../../../.gitbook/assets/image%20%2810%29.png)
+![](../../../../../.gitbook/assets/image%20%2810%29.png)
 
 **‌**
 
@@ -64,7 +64,7 @@ In this tutorial we are going to learn how to trade your BNB for another token. 
 
 **‌**
 
-![](../../../../.gitbook/assets/image%20%2811%29.png)
+![](../../../../../.gitbook/assets/image%20%2811%29.png)
 
 **‌**
 
@@ -72,17 +72,17 @@ In this tutorial we are going to learn how to trade your BNB for another token. 
 
 **‌**
 
-![](../../../../.gitbook/assets/image%20%2813%29.png)
+![](../../../../../.gitbook/assets/image%20%2813%29.png)
 
 
 
-![](../../../../.gitbook/assets/image%20%288%29.png)
+![](../../../../../.gitbook/assets/image%20%288%29.png)
 
 **‌**
 
 ### **8. Done!**
 
-Your tokens should show up in your Metamask account. In case you can't see them, make sure you have already added the token to your Metamask\`s token list. Go to this tutorial on [How to Add a Custom Token to Metamask](../set-up-metamask-pc/how-to-add-a-custom-token-to-metamask.md) if needed.
+Your tokens should show up in your Metamask account. In case you can't see them, make sure you have already added the token to your Metamask\`s token list. Go to this tutorial on [How to Add a Custom Token to Metamask](../../set-up-metamask-pc/how-to-add-a-custom-token-to-metamask.md) if needed.
 
 \*\*\*\*
 
