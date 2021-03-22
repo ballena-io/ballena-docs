@@ -60,7 +60,7 @@
 
 ## DAO Organización
 
-* [Introducción DAO](dao-organizacion/introduccion.md)
+* [Introducción DAO](dao-organizacion/introduccion-dao.md)
 * [Normas de la Organización](dao-organizacion/normas-de-la-organizacion.md)
 * [Cómo formar parte de la DAO](dao-organizacion/como-formar-parte-de-la-dao.md)
 * [Otros tutoriales DAO](dao-organizacion/otros-tutoriales-dao/README.md)
