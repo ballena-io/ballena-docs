@@ -14,17 +14,17 @@ Los Smart Contracts implementados son de carácter transparente e inmutable desd
 
 La DAO cuenta con un **protocolo de consenso**. Este garantiza una toma de decisiones regulada y consensuada dentro de la comunidad. Para ello [ballena.io](https://ballena.io/) cuenta con el **sistema Gnosis Multisig** o multi-firma que se detalla en [Multisig](bloque-tecnico/gobernanza.md#seguridad-de-la-wallet). Este sistema realza la seguridad del proyecto requiriendo un número mínimo de firmas de la comunidad para cualquiera de las nuevas implementaciones. [ballena.io](https://ballena.io/) es el primer proyecto de la red Binance Smart Chain en implementar Gnosis Safe para controlar nuestra DAO.
 
-El token BALLE garantiza la solvencia económica de la DAO mediante su distribución regulada y constatada en los Smart Contracts. Además este token otorga a los usuarios el **poder de votar nuevos cambios e ideas y recompensa económicamente a los que lo poseen**. Para más información acceder a [Gobernanza](bloque-tecnico/gobernanza.md).
+El token BALLE garantiza la solvencia económica de la DAO mediante su distribución regulada y constatada en los Smart Contracts. Además, este token otorga a los usuarios el **poder de votar nuevos cambios e ideas y recompensa económicamente a los que lo poseen**. Para más información acceder a [Gobernanza](bloque-tecnico/gobernanza.md).
 
 ## BSC
 
-La red **Binance Smart Chain** evita las restricciones de flujo de capital que surgen de las altas comisiones de transacción se pagan en la misma. Este ecosistema trabaja sobre **mínimas comisiones** permitiendo así a los inversores saltar entre los diversos fondos de liquidez \(Liquidity Pools, farms, etc.\) sin gastos excesivos, maximizando así los beneficios con la máxima flexibilidad. Esto sirve también como un perfecto ecosistema para usuarios con poca liquidez para invertir, quienes pueden ahora entrar en el juego con mínimas pérdidas debidas a las comisiones, lo cual antes era imposible de imaginar y no merecía la pena embarcarse en estas inversiones.
+La red **Binance Smart Chain** evita las restricciones de flujo de capital que surgen de las altas comisiones de transacción que se pagan en la misma. Este ecosistema trabaja sobre **mínimas comisiones** permitiendo así a los inversores saltar entre los diversos fondos de liquidez \(Liquidity Pools, farms, etc.\) sin gastos excesivos, maximizando así los beneficios con la máxima flexibilidad. Esto sirve también como un perfecto ecosistema para usuarios con poca liquidez para invertir, quienes pueden ahora entrar en el juego con mínimas pérdidas debidas a las comisiones, lo cual antes era imposible de imaginar y no merecía la pena embarcarse en estas inversiones.
 
 ## Seguridad Gnosis
 
 Estamos orgullosos de anunciar que **somos el primer proyecto en implementar Gnosis** como sistema Multi-firma en la BSC.
 
-Una wallet de firma múltiple es una billetera de criptomonedas que controla el acceso y los cambios de uno o varios contratos inteligentes \(Smart Contracts\). La mayoría de los proyectos controlados por la comunidad de la red Ethereum requieren un sistema Multisig, es decir, múltiples firmas, para aprobar una transacción antes de ser ejecutada.
+Una wallet de firma múltiple es una billetera de criptomonedas que controla el acceso y los cambios de uno o varios contratos inteligentes \(Smart Contracts\). La mayoría de los proyectos controlados por la comunidad de la red Ethereum requieren un sistema Multisig, es decir, múltiples firmas para aprobar una transacción antes de ser ejecutada.
 
 Para más información acerca del sistema Mulit-firma Gnosis haz click en el siguiente [link](bloque-tecnico/gobernanza.md#seguridad-de-la-wallet).
 
