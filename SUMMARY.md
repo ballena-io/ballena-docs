@@ -46,7 +46,7 @@
       * [Retirar las ganancias - Smartphone/Tablet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/trustwallet-smartphone-tablet/retirar-las-ganancias-smartphone-tablet.md)
     * [Metamask - Smartphone/Tablet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/metamask-smartphone-tablet/README.md)
       * [Configurar Wallet: Metamask y la red BSC - Smartphone/Tablet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/metamask-smartphone-tablet/configurar-wallet-metamask-smartphone-tablet.md)
-* [Recursos de aprendizaje](tutoriales-y-herramientas/herramientas-de-aprendizaje.md)
+* [Recursos de aprendizaje](tutoriales-y-herramientas/recursos-de-aprendizaje.md)
 
 ## Técnico
 
