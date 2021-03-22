@@ -1,4 +1,0 @@
-# First steps
-
-\*\***IN PROGRESS**\*\*
-
