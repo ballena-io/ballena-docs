@@ -29,7 +29,6 @@
       * [How to participate in the BALLE Staking Pool - PC](tutorials-and-tools/tutorials/pc/participate-in-ballena.io/how-to-participate-in-the-balle-staking-pool-pc/README.md)
         * [How to purchase the BALLE token - PC](tutorials-and-tools/tutorials/pc/participate-in-ballena.io/how-to-participate-in-the-balle-staking-pool-pc/how-to-purchase-the-balle-token.md)
         * [Add BALLE tokens to the Staking Pool - PC](tutorials-and-tools/tutorials/pc/participate-in-ballena.io/how-to-participate-in-the-balle-staking-pool-pc/add-balle-tokens-to-the-staking-pool-pc.md)
-    * [How to trade BNB in PancakeSwap - PC](tutorials-and-tools/tutorials/pc/how-to-trade-bnb-in-pancakeswap-pc.md)
   * [Smartphone/Tablet](tutorials-and-tools/tutorials/smartphone-tablet/README.md)
     * [First steps: Binance - Smartphone/Tablet](tutorials-and-tools/tutorials/smartphone-tablet/first-steps-binance-smartphone-tablet/README.md)
       * [Set up a Binance account - Smartphone/Tablet](tutorials-and-tools/tutorials/smartphone-tablet/first-steps-binance-smartphone-tablet/set-up-a-binance-account-smartphone-tablet.md)
