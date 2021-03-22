@@ -1,4 +1,0 @@
-# Desarrolladores
-
-IN PROGRESS
-
