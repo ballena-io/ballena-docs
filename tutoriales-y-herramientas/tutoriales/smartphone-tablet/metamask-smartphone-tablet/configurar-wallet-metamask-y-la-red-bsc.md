@@ -1,4 +1,4 @@
-# Configurar Wallet: Metamask y la red BSC - Smartphone/Tablet
+# Configurar Wallet: Metamask y la red BSC
 
 ## **Cómo configurar MetaMask y la red BSC**
 

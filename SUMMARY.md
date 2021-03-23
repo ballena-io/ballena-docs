@@ -49,7 +49,7 @@
           * [Cómo comprar el token BALLE](tutoriales-y-herramientas/tutoriales/smartphone-tablet/trustwallet-smartphone-tablet/participar-en-ballena.io/avanzado-como-participar-en-la-staking-pool-de-balle/como-comprar-el-token-balle.md)
       * [Retirar las ganancias](tutoriales-y-herramientas/tutoriales/smartphone-tablet/trustwallet-smartphone-tablet/retirar-las-ganancias.md)
     * [Metamask - Smartphone/Tablet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/metamask-smartphone-tablet/README.md)
-      * [Configurar Wallet: Metamask y la red BSC - Smartphone/Tablet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/metamask-smartphone-tablet/configurar-wallet-metamask-smartphone-tablet.md)
+      * [Configurar Wallet: Metamask y la red BSC](tutoriales-y-herramientas/tutoriales/smartphone-tablet/metamask-smartphone-tablet/configurar-wallet-metamask-y-la-red-bsc.md)
       * [Cómo enviar fondos de Binance a Metamask](tutoriales-y-herramientas/tutoriales/smartphone-tablet/metamask-smartphone-tablet/como-enviar-fondos-de-binance-a-metamask.md)
       * [Cómo usar Dapps en Metamask](tutoriales-y-herramientas/tutoriales/smartphone-tablet/metamask-smartphone-tablet/como-usar-dapps-en-metamask.md)
       * [Participar en ballena.io](tutoriales-y-herramientas/tutoriales/smartphone-tablet/metamask-smartphone-tablet/participar-en-ballena.io/README.md)
