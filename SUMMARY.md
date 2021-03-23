@@ -16,7 +16,7 @@
       * [Buy BNB in Binance \(Bank Transfer\)](tutorials-and-tools/tutorials/pc/first-steps-binance/buy-bnb-in-binance-bank-transfer/README.md)
         * [Deposit funds in Binance](tutorials-and-tools/tutorials/pc/first-steps-binance/buy-bnb-in-binance-bank-transfer/deposit-funds-in-binance.md)
         * [Trade your funds for BNB in Binance](tutorials-and-tools/tutorials/pc/first-steps-binance/buy-bnb-in-binance-bank-transfer/trade-your-funds-for-bnb-in-binance.md)
-      * [Buy BNB in Binance\(Credit Card\) - PC](tutorials-and-tools/tutorials/pc/first-steps-binance/buy-bnb-in-binance-credit-card-pc.md)
+      * [Buy BNB in Binance \(Credit Card\)](tutorials-and-tools/tutorials/pc/first-steps-binance/buy-bnb-in-binance-credit-card.md)
     * [Set up Metamask - PC](tutorials-and-tools/tutorials/pc/set-up-metamask-pc/README.md)
       * [How to set up Metamask and the BSC network- PC](tutorials-and-tools/tutorials/pc/set-up-metamask-pc/how-to-set-up-metamask-and-the-bsc-network-pc.md)
       * [How to Add a Custom Token to Metamask - PC](tutorials-and-tools/tutorials/pc/set-up-metamask-pc/how-to-add-a-custom-token-to-metamask.md)

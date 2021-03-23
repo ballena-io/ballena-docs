@@ -1,4 +1,4 @@
-# Buy BNB in Binance\(Credit Card\) - PC
+# Buy BNB in Binance \(Credit Card\)
 
 ## How to buy BNB in Binance \(Credit Card\)
 
