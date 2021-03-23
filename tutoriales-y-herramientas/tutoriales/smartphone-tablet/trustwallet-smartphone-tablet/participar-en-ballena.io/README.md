@@ -18,7 +18,7 @@ Esta decisión marcará la diferencia en los siguientes pasos del tutorial. Tene
 
 Es una forma de inversión en la que se añaden a partes iguales dos assets. El retorno, por lo tanto, será de estos dos assets también a partes iguales. La BalleVault lo que hará será aumentar los tokens que tenemos asignados al par seleccionado. Por ejemplo, podríamos añadir liquidez al par Balbt /BNB. Lo que haremos en este caso será cambiar la mitad de nuestros BNB por Balbt y añadiremos ambos a una LP. 
 
-Para ello tendremos que cambiar BNB por Balbt en PancakeSwap como se detalla en [este tutorial](como-participar-en-staking-de-balle/como-comprar-el-token-balle.md).
+Para ello tendremos que cambiar BNB por Balbt en PancakeSwap como se detalla en [este tutorial](avanzado-como-participar-en-la-staking-pool-de-balle/como-comprar-el-token-balle.md).
 
 
 
