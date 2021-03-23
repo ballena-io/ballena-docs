@@ -1,4 +1,4 @@
-# Comprar BNB en Binance - Smartphone/Tablet
+# Comprar BNB en Binance \(Tarjeta de crédito\) - Smartphone/Tablet
 
 ## Cómo comprar BNB en Binance a través de Smartphone/Tablet \(Tarjeta de Crédito\)
 
