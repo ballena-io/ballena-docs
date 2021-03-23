@@ -1,4 +1,4 @@
-# Add liquidity to a LP - PC
+# Add liquidity to a LP
 
 ## How to add liquidity to a LP in PancakeSwap
 
@@ -58,7 +58,7 @@ The LINA/BUSD LP tokens are now available in your wallet and ready to be added t
 
 
 
-{% page-ref page="add-lp-tokens-to-a-ballevault-pc.md" %}
+{% page-ref page="add-lp-tokens-to-a-ballevault.md" %}
 
 
 

@@ -1,4 +1,4 @@
-# How to Add a Custom Token to Metamask - PC
+# How to Add a Custom Token to Metamask
 
 ## IN PROGESS- DO NOT FOLLOW THIS TUTORIAL
 

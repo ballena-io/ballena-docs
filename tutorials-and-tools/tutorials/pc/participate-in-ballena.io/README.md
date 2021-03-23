@@ -1,4 +1,4 @@
-# Participate in ballena.io - PC
+# Participate in ballena.io
 
 In this tutorial we will learn how to **trade BNB** for another token in [PancakeSwap ](https://pancakeswap.finance/)with the intention of adding liquidity to a desired pair and be able to add these LP tokens to a BalleVault.
 

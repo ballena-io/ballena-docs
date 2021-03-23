@@ -1,4 +1,4 @@
-# How to trade BNB for another Token on PancakeSwap - PC
+# How to trade BNB for another Token on PancakeSwap
 
 In this tutorial we are going to learn how to trade your BNB for another token. This way we will be able to add liquidity to the selected pair and we will add LP tokens to a BalleVault.
 

@@ -1,4 +1,4 @@
-# How to send funds from Binance to Metamask - PC
+# How to send funds from Binance to Metamask
 
 ## How to send funds from Binance to Metamask
 
