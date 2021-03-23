@@ -16,7 +16,7 @@ MetaMask está disponible para sistemas iOS y Android**.**
 
 **​**
 
-![](../../../../.gitbook/assets/1%20%281%29.jpg)
+![](../../../../../.gitbook/assets/1%20%281%29.jpg)
 
 **​**
 
@@ -24,7 +24,7 @@ MetaMask está disponible para sistemas iOS y Android**.**
 
 **​**
 
-![](../../../../.gitbook/assets/2.jpg)
+![](../../../../../.gitbook/assets/2.jpg)
 
 **​**
 
@@ -32,7 +32,7 @@ MetaMask está disponible para sistemas iOS y Android**.**
 
 **​ ​**
 
-![](../../../../.gitbook/assets/3.jpg)
+![](../../../../../.gitbook/assets/3.jpg)
 
 **​**
 
@@ -40,7 +40,7 @@ MetaMask está disponible para sistemas iOS y Android**.**
 
 **​​**
 
-![](../../../../.gitbook/assets/4%20%281%29%20%281%29.jpg)
+![](../../../../../.gitbook/assets/4%20%281%29%20%281%29.jpg)
 
 \*\*\*\*
 
@@ -56,15 +56,15 @@ Escríbela en el recuadro y confirma.​
 
 
 
-![](../../../../.gitbook/assets/5.jpg)
+![](../../../../../.gitbook/assets/5.jpg)
 
 
 
-![](../../../../.gitbook/assets/6.jpg)
+![](../../../../../.gitbook/assets/6.jpg)
 
 
 
-![](../../../../.gitbook/assets/7.jpg)
+![](../../../../../.gitbook/assets/7.jpg)
 
 **​**
 
@@ -72,7 +72,7 @@ Escríbela en el recuadro y confirma.​
 
 \*\*\*\*
 
-![](../../../../.gitbook/assets/8.jpg)
+![](../../../../../.gitbook/assets/8.jpg)
 
 **​**
 
@@ -84,11 +84,11 @@ Escríbela en el recuadro y confirma.​
 
 **​​**
 
-![](../../../../.gitbook/assets/9.jpg)
+![](../../../../../.gitbook/assets/9.jpg)
 
 
 
-![](../../../../.gitbook/assets/10.jpg)
+![](../../../../../.gitbook/assets/10.jpg)
 
 
 
@@ -96,11 +96,11 @@ Escríbela en el recuadro y confirma.​
 
 \*\*\*\*
 
-![](../../../../.gitbook/assets/11.jpg)
+![](../../../../../.gitbook/assets/11.jpg)
 
 \*\*\*\*
 
-![](../../../../.gitbook/assets/12.jpg)
+![](../../../../../.gitbook/assets/12.jpg)
 
 
 
@@ -110,7 +110,7 @@ Escríbela en el recuadro y confirma.​
 
 **​**
 
-![](../../../../.gitbook/assets/13.jpg)
+![](../../../../../.gitbook/assets/13.jpg)
 
 ### \*\*\*\*
 
@@ -118,7 +118,7 @@ Escríbela en el recuadro y confirma.​
 
 **​**
 
-![](../../../../.gitbook/assets/14.jpg)
+![](../../../../../.gitbook/assets/14.jpg)
 
 **​**
 
