@@ -1,4 +1,4 @@
-# Agregar los tokens de LP a BalleVault - PC
+# Agregar los tokens de LP a BalleVault
 
 ## Agregar los LP tokens a la BalleVault correspondiente en [ballena.io](https://ballena.io/)
 

@@ -1,4 +1,4 @@
-# Retirar las ganancias - PC
+# Retirar las ganancias
 
 Para retirar tanto los tokens LP como las ganancias seguiremos este pequeño tutorial. Al cosechar tu inversión recibirás:
 

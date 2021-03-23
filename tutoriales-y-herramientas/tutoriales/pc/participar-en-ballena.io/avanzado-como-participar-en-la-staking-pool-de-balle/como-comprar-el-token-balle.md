@@ -1,4 +1,4 @@
-# Cómo comprar el token BALLE - PC
+# Cómo comprar el token BALLE
 
 En este tutorial veremos como **convertir tus BNB** **por el token BALLE** y además para poder así participar en la Gobernanza agregándolos a la BALLE Staking Pool para obtener más beneficios y participar en el proceso de toma de decisiones de la comunidad.
 

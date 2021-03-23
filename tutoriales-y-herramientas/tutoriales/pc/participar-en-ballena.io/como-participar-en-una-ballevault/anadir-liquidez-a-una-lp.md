@@ -1,4 +1,4 @@
-# Añadir liquidez a una LP - PC
+# Añadir liquidez a una LP
 
 ## Cómo añadir liquidez a una LP en PancakeSwap
 
