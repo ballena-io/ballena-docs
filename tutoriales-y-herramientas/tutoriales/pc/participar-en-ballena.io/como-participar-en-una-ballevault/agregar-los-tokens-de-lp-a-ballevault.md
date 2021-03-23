@@ -20,7 +20,7 @@ Cuando queramos sacar rendimiento de nuestros tokens LP de las distintas platafo
 
 
 
-En caso de aparecer "Error de conexión" asegúrate de haber configurado y seleccionado correctamente la red BSC en Metamask. Puedes verlo en el tutorial [correspondiente](../../configurar-wallet-metamask-pc/).
+En caso de aparecer "Error de conexión" asegúrate de haber configurado y seleccionado correctamente la red BSC en Metamask. Puedes verlo en el tutorial [correspondiente](../../configurar-wallet-metamask/).
 
 
 

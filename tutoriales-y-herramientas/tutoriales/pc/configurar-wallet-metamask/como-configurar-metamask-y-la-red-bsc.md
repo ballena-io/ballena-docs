@@ -1,4 +1,4 @@
-# Cómo configurar Metamask y la red BSC - PC
+# Cómo configurar Metamask y la red BSC
 
 ## Cómo configurar MetaMask y la red BSC
 

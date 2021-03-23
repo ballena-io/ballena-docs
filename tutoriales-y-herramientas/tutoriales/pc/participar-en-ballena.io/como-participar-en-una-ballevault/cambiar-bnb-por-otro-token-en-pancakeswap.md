@@ -80,7 +80,7 @@ No podremos cambiar el valor justo del 50% debido a que tenemos que reservar una
 
 ### 8. Completado!
 
-Tus tokens deberían aparecer en tu Metamask. En caso de no verlos, asegúrate de haber agregado el token a tu metamask, si no sabes como hacerlo ve a [este tutorial](../../configurar-wallet-metamask-pc/como-anadir-un-token-personalizado-a-metamask.md).
+Tus tokens deberían aparecer en tu Metamask. En caso de no verlos, asegúrate de haber agregado el token a tu metamask, si no sabes como hacerlo ve a [este tutorial](../../configurar-wallet-metamask/como-anadir-un-token-personalizado-a-metamask.md).
 
 
 

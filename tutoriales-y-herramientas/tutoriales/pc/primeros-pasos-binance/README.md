@@ -1,4 +1,4 @@
-# Primeros pasos: Binance - PC
+# Primeros pasos: Binance
 
 En esta parte del tutorial veremos como realizar los pasos necesarios a realizar en la web de Binance.
 

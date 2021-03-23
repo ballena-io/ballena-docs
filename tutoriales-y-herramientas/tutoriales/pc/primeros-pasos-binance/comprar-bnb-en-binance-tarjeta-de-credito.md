@@ -1,4 +1,4 @@
-# Comprar BNB en Binance \(Tarjeta de crédito\) - PC
+# Comprar BNB en Binance \(Tarjeta de crédito\)
 
 ## Cómo comprar Cripto en Binance \(Tarjeta de Crédito\)
 

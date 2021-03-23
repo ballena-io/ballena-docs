@@ -1,4 +1,4 @@
-# Convertir tus fondos a BNB en Binance - PC
+# Convertir tus fondos a BNB en Binance
 
 ## Cómo convertir tus fondos a BNB en Binance
 

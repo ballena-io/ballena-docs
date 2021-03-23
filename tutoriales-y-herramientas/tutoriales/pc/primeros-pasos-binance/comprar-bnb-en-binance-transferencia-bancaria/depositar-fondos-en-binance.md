@@ -1,4 +1,4 @@
-# Depositar fondos en Binance - PC
+# Depositar fondos en Binance
 
 ## Cómo depositar fondos en Binance \(Transferencia Bancaria SEPA\)
 
