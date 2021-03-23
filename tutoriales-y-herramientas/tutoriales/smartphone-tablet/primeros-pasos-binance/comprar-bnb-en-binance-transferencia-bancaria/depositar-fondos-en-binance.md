@@ -14,6 +14,8 @@ Se puede depositar cualquier otra divisa Fiat pero el sistema de transferencia s
 
 ![](https://lh5.googleusercontent.com/Tx_VuJhYmWZLtNVWlzYZSJNDgH1-wlA_QKFRBizGkPEWTx4ZDSQzFqZLTggyOVph2xqLGX_B6fLRxNSSDZrG8f6jhfWH6BNdlOhOx0wTKdmQ0oWS5rCsUyCo0WN410_uWxXMIU2X)
 
+### 
+
 ### 2. Estipula una cantidad, pulsa “Continuar” y seguido “Confirmar”.
 
 Lee con detenimiento las notas importantes que emergen en pantalla.
@@ -29,6 +31,8 @@ Lee con detenimiento las notas importantes que emergen en pantalla.
 ### 3. Recibirás los Detalles del pago.
 
 ![](https://lh6.googleusercontent.com/3G-UxjDdSi9xN7SwzlufeL7V5NmWdHF0obUKGgXsr7NrxP6jtR-MHSyMrWh62ychpuMU5p_f4TpTMt2iDfxVc9nGDDED4fIx5uwrG9LI-lmuBt6MykMwlBBiIBLgtl9dR4G5HCSv)
+
+### 
 
 ### 4. Accede a tu banco vía Web o vía App y realiza una transferencia internacional con los datos que se te han facilitado.
 
