@@ -22,7 +22,7 @@ Sigue los pasos del tutorial [Conectar Wallet para votar y crear propuestas](con
 
 
 
-![](../../.gitbook/assets/6%20%283%29%20%281%29%20%281%29.png)
+![](../../.gitbook/assets/6%20%283%29%20%281%29%20%281%29%20%281%29.png)
 
 
 

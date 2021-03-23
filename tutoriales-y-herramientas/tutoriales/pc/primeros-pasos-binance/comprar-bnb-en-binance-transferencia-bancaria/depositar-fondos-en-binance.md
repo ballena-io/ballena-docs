@@ -10,7 +10,7 @@ Para cargar fondos en Binance lo haremos de la siguiente manera.
 
 
 
-![](../../../../../.gitbook/assets/binance_comprar_cripto%20%282%29%20%282%29.jpg)
+![](../../../../../.gitbook/assets/binance_comprar_cripto%20%282%29%20%282%29%20%281%29.jpg)
 
 ### 
 
