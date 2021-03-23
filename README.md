@@ -16,6 +16,10 @@ La DAO cuenta con un **protocolo de consenso**. Este garantiza una toma de decis
 
 El token BALLE garantiza la solvencia económica de la DAO mediante su distribución regulada y constatada en los Smart Contracts. Además, este token otorga a los usuarios el **poder de votar nuevos cambios e ideas y recompensa económicamente a los que lo poseen**. Para más información acceder a [Gobernanza](tecnico/gobernanza.md).
 
+### Sistema de retribución SourceCred 
+
+\*\*IN PROGRESS\*
+
 ## BSC
 
 La red **Binance Smart Chain** evita las restricciones de flujo de capital que surgen de las altas comisiones de transacción que se pagan en la misma. Este ecosistema trabaja sobre **mínimas comisiones** permitiendo así a los inversores saltar entre los diversos fondos de liquidez \(Liquidity Pools, farms, etc.\) sin gastos excesivos, maximizando así los beneficios con la máxima flexibilidad. Esto sirve también como un perfecto ecosistema para usuarios con poca liquidez para invertir, quienes pueden ahora entrar en el juego con mínimas pérdidas debidas a las comisiones, lo cual antes era imposible de imaginar y no merecía la pena embarcarse en estas inversiones.
@@ -45,12 +49,6 @@ Una de nuestras metas a corto plazo, el Equipo [ballena.io](https://ballena.io/)
 **BALLE es nuestro token**. Podrás lucrarte de su revalorización, hacer staking y disfrutar de su gobernanza. La comunidad y el equipo crece sin medida a la par que la red de BSC. Nuestros desarrolladores trabajan duro para implementar nuevas estrategias e ideas que son compartidas con el resto de la comunidad y los poseedores de BALLE.
 
 ## Comunidad 🐋
-
-### Sistema de retribución SourceCred 
-
-\*\*IN PROGRESS\*
-
-
 
 En caso de tener cualquier pregunta, contacta con nuestro equipo a través de cualquiera de nuestros canales. Nuestra comunidad [ballena.io](https://ballena.io/) está siempre en disposición de ayudarte, y aunque no necesites ayuda, pásate a saludar!
 
