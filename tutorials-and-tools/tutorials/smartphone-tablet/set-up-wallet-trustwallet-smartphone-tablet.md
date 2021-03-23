@@ -21,8 +21,6 @@ Go through the basic configuration of your wallet. Remember you must write down 
 
 
 
-
-
 ![](https://user-images.githubusercontent.com/79335891/108876340-6adddd00-75fe-11eb-8726-9d7b82e7ef48.png)
 
 ### 
