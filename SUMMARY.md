@@ -46,7 +46,11 @@
           * [Add LP tokens to a BalleVault](tutorials-and-tools/tutorials/smartphone-tablet/trustwallet/participate-in-ballena.io/how-to-participate-in-a-ballevault/add-lp-tokens-to-a-ballevault.md)
         * [Advanced - How to participate in the BALLE Staking Pool](tutorials-and-tools/tutorials/smartphone-tablet/trustwallet/participate-in-ballena.io/advanced-how-to-participate-in-the-balle-staking-pool/README.md)
           * [How to purchase the BALLE token](tutorials-and-tools/tutorials/smartphone-tablet/trustwallet/participate-in-ballena.io/advanced-how-to-participate-in-the-balle-staking-pool/how-to-purchase-the-balle-token.md)
-    * [How to trade BNB in PancakeSwap - Smartphone/Tablet](tutorials-and-tools/tutorials/smartphone-tablet/how-to-trade-bnb-in-pancakeswap-smartphone-tablet.md)
+          * [Add BALLE tokens to the Staking Pool](tutorials-and-tools/tutorials/smartphone-tablet/trustwallet/participate-in-ballena.io/advanced-how-to-participate-in-the-balle-staking-pool/add-balle-tokens-to-the-staking-pool.md)
+    * [Metamask](tutorials-and-tools/tutorials/smartphone-tablet/metamask/README.md)
+      * [Set up Metamask Wallet](tutorials-and-tools/tutorials/smartphone-tablet/metamask/set-up-metamask-wallet/README.md)
+        * [How to Add a Custom Token to Metamask](tutorials-and-tools/tutorials/smartphone-tablet/metamask/set-up-metamask-wallet/how-to-add-a-custom-token-to-metamask.md)
+        * [How to set up Metamask and the BSC network](tutorials-and-tools/tutorials/smartphone-tablet/metamask/set-up-metamask-wallet/how-to-set-up-metamask-and-the-bsc-network.md)
 * [Learning Resources](tutorials-and-tools/learning-resources.md)
 
 ## Technical
