@@ -21,7 +21,7 @@ Recuerda el esquema visto anteriormente y no te perderás. [ballena.io](https://
 
 Para comenzar haz click en el siguiente enlace:
 
-{% page-ref page="primeros-pasos-binance-smartphone-tablet/" %}
+{% page-ref page="primeros-pasos-binance/" %}
 
 
 
