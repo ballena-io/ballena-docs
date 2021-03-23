@@ -8,7 +8,7 @@ Click on the links below in the right order and start with the tutorials.
 
 {% page-ref page="add-liquidity-to-a-lp.md" %}
 
-{% page-ref page="add-lp-tokens-to-a-ballevault-smartphone-tablet-1.md" %}
+{% page-ref page="add-lp-tokens-to-a-ballevault.md" %}
 
 
 

@@ -22,7 +22,7 @@ We will have to trade BNB for Balbt in [PancakeSwap ](https://pancakeswap.financ
 
 The user provides liquidity to the BALLE Staking Pool adding BALLE tokens. Thus, the return will be in the form of BALLE, contributing to the token´s and the platform´s empowerment. You will also be able to form part of our Governance and take part in our decision-making process.
 
-The user will have to trade BNB for BALLE in [PancakeSwap ](https://pancakeswap.finance/)as explained [here](../../pc/participate-in-ballena.io/how-to-participate-in-the-balle-staking-pool/how-to-purchase-the-balle-token.md).
+The user will have to trade BNB for BALLE in [PancakeSwap ](https://pancakeswap.finance/)as explained [here](../../pc/participate-in-ballena.io/advanced-how-to-participate-in-the-balle-staking-pool/how-to-purchase-the-balle-token.md).
 
 
 
