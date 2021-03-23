@@ -4,11 +4,11 @@
 
 You will learn how to add your LP tokens to the BalleVaults in this short tutorial.
 
-Remember that [adding liquidity](add-liquidity-to-a-lp-smartphone-tablet.md) to a pair in PancakeSwap is mandatory in order to participate in a BalleVault as LP tokens are deposited.
+Remember that [adding liquidity](add-liquidity-to-a-lp.md) to a pair in PancakeSwap is mandatory in order to participate in a BalleVault as LP tokens are deposited.
 
 
 
-![](../../../../.gitbook/assets/screenshot_20210223-181850%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%281%29.jpg)
+![](../../../../../../.gitbook/assets/screenshot_20210223-181850%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%281%29.jpg)
 
 
 
@@ -22,7 +22,7 @@ Remember that [adding liquidity](add-liquidity-to-a-lp-smartphone-tablet.md) to 
 
 
 
-![](../../../../.gitbook/assets/screenshot_20210223-181850%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.jpg)
+![](../../../../../../.gitbook/assets/screenshot_20210223-181850%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.jpg)
 
 ### 
 
@@ -32,7 +32,7 @@ Once in [ballena.io](https://ballena.io), you can see all the BalleVaults in the
 
 
 
-![](../../../../.gitbook/assets/sin-titulo%20%281%29.png)
+![](../../../../../../.gitbook/assets/sin-titulo%20%281%29.png)
 
 ### 
 
@@ -40,7 +40,7 @@ Once in [ballena.io](https://ballena.io), you can see all the BalleVaults in the
 
 
 
-![](../../../../.gitbook/assets/ballena_boveda1%20%281%29.png)
+![](../../../../../../.gitbook/assets/ballena_boveda1%20%281%29.png)
 
 ### 
 
@@ -48,7 +48,7 @@ Once in [ballena.io](https://ballena.io), you can see all the BalleVaults in the
 
 
 
-![](../../../../.gitbook/assets/ballena_boveda1.png)
+![](../../../../../../.gitbook/assets/ballena_boveda1.png)
 
 ### 
 
@@ -56,7 +56,7 @@ Once in [ballena.io](https://ballena.io), you can see all the BalleVaults in the
 
 
 
-![](../../../../.gitbook/assets/12%20%281%29.png)
+![](../../../../../../.gitbook/assets/12%20%281%29.png)
 
 ### 
 
@@ -68,7 +68,7 @@ You can add a value to be deposited or press Deposit All\("DEPOSITAR TODO"\) in 
 
 
 
-![](../../../../.gitbook/assets/ballena_boveda_deposita%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.jpg)
+![](../../../../../../.gitbook/assets/ballena_boveda_deposita%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.jpg)
 
 
 
@@ -80,7 +80,7 @@ After confirmation you will see that your LP tokens transfer from the field Bala
 
 
 
-![](../../../../.gitbook/assets/7%20%281%29%20%281%29.png)
+![](../../../../../../.gitbook/assets/7%20%281%29%20%281%29.png)
 
 ### 
 
