@@ -40,7 +40,7 @@ MetaMask está disponible para sistemas iOS y Android**.**
 
 **​​**
 
-![](../../../../.gitbook/assets/4%20%281%29.jpg)
+![](../../../../.gitbook/assets/4%20%281%29%20%281%29.jpg)
 
 \*\*\*\*
 

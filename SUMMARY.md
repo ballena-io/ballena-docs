@@ -78,11 +78,13 @@
 * [Introducción DAO](dao-organizacion/introduccion-dao.md)
 * [Normas de la Organización](dao-organizacion/normas-de-la-organizacion.md)
 * [Cómo formar parte de la DAO](dao-organizacion/como-formar-parte-de-la-dao.md)
-* [Otros tutoriales DAO](dao-organizacion/otros-tutoriales-dao/README.md)
-  * [Conectar Wallet para votar y crear propuestas](dao-organizacion/otros-tutoriales-dao/conectar-wallet-para-votarpara-votar-y-crear-propuestas.md)
-  * [Crear propuestas](dao-organizacion/otros-tutoriales-dao/crear-propuestas.md)
-  * [Votar](dao-organizacion/otros-tutoriales-dao/votar.md)
-  * [Ejecutar llamadas a contratos desde Gnosis](dao-organizacion/otros-tutoriales-dao/ejecutar-llamadas-a-contratos-desde-gnosis.md)
+* [Contribuidores & Devs.](dao-organizacion/contribuidores-and-devs..md)
+* [SourceCred](dao-organizacion/sourcecred.md)
+* [Tutoriales DAO](dao-organizacion/tutoriales-dao/README.md)
+  * [Conectar Wallet para votar y crear propuestas](dao-organizacion/tutoriales-dao/conectar-wallet-para-votarpara-votar-y-crear-propuestas.md)
+  * [Crear propuestas](dao-organizacion/tutoriales-dao/crear-propuestas.md)
+  * [Votar](dao-organizacion/tutoriales-dao/votar.md)
+  * [Ejecutar llamadas a contratos desde Gnosis](dao-organizacion/tutoriales-dao/ejecutar-llamadas-a-contratos-desde-gnosis.md)
 
 ## Recursos para el usuario
 
