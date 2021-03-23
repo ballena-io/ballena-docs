@@ -1,4 +1,4 @@
-# Deposit funds in Binance - PC
+# Deposit funds in Binance
 
 ## How to deposit funds in Binance
 

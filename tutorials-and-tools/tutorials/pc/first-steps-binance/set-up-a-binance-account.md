@@ -1,4 +1,4 @@
-# Set up a Binance account - PC
+# Set up a Binance account
 
 ## How to set up a Binance account
 

@@ -30,7 +30,7 @@ Click on the "Wallet" icon at the lower part of your screen.
 
 ​
 
-![](../../../.gitbook/assets/1615028657935%20%282%29%20%282%29.jpg)
+![](../../../.gitbook/assets/1615028657935%20%282%29%20%282%29%20%282%29.jpg)
 
 ​
 

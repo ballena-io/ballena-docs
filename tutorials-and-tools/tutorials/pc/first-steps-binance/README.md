@@ -1,4 +1,4 @@
-# First steps: Binance - PC
+# First steps: Binance
 
 We will go through the required steps regarding Binance in this tutorial.
 
@@ -9,7 +9,7 @@ We want to maximize the yield farmed by our money, so we try to find cryptos and
 That's why we are here, so let's start purchasing those BNB tokens following all the steps below. Click in this link in order to navigate to the first Binance tutorial, Set up a Binance Account.  
 
 
-{% page-ref page="set-up-a-binance-account-pc.md" %}
+{% page-ref page="set-up-a-binance-account.md" %}
 
 
 
