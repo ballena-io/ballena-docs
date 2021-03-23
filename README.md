@@ -46,6 +46,12 @@ Una de nuestras metas a corto plazo, el Equipo [ballena.io](https://ballena.io/)
 
 ## Comunidad 🐋
 
+### Sistema de retribución SourceCred 
+
+\*\*IN PROGRESS\*
+
+
+
 En caso de tener cualquier pregunta, contacta con nuestro equipo a través de cualquiera de nuestros canales. Nuestra comunidad [ballena.io](https://ballena.io/) está siempre en disposición de ayudarte, y aunque no necesites ayuda, pásate a saludar!
 
 Twitter: [https://twitter.com/ballenaio](https://twitter.com/ballenaio)
