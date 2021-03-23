@@ -29,7 +29,7 @@
       * [How to participate in the BALLE Staking Pool](tutorials-and-tools/tutorials/pc/participate-in-ballena.io/how-to-participate-in-the-balle-staking-pool/README.md)
         * [How to purchase the BALLE token](tutorials-and-tools/tutorials/pc/participate-in-ballena.io/how-to-participate-in-the-balle-staking-pool/how-to-purchase-the-balle-token.md)
         * [Add BALLE tokens to the Staking Pool](tutorials-and-tools/tutorials/pc/participate-in-ballena.io/how-to-participate-in-the-balle-staking-pool/add-balle-tokens-to-the-staking-pool.md)
-    * [Harvest Revenue - PC](tutorials-and-tools/tutorials/pc/harvest-revenue-pc.md)
+    * [Harvest Revenue](tutorials-and-tools/tutorials/pc/harvest-revenue.md)
   * [Smartphone/Tablet](tutorials-and-tools/tutorials/smartphone-tablet/README.md)
     * [First steps: Binance - Smartphone/Tablet](tutorials-and-tools/tutorials/smartphone-tablet/first-steps-binance-smartphone-tablet/README.md)
       * [Set up a Binance account - Smartphone/Tablet](tutorials-and-tools/tutorials/smartphone-tablet/first-steps-binance-smartphone-tablet/set-up-a-binance-account-smartphone-tablet.md)
