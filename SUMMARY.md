@@ -38,7 +38,7 @@
     * [TrustWallet - Smartphone/Tablet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/trustwallet-smartphone-tablet/README.md)
       * [Configurar Wallet: Trust Wallet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/trustwallet-smartphone-tablet/configurar-wallet-trust-wallet.md)
       * [Cómo enviar fondos de Binance a TrustWallet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/trustwallet-smartphone-tablet/como-enviar-fondos-de-binance-a-trustwallet.md)
-      * [Como usar Dapps en TrustWallet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/trustwallet-smartphone-tablet/como-usar-dapps-en-trustwallet.md)
+      * [Cómo usar Dapps en TrustWallet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/trustwallet-smartphone-tablet/como-usar-dapps-en-trustwallet.md)
       * [Participar en ballena.io](tutoriales-y-herramientas/tutoriales/smartphone-tablet/trustwallet-smartphone-tablet/participar-en-ballena.io/README.md)
         * [Cómo participar en una BalleVault](tutoriales-y-herramientas/tutoriales/smartphone-tablet/trustwallet-smartphone-tablet/participar-en-ballena.io/como-participar-en-una-ballevault/README.md)
           * [Convertir BNB por otro Token en PancakeSwap](tutoriales-y-herramientas/tutoriales/smartphone-tablet/trustwallet-smartphone-tablet/participar-en-ballena.io/como-participar-en-una-ballevault/convertir-bnb-por-otro-token-en-pancakeswap.md)

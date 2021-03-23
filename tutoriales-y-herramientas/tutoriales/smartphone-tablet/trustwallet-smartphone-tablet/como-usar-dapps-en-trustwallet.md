@@ -1,4 +1,4 @@
-# Como usar Dapps en TrustWallet
+# Cómo usar Dapps en TrustWallet
 
 ## Cómo usar las Dapps de Binance Smart Chain
 
