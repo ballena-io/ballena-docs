@@ -18,7 +18,7 @@ El token BALLE garantiza la solvencia económica de la DAO mediante su distribuc
 
 ### Sistema de retribución SourceCred 
 
-\*\*IN PROGRESS\*
+\*\*IN PROGRESS\**
 
 ## BSC
 
