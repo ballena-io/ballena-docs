@@ -82,7 +82,7 @@ In this tutorial we are going to learn how to trade your BNB for another token. 
 
 ### **8. Done!**
 
-Your tokens should show up in your Metamask account. In case you can't see them, make sure you have already added the token to your Metamask\`s token list. Go to this tutorial on [How to Add a Custom Token to Metamask](../../set-up-metamask-pc/how-to-add-a-custom-token-to-metamask.md) if needed.
+Your tokens should show up in your Metamask account. In case you can't see them, make sure you have already added the token to your Metamask\`s token list. Go to this tutorial on [How to Add a Custom Token to Metamask](../../set-up-metamask-wallet/how-to-add-a-custom-token-to-metamask.md) if needed.
 
 \*\*\*\*
 

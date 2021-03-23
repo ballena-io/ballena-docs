@@ -1,4 +1,4 @@
-# Set up Metamask - PC
+# Set up Metamask Wallet
 
 Metamask is a ERC20 compatible wallet. In this tutorial we will learn how to set up a wallet with Metamask from scratch and also how to add a custom token like our token BALLE.
 
