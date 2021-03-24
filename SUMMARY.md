@@ -80,6 +80,8 @@
 * [DAO Introduction](dao-organization/dao-introduction.md)
 * [DAO Rules](dao-organization/dao-rules.md)
 * [How to be part of the DAO](dao-organization/how-to-be-part-of-the-dao.md)
+* [Contributors & Devs.](dao-organization/contributors-and-devs..md)
+* [SourceCred](dao-organization/sourcecred.md)
 * [Other tutorials](dao-organization/other-tutorials/README.md)
   * [Create propolsals](dao-organization/other-tutorials/create-propolsals.md)
   * [Vote](dao-organization/other-tutorials/vote.md)
