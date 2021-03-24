@@ -83,10 +83,10 @@
 * [Contributors & Devs.](dao-organization/contributors-and-devs..md)
 * [SourceCred](dao-organization/sourcecred.md)
 * [Other tutorials](dao-organization/other-tutorials/README.md)
+  * [Connect Wallet for propolsals](dao-organization/other-tutorials/connect-wallet-for-propolsals.md)
   * [Create propolsals](dao-organization/other-tutorials/create-propolsals.md)
   * [Vote](dao-organization/other-tutorials/vote.md)
   * [Execute calls contracts from Gnosis](dao-organization/other-tutorials/execute-calls-contracts-from-gnosis.md)
-  * [Connect Wallet for propolsals](dao-organization/other-tutorials/connect-wallet-for-propolsals.md)
 
 ## Tools for the User
 
