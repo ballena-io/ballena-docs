@@ -59,21 +59,9 @@ El **número de bloque** es un registro del momento de lanzamiento de la propues
 
 
 
-### 1. Para acceder al número de bloque actual, haz click en el símbolo "?" que aparece en la parte superior derecha de la pantalla.
+### \*\*IN PROGRESS\*\*
 
 
-
-![](../../.gitbook/assets/5%20%284%29.png)
-
-### 
-
-### 2. El número de bloque aparece como "Block number".
-
-Copia este dato y pégalo en tu propuesta.
-
-
-
-![](../../.gitbook/assets/8%20%283%29.png)
 
 
 
