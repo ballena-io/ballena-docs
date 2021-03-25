@@ -45,9 +45,7 @@ Sigue los pasos del tutorial [Conectar Wallet para votar y crear propuestas](con
 
 Te aparecerá un desplegable para firmar la propuesta, haz click en "Firmar".
 
-
-
-![](../../.gitbook/assets/7%20%282%29.png)
+\*\*image
 
 
 
