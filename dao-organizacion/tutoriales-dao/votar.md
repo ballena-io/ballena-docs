@@ -30,7 +30,7 @@ Sigue los pasos del tutorial [Conectar Wallet para votar y crear propuestas](con
 
 \*image\*
 
-\*\*\*\*
+
 
 ### **5. Has terminado con la votación.**
 
