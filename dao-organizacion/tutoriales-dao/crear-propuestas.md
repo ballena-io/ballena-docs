@@ -6,6 +6,22 @@
 
 
 
+## Estandarización
+
+La creación de propuesta seguirá estas bases de estandarización para seguir un patrón conjunto:
+
+* Las propuestas se publicarán en ambos idiomas, inglés y español neutro. Separar estás versiones para cada uno de los apartados con un "/" o "======" según corresponda. Ver ejemplo [aquí](crear-propuestas.md#4-completa-los-campos-de-tu-propuesta).
+* Siempre irá el español en primer lugar. 
+* En caso de que alguno de los campos no admita caracteres suficientes para ambos idiomas, se intentará adaptar para ello, y sino, se dará prioridad al español.
+* Se incluirá un "TLDR" al final de la descripción a modo de síntesis. Esta servirá como pregunta directa para la elección de las opciones.
+* La propuesta, el TLDR y las opciones serán totalmente claras y concisas.
+* Las duración de las propuestas será la siguiente:
+  * Propuestas transcendentales: 72 horas.
+  * Propuestas no transcendentales: 24 horas.
+* Una vez se haya publicado la propuesta, el usuario debe notificar la publicación en el canal \#votaciones de Discord.
+
+## Cómo crear una propuesta
+
 ### 1. Navega a la [plataforma de votación](https://vote.ballena.io/).
 
 * Link: [https://vote.ballena.io/](https://vote.ballena.io/)
@@ -22,7 +38,11 @@ Sigue los pasos del tutorial [Conectar Wallet para votar y crear propuestas](con
 
 
 
-![](../../.gitbook/assets/6%20%283%29%20%281%29%20%281%29%20%281%29.png)
+![](../../.gitbook/assets/4.5%20%281%29.png)
+
+
+
+![](../../.gitbook/assets/5.5.png)
 
 
 
@@ -33,19 +53,36 @@ Sigue los pasos del tutorial [Conectar Wallet para votar y crear propuestas](con
 * Selecciona el rango de fechas en "Actions".
 * El número que aparece a continuación es el número de bloque de la blockchain. No te preocupes por el mismo, para más información navega a [Número de bloque](crear-propuestas.md#numero-de-bloque).
 * Añade las opciones a elegir entre los usuarios en "Choices".
-* Haz click en "Publish".
+
+En la siguiente imagen vemos un ejemplo de la propuesta "Mi propuesta".
+
+Recuerda las bases para crear una propuesta.
 
 
 
-![](../../.gitbook/assets/5%20%284%29%20%281%29.png)
+![](../../.gitbook/assets/6.5.png)
 
 
 
-### 5. Firma la propuesta en tu wallet.
+![](../../.gitbook/assets/7.5.png)
 
-Te aparecerá un desplegable para firmar la propuesta, haz click en "Firmar".
 
-\*\*image
+
+### 5. Haz click en "Publish".
+
+
+
+![](../../.gitbook/assets/8.5.png)
+
+
+
+### 6. Firma la propuesta en tu wallet.
+
+Te aparecerá un desplegable para firmar la propuesta, haz click en "Sign".
+
+
+
+![](../../.gitbook/assets/9.5.png)
 
 
 
@@ -58,8 +95,6 @@ El **número de bloque** es un registro del momento de lanzamiento de la propues
 Este viene definido a la hora de crear cada propuesta y el usuario no necesita realizar ninguna acción respecto al mismo.
 
 
-
-### \*\*IN PROGRESS\*\*
 
 
 
