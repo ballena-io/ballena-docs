@@ -56,7 +56,7 @@ Sigue los pasos del tutorial [Conectar Wallet para votar y crear propuestas](con
 
 En la siguiente imagen vemos un ejemplo de la propuesta "Mi propuesta".
 
-Recuerda las bases para crear una propuesta.
+Recuerda las [bases ](crear-propuestas.md#estandarizacion)para crear una propuesta.
 
 
 
