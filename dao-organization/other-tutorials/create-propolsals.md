@@ -12,8 +12,9 @@ Standarization should be a must at the time of a propolsal creation. Follow this
 * A **TLDR** shall be included as a recap at the end of the description field. The **TLDR** will serve as a direct question to the matter.
 * The proposal, TLDR and the choices shall be completely neat and concise.
 * The duration of the proposals shall be:
-  * **Momentous decision: 72 hours**.
-  * **Non-momentous decision: 24 hours**.
+  * **Momentous decision: 72 hours minimum.**
+  * **Non-momentous decision: 24 hours minimum.**
+* **Proposals MUST always include a choice that goes against the proposed matter itself,** a negative voting option. Users shall always have the option to refuse to abide by the proposed changes, whatever the rest of the options are.
 * Once the proposal has been published, the user shall notify the community through the **\#votaciones** channel on our Discord.
 
 ‌
