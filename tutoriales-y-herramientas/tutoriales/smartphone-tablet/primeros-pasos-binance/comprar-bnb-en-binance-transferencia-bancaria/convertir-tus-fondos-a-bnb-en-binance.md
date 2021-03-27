@@ -6,6 +6,17 @@ Ya tienes tu dinero en Binance. Podrás comprobarlo en el saldo de Billetera→S
 
 ![](https://lh4.googleusercontent.com/dUZ_octQjZ1sQaI4h8i3_YiDm4zw_ZpRg1rcclVoCpESuVck6hSSY6wjQV1lApc4YFjyqyOm8NHEYMevoJDoutuosnmm90QdqT8j4ARHViQPnK-EvynDu0pfC7dkO_emSMYHfsu4)
 
+
+
+Una vez hayamos depositado dinero en Binance, en el caso de este tutorial en Euro, tenemos que convertir este capital a BNB para poder trabajar en la red BSC y en [ballena.io](https://ballena.io/). 
+
+Tenemos dos opciones para ello:
+
+* La opción más simple es hacerlo mediante dos conversiones debido a las restricciones que esta moneda nos ofrece para cambios directos. No podemos cambiar directamente de EUR a BNB, con lo que convertiremos nuestros EUR a USDT y después los USDT a BNB. En este tutorial nos centraremos únicamente en este procedimiento.
+* La otra opción sería cambiar EUR a BNB directamente en el apartado "Trade" de Binance. En este tutorial no vamos a ver esta opción por la complejidad que puede conllevar para un usuario novel. Los usuarios con más experiencia deben saber que en "Trade" encontramos el par EUR/BNB y por lo tanto podemos hacer este cambio directamente en esta sección.
+
+## Cómo convertir tus fondos a BNB en Binance
+
 ### 1. Dentro de la aplicación de Binance ve a la sección “Trading”.
 
 
