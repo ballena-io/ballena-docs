@@ -16,9 +16,7 @@ La DAO cuenta con un **protocolo de consenso**. Este garantiza una toma de decis
 
 El token BALLE garantiza la solvencia económica de la DAO mediante su distribución regulada y constatada en los Smart Contracts. Además, este token otorga a los usuarios el **poder de votar nuevos cambios e ideas y recompensa económicamente a los que lo poseen**. Para más información acceder a [Gobernanza](tecnico/gobernanza.md).
 
-### Sistema de retribución SourceCred
-
-\*\*IN PROGRESS\*\*
+Además, la DAO de [ballena.io](https://ballena.io/) cuenta con un **sistema de retribución llamado SourceCred** para los contribuidores del proyecto. Este recompensa a los usuarios que contribuyen en el proyecto con tokens BALLE.
 
 ## BSC
 
