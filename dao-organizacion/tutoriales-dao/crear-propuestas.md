@@ -1,7 +1,5 @@
 # Crear propuestas
 
-## **Cómo crear una propuesta** 
-
 ![](../../.gitbook/assets/business-4271251_960_720.webp)
 
 
