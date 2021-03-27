@@ -1,5 +1,7 @@
 # Create propolsals
 
+![](../../.gitbook/assets/business-4271251_960_720.webp)
+
 ## Standarization‌
 
 Standarization should be a must at the time of a propolsal creation. Follow this guidelines for this purpose:
