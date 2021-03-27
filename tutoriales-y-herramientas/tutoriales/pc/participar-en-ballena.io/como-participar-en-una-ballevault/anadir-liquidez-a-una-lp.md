@@ -10,7 +10,7 @@ En muchas ocasiones querrás añadir liquidez en PancakeSwap para obtener un ren
 
 
 
-### 2. Conectar nuestra billetera pulsando el botón "connect" de la parte superior derecha.
+### 2. Conectar nuestra billetera pulsando el botón "Connect" de la parte superior derecha.
 
 
 
@@ -36,11 +36,11 @@ Recuerda que para poder agregar liquidez a una LP necesitaremos el mismo valor e
 
 ### 
 
-### 5. Seleccionar los dos tokens que vamos a aportar. En este ejemplo vemos cómo añadir LINA-BUSD.
+### 5. Seleccionar los dos tokens que vamos a aportar. En este ejemplo vemos cómo añadir BALBT-BNB.
 
 
 
-![](../../../../../.gitbook/assets/foto-4.jpg)
+![](../../../../../.gitbook/assets/captura-de-pantalla-2021-03-27-190315.png)
 
 
 
@@ -48,13 +48,13 @@ Recuerda que para poder agregar liquidez a una LP necesitaremos el mismo valor e
 
 
 
-![](../../../../../.gitbook/assets/foto-5.jpg)
+![](../../../../../.gitbook/assets/captura-de-pantalla-2021-03-27-190917.png)
 
 
 
 ### 7. La liquidez ha sido aportada.
 
-Los tokens LP del par LINA/BUSD se encuentran ahora en tu billetera listos para ser agregados a una de las BalleVaults.
+Los tokens LP del par BALBT/BUSD se encuentran ahora en tu billetera listos para ser agregados a una de las BalleVaults.
 
 
 
