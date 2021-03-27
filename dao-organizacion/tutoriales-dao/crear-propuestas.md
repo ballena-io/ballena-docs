@@ -10,15 +10,15 @@
 
 La creación de propuesta seguirá estas bases de estandarización para seguir un patrón conjunto:
 
-* Las propuestas se publicarán en ambos idiomas, inglés y español neutro. Separar estás versiones para cada uno de los apartados con un "/" o "======" según corresponda. Ver ejemplo [aquí](crear-propuestas.md#4-completa-los-campos-de-tu-propuesta).
+* Las propuestas se publicarán en **ambos idiomas**, inglés y español neutro. Separar estás versiones para cada uno de los apartados con un "/" o "======" según corresponda. Ver ejemplo [aquí](crear-propuestas.md#4-completa-los-campos-de-tu-propuesta).
 * Siempre irá el español en primer lugar. 
 * En caso de que alguno de los campos no admita caracteres suficientes para ambos idiomas, se intentará adaptar para ello, y sino, se dará prioridad al español.
-* Se incluirá un "TLDR" al final de la descripción a modo de síntesis. Esta servirá como pregunta directa para la elección de las opciones.
-* La propuesta, el TLDR y las opciones serán totalmente claras y concisas.
+* Se incluirá un "**TLDR**" al final de la descripción a modo de síntesis. Esta servirá como pregunta directa para la elección de las opciones.
+* La propuesta, el **TLDR** y las opciones serán totalmente claras y concisas.
 * Las duración de las propuestas será la siguiente:
-  * Propuestas transcendentales: 72 horas.
-  * Propuestas no transcendentales: 24 horas.
-* Una vez se haya publicado la propuesta, el usuario debe notificar la publicación en el canal \#votaciones de Discord.
+  * **Propuestas transcendentales: 72 horas.**
+  * **Propuestas no transcendentales: 24 horas.**
+* Una vez se haya publicado la propuesta, el usuario debe notificar la publicación en el canal **\#votaciones** de Discord.
 
 ## Cómo crear una propuesta
 
