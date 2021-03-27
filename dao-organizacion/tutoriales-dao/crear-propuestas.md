@@ -14,8 +14,9 @@ La creación de propuesta seguirá estas bases de estandarización para seguir u
 * Se incluirá un "**TLDR**" al final de la descripción a modo de síntesis. Esta servirá como pregunta directa para la elección de las opciones.
 * La propuesta, el **TLDR** y las opciones serán totalmente claras y concisas.
 * Las duración de las propuestas será la siguiente:
-  * **Propuestas transcendentales: 72 horas.**
-  * **Propuestas no transcendentales: 24 horas.**
+  * **Propuestas transcendentales: mínimo 72 horas.**
+  * **Propuestas no transcendentales: mínimo 24 horas.**
+* **Todas las propuestas deberán incluir una opción de voto que vaya en contra de la propia cuestión** propuesta, una opción de voto de negación. Siempre existirá la opción de negarse a acatar el cambio propuesto, sean cual sean el resto de las opciones.
 * Una vez se haya publicado la propuesta, el usuario debe notificar la publicación en el canal **\#votaciones** de Discord.
 
 ## Cómo crear una propuesta
