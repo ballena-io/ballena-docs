@@ -30,7 +30,7 @@ Standarization should be a must at the time of a propolsal creation. Follow this
 
 ### 2. Connect your wallet.
 
-Follow the simple steps found in the [Connect your wallet](connect-wallet-for-propolsals-creation-and-voting.md) tutorial. 
+Follow the simple steps found in the [Connect your wallet](connect-your-wallet-for-propolsals-creation-and-voting.md) tutorial. 
 
 ‌
 

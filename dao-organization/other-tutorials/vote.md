@@ -18,7 +18,7 @@ The creation of proposals and voting are free of charge but remember that users 
 
 ### 2. **Connect your wallet containing BALLE tokens.**.
 
-Follow the simple steps found in the [Connect your wallet](connect-wallet-for-propolsals-creation-and-voting.md) tutorial.
+Follow the simple steps found in the [Connect your wallet](connect-your-wallet-for-propolsals-creation-and-voting.md) tutorial.
 
 
 
