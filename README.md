@@ -18,7 +18,7 @@ Decisions among the DAO are based upon a consensus protocol. [ballena.io](https:
 
 The BALLE Governance token guarantees the economic stability of the DAO through its regulated supply stated in the Smart Contracts. The BALLE token also makes the community users able to vote for new changes and ideas, as well as rewarding them with an extra revenue. For more info click in [Governance](technical/governance.md).
 
-
+Furthermore, the [ballena.io](https://ballena.io/) DAO includes a **reward system for contributors called SourceCred**. This system compensates users who contribute to the project with BALLE tokens.
 
 ## Wallet Safety: First BSC project under Gnosis Safety
 
