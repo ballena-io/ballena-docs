@@ -78,7 +78,7 @@ You will have to verify the transaction now. You will receive your BNB into Trus
 
 ​
 
-### 4. Well done! You have successfully completed your BNB tokens´ transfer. <a id="4-buen-trabajo-has-terminado-de-enviar-tus-criptomonedas-ya-puedes-usar-tus-bnb-en-trustwallet"></a>
+### 11. Well done! You have successfully completed your BNB tokens´ transfer. <a id="4-buen-trabajo-has-terminado-de-enviar-tus-criptomonedas-ya-puedes-usar-tus-bnb-en-trustwallet"></a>
 
 
 
