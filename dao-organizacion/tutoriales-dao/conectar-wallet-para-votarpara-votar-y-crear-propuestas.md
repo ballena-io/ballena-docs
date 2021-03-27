@@ -1,6 +1,6 @@
 # Conectar Wallet para votar y crear propuestas
 
-Para formar parte en el proceso de creación y votación de nuevas propuestas, tendremos que conectar nuestra wallet en primer lugar. En los siguientes pasos veremos cómo hacerlo.
+Para formar parte en el proceso de creación y votación de nuevas propuestas, tendremos que **conectar nuestra wallet** en primer lugar. En los siguientes pasos veremos cómo hacerlo.
 
 ### 
 
@@ -14,7 +14,7 @@ Para formar parte en el proceso de creación y votación de nuevas propuestas, t
 
 
 
-![](../../.gitbook/assets/1%20%286%29.png)
+![](../../.gitbook/assets/1.5.png)
 
 
 
@@ -22,15 +22,15 @@ Para formar parte en el proceso de creación y votación de nuevas propuestas, t
 
 
 
-![](../../.gitbook/assets/2%20%284%29%20%281%29.png)
+![](../../.gitbook/assets/2.5.png)
 
 
 
-### 4. Conecta tu wallet haciendo click en "Conectar".
+### 4. Conecta tu wallet haciendo click en "Unlock" al introducir tu clave.
 
 
 
-![](../../.gitbook/assets/3%20%285%29.png)
+![](../../.gitbook/assets/3.5.png)
 
 
 
@@ -40,11 +40,9 @@ Esta aparece en la parte derecha del menú superior.
 
 
 
-![](../../.gitbook/assets/6%20%283%29%20%281%29%20%281%29%20%281%29%20%281%29.png)
+![](../../.gitbook/assets/4.5%20%281%29.png)
 
 
-
-### 
 
 ### 
 
