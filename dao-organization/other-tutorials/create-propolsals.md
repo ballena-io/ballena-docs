@@ -40,7 +40,7 @@ Follow the simple steps found in the [Connect your wallet](connect-wallet-for-pr
 
 ‌
 
-![](../../.gitbook/assets/4.5%20%282%29.png)
+![](../../.gitbook/assets/4.5%20%283%29.png)
 
 ‌
 
