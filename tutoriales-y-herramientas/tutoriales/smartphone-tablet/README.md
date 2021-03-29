@@ -1,6 +1,6 @@
 # Smartphone/Tablet
 
-Los dispositivos móviles tienen la ventaja de que nos permiten tener acceso en prácticamente cualquier lugar y a cualquier hora. Los pasos a seguir en Smartphone son los mismos que en PC, pero tanto las herramientas que usaremos como su funcionamiento serán diferentes. Por eso, en[ ballena.io](https://ballena.io/) hemos querido separarlos para que contemos con la ayuda más personalizada en cada uno de los dispositivos.
+Los dispositivos móviles tienen la ventaja de que nos permiten tener acceso en prácticamente cualquier lugar y a cualquier hora. Los pasos a seguir en Smartphone son los mismos que en PC, pero tanto las herramientas que usaremos como su funcionamiento serán diferentes. Por eso, en[ ballena.io](https://ballena.io/) hemos querido separarlos para contar con la ayuda más personalizada en cada uno de los dispositivos.
 
 En el caso de los dispositivos móviles se utilizarán las siguientes herramientas:
 
