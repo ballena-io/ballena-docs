@@ -1,15 +1,17 @@
 # PC
 
-Te has decido por el PC. Los pasos son muy parecidos para los distintos dispositivos pero en [ballena.io](https://ballena.io/) hemos querido separarlos para que cuentes con la ayuda más personalizada para cada uno de ellos.
+Te has decidido por el teclado y el ratón. Los pasos a seguir son iguales en cualquier dispositivo, pero tanto las herramientas que usaremos como su funcionamiento serán diferentes. Por eso, en[ ballena.io](https://ballena.io/) hemos querido separarlos para contar con la ayuda más personalizada en cada uno de los dispositivos.
 
-En el caso del PC, independientemente del sistema operativo con el que cuentes, se utilizarán las siguientes herramientas:
+En el caso del PC, independientemente del sistema operativo con el que contemos, se utilizarán las siguientes herramientas:
 
 * **Navegador web** - El tutorial se basa en Google Chrome.
-* **Wallet** - En este caso utilizaremos Metamask.
+* Wallet ****- En este caso utilizaremos **MetaMask.**
 
-El navegador web nos servirá para navegar por las webs y Dapps de las que nos nutrimos: [ballena.io](https://ballena.io/), Binance y PancakeSwap, por ejemplo. Y la Wallet, o billetera, la utilizaremos tanto para acceder a las Dapps, como para mover nuestras criptomonedas, acciones como comprar, vender, convertir, aportar liquidez y pagar las tasas.
+El navegador web nos llevará a la web Binance.com y a las Dapps \(aplicaciones descentralizadas\) de las que nos nutrimos: PancakeSwap y [app.ballena.io](https://app.ballena.io/)🐋. 
 
-Recuerda el esquema visto anteriormente y no te perderás. [ballena.io](https://ballena.io/)🐋 te lo vuelve a mostrar.
+MetaMask nos permitirá operar e interactuar con estas Dapps. Funciona como un puente entre el navegador y la blockchain Binance Smart Chain \(BSC\), plataforma descentralizada en la que se encuentran estas aplicaciones. 
+
+Recordemos el esquema visto anteriormente y sigamos los pasos de uno en uno para hacer que nuestro dinero pase de estar inmovil en el banco a que esté generando altos rendimientios en[ ballena.io](https://ballena.io/)🐋. Ninguno se deberá realizar sin haber completado el anterior.
 
 
 
@@ -17,7 +19,9 @@ Recuerda el esquema visto anteriormente y no te perderás. [ballena.io](https://
 
 
 
-Para comenzar, haz click en el siguiente enlace:
+Puede resultar algo confuso a primera vista, pero cada paso se detalla de modo que lo podamos entender a medida que lo vayamos haciendo. ¡Comencemos!
+
+Para comenzar, hacemos click en el siguiente enlace:
 
 {% page-ref page="primeros-pasos-binance/" %}
 

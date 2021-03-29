@@ -1,12 +1,10 @@
 # Primeros pasos: Binance
 
-En esta parte del tutorial veremos como realizar los pasos necesarios a realizar en la web de Binance.
+Binance es un exchange \(plataforma de compra/venta de criptodivisas\) en el que deberemos abrir una cuenta, depositar dinero y comprar la moneda BNB.
 
-Binance es un exchange donde depositaremos nuestro dinero. Trás abrir una cuenta, compraremos BNB. Esta criptomoneda \(BNB\) nos permitirá operar dentro de la red BSC \(Binance Smart Chain\) dónde opera nuestro proyecto.
+¿Por qué BNB y no otra moneda? BNB es la divisa de Binance y, como ya sabemos, la plataforma de[ ballena.io](https://ballena.io/)🐋 se encuentra en la Binance Smart Chain \(BSC\). Dentro de la BSC realizaremos una serie de movimientos para los que necesitaremos BNB como moneda de cambio. Imaginemos la BSC como un país con su propia divisa en el que no podremos comprar nada sin disponer de esta. En este caso BNB nos servirá para comprar otros tokens y para pagar las tasas de transacción.
 
-Nosotros queremos sacar una rentabilidad a nuestro dinero, con lo que buscamos criptomonedas y proyectos que puedan proporcionarnos altos retornos y poder volver con más dinero del que teníamos al final del día. Nuestro proyecto [ballena.io](https://ballena.io/), como ya sabes, se encarga de brindarte la automatización y optimización de tu inversión realizada tanto en el token BALLE como en otras criptos. Todas ellas, incluida BALLE, se encuentran en la red BSC y por lo tanto es indispensable comprar BNB para poder utilizarla como moneda de cambio y para aportar liquidez a ciertos pares.
-
-Y es por eso por lo que estamos aquí, con lo que comencemos a comprar esos BNB siguiendo todos los pasos de este tutorial. Haz click en el enlace para navegar al primer tutorial de Binance, [Abrir y configurar una cuenta en Binance](abrir-y-configurar-una-cuenta-en-binance.md).
+Vayamos con lo básico para comprar esos BNB siguiendo todos los pasos de este tutorial. Nos dirigimos a la siguiente página para empezar con el primero:
 
 {% page-ref page="abrir-y-configurar-una-cuenta-en-binance.md" %}
 

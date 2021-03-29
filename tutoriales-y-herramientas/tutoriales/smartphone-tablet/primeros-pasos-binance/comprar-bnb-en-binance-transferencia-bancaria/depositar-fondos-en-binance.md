@@ -1,10 +1,8 @@
 # Depositar fondos en Binance
 
-Esta es la mejor opción para depositar grandes cantidades en Binance ya que no cobra comisiones. Saber que la transferencia puede tardar hasta 48h en reflejarse en tu billetera de Binance.  
-  
 
 
-### 1. De vuelta en la pantalla Principal de Binance pulsa “Depositar EUR” mediante Transferencia bancaria \(SEPA\).
+### 1. De vuelta en la pantalla Principal de Binance pulsamos “Depositar EUR” mediante Transferencia bancaria \(SEPA\).
 
 Se puede depositar cualquier otra divisa Fiat pero el sistema de transferencia será distinto.
 
@@ -16,9 +14,9 @@ Se puede depositar cualquier otra divisa Fiat pero el sistema de transferencia s
 
 ### 
 
-### 2. Estipula una cantidad, pulsa “Continuar” y seguido “Confirmar”.
+### 2. Estipulamos una cantidad, pulsamos “Continuar” y seguido “Confirmar”.
 
-Lee con detenimiento las notas importantes que emergen en pantalla.
+Leer con detenimiento las notas importantes que emergen en pantalla.
 
                                         
 
@@ -28,24 +26,25 @@ Lee con detenimiento las notas importantes que emergen en pantalla.
 
 
 
-### 3. Recibirás los Detalles del pago.
+### 3. Recibiremos los Detalles del pago.
+
+
 
 ![](https://lh6.googleusercontent.com/3G-UxjDdSi9xN7SwzlufeL7V5NmWdHF0obUKGgXsr7NrxP6jtR-MHSyMrWh62ychpuMU5p_f4TpTMt2iDfxVc9nGDDED4fIx5uwrG9LI-lmuBt6MykMwlBBiIBLgtl9dR4G5HCSv)
 
 ### 
 
-### 4. Accede a tu banco vía Web o vía App y realiza una transferencia internacional con los datos que se te han facilitado.
+### 4. Acceder a nuestro banco vía Web o vía App y realizar una transferencia internacional con los datos que se nos han facilitado.
 
-En este paso elegirás la cuantía que deseas transferir.
+En este paso elegiremos la cuantía que deseamos transferir.
 
-**IMPORTANTE**: no olvides añadir el Código de referencia de 4 cifras en el concepto de la transferencia.  
+**IMPORTANTE**: no olvidar añadir el Código de referencia de 4 cifras en el concepto de la transferencia.  
   
-  
 
 
-### 5. Espera hasta que tu dinero llegue a Binance al día siguiente
+### 5. Esperamos hasta que nuestro dinero llegue a Binance al día siguiente.
 
-Mientras tanto, puedes seguir leyendo el resto de la documentación. ¡Aprende más sobre [ballena.io](https://ballena.io/)!  
+Mientras tanto, podemos seguir leyendo el resto de la documentación. ¡Aprende más sobre [ballena.io](https://ballena.io/)!  
   
   
   

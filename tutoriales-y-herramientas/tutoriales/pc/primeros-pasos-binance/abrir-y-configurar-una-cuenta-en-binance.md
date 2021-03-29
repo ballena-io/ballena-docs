@@ -2,7 +2,8 @@
 
 ## Cómo darse de alta en Binance
 
-Para poder empezar a trabajar en el mundo de las criptomonedas, es recomendable darse de alta en un Exchange. Puedes utilizar cualquier Exchange a tu elección, este tutorial se centra en [Binance](https://www.binance.com/es).
+Para poder empezar a trabajar en el mundo de las criptomonedas, es imprescindible darse de alta en un exchange. Podemos utilizar cualquier exchange que disponga de la moneda BNB. Este tutorial se centra en[ Binance](https://www.binance.com/es), por tanto, lo mejor será seguirlo al pie de la letra.  
+
 
 
 
@@ -72,13 +73,13 @@ Utiliza el código de seis dígitos enviado a tu correo para completar la verifi
 
 
 
-Para las opciones de depósito Fiat o compra con tarjeta de crédito deberás pasar un proceso de identificación “KYC” \(Know your customer\). Sigue los pasos marcados en la plataforma. Este proceso es un proceso de seguridad para vincular la cuenta con una empresa o persona física. Para completarlo, necesitarás un DNI, Carnet de Conducir o Pasaporte y tener webcam o poder hacer la verificación con el móvil.
+Para las opciones de depósito Fiat o compra con tarjeta de crédito deberás pasar un proceso de identificación “KYC” \(Know your customer\). Sigue los pasos marcados en la plataforma. Este proceso es un proceso de seguridad para vincular la cuenta con una empresa o persona física. Para completarlo, necesitarás un DNI, Carnet de Conducir o Pasaporte y tener webcam o poder hacer la verificación con el teléfono móvil.
 
 ### 
 
-### 8. Ya estas dado de alta en Binance.
+### 8. Ya estamos dados de alta en Binance.
 
-Una vez identificado en la plataforma podrás cargar saldo o comprar cripto para pasar a Binance Smart Chain. Estos pasos los podrás ver en el correspondiente tutorial.
+Una vez identificados en la plataforma podrás cargar saldo o comprar cripto para pasar a Binance Smart Chain. Estos pasos los podrás ver en el correspondiente tutorial.
 
 
 

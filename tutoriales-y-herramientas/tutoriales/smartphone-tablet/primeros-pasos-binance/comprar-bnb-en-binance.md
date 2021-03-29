@@ -2,73 +2,65 @@
 
 ## Cómo comprar BNB en Binance a través de Smartphone/Tablet \(Tarjeta de Crédito\)
 
-Para comprar cripto con tarjeta de crédito en la app de Binance para el Smartphone haremos lo siguiente.
+Esta opción ofrece una compra directa de BNB a traves de la Tarjeta de Crédito, sin necesidad de esperas de deposito ni tampoco conversiones. Debemos saber que la comisión aplicada a este proceso es del 1.8%.
+
+### 1. Pulsamos el botón “Comprar con EUR” de la parte central de la pantalla. 
+
+En lugar de EUR puede aparecer otra divisa si es la divisa por defecto en nuestro país.
 
 
 
-### 1. Pulsa el botón “Comprar con EUR” de la parte central de la pantalla. 
-
-En lugar de EUR puede aparecer otra divisa si es la divisa por defecto en tu país.
+![](../../../../.gitbook/assets/cc1.jpg)
 
 
 
-![](../../../../.gitbook/assets/screenshot_20210224-221906%20%286%29%20%286%29%20%286%29%20%286%29%20%286%29%20%286%29%20%282%29.jpg)
+### 2. Seleccionamos el importe en Euros.
 
 
 
-### 2. Selecciona el importe en Euros.
+![](../../../../.gitbook/assets/cc2.jpg)
 
 
 
-![](../../../../.gitbook/assets/screenshot_20210224-221923%20%281%29.jpg)
+### 3. Seleccionamos BNB.
 
 
 
-Recuerda que, en la mayoría de proyectos de la Red Binance Smart Chain utilizan como toquen básico BNB y además se utiliza BNB para pagar las comisiones. Por lo tanto, necesitarás tener BNB en tu billetera para trabajar en Binance Smart Chain. Puedes seleccionar BNB en el combo de selección de criptomoneda.
+![](../../../../.gitbook/assets/cc3.jpg)
 
 
 
-### 3. Selecciona BNB.
+### 4. Introducimos el importe en EUR.
+
+Nos aparece la cantidad de BNB que vamos a comprar con el importe en EUR \(Fiat\) seleccionado.
 
 
 
-![](../../../../.gitbook/assets/screenshot_20210224-221941.jpg)
+![](../../../../.gitbook/assets/cc4.jpg)
 
 
 
-### 4. Introducir el importe en EUR.
+### 5. Pulsamos “Continuar”.
 
-Una vez seleccionada la criptomoneda que deseamos comprar, nos aparece el número de criptomonedas que vamos a comprar con el importe en EUR \(Fiat\) que hemos seleccionado anteriormente.
-
-
-
-![](../../../../.gitbook/assets/screenshot_20210224-222002.jpg)
+Nos aparece una pantalla con el detalle exacto de la operación.
 
 
 
-### 5. Pulsa “Continuar”.
-
-Te aparece una pantalla con el detalle exacto de la operación.
+![](../../../../.gitbook/assets/cc5.jpg)
 
 
 
-![](../../../../.gitbook/assets/screenshot_20210224-222017.jpg)
+### 6. Confirmamos.
 
-
-
-### 6. Pulsa "Confirmar".
-
-Revisa los datos de la transacción y si estas conforme pulsa “Confirmar”. Ten en cuenta que estas operaciones tienen una validez de 60 segundos, pasado este tiempo se tendrán que recargar.
+Revisamos los datos de la transacción y, si estamos conforme, pulsamos “Confirmar”. Tener en cuenta que estas operaciones tienen una validez de 60 segundos, pasado este tiempo se tendrán que recargar.
 
 
 
 ### 7. Ingreso finalizado.
 
-Una vez validada la operación te aparecerá una pantalla de confirmación. Hay que tener en cuenta que el pago puede necesitar de acciones propias de tu banco.
+Una vez validada la operación nos aparecerá una pantalla de confirmación. Hay que tener en cuenta que el pago puede necesitar de acciones propias de nuestro banco.
 
 
 
-
-
-
+Completado este proceso, dispondremos de una pequeña cantidad de BNB en nuestra Billetera y estaremos listos para el siguiente paso:
 
