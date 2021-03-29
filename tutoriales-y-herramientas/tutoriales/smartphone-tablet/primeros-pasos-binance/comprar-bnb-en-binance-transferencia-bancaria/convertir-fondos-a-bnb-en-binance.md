@@ -13,7 +13,7 @@ Una vez hayamos depositado nuestro dinero en Binance, nos encontramos con dos op
 Las dos opciones son las siguientes:
 
 * La opción más simple es hacerlo mediante dos conversiones, debido a las restricciones que esta moneda nos ofrece para cambios directos. No podemos convertir directamente de EUR a BNB, con lo que convertiremos nuestros EUR a USDT y después los USDT a BNB. En este tutorial nos centraremos únicamente en este procedimiento.
-* La otra opción sería comprar BNB con EUR directamente en el apartado   Trading → Spot. En este tutorial no vamos a ver esta opción por la complejidad que puede conllevar para un usuario novel. Los usuarios con más experiencia deben saber que en "Trade" encontramos el par BNB/EUR y por lo tanto podemos hacer este cambio directamente en esta sección.
+* La otra opción sería comprar BNB con EUR directamente en el apartado   Trading → Spot. En este tutorial no vamos a ver esta opción por la complejidad que puede conllevar para un usuario novel. Los usuarios con más experiencia deben saber que en "Trading" encontramos el par BNB/EUR y por lo tanto podemos hacer este cambio directamente en esta sección.
 
 ## Cómo convertir fondos a BNB en Binance
 
