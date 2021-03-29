@@ -17,6 +17,8 @@ Cada paso de este esquema es necesario para hacer que nuestro dinero pase de est
 
 ![](../../../.gitbook/assets/esquema-tutoriales-trustwallet.png)
 
+
+
 Puede resultar algo confuso a primera vista, pero cada paso se detalla de modo que lo podamos entender a medida que lo vayamos haciendo. ¡Comencemos!  
 
 
