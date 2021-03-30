@@ -82,6 +82,7 @@
 * [Introducción DAO](dao-organizacion/introduccion-dao.md)
 * [Normas de la Organización](dao-organizacion/normas-de-la-organizacion.md)
 * [Cómo formar parte de la DAO](dao-organizacion/como-formar-parte-de-la-dao.md)
+* [Niveles de Confianza](dao-organizacion/niveles-de-confianza.md)
 * [Contribuidores & Devs.](dao-organizacion/contribuidores-and-devs..md)
 * [SourceCred](dao-organizacion/sourcecred.md)
 * [Tutoriales DAO](dao-organizacion/tutoriales-dao/README.md)
