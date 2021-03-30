@@ -10,8 +10,9 @@ La DAO es una organización transparente y gestionada por los contratos intelige
 * Las propuestas tienen una **fecha límite para su cierre**. Está fecha la define el autor de la misma pero siempre cumpliendo con la [duración mínima establecida](tutoriales-dao/crear-propuestas.md#estandarizacion).
 * Los usuarios que se unen a la comunidad comenzarán por el rol **Newcomer,** el cual equivale al nivel de confianza TL0. Estos podrán ascender de nivel al contribuir y formar parte del proyecto. Para más información haz click en Niveles de Confianza.
 * Las usuarios que participen activamente en la comunidad podrán ser recompensados con tokens BALLE a través del sistema SourceCred. Para más información haz click en [SourceCred](sourcecred.md).
-
-
+* El proyecto y la comunidad están abiertas a nuevos usuarios sin discriminación.
+* El abandono del proyecto es también libre.
+* Los usuarios siempre **velarán por el progreso** del proyecto antes que los intereses personales.
 
 
 
