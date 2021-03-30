@@ -1,4 +1,4 @@
-# Cómo funciona SourceCred de ballena.io
+# Bases SourceCred de ballena.io
 
 ## El grafo SourceCred <a id="29f6"></a>
 
