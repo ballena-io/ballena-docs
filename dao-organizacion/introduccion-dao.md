@@ -35,6 +35,8 @@ Cuanto más extensa sea nuestra comunidad, más fuerza tendremos, más rentable 
 
 A través de la plataforma de votación, **podrás proponer nuevas ideas** que serán escuchadas y estudiadas por todos los miembros interesados como tú en implantar este sistema justo.  
 
+Además, el proyecto cuenta con los canales de gobernanza en nuestro Discord en los que podrás formar parte del equipo de desarrollo y contribuir en el proyecto. Más información en [Nuestro equipo de desarrollo.](nuestro-equipo-de-desarrollo-contribuidores-y-devs..md)
+
 Las **operaciones relacionadas con la tesorería** están vinculadas a un [**sistema multi-firma**](../tecnico/gobernanza.md#seguridad-de-la-wallet) llamado Gnosis. Esto quiere decir que todas las nuevas ideas serán propuestas en comunidad, serán votadas por todos los miembros y que además antes de hacer **cualquier movimiento, este tendrá que ser aprobado previamente por un mínimo de usuarios** de la misma garantizando la democratización de su trayectoria.  
 
 
@@ -43,7 +45,7 @@ Las **operaciones relacionadas con la tesorería** están vinculadas a un [**sis
 
 
 
-Llegados a este punto, recomendamos a los usuarios ver los siguientes apartados de la documentación relacionada con esta organización descentralizada. Aquí podrás aprender cómo proponer ideas, cómo votar otras existentes, las normas de la organización y muchas cosas más. Como ya habrás podido comprobar, además de esta plataforma de votación mencionada, [ballena.io](https://ballena.io/) cuenta con una amplia comunidad donde si no lo has hecho ya, [**puedes formar parte cuando quieras**](../#comunidad).
+Llegados a este punto, recomendamos a los usuarios ver los siguientes apartados de la documentación relacionada con esta organización descentralizada. Aquí podrás aprender cómo proponer ideas, cómo votar otras existentes, las normas de la organización, participar en la misma y muchas cosas más. Como ya habrás podido comprobar, además de esta plataforma de votación mencionada, [ballena.io](https://ballena.io/) cuenta con una amplia comunidad donde si no lo has hecho ya, [**puedes formar parte cuando quieras**](../#comunidad).
 
 
 
