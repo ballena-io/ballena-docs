@@ -1,3 +1,5 @@
+Chat with us and get involved in Discord 👉 <img src="https://img.shields.io/discord/805920662506045530?logo=discord" alt="chat on Discord"></a>
+
 # Introduction to ballena.io
 
 ## Welcome! Immerse yourself in the Ballena Pond 🐋  <a id="welcome!-immerse-yourself-in-the-Ballena-pond"></a>
