@@ -4,6 +4,8 @@
 
 Esta opción ofrece una compra directa de BNB a traves de la Tarjeta de Crédito, sin necesidad de esperas de deposito ni tampoco conversiones. Debemos saber que la comisión aplicada a este proceso es del 1.8%.
 
+
+
 ### 1. Pulsamos el botón “Comprar con EUR” de la parte central de la pantalla. 
 
 En lugar de EUR puede aparecer otra divisa si es la divisa por defecto en nuestro país.
