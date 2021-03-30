@@ -65,7 +65,12 @@ Algunos puntos a considerar respecto a la introducción del sistema de incentivo
 * Existe la posibilidad de que este programa sea manipulado mediante bots o por parte de usuarios. Supervisamos las recompensas distribuidas y tomaremos medidas en caso de contemplar cualquier actividad maliciosa.
 * El crédito correspondiente a cada usuario podría ser erróneo ya que el algoritmo de cálculo puede fallar a la hora de medir la contribución de los usuarios. Tenga en cuenta que el equipo de desarrollo seguirá de cerca los pasos del sistema _Cred_ y tomará las medidas necesarias para ajustarlo.
 
+## Notas <a id="d822"></a>
 
+Tenga en cuenta que este programa tiene como objetivo el éxito y crecimiento del proyecto. Creemos que comenzar con asignaciones más pequeñas e ir aumentando las recompensas a medida que avanza el proyecto es la mejor manera de abordar estos incentivos.
+
+Si tiene ideas sobre cómo mejorar nuestro sistema, únase a [**Discord**](https://discord.gg/ydRbEAaqqc)![  
+](https://ballenaioe.medium.com/?source=post_sidebar--------------------------post_sidebar-----------)
 
 
 
