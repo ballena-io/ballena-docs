@@ -2,13 +2,14 @@
 
 ## How to set up a Binance account
 
-We need to set up an account in one of the exchanges in the crypto-market. Which one will you use? The choice is yours! Our tutorial is based on [Binance](https://www.binance.com/en).
+In order to start working in the world of cryptocurrency, it is essential to register with an exchange. We can use any exchange that has the BNB currency. This tutorial focuses on[ Binance,](https://www.binance.com/es) so we better stick to it.  
 
 
 
-### 1. Navigate to [Binance](https://www.binance.com/en) in your browser.
 
-Open your browser and navigate to the [Binance ](https://www.binance.com/en)webpage. We recommend you insert the address directly into your browser and always verify you are working in the right domain.
+### 1. Navigate to [Binance](https://www.binance.com/en) in the browser.
+
+To register with Binance, we first have to go to its website. ****
 
 
 
@@ -18,7 +19,7 @@ Open your browser and navigate to the [Binance ](https://www.binance.com/en)webp
 
 ### 2. Click on the Download button.
 
-Press the banner to the App Store for the app download.
+Press the banner to the App Store for the App download.
 
 
 
@@ -26,11 +27,7 @@ Press the banner to the App Store for the app download.
 
 
 
-### 3. Press "Install" in the App Store.
-
-
-
-### 4. Wait till the download process is completed and press "Open".
+### 3. Install and open the App.
 
 
 
@@ -38,10 +35,11 @@ Press the banner to the App Store for the app download.
 
 
 
-### 5. Create your account.
+### 5. Create **an** account - Fill in the fields
 
-Fill in the required fields in this section. 
+We fill in the fields using our email and a secure password. Keep in mind that we will need constant access to this email account.
 
+  
 
 
 ![](../../../../.gitbook/assets/abrirbinance2.png)
@@ -50,7 +48,7 @@ Fill in the required fields in this section.
 
 ### 4. Click on "Create account".
 
-Click on "Create account" and complete the security verification sliding the puzzle piece to its correct position.
+And complete the Security Verification.
 
 
 
@@ -58,9 +56,9 @@ Click on "Create account" and complete the security verification sliding the puz
 
 ### 
 
-### 5. Obtain the verification code.
+### 5. Account verification.
 
-Check your mail and get the required code.
+Once done, we will have a verification code sent to our email.
 
 
 
@@ -68,9 +66,9 @@ Check your mail and get the required code.
 
 
 
+### 6. Check mailbox
 
-
-We shall see an email like the following one.
+We shall find an email like the following one:
 
 
 
@@ -78,13 +76,13 @@ We shall see an email like the following one.
 
 ### 
 
-### 6. Introduce your verification code.
+### 6. Insert verification code.
 
-Use the received six digit code to complete the verification phase.
+Use the received 6-digit code to complete the verification phase.
 
 
 
-### 7. Once verified, you have successfully set up a Binance account. 
+### 7. Once verified, we have successfully set up a Binance account. 
 
 
 
@@ -92,7 +90,11 @@ Use the received six digit code to complete the verification phase.
 
 
 
+For the next steps we must go through a “KYC” \(Know Your Customer\) identity verification process. We will follow the steps marked on the Binance platform. This is a security process to link the account with a company or a natural person. To complete it we will need an ID, Driving License or Passport and to be able to do the face scan with our phone. Once identified on the platform, we will be allowed to make Fiat deposits and buy cryptocurrency. There will be two different options for this:
 
+{% page-ref page="buy-bnb-in-binance-bank-transfer/" %}
+
+{% page-ref page="buy-bnb-in-binance-credit-card.md" %}
 
 
 

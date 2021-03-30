@@ -1,25 +1,29 @@
 # Smartphone/Tablet
 
-You have chosen the Smartphone/Tablet. The steps are almost similar for both platforms but we have designed these highly detailed steps in[ ballena.io](https://ballena.io/).
+Mobile devices allow us to have access virtually anywhere, anytime. The steps to follow on a Smartphone are the same as on PC, but the tools we will be using and how they work will be different. That's why in[ ballena.io](https://ballena.io/) we separated them so that you have the most personalized help for each of the devices.
 
-We will need these tools for the Smartphone/Tablet:
+In the case of mobile devices, the following tools will be used:
 
-* **Binance App**.
-* **Wallet** - We will use TrustWallet.
+* **Binance** App.
+* Wallet - In this case we will use **Trust Wallet**.
 
+The Binance application will be the bridge between our bank and the world of cryptocurrency. Then we will use it to connect with Trust Wallet.
 
+And Trust Wallet, apart from being a secure wallet where we store our cryptocurrencies, will be our gateway to the Binance Smart Chain \(BSC\) blockchain, a decentralized platform in which Dapps \(decentralized applications\) such as PancakeSwap and [app.ballena.io🐋](https://app.ballena.io) operate.
 
-The Binance App will let us start with the first steps and buy BNB, the required cryptocurrency for reaching our goal of getting the highest yields with [ballena.io](https://ballena.io/).
+Each step of this diagram is required to make our money generate high returns in[ ballena.io](https://ballena.io/)🐋, and none can be done without having completed the previous one. 
 
-TrustWallet will be used for accessing the Dapps like PancakeSwap and [ballena.io](https://ballena.io/), as well as moving our crypto for trading, buying, adding liquidity or paying fees.
-
+  
 
 
 ![](../../../.gitbook/assets/illustration-smart.png)
 
 
 
+**It might seem confusing at first glance, but each step is detailed so that we can understand it as we go through it. Let's get started!**  
 
+
+{% page-ref page="first-steps-binance/" %}
 
 
 
