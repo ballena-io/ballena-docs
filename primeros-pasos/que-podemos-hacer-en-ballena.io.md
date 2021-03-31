@@ -22,13 +22,13 @@ Para más información, acceda a [Gobernanza](../tecnico/gobernanza.md) y a [BAL
 
 ## SimpleFarming
 
-Esta es una de nuestras metas a corto plazo. El Equipo [ballena.io](https://ballena.io/) está desarrollando una herramienta, una estrategia, llamada **SimpleFarming**. Esta añade un nivel de optimización más a la cadena, una **completa automatización del flujo de nuestras cripto** encontrando los mejores rendimientos en la red BSC. Asigna tus monedas al SimpleFarming y [ballena.io](https://ballena.io/) se encargará de maximizar beneficios a través de las oportunidades más rentables en la red. Más información en breve.
+Esta es una de nuestras metas a corto plazo. El Equipo [ballena.io](https://ballena.io/) está desarrollando una herramienta, una estrategia, llamada **SimpleFarming**. Esta añade un nivel de optimización más a la cadena, una **completa automatización del flujo de nuestras criptos** encontrando los mejores rendimientos en la red BSC. Asigna tus monedas al SimpleFarming y [ballena.io](https://ballena.io/) se encargará de maximizar beneficios a través de las oportunidades más rentables en la red. Más información en breve.
 
 
 
 ## BalleVaults \(Bóvedas\)
 
-**Esto es: Proveer liquidez a una LP de un par de alta rentabilidad.**
+**Esto es, proveer liquidez a una LP de un par de alta rentabilidad.**
 
 [ballena.io](https://ballena.io/) cuenta con un gran número de vaults, o bóvedas, y cada una cuenta con su estrategia para dar un alto rendimiento. Añade liquidez a las vaults y [ballena.io](https://ballena.io/) se encarga de implementar las estrategias más rentables para las mismas.
 
@@ -38,7 +38,7 @@ Para más información, acceda a [BalleVaults](../tecnico/productos/ballevaults-
 
 
 
-## ¿Porqué [ballena.io](https://ballena.io/)?
+## ¿Por qué [ballena.io](https://ballena.io/)?
 
 Digamos que es **un paso más allá** de lo tan rentable ahora mismo en el mercado. Se trata de la optimización de aportar liquidez a un exchange y plataforma de pools como [PancakeSwap](https://pancakeswap.finance/), ya que [ballena.io](https://ballena.io/) se encargará de buscar la mayor rentabilidad y de reinvertir los retornos automáticamente haciendo **exponenciales tus ganancias**.
 
