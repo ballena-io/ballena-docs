@@ -37,7 +37,7 @@
         * [Depositar fondos en Binance](tutoriales-y-herramientas/tutoriales/smartphone-tablet/primeros-pasos-binance/comprar-bnb-en-binance-transferencia-bancaria/depositar-fondos-en-binance.md)
         * [Convertir fondos a BNB en Binance](tutoriales-y-herramientas/tutoriales/smartphone-tablet/primeros-pasos-binance/comprar-bnb-en-binance-transferencia-bancaria/convertir-fondos-a-bnb-en-binance.md)
       * [Comprar BNB en Binance \(Tarjeta de crédito\)](tutoriales-y-herramientas/tutoriales/smartphone-tablet/primeros-pasos-binance/comprar-bnb-en-binance.md)
-    * [TrustWallet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/trustwallet/README.md)
+    * [Trust Wallet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/trustwallet/README.md)
       * [Configurar Wallet: Trust Wallet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/trustwallet/configurar-wallet-trust-wallet.md)
       * [Cómo enviar fondos de Binance a TrustWallet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/trustwallet/como-enviar-fondos-de-binance-a-trustwallet.md)
       * [Cómo usar Dapps en TrustWallet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/trustwallet/como-usar-dapps-en-trustwallet.md)

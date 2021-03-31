@@ -4,9 +4,9 @@
 
 
 
-### 1. Averiguar tu dirección de BSC.
+### 1. Averiguar nuestra dirección de BSC.
 
-Ve a tu billetera Smart Chain y presiona recibir para encontrar tu dirección “Smart Chain”.
+Seleccionamos Smart Chain BNB y presionamos "Receive" para encontrar nuestra dirección “Smart Chain" \(BSC\). Copiamos la dirección.
 
 
 
@@ -40,7 +40,7 @@ Accede a la Billetera pulsando el icono “Billetera” en la parte inferior de 
 
 ### 5. Selecciona Spot.
 
-Aparece la pantalla con el resumen de tu Billetera Spot.
+Aparece la pantalla con el resumen de nuestra Billetera Spot \(al contado\).
 
 
 

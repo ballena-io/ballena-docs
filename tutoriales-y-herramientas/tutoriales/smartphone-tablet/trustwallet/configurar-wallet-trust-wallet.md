@@ -1,23 +1,23 @@
 # Configurar Wallet: Trust Wallet
 
-Para poder empezar a utilizar Trust Wallet en Binance Smart Chain se deben seguir los siguientes pasos.
+## Configuración de una billetera Trust Wallet para Binance Smart Chain
 
-## Configuración de tu billetera Trust Wallet para Binance Smart Chain
-
-Puedes descargar la billetera de Trust Wallet desde el siguiente [link](https://share.trustwallet.com/kuBobNL1Mab) . Siempre se recomienda actualizar la aplicación a la última versión. Realiza la configuración básica de la billetera. Recuerda que debes guardar tus palabras de recuperación. Los pasos para crear su primera billetera Trust Wallet son muy simples:
+Se puede descargar la billetera de Trust Wallet desde el siguiente [link](https://share.trustwallet.com/kuBobNL1Mab). Siempre se recomienda actualizar la aplicación a la última versión. 
 
 
 
-### 1. Descarga Trust Wallet solo de fuentes oficiales.
+
+
+### 1. Descargar Trust Wallet solo de fuentes oficiales.
 
 * [App Store](https://apps.apple.com/app/trust-ethereum-wallet/id1288339409)
 * [Google Play](https://play.google.com/store/apps/details?id=com.wallet.crypto.trustapp)
 
 ### 
 
-### 2. Inicia Trust Wallet
+### 2. Iniciamos Trust Wallet
 
-Tras el primer inicio de la aplicación, se le presentará la siguiente pantalla donde puede seleccionar entre “Crear una nueva billetera” o “Importar” una existente. Para esta guía, seleccionaremos “Crear una nueva billetera”.
+Tras el primer inicio de la aplicación, se nos presentará la siguiente pantalla donde podemos seleccionar entre “Crear una nueva billetera” o “Importar” una existente. Para esta guía, crearemos una nueva billetera.
 
 
 
@@ -25,9 +25,9 @@ Tras el primer inicio de la aplicación, se le presentará la siguiente pantalla
 
 ### 
 
-### 3. Acepta las condiciones de uso.
+### 3. Aceptamos las condiciones de uso.
 
-Para continuar, debe aceptar los términos de uso. Simplemente coloque una check de verificación en la casilla y a continuación presione “Continuar”. Hay que tener en cuenta que perder sus frases de recuperación también significará que perderá el acceso a su billetera.
+A partir de aquí, leemos con detenimiento todo lo que sale en pantalla. Hay que tener en cuenta que perder la Frase de Recuperación también significará que perderemos el acceso a nuestra billetera.
 
 
 
@@ -35,17 +35,15 @@ Para continuar, debe aceptar los términos de uso. Simplemente coloque una check
 
 ### 
 
-### 4. Guarde sus palabras clave de recuperación.
+### 4. Guardar Palabras Clave de Recuperación.
 
-Esta es la parte más importante de la configuración de su billetera, las palabras de recuperación son las claves de su billetera criptográfica. **Asegúrate de guardarlas en un lugar seguro, preferente offline.**
+Esta es la parte más importante de la configuración de una billetera, las Palabras de Recuperación son las claves de nuestra billetera criptográfica. **Nos aseguramos de guardarlas en varios lugares seguros, preferentemente offline, \(en una libreta o en un dispositivo sin acceso a Internet\) e incluso memorizarlas.**
 
-Necesitas **tomar nota** de tus palabras clave de recuperación **EXACTAMENTE EN EL MISMO ORDEN QUE APARECE EN NUESTRA PANTALLA**.  ****
+Antes de continuar, necesitaremos **tomar nota** de las Palabras Clave de Recuperación **EXACTAMENTE EN EL MISMO ORDEN EN EL QUE SE NOS HAN DADO.**
 
-Al no respetar el orden de dichas palabras, la clave privada no será válida y en caso de pérdida ocasionará la **PERDIDA TOTAL DE LOS FONDOS.**
+No tiene ninguna complicación pero es de vital importancia, ya que al no respetar el orden de dichas palabras, la Clave Privada no será válida y en caso de extravío ocasionará la **PERDIDA TOTAL DE LOS FONDOS.**
 
-Pulsa “Continuar” para continuar.
-
-
+Cuando hayamos tomado nota, continuamos.
 
 ![](https://user-images.githubusercontent.com/79335891/108876348-6c0f0a00-75fe-11eb-82ef-c52f4cd854bd.png)
 
@@ -53,9 +51,9 @@ Pulsa “Continuar” para continuar.
 
 ### 
 
-### 5.    Verifique su frase de recuperación.
+### 5.    Verificar la frase de recuperación.
 
-Si has seguido el paso anterior y has realizado una copia de seguridad de las palabras de recuperación, esto es muy sencillo. En el orden correcto, debes seleccionar las palabras para completar el proceso de verificación. Haz clic en “Continuar” cuando hayas terminado.
+Si hemos seguido el paso anterior y hemos realizado una copia de seguridad de las 12 Palabras de Recuperación, solo tendremos que seleccionar las palabras de una en una en el orden correcto.. Pulsamos en “Continue” cuando hayamos terminado.
 
 
 
@@ -67,7 +65,8 @@ Si has seguido el paso anterior y has realizado una copia de seguridad de las pa
 
 ### 6. Trust Wallet está listo.
 
-Después de pasar por el proceso de respaldo y verificación se redirigirá a la pantalla principal de la billetera. Veras una lista inicial de monedas que puedes comenzar a utilizar de inmediato. ¡Buen trabajo!
+Después de pasar por el proceso de respaldo y verificación, se nos redirigirá a la pantalla principal de la billetera. ¡Buen trabajo hasta ahora!  
+
 
  
 
@@ -77,5 +76,5 @@ Después de pasar por el proceso de respaldo y verificación se redirigirá a la
 
 
 
-
+Veremos una lista inicial de monedas de las cuales nos centraremos en **Smart Chain BNB**. Vamos a ver cómo recibir esta moneda desde Binance:
 
