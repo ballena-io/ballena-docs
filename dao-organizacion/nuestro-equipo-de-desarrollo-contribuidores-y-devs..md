@@ -1,8 +1,8 @@
-# Nuestro equipo de desarrollo: Contribuidores y Devs.
+# Nuestro equipo de desarrollo
 
 **IN PROGRESS**
 
-\*\*\*\*
+El proyecto ballena.io está impulsado por los integrantes de la comunidad que desean participar en el mismo activamente. Estos aportan en sus áreas de conocimiento y habilidades 
 
 A continuación se muestra una **lista actualizada de áreas** disponibles:
 
