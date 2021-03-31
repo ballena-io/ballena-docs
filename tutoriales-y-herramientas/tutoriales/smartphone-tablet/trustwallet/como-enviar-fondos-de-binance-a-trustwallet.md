@@ -16,7 +16,7 @@ Seleccionamos Smart Chain BNB y presionamos "Receive" para encontrar nuestra dir
 
 ### 2. Depositar activos desde Binance.
 
-Para depositar activos BEP20 en tu billetera, la manera más fácil es hacerlo desde Binance, ya sea con la APP o desde la página web. Escoge en Binance la criptomoneda que admita retiros a través de BEP20 y realiza un retiro a la dirección de Binance Smart Chain de tu Trust Wallet \(la que has copiado en el punto 3\). Ten en cuenta que se requiere tener BNB para realizar cualquier tipo de transacción en Binance Smart Chain. Por lo tanto, en el paso [Comprar BNB en Binance - Móvil/Tablet](../primeros-pasos-binance/comprar-bnb-en-binance.md) habrás comprado los BNB que ahora transferirás.
+En el caso de que queramos mandar un activo \(no solo BNB\) a Trust Wallet con el propósito de utilizarlo en la BSC, tendremos que enviarlo a través de la dirección Smart Chain que hemos copiado en el paso anterior. Lo que recibiremos en Trust Wallet será un token BEP20 equivalente pero de formato distinto, haciéndolo así válido para operar en las Dapps de la BSC. La mejor manera es hacerlo desde Binance, ya sea con la App o desde la página web. En este caso, explicamos cómo enviar los BNB que habremos comprado en tutoriales anteriores.
 
 
 
@@ -28,9 +28,9 @@ Para depositar activos BEP20 en tu billetera, la manera más fácil es hacerlo d
 
 
 
-### 4. Accede a la billetera.
+### 4. Acceder a la billetera.
 
-Accede a la Billetera pulsando el icono “Billetera” en la parte inferior de la pantalla.
+Accedemos a la Billetera pulsando el icono “Billetera” en la parte inferior derecha de la pantalla.
 
 
 
@@ -38,7 +38,7 @@ Accede a la Billetera pulsando el icono “Billetera” en la parte inferior de 
 
 
 
-### 5. Selecciona Spot.
+### 5. Seleccionar Spot.
 
 Aparece la pantalla con el resumen de nuestra Billetera Spot \(al contado\).
 
@@ -48,9 +48,9 @@ Aparece la pantalla con el resumen de nuestra Billetera Spot \(al contado\).
 
 
 
-### 6. Selecciona el Token “BNB”.
+### 6. Seleccionar la moneda “BNB”.
 
-Se mostrará el detalle de token BNB.
+Se mostrarán los detalles BNB.
 
 
 
@@ -58,9 +58,9 @@ Se mostrará el detalle de token BNB.
 
 
 
-### 7. Selecciona "Retirar".
+### 7. Seleccionar "Retirar".
 
-Selecciona “Retirar” pulsando el botón amarillo en la parte inferior.
+Seleccionamos “Retirar” pulsando el botón amarillo en la parte inferior.
 
 
 
@@ -68,17 +68,17 @@ Selecciona “Retirar” pulsando el botón amarillo en la parte inferior.
 
 
 
-### 8. Pegar la dirección copiada de Trust Wallet en la dirección a la que enviar los BNB.
+### 8. Pegar la dirección copiada de Trust Wallet en la Dirección a la que retirar BNB.
 
 Ver paso 1.
 
 
 
-### 9. Seleccionar la red “Binance Smart Chain \(BNB\)” BEP20 \(BSC\).
+### 9. Seleccionar la red BEP20 \(BSC\).
 
 
 
-### 10. Introducir el número de BNB a enviar a la billetera y pulsar “Retirar”.
+### 10. Introducir la cantidad de BNB a enviar a la billetera y pulsar “Retirar”.
 
 
 
@@ -88,21 +88,15 @@ Ver paso 1.
 
 
 
-Una vez enviada aparecerá una pantalla de verificación. Después, pasado unos minutos te llegará un correo de Binance confirmando el retiro. 
+Tendremos que verificar el envío. Pasado unos minutos, nos llegará un correo de Binance confirmando el retiro. 
 
-A continuación, te llegará una notificación de Trust Wallet indicando que se han recibido los BNB enviados.
-
-
-
-### 4. Buen trabajo! Has terminado de enviar tus criptomonedas. Ya puedes usar tus BNB en TrustWallet.
-
-Una vez que recibas un token BEP20, para ver tu ID de transacción puedes hacer clic en la transacción, presionar el botón de compartir en la esquina superior derecha y luego copiar el ID de transacción.
+A continuación, nos llegará una notificación de Trust Wallet indicando que se han recibido los BNB.
 
 
 
-![](https://user-images.githubusercontent.com/79335891/108876364-6dd8cd80-75fe-11eb-94c1-88c398870b2d.png)
+### 11. **¡Buen trabajo!** Fondos enviados a Trust Wallet. 
 
-
+Ya podemos proceder a usar nuestros Smart Chain BNB en la red BSC mediante el navegador de Dapps que nos ofrece Trust Wallet.
 
 
 
