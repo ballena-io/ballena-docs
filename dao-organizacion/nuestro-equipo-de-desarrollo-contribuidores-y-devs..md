@@ -1,7 +1,5 @@
 # Nuestro equipo de desarrollo
 
-**IN PROGRESS**
-
 El proyecto [ballena.io](https://ballena.io/) está **impulsado por los integrantes de la comunidad** que desean participar en el mismo activamente. Estos aportan contenido al proyecto en sus áreas de conocimiento y habilidades tratando de juntar a las mejores cabezas pensantes para obtener los mejores resultadas en cada una de las áreas. 
 
 A continuación se muestra una **lista actualizada de áreas** actualmente en desarrollo:
@@ -39,7 +37,15 @@ Para más información acerca de este tema navega a [Niveles de Confianza](nivel
 
 ### Remuneración
 
-Los contribuidores son remunerados en forma de tokens BALLE a través del sistema SourceCred. De esta forma  
+Los contribuidores son remunerados en forma de tokens BALLE a través del sistema **SourceCred**. Estamos comprometidos con un **proyecto sostenible a largo plazo**, lo que significa que estamos comprometidos con una forma justa y viable de asignación de recursos que garantice la progresión continua del proyecto. De esta manera, los usuarios de la comunidad encontrarán una oportunidad lucrativa de enriquecer el proyecto, ser parte de él y sentirse motivados mientras **son recompensados ​​por sus esfuerzos.**
+
+**Los tokens se distribuirán como recompensa a los contribuyentes** según la puntuación _Cred_ obtenida al contribuir en las tareas requeridas. El sistema de distribución de recompensas se basa principalmente en el análisis del sistema _Cred_.
+
+Para más información acerca de este sistema haz click en [SourceCred](sistema-sourcecred/).
+
+
+
+
 
 
 
