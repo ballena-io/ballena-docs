@@ -12,9 +12,9 @@ Aquí podemos encontrar una gran cantidad de proyectos que proponen nuevas ideas
 
 
 
-Esto quizás te suene un poco abstracto pero en resumidas cuentas funciona de la siguiente manera: Aportas una cantidad de dinero a una plataforma y por el hecho de mantener ahí tu capital está te compensará con ciertos beneficios diarios, por ejemplo del 1%. 
+Esto quizás te suene un poco abstracto pero en resumidas cuentas funciona de la siguiente manera: Aportas una cantidad de dinero a una plataforma y, por el hecho de mantener ahí tu capital, esta te compensará con ciertos beneficios diarios, por ejemplo del 1%. 
 
-Esto sería como cuando antiguamente el banco ofrecía ciertos intereses por depositar y confiar tu dinero en su institución. Una de las grandes diferencias es que este tipo de proyectos son descentralizados y todos los beneficios se reparten entre los usuarios de la plataforma y no van al bolsillo de unos pocos.
+Esto era cuando antiguamente el banco ofrecía ciertos intereses por depositar y confiar tu dinero en su institución. Una de las grandes diferencias es que este tipo de proyectos son descentralizados y todos los beneficios se reparten entre los usuarios de la plataforma y no van al bolsillo de unos pocos.
 
 La aplicación de [ballena.io](https://ballena.io/) funciona como enlace a este tipo de fondos de liquidez. Por lo general, en este tipo de plataformas puedes cosechar manualmente los beneficios obtenidos para sacarlos de la plataforma o volverlos a reinvertir pagando unas tasas.
 
@@ -24,7 +24,7 @@ La aplicación de [ballena.io](https://ballena.io/) funciona como enlace a este 
 
 
 
-[ballena.io](https://ballena.io/) tiene como uno de sus objetivos principales **reinvertir continuamente tus beneficios generando así ganancias exponenciales**, ****esto se llama **interés compuesto.** Para entender esto veamos el siguiente gráfico. La línea azul denota la inversión de interés simple, es decir, no tiene en cuenta la reinversión. En cambio la línea naranja muestra la progresión de tus fondos como **inversión compuesta**.  
+[ballena.io](https://ballena.io/) tiene como uno de sus objetivos principales **reinvertir continuamente tus beneficios generando así ganancias exponenciales.** Esto se llama **interés compuesto.** Para entender esto veamos el siguiente gráfico. La línea azul denota la inversión de interés simple, es decir, no tiene en cuenta la reinversión. En cambio la línea naranja muestra la progresión de tus fondos como **inversión compuesta**.  
   
 
 
@@ -32,13 +32,13 @@ La aplicación de [ballena.io](https://ballena.io/) funciona como enlace a este 
 
 
 
-Supongamos que has invertido 100€. Si recibes el 1% diario de este importe, a final de año tendrás 365\*1€ = 365€ de beneficio. En cambio si cada día **reinviertes** ese 1€ de beneficio, el 1% de los próximos días actuará sobre una cantidad mayor a 100€, con lo cual tus beneficios serán mayores. Estos crecerán de manera exponencial hasta el valor de 3847.27€ a final de año exactamente.
+Supongamos que has invertido 100€. Si recibes el 1% diario de este importe, a final de año tendrás 365\*1€ = 365€ de beneficio. En cambio si cada día **reinviertes** ese 1€ de beneficio, el 1% de los próximos días actuará sobre una cantidad mayor a 100€, con lo cual tus beneficios serán mayores. Estos crecerán de manera exponencial hasta el valor de 3847.27€ al año de comienzo de la inversión.
 
 Esto es lo que hace esencialmente[ ballena.io.](https://ballena.io/) Además, el equipo de desarrollo **busca los mejores fondos de liquidez**, las mejores oportunidades e implementa las estrategias más adecuadas para cada una de ellas. 
 
 ## ¿Por qué [ballena.io](https://ballena.io/)?
 
-Si estás pensando en **invertir** en un proyecto de DeFi tienes que estar seguro de dónde estás metiendo tu dinero. Tendrás que aprender:
+Si estás pensando en **invertir** en un proyecto de DeFi **tienes que estar seguro de dónde estás metiendo tu dinero.** Tendrás que aprender:
 
 * Quién está detrás del proyecto.
 * Cuál es su objetivo.
@@ -62,7 +62,7 @@ Detrás del proyecto se encuentra la comunidad que nació en [Telegram](https://
 
 ### ¿Cuál es su objetivo?
 
-De interés social y lucrativo para toda la comunidad de libre acceso y con objetivo de ofrecer también un producto útil de alto rendimiento para el público general. Además se centra en dar respuesta a los problemas originados por el lenguaje, ya que todas las plataformas DeFi se encuentran en inglés, [**ballena.io**](https://ballena.io/) **apuesta por el español** como lengua principal y el inglés como secundaria. Otro de los objetivos más perseguidos es la accesibilidad para los usuarios de todos los niveles, como podrás comprobar, [ballena.io](https://ballena.io/) hace fácil lo complicado.
+De interés social y lucrativo para toda la comunidad de libre acceso y con objetivo de ofrecer también un producto útil de alto rendimiento para el público general. Además se centra en dar respuesta a los problemas originados por el lenguaje, ya que todas las plataformas DeFi se encuentran en inglés. [**ballena.io**](https://ballena.io/) **apuesta por el español** como lengua principal y el inglés como secundaria. Otro de los objetivos más buscados es la accesibilidad para los usuarios de todos los niveles, como podrás comprobar, [ballena.io](https://ballena.io/) hace fácil lo complicado.
 
 
 
@@ -76,7 +76,7 @@ Las decisiones se toman en comunidad entre todos los usuarios que poseen el toke
 
 ### ¿Quién se encarga de gestionar los fondos de tesorería del proyecto?
 
-El proyecto cuenta con una tesorería que se lleva un mínimo porcentaje de los beneficios de la plataforma que se destina a :
+El proyecto cuenta con una tesorería que se lleva un mínimo porcentaje de los beneficios de la plataforma que se destina a:
 
 * La gestión de la misma.
 * Pagar las tasas de transacciones.
@@ -90,7 +90,7 @@ Los fondos de tesorería se gestionan mediante un [sistema multi-firma llamado G
 
 Los rendimientos de los fondos de nuestra plataforma son muy altos como podrás ver en el valor [APY](https://academy.binance.com/es/articles/what-is-yield-farming-in-decentralized-finance-defi#:~:text=Algunas%20m%C3%A9tricas%20habitualmente%20utilizadas%20son,espa%C3%B1ol%20Porcentaje%20de%20Rendimiento%20Anual%29.) de cada uno de nuestros productos. Los retornos son muchísimo más altos que cualquier fondo de inversión tradicional. Además, los usuarios de la plataforma son recompensados con pagos del token BALLE. Este token, debido a la utilidad del proyecto, se revalorizará de manera gradual y bastante rápida generando así un extra de beneficios.
 
-En resumidas cuentas, **obtendrás un beneficio por aportar fondos y además una recompensa extra de tokens BALLE.** Como ventaja adicional, el sistema permite reinvertir los token BALLE y estos tokens también empezarán a generar más rendimiento. Los tokens BALLE no solo tienen valor en el mercado si no que además te permitirán participar en la toma de decisiones.
+En resumidas cuentas, **obtendrás un beneficio por aportar fondos y además una recompensa extra de tokens BALLE.** Como ventaja adicional, el sistema permite reinvertir estos token BALLE, generando así un mayor rendimiento. Los tokens BALLE no solo tienen valor en el mercado sino que además te permitirán participar en la toma de decisiones.
 
 
 
@@ -108,9 +108,9 @@ Por ejemplo, supongamos que hemos aportado 10 tokens BNB a un fondo de liquidez 
 
 Es por esta razón por la que será **muy importante elegir en que proyectos de la red queremos invertir**, ya que [ballena.io](https://ballena.io/) nos ayudará a aumentar su número de tokens pero no tendrá nada que ver en las fluctuaciones del precio del mismo.
 
-Los tokens aportados serán siempre los mismos y los tokens generados por el rendimiento irá creciendo exponencialmente, pero esto es independiente del valor de estos tokens. Por lo tanto, además de contar con este crecimiento del número de tokens aportados tendrás que estar atento a la tendencia que tiene el valor de tus criptomonedas aportadas.
+Los tokens aportados serán siempre los mismos y los tokens generados por el rendimiento irán creciendo exponencialmente, independientemente del valor de estos tokens. Por lo tanto, además de contar con este crecimiento del número de tokens aportados, tendrás que estar atento a la tendencia que tiene el valor de tus criptomonedas aportadas.
 
-Otro de los puntos más importantes a favor de [ballena.io](https://ballena.io/) es la **inmensa reducción en costes** para cada individuo en concepto de comisiones de transacción. El usuario promedio se sorprendería al ver los gastos anuales destinados únicamente a las **comisión de transacción**. En  [ballena.io](https://ballena.io/) las operaciones de reinversión de los usuarios se hace de manera conjunta por el mismo valor, con lo que el **impacto sobre el individuo es mínimo e inapreciable**. 
+Otro de los puntos más importantes a favor de [ballena.io](https://ballena.io/) es la **inmensa reducción en costes** para cada individuo en concepto de comisiones de transacción. El usuario promedio se sorprendería al ver los gastos anuales destinados únicamente a las **comisión de transacción**. En [ballena.io](https://ballena.io/) las operaciones de reinversión de los usuarios se hacen de manera conjunta por el mismo valor, con lo que el **impacto sobre el individuo es mínimo e inapreciable**. 
 
 
 
@@ -127,7 +127,7 @@ Una vez entendido el potencial del interés compuesto de nuestras inversiones en
 [ballena.io](https://ballena.io/) trabaja con dos grupos de fondos de liquidez. 
 
 * Por un lado, el fondo BALLE de nuestra comunidad, llamado **BALLE Staking Pool**. Podrás ver el código de los contratos en nuestra documentación.
-* Por otro lado, [ballena.io](https://ballena.io/) trabaja sobre los fondos de [PancakeSwap](https://pancakeswap.finance/). Una de las mejores plataformas DeFi hasta el momento. Puedes ver todo su código y [auditorias de seguridad](https://certik-public-assets.s3.amazonaws.com/REP-PancakeSwap-16_10_2020.pdf) en la documentación de su plataforma.
+* Por otro lado, [ballena.io](https://ballena.io/) trabaja sobre los fondos de [PancakeSwap](https://pancakeswap.finance/), una de las mejores plataformas DeFi hasta el momento. Puedes ver todo su código y [auditorias de seguridad](https://certik-public-assets.s3.amazonaws.com/REP-PancakeSwap-16_10_2020.pdf) en la documentación de su plataforma.
 
 ### 
 
