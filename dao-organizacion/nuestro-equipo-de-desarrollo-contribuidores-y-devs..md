@@ -17,6 +17,15 @@ A continuación se muestra una **lista actualizada de áreas** actualmente en de
 
 **Se asigna un líder** para cada una de estas áreas, quien se encargará de su gestión. Esta posición está sujeta a la calidad y cantidad de trabajo mínima requerida para este cargo, por lo que esta función es de carácter rotativo. **Los líderes pueden ser destituidos, reemplazados o mantenidos en el cargo en base al criterio de la DAO.**
 
+Los usuarios se clasifican en cuatro roles principales que están ligados a los [Niveles de Confianza](nuestro-equipo-de-desarrollo-contribuidores-y-devs..md#niveles-de-confianza). Estos roles siguen una jerarquía dentro de la DAO con el fin de mantener un orden en la organización, maximizando la seguridad, la colaboración y la calidad del trabajo. Los roles principales son los siguientes:
+
+* Newcomer - TL0.
+* Communtiy - TL1.
+* Contributor - TL2.
+* Area Leader - TL3.
+
+
+
 La **contribución al proyecto está abierta a cualquier usuario** que quiera formar parte de la misma. Lo único que tiene que hacer es unirse a nuestro [Discord ](https://discord.gg/X3XHjtsS)e involucrarse. 
 
 Comienza con la lectura de nuestra documentación, especialmente la técnica y la documentación de la DAO. Continúa por unirte y familiarizarte con los canales de [Discord](https://discord.gg/X3XHjtsS). Hay un canal para cada una de las áreas y muchos más.
@@ -27,7 +36,7 @@ Una vez te sientas cómodo y entiendas el funcionamiento de la organización, pu
 
 ### Niveles de Confianza
 
-Los usuarios que participan en la comunidad se clasifican por los establecidos Niveles de Confianza \(Trust Levels, TL\) que van desde TL0 hasta TL3. Estos niveles denotan, como su nombre indica, la confianza de la comunidad en estos usuarios, y por lo tanto, a mayor nivel, mayor es la responsabilidad que recae sobre los mismos.
+Los usuarios que participan en la comunidad se clasifican por los establecidos Niveles de Confianza \(Trust Levels, TL\) que van desde TL0 hasta TL3, que están vinculados a cada uno de los roles principales. Estos niveles denotan, como su nombre indica, la confianza de la comunidad en estos usuarios, y por lo tanto, a mayor nivel, mayor es la responsabilidad que recae sobre los mismos.
 
 La DAO está abierta a la contribución de cualquier usuario que se presente en la comunidad y, por lo tanto, requiere de cierta organización para velar por la seguridad y la calidad del proyecto. Estos niveles dotan a la organización de un carácter ordenado para evitar posibles ataques y, esencialmente, para tener un control sobre la retribución de los contribuidores.
 
