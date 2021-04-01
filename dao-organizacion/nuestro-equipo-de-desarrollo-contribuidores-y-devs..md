@@ -36,9 +36,9 @@ Una vez te sientas cómodo y entiendas el funcionamiento de la organización, pu
 
 ### Niveles de Confianza
 
-Los usuarios que participan en la comunidad se clasifican por los establecidos Niveles de Confianza \(Trust Levels, TL\) que van desde TL0 hasta TL3, que están vinculados a cada uno de los roles principales. Estos niveles denotan, como su nombre indica, la confianza de la comunidad en estos usuarios, y por lo tanto, a mayor nivel, mayor es la responsabilidad que recae sobre los mismos.
+Los usuarios que participan en la comunidad **se clasifican por los establecidos Niveles de Confianza** \(Trust Levels, TL\) que van desde TL0 hasta TL3, que están vinculados a cada uno de los roles principales. Estos niveles denotan, como su nombre indica, la **confianza de la comunidad en estos usuarios**, y por lo tanto, a mayor nivel, mayor es la responsabilidad que recae sobre los mismos.
 
-La DAO está abierta a la contribución de cualquier usuario que se presente en la comunidad y, por lo tanto, requiere de cierta organización para velar por la seguridad y la calidad del proyecto. Estos niveles dotan a la organización de un carácter ordenado para evitar posibles ataques y, esencialmente, para tener un control sobre la retribución de los contribuidores.
+La DAO está abierta a la contribución de cualquier usuario que se presente en la comunidad y, por lo tanto, requiere de cierta **organización para velar por la seguridad y la calidad del proyecto**. Estos niveles dotan a la organización de un carácter ordenado para evitar posibles ataques y, esencialmente, para tener un control sobre la retribución de los contribuidores.
 
 Para más información acerca de este tema navega a [Niveles de Confianza](niveles-de-confianza.md).
 
