@@ -107,7 +107,7 @@ Este cambio será propuesto por uno de los usuarios TL2 o TL3 al Project Lead pa
 
 La transición de un usuario de nivel TL1 a TL2 será propuesta por un Leader TL3 y aprobada por el Project Lead. 
 
-El usuario TL3 valorará las aportaciones de los usuarios TL2, y en caso de que así lo considere, propondrá el cambio correspondiente al Project Lead. 
+El usuario TL3 valorará las aportaciones de los usuarios TL1, y en caso de que así lo considere, propondrá el cambio correspondiente al Project Lead. 
 
 
 
