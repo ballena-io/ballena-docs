@@ -19,10 +19,10 @@ A continuación se muestra una **lista actualizada de áreas** actualmente en de
 
 Los usuarios se clasifican en cuatro roles principales que están ligados a los [Niveles de Confianza](nuestro-equipo-de-desarrollo-contribuidores-y-devs..md#niveles-de-confianza). Estos roles siguen una jerarquía dentro de la DAO con el fin de mantener un orden en la organización, maximizando la seguridad, la colaboración y la calidad del trabajo. Los roles principales son los siguientes:
 
-* Newcomer - TL0.
-* Communtiy - TL1.
-* Contributor - TL2.
-* Area Leader - TL3.
+* **Newcomer** - TL0.
+* **Communtiy** - TL1.
+* **Contributor** - TL2.
+* **Area Leader** - TL3.
 
 
 

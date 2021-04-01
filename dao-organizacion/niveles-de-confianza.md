@@ -24,7 +24,7 @@ El usuario se **involucra en la comunidad** pero prácticamente no participa en 
 
 Es una **etapa perfecta para la adquisición de información** y visitar todos los canales del proyecto. El TL0 puede familiarizarse con las bases del proyecto, la organización y las distintas áreas de la misma, y a su vez, ver si es capaz de aportar contenido de calidad al mismo.
 
-La comunidad recibe con los brazos abiertos a todos los usuarios que dan un paso adelante en adentrarse en nuestro **Discord** y podrás, por lo tanto, buscar información, pedir ayuda o consejo, participar, etc.
+La comunidad recibe con los brazos abiertos a todos los usuarios que dan un paso adelante en adentrarse en nuestro [Discord ](https://discord.gg/X3XHjtsS)y podrás, por lo tanto, buscar información, pedir ayuda o consejo, participar, etc.
 
 #### Características principales
 
@@ -37,7 +37,7 @@ La comunidad recibe con los brazos abiertos a todos los usuarios que dan un paso
 
 ### TL1
 
-El usuario **participa en el Discord de la comunidad**. Aporta ideas, visión de futuro, debate temas actuales, **contribuye en tareas simples**, ayuda a los TL0, etc.
+El usuario **participa en el** [Discord](https://discord.gg/X3XHjtsS) **de la comunidad**. Aporta ideas, visión de futuro, debate temas actuales, **contribuye en tareas simples**, ayuda a los TL0, etc.
 
 Se reconoce como miembro activo de la comunidad.
 
@@ -97,7 +97,7 @@ Los cambios de nivel se efectúan a lo largo del **domingo de cada semana**, ya 
 
 ### TL0-TL1: De Newcomer a Active Member
 
-La transferencia del nivel de un usuario TL0 a TL1 se origina, principalmente, debido a la actividad y aportaciones del mismo en los canales del Discord de [ballena.io](https://ballena.io/).
+La transferencia del nivel de un usuario TL0 a TL1 se origina, principalmente, debido a la actividad y aportaciones del mismo en los canales del [Discord](https://discord.gg/X3XHjtsS) de [ballena.io](https://ballena.io/).
 
 Este cambio será propuesto por uno de los usuarios TL2 o TL3 al Project Lead para su ascenso.
 
