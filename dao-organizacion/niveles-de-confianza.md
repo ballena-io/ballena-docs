@@ -2,13 +2,13 @@
 
 ## Motivación
 
-El proyecto [ballena.io](https://ballena.io/) se rige por la forma de una Organización Autónoma Descentralizada \(DAO en sus siglas en inglés “Decentralized Autonomous Organization”\). A pesar de contar con un poder descentralizado, el proyecto divide a los contribuidores en grupos determinados por áreas de desarrollo y, a su vez, en niveles de confianza, para garantizar el progreso adecuado del mismo. 
+El proyecto [ballena.io](https://ballena.io/) se rige por la forma de una **Organización Autónoma Descentralizada** \(DAO en sus siglas en inglés “Decentralized Autonomous Organization”\). A pesar de contar con un poder descentralizado, el proyecto divide a los contribuidores en grupos determinados por áreas de desarrollo y, a su vez, en **niveles de confianza**, para garantizar el progreso adecuado del mismo. 
 
-Como sabéis, la DAO está abierta a cualquier usuario de la comunidad para que se una a contribuir en el proyecto. Su contribución además, está recompensada en forma de tokens BALLE a través del sistema SourceCred. Esta premisa dota al proyecto de un carácter libre y abierto en cuanto a admisión de contribuidores en pro del desarrollo de nuevas áreas y mejora de las existentes. Recuerda que el objetivo de la DAO es crear, por y para la comunidad.
+Como sabéis, **la DAO está abierta a cualquier usuario** de la comunidad para que se una a contribuir en el proyecto. Su contribución además, está recompensada en forma de tokens BALLE a través del sistema SourceCred. Esta premisa dota al proyecto de un carácter libre y abierto en cuanto a admisión de contribuidores en pro del desarrollo de nuevas áreas y mejora de las existentes. Recuerda que el **objetivo de la DAO es crear, por y para la comunidad.**
 
-La parte negativa de este sistema de retribución y participación, es que incrementa la vulnerabilidad del proyecto. Por una parte, el sistema de gobernanza implementado es más susceptible a ataques por parte de usuarios, por la transparencia y carácter abierto del proyecto, y por otra parte, es más susceptible también a un mal uso del cred y contribuciones de mala calidad.
+La parte negativa de este sistema de retribución y participación, es que incrementa la vulnerabilidad del proyecto. Por una parte, el sistema de gobernanza implementado es más susceptible a ataques por parte de usuarios, por la transparencia y carácter abierto del proyecto, y por otra parte, es más susceptible también a un mal uso del Cred y contribuciones de mala calidad.
 
-Es por esto que el sistema de contribuciones se basa en los Niveles de Confianza, TL \(Trust Levels\). Estos protegen el desarrollo del proyecto requiriendo un nivel de confianza ganado en la comunidad para adquirir poderes de modificación de archivos, por ejemplo. Este sistema requiere que los usuarios que tratan de posicionarse en los niveles altos de contribución, hayan sido previamente conocidos por el resto de la comunidad y se hayan ganado la confianza de la misma a través de varios filtros al aportar su contribución, tanto en debates como, sobre todo, en aportaciones de contenido.
+Es por esto que **el sistema de contribuciones se basa en los Niveles de Confianza, TL \(Trust Levels\)**. Estos protegen el desarrollo del proyecto requiriendo un nivel de confianza ganado en la comunidad para adquirir acceso a la modificación de archivos, por ejemplo. Este sistema requiere que los usuarios que tratan de posicionarse en los niveles altos de contribución, hayan sido previamente conocidos por el resto de la comunidad y se hayan ganado la confianza de la misma a través de varios filtros al aportar su contribución, tanto en debates como, sobre todo, en aportaciones de contenido.
 
 ## Niveles de confianza \(Trust Levels, TL\)
 
@@ -24,7 +24,7 @@ El usuario se **involucra en la comunidad** pero prácticamente no participa en 
 
 Es una **etapa perfecta para la adquisición de información** y visitar todos los canales del proyecto. El TL0 puede familiarizarse con las bases del proyecto, la organización y las distintas áreas de la misma, y a su vez, ver si es capaz de aportar contenido de calidad al mismo.
 
-La comunidad recibe con los brazos abiertos a todos los usuarios que dan un paso adelante en adentrarse en nuestro Discord y podrás, por lo tanto, buscar información, pedir ayuda o consejo, participar, etc.
+La comunidad recibe con los brazos abiertos a todos los usuarios que dan un paso adelante en adentrarse en nuestro **Discord** y podrás, por lo tanto, buscar información, pedir ayuda o consejo, participar, etc.
 
 #### Características principales
 
@@ -141,9 +141,9 @@ En caso de que la regresión sea voluntaria, la regresión será instantánea.
 
 El abandono de uno de los Niveles de Confianza o del sistema SourceCred por parte de uno de los usuarios, **consistirá en la notificación al Project Lead, o el TL3 del área correspondiente**, para tramitar así la baja del mismo.
 
-En el caso de que el usuario transmita las intenciones de retomar el puesto a la comunidad tras su abandono, este se reincorporará en un nivel inferior al que pertenecía. Para retomar el puesto que dejó, deberá hacerlo por la vía establecida.
+En el caso de que el usuario transmita las intenciones de **retomar el puesto** a la comunidad tras su abandono, este **se reincorporará en un nivel inferior** al que pertenecía. Para retomar el puesto que dejó, deberá hacerlo por la vía establecida.
 
-El trámite de abandono se efectúa a lo largo del lunes de cada semana, ya que todos los domingos se cierra el ciclo de la semana anterior con el reparto correspondiente.
+El trámite de abandono se efectúa a lo largo del domingo de cada semana, ya que todos los domingos se cierra el ciclo de la semana anterior con el reparto correspondiente.
 
 ## Actualizaciones
 
@@ -151,6 +151,5 @@ Este documento se irá adaptando a medida que crezca la comunidad y/o se observe
 
 
 
-  
 
 
