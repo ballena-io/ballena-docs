@@ -2,7 +2,7 @@
 
 ## Motivación
 
-El proyecto [ballena.io](https://ballena.io/) se rige por la forma de una **Organización Autónoma Descentralizada** \(DAO en sus siglas en inglés “Decentralized Autonomous Organization”\). A pesar de contar con un poder descentralizado, el proyecto divide a los contribuidores en grupos determinados por áreas de desarrollo y, a su vez, en **niveles de confianza**, para garantizar el progreso adecuado del mismo. 
+El proyecto [ballena.io](https://ballena.io/) se rige por la forma de una Organización Autónoma Descentralizada \(DAO en sus siglas en inglés “Decentralized Autonomous Organization”\). A pesar de contar con un poder descentralizado, el proyecto divide a los contribuidores en grupos determinados por áreas de desarrollo y, a su vez, en **niveles de confianza**, para garantizar el progreso adecuado del mismo. 
 
 Como sabéis, **la DAO está abierta a cualquier usuario** de la comunidad para que se una a contribuir en el proyecto. Su contribución además, está recompensada en forma de tokens BALLE a través del sistema SourceCred. Esta premisa dota al proyecto de un carácter libre y abierto en cuanto a admisión de contribuidores en pro del desarrollo de nuevas áreas y mejora de las existentes. Recuerda que el **objetivo de la DAO es crear, por y para la comunidad.**
 
