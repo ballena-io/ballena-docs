@@ -34,8 +34,8 @@ Debido a la naturaleza del proyecto trabajamos tan rápido como podemos en lo qu
 * [ ] Añadir sistema de traducciones.
 * [ ] Añadir testnet.
 * [ ] Migración Token v1.0 a v2.0.
-* [ ] Añadir nuevas Bóvedas generando Balle como recompensa.
-* [ ] Añadir habilidad para hacer Stake de Balle.
+* [ ] Añadir nuevas Bóvedas generando BALLE como recompensa.
+* [ ] Añadir habilidad para hacer Stake de BALLE.
 
 
 
