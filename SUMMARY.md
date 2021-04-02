@@ -6,6 +6,7 @@
 
 * [Primeros Pasos](primeros-pasos/primeros-pasos.md)
 * [¿Qué podemos hacer en ballena.io?](primeros-pasos/que-podemos-hacer-en-ballena.io.md)
+* [Roadmap](primeros-pasos/roadmap.md)
 
 ## Tutoriales y herramientas
 
