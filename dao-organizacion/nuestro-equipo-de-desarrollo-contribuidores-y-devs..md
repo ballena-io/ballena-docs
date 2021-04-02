@@ -1,6 +1,8 @@
 # Nuestro equipo de desarrollo
 
-El proyecto [ballena.io ](https://ballena.io/)está **impulsado por los integrantes de la comunidad** que desean participar en el mismo activamente. Estos aportan contenido al proyecto en sus áreas de conocimiento y habilidades tratando de juntar a las mejores cabezas pensantes para obtener los mejores resultadas en cada una de las áreas. 
+El proyecto [ballena.io ](https://ballena.io/)está **impulsado por los integrantes de la comunidad** que desean participar en el mismo activamente. Estos aportan contenido al proyecto en sus áreas de conocimiento y habilidades tratando de juntar a las mejores cabezas pensantes para obtener los mejores resultadas en cada una de las áreas.   
+  
+Los contribuidores se coordinan a través del Discord de [ballena.io](https://ballena.io/) donde, a través de los diferentes canales correspondientes a estas áreas, proponen y debaten ideas para avanzar en el desarrollo del proyecto.
 
 A continuación se muestra una **lista actualizada de áreas** actualmente en desarrollo: 
 
