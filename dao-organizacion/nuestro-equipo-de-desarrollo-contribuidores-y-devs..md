@@ -13,7 +13,7 @@ A continuación se muestra una **lista actualizada de áreas** actualmente en de
 * Estrategias. 
 * Comunicación.
 
-Se asigna un líder para cada una de estas áreas, quien se encargará de su gestión. Esta posición está sujeta a la calidad y cantidad de trabajo mínima requerida para este cargo, por lo que esta función es de carácter rotativo. Los líderes pueden ser destituidos, reemplazados o mantenidos en el cargo en base al criterio de la DAO. 
+Se asigna un líder para cada una de estas áreas, quien se encargará de su gestión. Esta posición está sujeta a la calidad y cantidad de trabajo mínima requerida para este cargo, por lo que esta función es de carácter rotativo. Los líderes pueden ser destituidos, reemplazados o mantenidos en el cargo en base al criterio de la DAO. Además, cada área cuenta con contribuidores fijos, "Contributors", así como usuarios que de vez en cuando están dispuestos a ayudar, denotados como "Community".
 
 Los usuarios se clasifican en **cuatro roles principales** que están ligados a los **Niveles de Confianza**. Estos roles siguen una jerarquía dentro de la DAO con el fin de mantener un orden en la organización, maximizando la seguridad, la colaboración y la calidad del trabajo. Los roles principales son los siguientes: 
 
@@ -26,7 +26,7 @@ La contribución al proyecto está **abierta a cualquier usuario** que quiera fo
 
 Comienza con la lectura de nuestra documentación, especialmente la técnica y la documentación de la DAO. Continúa por unirte y familiarizarte con los canales de [Discord](https://discord.gg/PuypCMpE). Hay un canal para cada una de las áreas y muchos más. 
 
-Una vez te sientas cómodo y entiendas el funcionamiento de la organización, puedes empezar a participar en las conversaciones, así como proponer ideas y formar parte de los debates cotidianos. En el caso de que encajes especialmente en una de las áreas y creas que puedes aportar contenido de calidad, trata de aportar y contribuir en el canal correspondiente y házselo saber al equipo que ahí participa. Serás gratamente recibido.
+Una vez te sientas cómodo y entiendas el funcionamiento de la organización, puedes empezar a participar en las conversaciones, así como proponer ideas y formar parte de los debates cotidianos. En el caso de que encajes especialmente en una de las áreas y creas que puedes aportar contenido de calidad, trata de aportar y contribuir en el canal correspondiente y házselo saber al equipo que ahí participa. Serás gratamente recibido. Para más información acerca del proceso de inserción y progreso como contribuidor consulta el documento [Niveles de Confianza](niveles-de-confianza.md).
 
 ## Niveles de Confianza 
 
