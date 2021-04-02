@@ -83,7 +83,7 @@
 * [Introducción DAO](dao-organizacion/introduccion-dao.md)
 * [Normas de la Organización](dao-organizacion/normas-de-la-organizacion.md)
 * [Cómo formar parte de la DAO](dao-organizacion/como-formar-parte-de-la-dao.md)
-* [Nuestro equipo de desarrollo](dao-organizacion/nuestro-equipo-de-desarrollo-contribuidores-y-devs..md)
+* [Nuestro equipo de desarrollo](dao-organizacion/nuestro-equipo-de-desarrollo.md)
 * [Sistema SourceCred](dao-organizacion/sistema-sourcecred/README.md)
   * [Bases SourceCred de ballena.io](dao-organizacion/sistema-sourcecred/como-funciona-sourcecred.md)
 * [Niveles de Confianza](dao-organizacion/niveles-de-confianza.md)

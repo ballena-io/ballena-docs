@@ -28,7 +28,7 @@ Para comprar el token BALLE dirígete a nuestros [tutoriales](../tutoriales-y-he
 
 Ser un usuario activo que aporta y contribuye al proyecto en nuestros canales de Discord.
 
-Para más información acerca de este sistema haz click en [Nuestro equipo de desarrollo](nuestro-equipo-de-desarrollo-contribuidores-y-devs..md).
+Para más información acerca de este sistema haz click en [Nuestro equipo de desarrollo](nuestro-equipo-de-desarrollo.md).
 
 
 
