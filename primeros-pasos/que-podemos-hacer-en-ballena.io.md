@@ -8,8 +8,6 @@
 2. [SimpleFarming](../tecnico/productos/simplefarming.md).
 3. [BalleVaults \(Bóvedas\)](../tecnico/productos/#ballevaults-bovedas).
 
-
-
 ## Gobernanza y staking
 
 El token de Gobernanza de [ballena.io](https://ballena.io/) es el BALLE. La posesión del mismo nos permite votar y hacer staking del mismo para **obtener un 3% de los beneficios generados en la plataforma**. Además la plataforma permite hacer staking de más criptomonedas para alimentar así los proyectos de la red BSC.
@@ -18,13 +16,9 @@ Aquí podemos proveer liquidez al staking del token BALLE. Es una forma de inver
 
 Para más información, acceda a [Gobernanza](../tecnico/gobernanza.md) y a [BALLE Staking Pools](../tecnico/productos/balle-staking-pool.md).
 
-
-
 ## SimpleFarming
 
 Esta es una de nuestras metas a corto plazo. El Equipo [ballena.io](https://ballena.io/) está desarrollando una herramienta, una estrategia, llamada **SimpleFarming**. Esta añade un nivel de optimización más a la cadena, una **completa automatización del flujo de nuestras criptos** encontrando los mejores rendimientos en la red BSC. Asigna tus monedas al SimpleFarming y [ballena.io](https://ballena.io/) se encargará de maximizar beneficios a través de las oportunidades más rentables en la red. Más información en breve.
-
-
 
 ## BalleVaults \(Bóvedas\)
 
@@ -35,8 +29,6 @@ Esta es una de nuestras metas a corto plazo. El Equipo [ballena.io](https://ball
 Es una forma de inversión en la que se añaden a partes iguales dos assets. El retorno, por lo tanto, será de estos dos assets también a partes iguales. El LP lo que hará es aumentar los tokens que tenemos asignados al par seleccionado. Por ejemplo, podríamos añadir liquidez al par INJ/BNB. Lo que haremos en este caso será cambiar la mitad de nuestros BNB por INJ \(si aún no teníamos INJ\) y añadiremos ambos a una LP. Después añadiremos estos tokens de la LP a una BalleVault para obtener retornos mayores al aplicar estrategias optimizadas y reinvertir todas las ganancias diarias.
 
 Para más información, acceda a [BalleVaults](../tecnico/productos/ballevaults-de-pancake-swap.md).
-
-
 
 ## ¿Por qué [ballena.io](https://ballena.io/)?
 
