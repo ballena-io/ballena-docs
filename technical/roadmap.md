@@ -9,7 +9,7 @@ Due to the nature of the project, we work as fast as we can on what we consider 
 #### DAO
 
 * [x] Add our DAO´s voting platform.
-* [x] Add SouceCred as the retribution system for contributors.
+* [ ] Add SouceCred as the retribution system for contributors.
 * [ ] Definition and implementation of Trust Levels.
 
 ‌
@@ -18,14 +18,14 @@ Due to the nature of the project, we work as fast as we can on what we consider 
 
 * [x] Add Pause status to the vaults.
 * [x] Add “Retirada” status to the vaults.
-* [ ] Update Disclaimer.
+* [x] Update Disclaimer.
 
 ‌
 
 #### ballena.io v2.0
 
-* [ ] Solid and scalable code-based migration.
-* [ ] Library of reusable components.
+* [x] Solid and scalable code-based migration.
+* [x] Library of reusable components.
 * [ ] Rebranding of the new 2.0 platform.
 * [ ] Add the translation system.
 * [ ] Add testnet.
