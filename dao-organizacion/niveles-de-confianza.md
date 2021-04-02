@@ -30,6 +30,7 @@ La comunidad recibe con los brazos abiertos a todos los usuarios que dan un paso
 
 * **Rol: Newcomer.**
 * **Valor Cred: x0.**
+* **Color: Blanco.**
 * No está reconocido como miembro activo de la comunidad.
 * El usuario no obtiene retribución de ningún tipo.
 
@@ -45,6 +46,7 @@ Se reconoce como miembro activo de la comunidad.
 
 * **Rol: Community.**
 * **Valor Cred: x0.**
+* **Color: Ambar.**
 * Contribuye en tareas simples y/o esporádicas y participa en los canales de Discord.
 * El usuario puede obtener puntualmente retribución por su participación a través del canal \#gracias.
 * Su aportación, en caso de que la hubiera, sería validada por TL2 o TL3.
@@ -61,6 +63,7 @@ Los usuarios que contribuyen como TL2 **deben ser conscientes de su responsabili
 
 * **Rol: Contributor.**
 * **Valor Cred: x2.**
+* **Color: Verde oscuro.**
 * Contribuye activamente en el proyecto y aporta contenido de calidad.
 * Trabaja en conjunto con el resto de contribuidores TL2 y con el TL3 de área.
 * El usuario obtiene cred por sus contribuciones en forma de tokens BALLE.
@@ -78,6 +81,7 @@ Este nivel de confianza es el de **máxima responsabilidad**. El usuario en este
 
 * **Role: Team leader.**
 * **Valor Cred: x3.**
+* **Color: Verde claro.**
 * Coordina el área que lidera y aporta contenido a la misma.
 * Colabora con el resto de las áreas.
 * Organiza la estructura de los contribuidores TL2 del área, así como las necesidades del área y competencias.
