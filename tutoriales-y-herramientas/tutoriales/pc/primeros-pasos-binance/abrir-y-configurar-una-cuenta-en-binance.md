@@ -2,8 +2,7 @@
 
 ## Cómo darse de alta en Binance
 
-Para poder empezar a trabajar en el mundo de las criptomonedas, es imprescindible darse de alta en un exchange. Podemos utilizar cualquier exchange que disponga de la moneda BNB. Este tutorial se centra en[ Binance](https://www.binance.com/es), por tanto, lo mejor será seguirlo al pie de la letra.  
-
+Para poder empezar a trabajar en el mundo de las criptomonedas, es imprescindible darse de alta en un exchange. Podemos utilizar cualquier exchange que disponga de la moneda BNB. Este tutorial se centra en[ Binance](https://www.binance.com/es), por tanto, lo mejor será seguirlo al pie de la letra.
 
 
 
