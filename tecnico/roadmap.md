@@ -33,3 +33,7 @@ Debido a la naturaleza del proyecto trabajamos tan rápido como podemos en lo qu
 * [ ] Añadir nuevas Bóvedas generando Balle como recompensa
 * [ ] Añadir habilidad para hacer Stake de Balle
 
+
+
+
+
