@@ -64,13 +64,11 @@ MetaMask soporta los navegadores Chrome, Firefox, Brave and Edge. Hagámoslo en 
 
 ### 6. Secret Backup Phrase. 
 
-Esta es la parte más importante de la configuración de su billetera, las palabras de recuperación son las claves de su billetera criptográfica. **Asegúrate de guardarlas en un lugar seguro, preferente offline.**
+{% hint style="warning" %}
+Asegúrate de guardar las palabras de recuperación en un lugar seguro, preferentemente offline. Recuerda anotarlas exactamente en el mismo orden que aparecen en nuestra pantalla, ya que de lo contrario no sería válida y su pérdida ocasionaría la pérdida total de los fondos.
+{% endhint %}
 
-Necesitas **tomar nota** de tus palabras clave de recuperación **EXACTAMENTE EN EL MISMO ORDEN QUE APARECE EN NUESTRA PANTALLA**.  ****
-
-Al no respetar el orden de dichas palabras, la clave privada no será válida y en caso de pérdida ocasionará la **PERDIDA TOTAL DE LOS FONDOS.**
-
-Escríbela en el recuadro y confirma.​
+Escribe tu frase de recuperación en el recuadro y confirma.​
 
 ![](https://user-images.githubusercontent.com/79335891/108597312-b424f700-7388-11eb-87f6-a2a026b295e5.png)
 
