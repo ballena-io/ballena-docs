@@ -40,7 +40,7 @@ Read carefully everything that appears on the screen.
 
 Make sure to **save it in several safe places, preferably offline \(in a notebook or on a device without Internet access\), and even memorize them.**
 
-Before continuing, we will need to make a note of the Recovery Phrase **IN EXACTLY THE SAME ORDER IN WHICH THEY HAVE BEEN GIVEN TO US.**
+Before continuing, we will need to make a note of the Recovery Phrase **IN EXACTLY THE SAME ORDER IN WHICH IT HAVE BEEN GIVEN TO US.**
 
 It does not have any complications but it is of vital importance, since by not respecting the order of these words, the Private Key will not be valid and in case of loss it will cause the **TOTAL LOSS OF FUNDS.**
 
@@ -57,7 +57,7 @@ When noted, continue**.**
 
 ### 5. Verify Recovery Phrase.
 
-If we followed the previous step and have backed up the Recovery 12 words, just have to select the words one by one in the correct order. Click on "Continue" when done.  
+If we followed the previous step and have backed up the Recovery 12 Words, just have to select the words one by one in the correct order. Click on "Continue" when done.  
 
 
 
@@ -79,7 +79,7 @@ After going through the backup and verification process, we will be redirected t
 
 ![](https://user-images.githubusercontent.com/79335891/108876359-6d403700-75fe-11eb-80f2-45b1dba7bf70.png)
 
-From the inicial list of coins, we will focus on **Smart Chain BNB**. Let's see how to receive it from Binance:
+From this inicial list of coins, we will focus on **Smart Chain BNB**. Let's see how to receive this coin from Binance:
 
 
 
