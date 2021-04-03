@@ -65,7 +65,7 @@ MetaMask soporta los navegadores Chrome, Firefox, Brave and Edge. Hagámoslo en 
 ### 6. Secret Backup Phrase. 
 
 {% hint style="warning" %}
-Asegúrate de guardar las palabras de recuperación en un lugar seguro, preferentemente offline. Recuerda anotarlas exactamente en el mismo orden que aparecen en nuestra pantalla, ya que de lo contrario no sería válida y su pérdida ocasionaría la pérdida total de los fondos.
+**Asegúrate de guardar las palabras de recuperación** en un lugar seguro, preferentemente offline. **Recuerda** **anotarlas exactamente en el mismo orden** que aparecen en nuestra pantalla, ya que de lo contrario no sería válida y **su pérdida ocasionaría la pérdida total de los fondos.**
 {% endhint %}
 
 Escribe tu frase de recuperación en el recuadro y confirma.​
