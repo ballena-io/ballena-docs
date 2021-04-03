@@ -11,7 +11,11 @@ La aplicación de Binance será el puente entre nuestro banco y el mundo de las 
 
 Y Trust Wallet, a parte de ser una billetera segura donde almacenar nuestras criptomonedas, será nuestra puerta de acceso a la blockchain Binance Smart Chain \(BSC\), plataforma descentralizada en la que operan Dapps \(aplicaciones descentralizadas\) como PancakeSwap y la misma [app.ballena.io](https://app.ballena.io/)🐋.
 
-Cada paso de este esquema es necesario para hacer que nuestro dinero pase de estar inmovil en el banco a que esté generando altos rendimientios en[ ballena.io](https://ballena.io/)🐋, y ninguno se podrá realizar sin haber completado el anterior. 
+Cada paso de este esquema es necesario para hacer que nuestro dinero pase de estar inmovil en el banco a que esté generando altos rendimientios en[ ballena.io](https://ballena.io/)🐋.
+
+{% hint style="info" %}
+Ningún paso se deberá realizar sin haber completado el anterior.
+{% endhint %}
 
 
 
