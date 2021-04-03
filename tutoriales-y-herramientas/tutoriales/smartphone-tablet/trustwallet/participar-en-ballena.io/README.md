@@ -17,5 +17,5 @@ Además, al ser poseedores de BALLE, podremos formar parte de la [Gobernanza](..
 
 
 
-Completemos el primer paso en la siguiente página:
+Aprendamos sobre el primer paso en la siguiente página:
 
