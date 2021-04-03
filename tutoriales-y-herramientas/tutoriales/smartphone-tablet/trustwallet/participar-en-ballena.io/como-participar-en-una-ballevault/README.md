@@ -1,14 +1,9 @@
 # Cómo participar en una BalleVault
 
-Para participar en una BalleVault, primero tendrás que añadir liquidez a una LP en PancakeSwap y después añadir esos tokens LP a una BalleVault. Esto puede sonar complicado pero no te preocupes, iremos paso a paso.
+Navegamos a [app.ballena.io](https://app.ballena.io/)🐋 y elegimos un par que nos resulte atractivo. Lo primero que haremos será usar la DApp PancakeSwap para intercambiar nuestros BNB por los activos que componen el par que hemos elegido. También en PancakeSwap añadiremos liquidez de esos dos activos para crear el par y recibir tokens LP \(Liquidity Provider\). Estos tokens LP representan el valor de nuestra inversión y será lo que invertiremos en [ballena.io](https://ballena.io/)🐋 para generar rendimientos. Puede sonar complicado pero iremos paso a paso, sin preocupaciones.
 
-Haz clic en los siguientes links, en orden, para seguir con el tutorial correspondiente. 
-
-
-
-{% page-ref page="anadir-liquidez-a-una-lp.md" %}
-
-{% page-ref page="agregar-los-tokens-de-lp-a-ballevault.md" %}
+  
 
 
+Empezamos en la siguiente página:
 
