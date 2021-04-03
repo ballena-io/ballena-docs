@@ -14,13 +14,11 @@ Trust Wallet can be downloaded from the following[ link](https://share.trustwall
 
 ### 
 
-### 2. Starting Trust Wallet.
+### 2. Start Trust Wallet.
 
-After the first start of the application, we will be presented with the following screen where we can select between "Create a new wallet" or "Import" an existing one. For this guide, we will create a new wallet.
+After the first start of the application, we will be presented with the following screen where we can select between "Create a new wallet" or importing an existing one. For this guide, we will create a new wallet.
 
 
-
-### 3. Select "Create a new wallet".
 
 
 
@@ -30,17 +28,24 @@ After the first start of the application, we will be presented with the followin
 
 ### 3. Accept the terms of use and click on "Continue".
 
+Read carefully everything that appears on the screen.
+
 
 
 ![](https://user-images.githubusercontent.com/79335891/108876346-6b767380-75fe-11eb-8e60-0ad2168cbcf9.png)
 
 ### 
 
-### 4. Write down your recovery phrase.
+### 4. Write down Recovery Phrase.
 
-Remember that losing your recovery phrase will probably result in losing your wallet access and thus, your money. 
+Make sure to **save it in several safe places, preferably offline \(in a notebook or on a device without Internet access\), and even memorize them.**
 
-Now click on "Continue".
+Before continuing, we will need to make a note of the Recovery Phrase **IN EXACTLY THE SAME ORDER IN WHICH THEY HAVE BEEN GIVEN TO US.**
+
+It does not have any complications but it is of vital importance, since by not respecting the order of these words, the Private Key will not be valid and in case of loss it will cause the **TOTAL LOSS OF FUNDS.**
+
+When noted, continue**.**  
+
 
 
 
@@ -50,9 +55,10 @@ Now click on "Continue".
 
 ### 
 
-### 5.    Verify your recovery phrase.
+### 5. Verify Recovery Phrase.
 
-Write your recovery phrase word by word in the correct order and press "Continue".
+If we followed the previous step and have backed up the Recovery 12 words, just have to select the words one by one in the correct order. Click on "Continue" when done.  
+
 
 
 
@@ -62,15 +68,18 @@ Write your recovery phrase word by word in the correct order and press "Continue
 
 ### 
 
-### 6. Your Trust Wallet is ready!
+### 6. Trust Wallet is ready!
 
- 
+After going through the backup and verification process, we will be redirected to the main wallet screen. Great work so far!
+
+  
+
 
 ![](https://user-images.githubusercontent.com/79335891/108876357-6d403700-75fe-11eb-9ba2-30c231cd9be2.png)
 
 ![](https://user-images.githubusercontent.com/79335891/108876359-6d403700-75fe-11eb-80f2-45b1dba7bf70.png)
 
-
+From the inicial list of coins, we will focus on **Smart Chain BNB**. Let's see how to receive it from Binance:
 
 
 
