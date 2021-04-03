@@ -11,7 +11,11 @@ El navegador web nos llevará a la web Binance.com y a las Dapps \(aplicaciones 
 
 MetaMask nos permitirá operar e interactuar con estas Dapps. Funciona como un puente entre el navegador y la blockchain Binance Smart Chain \(BSC\), plataforma descentralizada en la que se encuentran estas aplicaciones. 
 
-Recordemos el esquema visto anteriormente y sigamos los pasos de uno en uno para hacer que nuestro dinero pase de estar inmovil en el banco a que esté generando altos rendimientios en[ ballena.io](https://ballena.io/)🐋. Ninguno se deberá realizar sin haber completado el anterior.
+Recordemos el esquema visto anteriormente y sigamos los pasos de uno en uno para hacer que nuestro dinero pase de estar inmovil en el banco a que esté generando altos rendimientios en[ ballena.io](https://ballena.io/)🐋.
+
+{% hint style="info" %}
+Ningún paso se deberá realizar sin haber completado el anterior.
+{% endhint %}
 
 
 
