@@ -4,12 +4,10 @@
 
 
 
-### 1. Accede a PancakeSwap en el navegador Dapp.
+### 1. Accedemos a PancakeSwap en el navegador DApps de Trust Wallet.
 
-Una vez que hayas recargado la billetera con BNB, abre el navegador Dapp presionando los cuatro cuadros en la parte inferior de la aplicación. Navega hacia la Dapp de PancakeSwap dentro del apartado “Smart Chain” o introduciendo directamente su url: [https://exchange.pancakeswap.finance/](https://exchange.pancakeswap.finance/). En PancakeSwap se pueden cambiar multitud de tokens. Solo tienes que tener en cuenta que debes tener algunos BNB en tu dirección Smart Chain para las comisiones de red.
-
-* Importante: Nunca cambies todos tus BNB para poder pagar las tasas de las transacciones en esta red BSC.
-* Si el buscador DApp no conecta con el sitio, asegúrate que la red a la que estas conectado es la Binance Smart Chain. 
+* **IMPORTANTE:** nunca cambiar todos los BNB para poder pagar las tasas de las transacciones de la red BSC.
+* Si el buscador DApps no conecta con el sitio, asegurarse que la red en la que estamos sea la "Smart Chain" \(BSC\).
 
 
 
@@ -17,13 +15,13 @@ Una vez que hayas recargado la billetera con BNB, abre el navegador Dapp presion
 
 ### 
 
-### 2. Selecciona los parámetros de conversión de tus tokens.
+### 2. Seleccionamos los parámetros de conversión de nuestros tokens.
 
-Selecciona el token al que quieres convertir y selecciona la cantidad de tokens que están dispuesto a convertir, o cuantos tokens deseas recibir. Una vez que hayas seleccionado lo que deseas, pulsa “Swap” \(Cambiar\). 
+En el apartado "Exchange", partiendo de BNB, seleccionamos el token que queremos comprar. Lo mejor es siempre copiar directamente el contrato del token deseado en [bscscan.com](https://bscscan.com/). Estipulamos la cantidad de BNB que deseamos convertir y debajo nos aparecerá la cantidad que recibiremos de la otra moneda. Pulsamos "Swap" y confirmamos la transacción.
 
-#### En el caso de que nuestra intención sea invertir en una de las LP \(Liquidity Pools\) de Ballena.io:
+#### Nuestra intención es invertir en una de las LP \(Liquidity Pools\) de ballena.io:
 
-Cambiaremos algo menos de la mitad de nuestros tokens por el token deseado. De esta manera podremos proveer liquidez al par seleccionado. En este ejemplo se muestra un cambio de BNB a Balbt, para así tener Balbt/BNB a partes iguales para posteriormente agregar liquidez a la correspondiente LP.
+Cambiaremos algo menos de la mitad de nuestros tokens por el token deseado. De esta manera podremos proveer liquidez al par seleccionado. En este ejemplo se muestra un cambio de BNB a bALBT, para así tener bALBT/BNB a partes iguales para posteriormente agregar liquidez a la correspondiente LP.
 
 * Importante: Nunca cambies todos tus BNB para poder pagar las tasas de las transacciones en esta red BSC.
 
