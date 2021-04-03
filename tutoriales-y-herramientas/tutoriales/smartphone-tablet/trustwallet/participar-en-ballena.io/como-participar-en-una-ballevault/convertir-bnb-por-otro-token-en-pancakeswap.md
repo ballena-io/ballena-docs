@@ -17,6 +17,8 @@
 
 ### 2. Seleccionamos los parámetros de conversión de nuestros tokens.
 
+Antes de nada, restamos una pequeña cantidad \(0.05\) de BNB a nuestro valor total y no contamos con ella, ya que esta parte irá destinada de forma automática al pago de las transacciones a partir de ahora. 
+
 En el apartado "Exchange", partiendo de BNB, seleccionamos el token que queremos comprar. Lo mejor es siempre copiar directamente el contrato del token deseado en [bscscan.com](https://bscscan.com/). Estipulamos la cantidad de BNB que deseamos convertir y debajo nos aparecerá la cantidad que recibiremos de la otra moneda. Pulsamos "Swap" y confirmamos la transacción.
 
 #### Nuestra intención es invertir en una de las LP \(Liquidity Pools\) de ballena.io:
