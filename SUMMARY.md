@@ -39,7 +39,7 @@
       * [Buy BNB in Binance \(Credit Card\)](tutorials-and-tools/tutorials/smartphone-tablet/first-steps-binance/buy-bnb-in-binance-credit-card.md)
     * [Trust Wallet](tutorials-and-tools/tutorials/smartphone-tablet/trustwallet/README.md)
       * [Set up a wallet: TrustWallet](tutorials-and-tools/tutorials/smartphone-tablet/trustwallet/set-up-wallet-trustwallet.md)
-      * [How to send funds from Binance to TrustWallet](tutorials-and-tools/tutorials/smartphone-tablet/trustwallet/how-to-send-funds-from-binance-to-trustwallet.md)
+      * [How to send funds from Binance to Trust Wallet](tutorials-and-tools/tutorials/smartphone-tablet/trustwallet/how-to-send-funds-from-binance-to-trustwallet.md)
       * [How to navigate through Dapps in TrustWallet](tutorials-and-tools/tutorials/smartphone-tablet/trustwallet/how-to-navigate-through-dapps-in-trustwallet.md)
       * [Participate in ballena.io](tutorials-and-tools/tutorials/smartphone-tablet/trustwallet/participate-in-ballena.io/README.md)
         * [How to participate in a BalleVault](tutorials-and-tools/tutorials/smartphone-tablet/trustwallet/participate-in-ballena.io/how-to-participate-in-a-ballevault/README.md)

@@ -1,8 +1,9 @@
-# How to send funds from Binance to TrustWallet
+# How to send funds from Binance to Trust Wallet
 
-### 1. Get your BSC address. <a id="1-averiguar-tu-direccion-de-bsc"></a>
+### 1. Find out our BSC address. <a id="1-averiguar-tu-direccion-de-bsc"></a>
 
-Go to your Smart Chain wallet and press "Receive" in order to get your Smart Chain address.
+Select **Smart Chain BNB** and press "Receive" to find out the "Smart Chain" \(BSC\) address. Copy the address.  
+
 
 ​
 
@@ -12,7 +13,7 @@ Go to your Smart Chain wallet and press "Receive" in order to get your Smart Cha
 
 ### 2. Transfer funds from Binance. <a id="2-depositar-activos-desde-binance"></a>
 
-You have successfully bought some BNB in the [previous steps](../first-steps-binance/buy-bnb-in-binance-credit-card.md). Now you will have to transfer them to your Trust Wallet.
+We will first transfer from Binance to Trust Wallet the BNB we have purchased on previous steps. Know that the following process and the address we have copied are the same for any other asset we want to transfer and use on BSC network.
 
 ​
 
@@ -24,9 +25,9 @@ You have successfully bought some BNB in the [previous steps](../first-steps-bin
 
 ​
 
-### 4. Access your wallet. <a id="4-accede-a-la-billetera"></a>
+### 4. Go to Wallet. <a id="4-accede-a-la-billetera"></a>
 
-Click on the "Wallet" icon at the lower part of your screen.
+Click on the "Wallet" icon at the bottom right of the screen.
 
 ​
 
@@ -36,7 +37,7 @@ Click on the "Wallet" icon at the lower part of your screen.
 
 ### 5. Select Spot. <a id="5-selecciona-spot"></a>
 
-You will now see the Spot Wallet screen on your device.
+We will now see the Spot Wallet screen on our device.
 
 ​
 
@@ -44,7 +45,7 @@ You will now see the Spot Wallet screen on your device.
 
 ​
 
-### 6. Select the Token “BNB”. <a id="6-selecciona-el-token-bnb"></a>
+### 6. Select BNB. <a id="6-selecciona-el-token-bnb"></a>
 
 ​
 
@@ -60,11 +61,11 @@ You will now see the Spot Wallet screen on your device.
 
 ​
 
-### 8. Paste your Trust Wallet Smart Chain address copied before. <a id="8-pegar-la-direccion-copiada-de-trust-wallet-en-la-direccion-a-la-que-enviar-los-bnb"></a>
+### 8. Paste the Trust Wallet "Smart Chain" address we copied before. <a id="8-pegar-la-direccion-copiada-de-trust-wallet-en-la-direccion-a-la-que-enviar-los-bnb"></a>
 
-​
+​See step 1.
 
-### 9. Select the “Binance Smart Chain \(BNB\)” BEP20 \(BSC\) network. <a id="9-seleccionar-la-red-binance-smart-chain-bnb-bep20-bsc"></a>
+### 9. Select the BEP20 \(BSC\) network. <a id="9-seleccionar-la-red-binance-smart-chain-bnb-bep20-bsc"></a>
 
 ​
 
@@ -74,13 +75,15 @@ You will now see the Spot Wallet screen on your device.
 
 ​
 
-You will have to verify the transaction now. You will receive your BNB into Trust Wallet in a few seconds or minutes.
+We will have to verify the transaction. A few seconds later, a Binance email will be sent to our mail confirming our withdrawal.
+
+At the same time, a Trust Wallet notification will confirm the BNB deposit.
 
 ​
 
-### 11. Well done! You have successfully completed your BNB tokens´ transfer. <a id="4-buen-trabajo-has-terminado-de-enviar-tus-criptomonedas-ya-puedes-usar-tus-bnb-en-trustwallet"></a>
+### 11. Well done! Funds successfully sent to Trust Wallet. <a id="4-buen-trabajo-has-terminado-de-enviar-tus-criptomonedas-ya-puedes-usar-tus-bnb-en-trustwallet"></a>
 
-
+We can now proceed to use our Smart Chain BNB on the BSC through the Trust Wallet DApps browser:
 
 
 
