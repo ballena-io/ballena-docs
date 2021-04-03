@@ -38,8 +38,10 @@ Leer con detenimiento las notas importantes que emergen en pantalla.
 
 En este paso elegiremos la cuantía que deseamos transferir.
 
-**IMPORTANTE**: no olvidar añadir el Código de referencia de 4 cifras en el concepto de la transferencia.  
-  
+{% hint style="info" %}
+Recuerda no olvidar añadir el Código de referencia de 4 cifras en el concepto de la transferencia.  
+{% endhint %}
+
 
 
 ### 5. Esperamos hasta que nuestro dinero llegue a Binance al día siguiente.
