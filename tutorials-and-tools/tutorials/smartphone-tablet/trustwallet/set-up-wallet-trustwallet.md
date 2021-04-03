@@ -1,10 +1,9 @@
-# Set up Wallet: TrustWallet
+# Set up a wallet: TrustWallet
 
-## Set up your Trust Wallet for the Binance Smart Chain
+## Setting up Trust Wallet for the Binance Smart Chain
 
-Download Trust Wallet from this [link](https://share.trustwallet.com/kuBobNL1Mab). We recommend you always keep the app updated. 
+Trust Wallet can be downloaded from the following[ link](https://share.trustwallet.com/kuBobNL1Mab). It is always recommended updating the application to the latest version.  
 
-Go through the basic configuration of your wallet. Remember you must write down your back up phrase.
 
 
 
@@ -15,7 +14,11 @@ Go through the basic configuration of your wallet. Remember you must write down 
 
 ### 
 
-### 2. Open Trust Wallet.
+### 2. Starting Trust Wallet.
+
+After the first start of the application, we will be presented with the following screen where we can select between "Create a new wallet" or "Import" an existing one. For this guide, we will create a new wallet.
+
+
 
 ### 3. Select "Create a new wallet".
 
