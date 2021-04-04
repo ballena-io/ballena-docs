@@ -16,7 +16,7 @@ Cuando queramos sacar rendimiento de nuestros tokens LP de las distintas platafo
 
 ### 1. Antes de añadir tokens LP a un Bóveda debes haber añadido liquidez.
 
-Si no lo has hecho, puedes seguir los pasos en el apartado [Cómo añadir liquidez en Pancakeswap con Trust Wallet](anadir-liquidez-a-una-lp.md). Cuando aportas liquidez, los tokens aportados ya no se visualizarán en tu billetera de Trust Wallet, pero podrás ver que te aparecen unos Tokens LP vinculados a la liquidez aportada.
+Si no lo has hecho, puedes seguir los pasos en el apartado [Cómo añadir liquidez en Pancakeswap con Trust Wallet](anadir-liquidez-a-una-liquidity-pool.md). Cuando aportas liquidez, los tokens aportados ya no se visualizarán en tu billetera de Trust Wallet, pero podrás ver que te aparecen unos Tokens LP vinculados a la liquidez aportada.
 
 
 
