@@ -2,16 +2,14 @@
 
 \*\***IN PROGRESS**\*\*
 
-### 1. Accede a PancakeSwap en el navegador Dapp.
+### 1. Accede a PancakeSwap en el navegador DApps.
 
-Una vez que hayas recargado la billetera con BNB, abre el navegador Dapp presionando los cuatro cuadros en la parte inferior de la aplicación. Navega hacia la Dapp de PancakeSwap dentro del apartado “Smart Chain” o introduciendo directamente su url: [https://exchange.pancakeswap.finance/](https://exchange.pancakeswap.finance/). En PancakeSwap se pueden cambiar multitud de tokens. Solo tienes que tener en cuenta que debes tener algunos BNB en tu dirección Smart Chain para las comisiones de red.
+Una vez que hayas recargado la billetera con BNB, abre el navegador DApps presionando los cuatro cuadros en la parte inferior de la aplicación. Navega hacia la DApp de PancakeSwap dentro del apartado “Smart Chain” o introduciendo directamente su url: [https://exchange.pancakeswap.finance/](https://exchange.pancakeswap.finance/). En PancakeSwap se pueden cambiar multitud de tokens. Solo tienes que tener en cuenta que debes tener algunos BNB en tu dirección Smart Chain para las comisiones de red.
 
 * Importante: Nunca cambies todos tus BNB para poder pagar las tasas de las transacciones en esta red BSC.
 * Si el buscador DApp no conecta con el sitio, asegúrate que la red a la que estas conectado es la Binance Smart Chain. 
 
 
-
-![](https://user-images.githubusercontent.com/79335891/108884463-efccf480-7606-11eb-8fb3-c00f84dd49c7.png)
 
 ### 
 
@@ -37,7 +35,7 @@ Cambiaremos nuestros BNB a BALLE de la siguiente manera.
 
 
 
-  * Dirección: 0x9f0D5f45CE8573f43E0BA17876329784be0fd700
+  * Dirección: /ADD NEW ADDRESS HERE\
 
 
 
