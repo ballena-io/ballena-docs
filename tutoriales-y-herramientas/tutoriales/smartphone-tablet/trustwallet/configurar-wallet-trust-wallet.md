@@ -17,7 +17,7 @@ Se puede descargar la billetera de Trust Wallet desde el siguiente [link](https:
 
 ### 2. Iniciamos Trust Wallet
 
-Tras el primer inicio de la aplicación, se nos presentará la siguiente pantalla donde podemos seleccionar entre “Crear una nueva billetera” o “Importar” una existente. Para esta guía, crearemos una nueva billetera.
+Tras el primer inicio de la aplicación, se nos presentará la siguiente pantalla donde podemos seleccionar entre “Crear una nueva billetera” o importar una existente. Para esta guía, crearemos una nueva billetera.
 
 
 

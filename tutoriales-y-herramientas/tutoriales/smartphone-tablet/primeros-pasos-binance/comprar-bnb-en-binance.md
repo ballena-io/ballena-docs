@@ -66,3 +66,9 @@ Una vez validada la operación nos aparecerá una pantalla de confirmación. Hay
 
 Completado este proceso, dispondremos de una pequeña cantidad de BNB en nuestra Billetera y estaremos listos para el siguiente paso:
 
+{% page-ref page="../trustwallet/" %}
+
+
+
+
+

@@ -46,9 +46,8 @@ No olvidar añadir el Código de referencia de 4 cifras en el concepto de la tra
 
 ### 5. Esperamos hasta que nuestro dinero llegue a Binance al día siguiente.
 
-Mientras tanto, podemos seguir leyendo el resto de la documentación. ¡Aprende más sobre [ballena.io](https://ballena.io/)!  
-  
-  
+Mientras tanto, podemos seguir leyendo el resto de la documentación. ¡Aprende más sobre [ballena.io](https://ballena.io/)!
+
   
   
 
