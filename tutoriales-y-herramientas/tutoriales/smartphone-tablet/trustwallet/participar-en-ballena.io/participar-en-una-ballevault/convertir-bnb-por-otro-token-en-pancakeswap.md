@@ -11,7 +11,7 @@
 
 
 
-![](https://user-images.githubusercontent.com/79335891/108884463-efccf480-7606-11eb-8fb3-c00f84dd49c7.png)
+![](../../../../../../.gitbook/assets/photo6003629256741074194.jpg)
 
 ### 
 
@@ -22,13 +22,27 @@
 * Antes de seguir, **restamos una pequeña cantidad \(0.05\) de BNB** a nuestro valor total y NO contamos con ella, ya que esta porción irá destinada de forma automática al **pago de las transacciones a partir de ahora.** 
 * Por tanto, nuestro **valor total disponible** es de **2 BNB**.
 
+
+
 ### 3. Seleccionamos los tokens.
 
-En el apartado _Trade → Exchange_ de PancakeSwap, partimos con BNB de la casilla "From", y en la casilla "To", en _Select a token_, buscamos bALBT. Lo mejor es siempre copiar directamente el contrato del token deseado en [bscscan.com](https://bscscan.com/) y pegarlo en la barra de busqueda de tokens. 
+En el apartado _Trade → Exchange_ de PancakeSwap, partimos con BNB de la casilla "From", y en la casilla "To", en _Select a currency_, buscamos bALBT. Lo mejor es siempre copiar directamente el contrato del token deseado en [bscscan.com](https://bscscan.com/) y pegarlo en la barra de busqueda de tokens. 
+
+
+
+![](../../../../../../.gitbook/assets/photo6003629256741074193.jpg)
+
+### 
 
 ### 4. Estipulamos parámetros de conversión.
 
 Para crear el **par bALBT/BNB necesitaremos las dos monedas a partes iguales**. Por tanto, si disponemos de 2 BNB, necesitaremos **cambiar exactamente 1 BNB por bALBT**. Estipulamos la cantidad de BNB y debajo nos aparecerá la cantidad de bALBT que recibiremos . Pulsamos "Swap" y confirmamos la transacción.
+
+
+
+![](../../../../../../.gitbook/assets/photo6003629256741074192.jpg)
+
+### 
 
 ### 5. Intercambio completado.
 
