@@ -50,7 +50,7 @@ A continuación, la aplicación nos pedirá nuevamente que confirmemos. Presiona
 
 
 
-### 6. La liquidez ha sido aportadacon éxito y hemos recibido tokens LP.
+### 6. La liquidez ha sido aportada con éxito y hemos recibido tokens LP.
 
 
 
