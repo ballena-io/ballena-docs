@@ -45,7 +45,7 @@
         * [Cómo participar en una BalleVault](tutoriales-y-herramientas/tutoriales/smartphone-tablet/trustwallet/participar-en-ballena.io/como-participar-en-una-ballevault/README.md)
           * [Convertir BNB por otro Token en PancakeSwap](tutoriales-y-herramientas/tutoriales/smartphone-tablet/trustwallet/participar-en-ballena.io/como-participar-en-una-ballevault/convertir-bnb-por-otro-token-en-pancakeswap.md)
           * [Añadir liquidez a una Liquidity Pool](tutoriales-y-herramientas/tutoriales/smartphone-tablet/trustwallet/participar-en-ballena.io/como-participar-en-una-ballevault/anadir-liquidez-a-una-liquidity-pool.md)
-          * [Agregar los tokens de LP a BalleVault](tutoriales-y-herramientas/tutoriales/smartphone-tablet/trustwallet/participar-en-ballena.io/como-participar-en-una-ballevault/agregar-los-tokens-de-lp-a-ballevault.md)
+          * [Agregar los tokens LP a una BalleVault](tutoriales-y-herramientas/tutoriales/smartphone-tablet/trustwallet/participar-en-ballena.io/como-participar-en-una-ballevault/agregar-los-tokens-lp-a-una-ballevault.md)
         * [Avanzado - Cómo participar en la Staking Pool de BALLE](tutoriales-y-herramientas/tutoriales/smartphone-tablet/trustwallet/participar-en-ballena.io/avanzado-como-participar-en-la-staking-pool-de-balle/README.md)
           * [Agregar los tokens BALLE a la Staking Pool](tutoriales-y-herramientas/tutoriales/smartphone-tablet/trustwallet/participar-en-ballena.io/avanzado-como-participar-en-la-staking-pool-de-balle/agregar-los-tokens-balle-a-la-staking-pool.md)
           * [Cómo comprar el token BALLE](tutoriales-y-herramientas/tutoriales/smartphone-tablet/trustwallet/participar-en-ballena.io/avanzado-como-participar-en-la-staking-pool-de-balle/como-comprar-el-token-balle.md)

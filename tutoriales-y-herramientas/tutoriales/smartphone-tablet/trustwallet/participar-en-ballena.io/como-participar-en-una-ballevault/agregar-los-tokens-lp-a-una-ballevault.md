@@ -1,6 +1,6 @@
-# Agregar los tokens de LP a BalleVault
+# Agregar los tokens LP a una BalleVault
 
-## Cómo añadir los tokens LP a una BalleVault \(Bóveda\) en Ballena.io
+## Cómo añadir los tokens LP a una BalleVault \(bóveda\) en [**ballena.io**](https://ballena.io/)**🐋.**
 
 
 
@@ -24,9 +24,9 @@ Si no lo has hecho, puedes seguir los pasos en el apartado [Cómo añadir liquid
 
 ### 
 
-### 3. Pulsar la tecla “Launch App”.
+### 3. Pulsamos “Launch App”.
 
-
+Nos redirigirá a [**app.ballena.io**](https://app.ballena.io/)**🐋.** Una interfaz que nos muestra todas las bóvedas disponibles.
 
 ![](../../../../../../.gitbook/assets/screenshot_20210223-181850%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.jpg)
 
