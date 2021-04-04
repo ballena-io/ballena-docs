@@ -55,7 +55,7 @@ Cuando hayamos tomado nota, continuamos.
 
 ### 5.    Verificar la frase de recuperación.
 
-Si hemos seguido el paso anterior y hemos realizado una copia de seguridad de las 12 Palabras de Recuperación, solo tendremos que seleccionar las palabras de una en una en el orden correcto.. Pulsamos en “Continue” cuando hayamos terminado.
+Si hemos seguido el paso anterior y hemos realizado una copia de seguridad de las 12 Palabras de Recuperación, solo tendremos que seleccionar las palabras de una en una en el orden correcto. Pulsamos en “Continue” cuando hayamos terminado.
 
 
 
@@ -79,7 +79,7 @@ Después de pasar por el proceso de respaldo y verificación, se nos redirigirá
 
 Veremos una lista inicial de monedas de las cuales nos centraremos en **Smart Chain BNB**. Vamos a ver cómo recibir esta moneda desde Binance:
 
-{% page-ref page="como-enviar-fondos-de-binance-a-trustwallet.md" %}
+{% page-ref page="como-enviar-fondos-de-binance-a-trust-wallet.md" %}
 
 
 
