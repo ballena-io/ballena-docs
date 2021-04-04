@@ -7,3 +7,7 @@ Esta es la mejor opción para depositar grandes cantidades en Binance ya que no 
 
 Aprendamos cómo funciona en la siguiente página:
 
+{% page-ref page="depositar-fondos-en-binance.md" %}
+
+
+

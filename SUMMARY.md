@@ -73,7 +73,7 @@
 * [Productos](tecnico/productos/README.md)
   * [SimpleFarming](tecnico/productos/simplefarming.md)
   * [BALLE Staking Pool](tecnico/productos/balle-staking-pool.md)
-  * [BalleVaults de Pancake Swap](tecnico/productos/ballevaults-de-pancake-swap.md)
+  * [BalleVaults de PancakeSwap](tecnico/productos/ballevaults-de-pancake-swap.md)
 * [Tokenomics](tecnico/tokenomics.md)
 * [Gobernanza](tecnico/gobernanza.md)
 * [Seguridad y Riesgos](tecnico/seguridad-y-riesgos.md)
