@@ -15,23 +15,32 @@
 
 ### 
 
-### 2. Seleccionamos los parámetros de conversión de nuestros tokens.
+### 2. Puntos a tener en cuenta.
 
-Antes de nada, restamos una pequeña cantidad \(0.05\) de BNB a nuestro valor total y no contamos con ella, ya que esta parte irá destinada de forma automática al pago de las transacciones a partir de ahora. 
+* Nuestra intención es **invertir en una Liquidity Pool** **\(LP\)** para lo que necesitaremos **crear un par.** Como ejemplo usaremos el **par bALBT/BNB**.
+* Para explicarlo y entenderlo de forma sencilla, lo plantearemos todo como si nuestro valor total fuese de exactamente **2.05 BNB.**
+* Antes de seguir, **restamos una pequeña cantidad \(0.05\) de BNB** a nuestro valor total y NO contamos con ella, ya que esta porción irá destinada de forma automática al **pago de las transacciones a partir de ahora.** 
+* Por tanto, nuestro **valor total disponible** es de **2 BNB**.
 
-En el apartado "Exchange", partiendo de BNB, seleccionamos el token que queremos comprar. Lo mejor es siempre copiar directamente el contrato del token deseado en [bscscan.com](https://bscscan.com/). Estipulamos la cantidad de BNB que deseamos convertir y debajo nos aparecerá la cantidad que recibiremos de la otra moneda. Pulsamos "Swap" y confirmamos la transacción.
+### 3. Seleccionamos los tokens.
 
-#### Nuestra intención es invertir en una de las LP \(Liquidity Pools\) de ballena.io:
+En el apartado _Trade → Exchange_ de PancakeSwap, partimos con BNB de la casilla "From", y en la casilla "To", en _Select a token_, buscamos bALBT. Lo mejor es siempre copiar directamente el contrato del token deseado en [bscscan.com](https://bscscan.com/) y pegarlo en la barra de busqueda de tokens. 
 
-Cambiaremos algo menos de la mitad de nuestros tokens por el token deseado. De esta manera podremos proveer liquidez al par seleccionado. En este ejemplo se muestra un cambio de BNB a bALBT, para así tener bALBT/BNB a partes iguales para posteriormente agregar liquidez a la correspondiente LP.
+### 4. Estipulamos parámetros de conversión.
 
-* Importante: Nunca cambies todos tus BNB para poder pagar las tasas de las transacciones en esta red BSC.
+Para crear el **par bALBT/BNB necesitaremos las dos monedas a partes iguales**. Por tanto, si disponemos de 2 BNB, necesitaremos **cambiar exactamente 1 BNB por bALBT**. Estipulamos la cantidad de BNB y debajo nos aparecerá la cantidad de bALBT que recibiremos . Pulsamos "Swap" y confirmamos la transacción.
+
+### 5. Intercambio completado.
+
+Disponemos ahora de 1 BNB y de su valor correspondiente en bALBT.
 
 
 
-### 3. Confirma la transacción.
+Veamos cómo añadir liquidez y crear el par:
 
-Espera a que la red lo procese y cuando este listo se verán reflejados tus tokens en tu billetera.
+
+
+### 
 
 
 

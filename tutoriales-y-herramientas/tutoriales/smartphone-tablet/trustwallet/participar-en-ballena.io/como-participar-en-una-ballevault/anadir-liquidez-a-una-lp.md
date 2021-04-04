@@ -1,28 +1,32 @@
-# Añadir liquidez a una LP
+# Añadir liquidez a una Liquidity Pool
 
 ## Cómo añadir liquidez en PancakeSwap con Trust Wallet
 
-En muchas ocasiones querrás añadir liquidez en PancakeSwap para obtener un rendimiento en base a estos tokens LP en [ballena.io](https://ballena.io/). Para eso es necesario acceder a “PancakeSwap” donde podremos añadir liquidez al par que queramos. Hay que tener en cuenta que hay que proporcionar el mismo valor en los dos tokens que utilicemos para añadir liquidez. Si no tenemos suficientes deberemos utilizar la opción swap y realizar los cambios que necesitemos.
+Se puede añadir liquidez del par que queramos, siempre que las dos monedas del par estén a partes iguales y que la plataforma [**app.ballena.io**](https://app.ballena.io/)**🐋** cuente con el mismo.. En este tutorial seguiremos para añadir liquidez del par bALBT/BNB.
 
 
 
-### 1. Accede a PancakeSwap en el navegador Dapp.
-
-Una vez que hayas recargado la billetera con BNB, abre el navegador Dapp presionando los cuatro cuadros en la parte inferior de la aplicación. Navega hacia la Dapp de PancakeSwap dentro del apartado “Smart Chain” o introduciendo directamente su url: [https://exchange.pancakeswap.finance/](https://exchange.pancakeswap.finance/).
+### 1. Seguimos en PancakeSwap dentro del navegador Dapps de Trust Wallet.
 
 
 
-### 2. Haz Clic en “Liquidity” para empezar a suministrar tokens a la plataforma PancakeSwap. Para continuar haz click en “Add Liquitidy”. 
+### 2. Vamos a la pestaña "Liquidity".
 
-Escoge los tokens que deseas depositar y aprueba primero. Introduzca la cantidad de tokens. La plataforma calculará automáticamente la cantidad proporcional que debe proporcionar.
+En el apartado _Trade →Liquidity_  pulsamos en "Add Liquidity".
 
 
 
 ![](../../../../../../.gitbook/assets/pancake_liquidity.png)
 
-### 
 
-### 3. Haga clic en “Supply” y luego en “Confirm Supply”. A continuación, la aplicación le pedirá nuevamente que confirme. Presiona “Send” para depositar sus tokens en la plataforma.
+
+### 3. Añadimos liquidez.
+
+En una casilla seleccionamos BNB y en la otra elegimos bALBT. Le damos a ****_**MAX**_  **en la casilla de bALBT** y, automaticamente, se añadirá la cantidad correspondiente de BNB en su respectiva casilla. Pulsamos abajo en "Approve bALBT".
+
+### 4. Hacemos click en “Supply” y luego en “Confirm Supply”. 
+
+A continuación, la aplicación nos pedirá nuevamente que confirmemos. Presionamos “Send” para añadir finalmente nuestros tokens a la plataforma y crear así el par.
 
 
 
@@ -30,7 +34,11 @@ Escoge los tokens que deseas depositar y aprueba primero. Introduzca la cantidad
 
 
 
-Verás una confirmación una vez que se hayan proporcionado los tokens. Obtendrás tokens de “Proveedor de Liquidez” \(LP\) que te otorgan una parte de las tarifas que gana el intercambio PancakeSwap. Estos tokens LP también se denominan tokens FLIP.
+### 5. Comprobamos.
+
+**Obtendremos tokens LP \(Liquidity Provider\)** que **demuestran que somos proveedores de liquidez** en PancakeSwap y que **representan el valor de nuestra aportación**. A cambio de añadir liquidez, cobraremos una pequeña porción de las comisiones generadas por esa Liquidity Pool.
+
+ Tener en cuenta que cuando aportamos liquidez, los dos tokens del par aportado ya no se visualizarán en nuestra billetera de Trust Wallet. En cambio, podremos ver que nos aparecen los tokens LP con el mismo valor e intercambiables en cualquier momento.
 
 
 
@@ -38,9 +46,13 @@ Verás una confirmación una vez que se hayan proporcionado los tokens. Obtendr�
 
 
 
-Ten en cuenta que cuando aportas liquidez, los tokens aportados ya no se visualizarán en tu billetera de Trust Wallet, pero podrás ver que te aparecen unos Tokens LP vinculados a la liquidez aportada.
+
+
+### 6. La liquidez ha sido aportadacon éxito y hemos recibido tokens LP.
 
 
 
-### 4. La liquidez ha sido aportada.
+Todavía nos falta agregar esos tokens LP a una BalleVault en [**app.ballena.io**](https://app.ballena.io/)**🐋** y optimizar ganacias de forma exponencial:
+
+
 
