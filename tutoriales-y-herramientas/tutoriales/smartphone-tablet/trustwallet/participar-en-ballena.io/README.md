@@ -23,5 +23,11 @@ Aprendamos sobre el primer paso en la siguiente página:
 
 
 
+En caso de que ya seamos poseedores de BALLEv2 y queramos maximizar su rendimiento, en el siguiente enlace se detalla cómo añadirlos a la Staking Pool:
+
+{% page-ref page="avanzado-participar-en-la-staking-pool-de-ballev2/" %}
+
+
+
 
 

@@ -1,11 +1,14 @@
 # Convertir BNB por otro Token en PancakeSwap
 
-
-
 ### 1. Accedemos a PancakeSwap en el navegador DApps de Trust Wallet.
 
-* **IMPORTANTE:** nunca cambiar todos los BNB para poder pagar las tasas de las transacciones de la red BSC.
-* Si el buscador DApps no conecta con el sitio, asegurarse que la red en la que estamos sea la "Smart Chain" \(BSC\).
+{% hint style="warning" %}
+Nunca cambiar todos los BNB para poder pagar las tasas de las transacciones de la red BSC.
+{% endhint %}
+
+{% hint style="info" %}
+Si el buscador DApps no conecta con el sitio, asegurarse que la red en la que estamos sea la "Smart Chain" \(BSC\).
+{% endhint %}
 
 
 
@@ -16,8 +19,8 @@
 ### 2. Puntos a tener en cuenta.
 
 * Nuestra intención es **invertir en una Liquidity Pool** **\(LP\)** para lo que necesitaremos **crear un par.** Como ejemplo usaremos el **par bALBT/BNB**.
-* Para explicarlo y entenderlo de forma sencilla, lo plantearemos todo como si nuestro valor total fuese de exactamente **2.05 BNB.**
-* Antes de seguir, **restamos una pequeña cantidad \(0.05\) de BNB** a nuestro valor total y NO contamos con ella, ya que esta porción irá destinada de forma automática al **pago de las transacciones a partir de ahora.** 
+* Para explicarlo y entenderlo de forma sencilla, lo plantearemos todo como si nuestro **valor total** fuese de exactamente **2.05 BNB.**
+* Antes de seguir, **restamos una pequeña cantidad \(0.05\) de BNB** a nuestro valor total y NO contamos con ella, ya que esta porción irá destinada de forma automática al **pago de las transacciones** a partir de ahora**.** 
 * Por tanto, nuestro **valor total disponible** es de **2 BNB**.
 
 
@@ -50,9 +53,7 @@ Disponemos ahora de 1 BNB y de su valor correspondiente en bALBT.
 
 Veamos cómo añadir liquidez y crear el par:
 
-
-
-### 
+{% page-ref page="anadir-liquidez-a-una-liquidity-pool.md" %}
 
 
 
