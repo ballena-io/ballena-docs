@@ -6,7 +6,7 @@ Se puede añadir liquidez del par que queramos, siempre y cuando las dos monedas
 
 
 
-### 1. Seguimos en PancakeSwap dentro del navegador Dapps de Trust Wallet.
+### 1. Seguimos en PancakeSwap dentro del navegador DApps de Trust Wallet.
 
 
 
@@ -16,37 +16,37 @@ En el apartado _Trade →Liquidity_  pulsamos en "Add Liquidity".
 
 
 
-![](../../../../../../.gitbook/assets/pancake_liquidity.png)
+![](../../../../../../.gitbook/assets/photo6003629256741074154.jpg)
 
+![](../../../../../../.gitbook/assets/photo6003629256741074153.jpg)
 
+### 
 
 ### 3. Añadimos liquidez.
 
-En una casilla seleccionamos BNB y en la otra elegimos bALBT. Le damos a ****_**MAX**_  **en la casilla de bALBT** y, automaticamente, se añadirá la cantidad correspondiente de BNB en su respectiva casilla. Pulsamos abajo en "Approve bALBT".
+En una casilla seleccionamos BNB y en la otra elegimos bALBT. Le damos a ****_**MAX**_  **en la casilla de bALBT** y, automaticamente, se añadirá la cantidad correspondiente de BNB en su respectiva casilla. Pulsamos abajo en "Approve bALBT" y confirmamos.
 
+![](../../../../../../.gitbook/assets/photo6003629256741074152%20%281%29.jpg)
 
+![](../../../../../../.gitbook/assets/photo6003629256741074151.jpg)
+
+### 
 
 ### 4. Hacemos click en “Supply” y luego en “Confirm Supply”. 
 
-A continuación, la aplicación nos pedirá nuevamente que confirmemos. Presionamos “Send” para añadir finalmente nuestros tokens a la plataforma y crear así el par.
+A continuación, aprobamos la transacción para añadir finalmente nuestros tokens a la plataforma y crear así el par.
 
 
 
-![](../../../../../../.gitbook/assets/pancake_lp.png)
+![](../../../../../../.gitbook/assets/photo6003629256741074150.jpg)
 
-
+![](../../../../../../.gitbook/assets/photo6003629256741074188.jpg)
 
 ### 5. Comprobamos.
 
 **Obtendremos tokens LP \(Liquidity Provider\)** que **demuestran que somos proveedores de liquidez** en PancakeSwap y que **representan el valor de nuestra aportación**. A cambio de añadir liquidez, cobraremos una pequeña porción de las comisiones generadas por esa Liquidity Pool.
 
- Tener en cuenta que cuando aportamos liquidez, los dos tokens del par aportado ya no se visualizarán en nuestra billetera de Trust Wallet. En cambio, podremos ver que nos aparecen los tokens LP. Estos tienen el mismo valor y son intercambiables en cualquier momento.
-
-
-
-![](../../../../../../.gitbook/assets/9a50ca34dcacf14236cc41499e30fe72ba1b8c0e_2_253x500.png)
-
-
+ Tener en cuenta que cuando aportamos liquidez, los dos tokens del par aportado ya no se visualizarán en nuestra billetera de Trust Wallet. En cambio, podremos ver que nos aparece _Pancake LPs_. Estos tienen el mismo valor y son intercambiables en cualquier momento.
 
 
 
