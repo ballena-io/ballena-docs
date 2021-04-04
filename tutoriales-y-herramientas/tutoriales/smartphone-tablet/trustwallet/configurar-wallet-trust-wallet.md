@@ -38,7 +38,7 @@ A partir de aquí, leemos con detenimiento todo lo que sale en pantalla. Hay que
 ### 4. Guardar Palabras Clave de Recuperación.
 
 {% hint style="warning" %}
-**Esta es la parte más importante** de la configuración de una billetera, las palabras de recuperación son las claves de nuestra billetera criptográfica. **Asegúrate de guardarlas** en un lugar seguro, preferentemente offline. Recuerda anotarlas **exactamente en el mismo orden que aparecen en nuestra pantalla**, ya que de lo contrario no sería válida y **su pérdida ocasionaría la pérdida total de los fondos.**
+**Esta es la parte más importante** de la configuración de una billetera, las Palabras de Recuperación son las claves de nuestra billetera criptográfica. **Nos aseguramos de guardarlas** en un lugar seguro, preferentemente offline. Anotarlas **exactamente en el mismo orden que aparecen en nuestra pantalla**, ya que de lo contrario no sería válida y **su pérdida ocasionaría la pérdida total de los fondos.**
 {% endhint %}
 
 
@@ -77,4 +77,8 @@ Después de pasar por el proceso de respaldo y verificación, se nos redirigirá
 
 
 Veremos una lista inicial de monedas de las cuales nos centraremos en **Smart Chain BNB**. Vamos a ver cómo recibir esta moneda desde Binance:
+
+{% page-ref page="como-enviar-fondos-de-binance-a-trustwallet.md" %}
+
+
 
