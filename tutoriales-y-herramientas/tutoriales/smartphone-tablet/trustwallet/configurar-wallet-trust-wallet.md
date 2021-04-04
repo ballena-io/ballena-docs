@@ -21,7 +21,7 @@ Tras el primer inicio de la aplicación, se nos presentará la siguiente pantall
 
 
 
-![](https://user-images.githubusercontent.com/79335891/108876340-6adddd00-75fe-11eb-8726-9d7b82e7ef48.png)
+![](../../../../.gitbook/assets/11%20%282%29.png)
 
 ### 
 
@@ -31,7 +31,7 @@ A partir de aquí, leemos con detenimiento todo lo que sale en pantalla. Hay que
 
 
 
-![](https://user-images.githubusercontent.com/79335891/108876346-6b767380-75fe-11eb-8e60-0ad2168cbcf9.png)
+![](../../../../.gitbook/assets/22.png)
 
 ### 
 
@@ -45,9 +45,11 @@ A partir de aquí, leemos con detenimiento todo lo que sale en pantalla. Hay que
 
 Cuando hayamos tomado nota, continuamos.
 
-![](https://user-images.githubusercontent.com/79335891/108876348-6c0f0a00-75fe-11eb-82ef-c52f4cd854bd.png)
 
-![](https://user-images.githubusercontent.com/79335891/108876350-6c0f0a00-75fe-11eb-9f16-b690b89e08c0.png)
+
+![](../../../../.gitbook/assets/33.png)
+
+![](../../../../.gitbook/assets/4%20%289%29.png)
 
 ### 
 
@@ -57,22 +59,21 @@ Si hemos seguido el paso anterior y hemos realizado una copia de seguridad de la
 
 
 
-![](https://user-images.githubusercontent.com/79335891/108876351-6ca7a080-75fe-11eb-9307-c1411f2a99b9.png)
+![](../../../../.gitbook/assets/5%20%287%29.png)
 
-![](https://user-images.githubusercontent.com/79335891/108876353-6ca7a080-75fe-11eb-8b70-cf69ff6df103.png)
+![](../../../../.gitbook/assets/66.png)
 
 ### 
 
 ### 6. Trust Wallet está listo.
 
-Después de pasar por el proceso de respaldo y verificación, se nos redirigirá a la pantalla principal de la billetera. ¡Buen trabajo hasta ahora!  
-
+Después de pasar por el proceso de respaldo y verificación, se nos redirigirá a la pantalla principal de la billetera. ¡Buen trabajo hasta ahora!
 
  
 
-![](https://user-images.githubusercontent.com/79335891/108876357-6d403700-75fe-11eb-9ba2-30c231cd9be2.png)
+![](../../../../.gitbook/assets/7%20%286%29.png)
 
-![](https://user-images.githubusercontent.com/79335891/108876359-6d403700-75fe-11eb-80f2-45b1dba7bf70.png)
+![](../../../../.gitbook/assets/88.png)
 
 
 

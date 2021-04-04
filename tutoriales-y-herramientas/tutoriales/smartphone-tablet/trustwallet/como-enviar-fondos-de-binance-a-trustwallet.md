@@ -1,7 +1,5 @@
 # Cómo enviar fondos de Binance a TrustWallet
 
-## Cómo enviar fondos de Binance a TrustWallet - Smartphone/Tablet
-
 
 
 ### 1. Averiguar nuestra dirección de BSC.
