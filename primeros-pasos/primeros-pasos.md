@@ -53,7 +53,7 @@ El proyecto [ballena.io](https://ballena.io/) es completamente transparente y pu
 
 ### ¿Quién está detrás del proyecto?
 
-Detrás del proyecto se encuentra la comunidad que nació en [Telegram](https://t.me/stgcrypto) con afán de crear un grupo de trabajo en el mundo de las crypto. Con más de 7.000 usuarios en el grupo, ahora esta comunidad tiene la forma de [DAO](), Organización Autónoma Descentralizada, donde la organización se coordina de manera autónoma por los contratos inteligentes. Es decir, **las decisiones se toman en comunidad** y el poder no recae sobre unos pocos.  
+Detrás del proyecto se encuentra la comunidad que nació en [Telegram](https://t.me/stgcrypto) con afán de crear un grupo de trabajo en el mundo de las crypto. Con más de 7.000 usuarios en el grupo, ahora esta comunidad tiene la forma de DAO, Organización Autónoma Descentralizada, donde la organización se coordina de manera autónoma por los contratos inteligentes. Es decir, **las decisiones se toman en comunidad** y el poder no recae sobre unos pocos.  
 
 
 ![](../.gitbook/assets/communication-1297544_1280.webp)
