@@ -12,15 +12,27 @@ Sigue los siguientes pasos para ello:
 
 ### 2. Selecciona la BalleVault de la que quieres retirar tus fondos y haz clic en "RETIRAR".
 
+
+
 ![](../../../.gitbook/assets/image%20%284%29.png)
+
+
 
 ### 3. Selecciona "RETIRAR" o "RETIRAR TODO".
 
+
+
 ![](../../../.gitbook/assets/image%20%287%29.png)
+
+
 
 ### 4. Acepta las tasas de transacción haciendo clic en confirmar.
 
+
+
 ![](../../../.gitbook/assets/image%20%285%29.png)
+
+
 
 ### 5. Ya has retirado tus fondos. Comprueba que en tu cartera cuentas con los LP correspondientes y los tokens BALLE. 
 
