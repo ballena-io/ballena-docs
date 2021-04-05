@@ -16,3 +16,7 @@ Para empezar con estos tutoriales decide si vas a configurar un dispositivo móv
 
 {% page-ref page="smartphone-tablet/" %}
 
+
+
+
+
