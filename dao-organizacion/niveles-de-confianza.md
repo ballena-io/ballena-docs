@@ -2,13 +2,13 @@
 
 ## Motivación
 
-El proyecto [ballena.io](https://ballena.io/) se rige por la forma de una Organización Autónoma Descentralizada \(DAO en sus siglas en inglés “Decentralized Autonomous Organization”\). A pesar de contar con un poder descentralizado, el proyecto divide a los contribuidores en grupos determinados por áreas de desarrollo y, a su vez, en **niveles de confianza**, para garantizar el progreso adecuado del mismo. 
+El proyecto [ballena.io](https://ballena.io/) se rige por la forma de una Organización Autónoma Descentralizada \(DAO en sus siglas en inglés “Decentralized Autonomous Organization”\). A pesar de contar con un poder descentralizado, el proyecto divide a los contribuidores en grupos determinados por áreas de desarrollo y a su vez, en **niveles de confianza** para garantizar el progreso adecuado del mismo. 
 
-Como sabéis, **la DAO está abierta a cualquier usuario** de la comunidad para que se una a contribuir en el proyecto. Su contribución además, está recompensada en forma de tokens BALLE a través del sistema SourceCred. Esta premisa dota al proyecto de un carácter libre y abierto en cuanto a admisión de contribuidores en pro del desarrollo de nuevas áreas y mejora de las existentes. Recuerda que el **objetivo de la DAO es crear, por y para la comunidad.**
+Como sabes, **la DAO está abierta a cualquier usuario** de la comunidad para que se una a contribuir en el proyecto. Su contribución además está recompensada en forma de tokens BALLE a través del sistema SourceCred. Esta premisa dota al proyecto de un carácter libre y abierto en cuanto a admisión de contribuidores en pro del desarrollo de nuevas áreas y mejora de las existentes. Recuerda que el **objetivo de la DAO es crear, por y para la comunidad.**
 
 La parte negativa de este sistema de retribución y participación, es que incrementa la vulnerabilidad del proyecto. Por una parte, el sistema de gobernanza implementado es más susceptible a ataques por parte de usuarios, por la transparencia y carácter abierto del proyecto, y por otra parte, es más susceptible también a un mal uso del Cred y contribuciones de mala calidad.
 
-Es por esto que **el sistema de contribuciones se basa en los Niveles de Confianza, TL \(Trust Levels\)**. Estos protegen el desarrollo del proyecto requiriendo un nivel de confianza ganado en la comunidad para adquirir acceso a la modificación de archivos, por ejemplo. Este sistema requiere que los usuarios que tratan de posicionarse en los niveles altos de contribución, hayan sido previamente conocidos por el resto de la comunidad y se hayan ganado la confianza de la misma a través de varios filtros al aportar su contribución, tanto en debates como, sobre todo, en aportaciones de contenido.
+Es por esto que **el sistema de contribuciones se basa en los Niveles de Confianza, TL \(Trust Levels\)**. Estos protegen el desarrollo del proyecto requiriendo un nivel de confianza ganado en la comunidad para adquirir acceso a la modificación de archivos por ejemplo. Este sistema requiere que los usuarios que tratan de posicionarse en los niveles altos de contribución, hayan sido previamente conocidos por el resto de la comunidad y se hayan ganado la confianza de la misma a través de varios filtros al aportar su contribución, tanto en debates como, sobre todo, en aportaciones de contenido.
 
 ## Niveles de confianza \(Trust Levels, TL\)
 
@@ -66,7 +66,7 @@ Los usuarios que contribuyen como TL2 **deben ser conscientes de su responsabili
 * **Color: Verde oscuro.**
 * Contribuye activamente en el proyecto y aporta contenido de calidad.
 * Trabaja en conjunto con el resto de contribuidores TL2 y con el TL3 de área.
-* El usuario obtiene cred por sus contribuciones en forma de tokens BALLE.
+* El usuario obtiene Cred por sus contribuciones en forma de tokens BALLE.
 * Su trabajo es validado por TL3.
 
 
@@ -93,7 +93,7 @@ Este nivel de confianza es el de **máxima responsabilidad**. El usuario en este
 
 Es muy importante remarcar que el procedimiento de cambio de nivel no debería ser algo forzado por los usuarios, tanto por parte del interesado como del que lo propone, sino que debería ser un **trámite natural** que caiga por su propio peso. 
 
-Esto quiere decir que **ningún usuario será recompensado por el ascenso de nivel** directamente, sino que simplemente **sirve de referencia para el resto de la comunidad acerca del nivel de confianza y de compromiso** de este usuario. Es por esto que los usuarios no deberían perseguir un cambio de nivel sino que el cambio de nivel les vendrá de manera natural si es procedente. No deberían por lo tanto existir ambiciones y prisas en cuanto a la subida de nivel convirtiéndolo en un objetivo.
+Esto significa que **ningún usuario será recompensado por el ascenso de nivel** directamente, sino que simplemente **sirve de referencia para el resto de la comunidad acerca del nivel de confianza y de compromiso** de este usuario. Es por esto que los usuarios no deberían perseguir un cambio de nivel sino que el cambio de nivel les vendrá de manera natural si es procedente. No deberían por lo tanto existir ambiciones y prisas en cuanto a la subida de nivel convirtiéndolo en un objetivo.
 
 Los cambios de nivel se efectúan a lo largo del **domingo de cada semana**, ya que todos los domingos se cierra el ciclo de la semana anterior con el reparto correspondiente.
 

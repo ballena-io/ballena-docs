@@ -8,7 +8,7 @@
 
 La creación de propuesta seguirá estas bases de estandarización para seguir un patrón conjunto:
 
-* Las propuestas se publicarán en **ambos idiomas**, inglés y español neutro. Separar estás versiones para cada uno de los apartados con un "/" o "======" según corresponda. Ver ejemplo [aquí](crear-propuestas.md#4-completa-los-campos-de-tu-propuesta).
+* Las propuestas se publicarán en **ambos idiomas**, inglés y español neutro. Separar estás versiones para cada uno de los apartados con un "/" o "======" según corresponda. Puede ver un ejemplo haciendo clic [aquí](crear-propuestas.md#4-completa-los-campos-de-tu-propuesta).
 * Siempre irá el español en primer lugar. 
 * En caso de que alguno de los campos no admita caracteres suficientes para ambos idiomas, se intentará adaptar para ello, y sino, se dará prioridad al español.
 * Se incluirá un "**TLDR**" al final de la descripción a modo de síntesis. Esta servirá como pregunta directa para la elección de las opciones.
@@ -48,7 +48,7 @@ Sigue los pasos del tutorial [Conectar Wallet para votar y crear propuestas](con
 ### 4. Completa los campos de tu propuesta.
 
 * Añade un título en "Question".
-* Expón tu propuesta en "What is your proposal". 
+* Expone tu propuesta en "What is your proposal". 
 * Selecciona el rango de fechas en "Actions".
 * El número que aparece a continuación es el número de bloque de la blockchain. No te preocupes por el mismo, para más información navega a [Número de bloque](crear-propuestas.md#numero-de-bloque).
 * Añade las opciones a elegir entre los usuarios en "Choices".
@@ -67,7 +67,7 @@ Recuerda las [bases ](crear-propuestas.md#estandarizacion)para crear una propues
 
 
 
-### 5. Haz click en "Publish".
+### 5. Haz clic en "Publish".
 
 
 
@@ -77,7 +77,7 @@ Recuerda las [bases ](crear-propuestas.md#estandarizacion)para crear una propues
 
 ### 6. Firma la propuesta en tu wallet.
 
-Te aparecerá un desplegable para firmar la propuesta, haz click en "Sign".
+Te aparecerá un desplegable para firmar la propuesta, haz clic en "Sign".
 
 
 
@@ -98,6 +98,4 @@ Este viene definido a la hora de crear cada propuesta y el usuario no necesita r
 
 
 
-
-\*\*\*\*
 

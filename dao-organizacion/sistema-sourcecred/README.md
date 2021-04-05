@@ -14,7 +14,7 @@ Para poder optar a estas recompensas, los miembros de la comunidad deberán part
 
 ## Motivación <a id="8828"></a>
 
-La introducción de incentivos en torno a la gobernanza en _Maker_ ha mejorado tanto la cantidad, como la calidad y diversidad de las contribuciones.
+La introducción de incentivos en torno a la gobernanza en _Maker_ ha mejorado tanto la cantidad como la calidad y diversidad de las contribuciones.
 
 **Nuestro objetivo es potenciar las contribuciones de los usuarios en el ecosistema** [**ballena.io**](https://ballena.io/) **a través de un programa de incentivos.** Creemos que hay una amplia capacidad de participación en la comunidad BALLE por parte de usuarios que pueden no tener el capital suficiente para convertirse en LP, o que de otra manera, optan por no hacerlo.
 
@@ -42,7 +42,7 @@ Hemos notado que los miembros de la comunidad en Discord desempeñan un papel ac
 
 La primera instancia de incentivos de Discord **rastrea la actividad** en la mayoría de los canales de Discord, recompensando así a los participantes por contribuciones significativas en base a las reacciones, en lugar del volumen de publicaciones, para impulsar así un enfoque de “**calidad sobre cantidad**”. De la misma manera, la actividad de Github es también recompensada.
 
-Este programa recompensa a los usuarios ​​por su aportación a los canales de Discord con el fin de potenciar la plataforma, con énfasis la importancia de los emojis positivos y los roles basados ​​en tokens.
+Este programa recompensa a los usuarios ​​por su aportación a los canales de Discord con el fin de potenciar la plataforma, con énfasis en la importancia de los emojis positivos y los roles basados ​​en tokens.
 
 ## Incentivos Github <a id="ef11"></a>
 
@@ -50,7 +50,7 @@ El desarrollo del proyecto se lleva a cabo en varios repositorios de GitHub admi
 
 ## Fondos <a id="e631"></a>
 
-**Los fondos destinados a los incentivos de** _**SourceCred**_ **son 40 tokens BALLE por semana.**
+**Los fondos destinados a incentivos de** _**SourceCred**_ **se componen de 40 tokens BALLE por semana.**
 
 Esta cantidad viene definida por 10 tokens correspondientes a las aportaciones de la misma semana, y 30 tokens correspondientes a las contribuciones de las 10 últimas semanas aproximadamente.
 

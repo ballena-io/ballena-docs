@@ -2,7 +2,7 @@
 
 ## El grafo SourceCred <a id="29f6"></a>
 
-[ballena.io](https://ballena.io/) funciona con el **grafo SourceCred,** estructura de datos que rastrea las contribuciones al proyecto por parte de los usuarios. Desde esta comunidad, hemos creado nuestra propia versión de SourceCred**,** que se **adapta a nuestros requisitos y necesidades específicas**.
+[ballena.io](https://ballena.io/) funciona con el **grafo SourceCred,** estructura de datos que rastrea las contribuciones al proyecto por parte de los usuarios. Desde esta comunidad, hemos creado nuestra propia versión de SourceCred que se **adapta a nuestros requisitos y necesidades específicas**.
 
 Puede consultar nuestra **instancia de SourceCred** aquí:
 
@@ -20,18 +20,18 @@ La comunidad [ballena.io](https://ballena.io/) podría definirse como la suma de
 >
 > Fácil, no lo hace _Cred_, lo haces TÚ.
 
-Los mismos sistemas que usa _Siri_ para escuchar y comprender lo que dicen los usuarios, se utilizan en _SourceCred_ para calcular tu puntuación _Cred_. Miles, o millones, de acciones de equilibrio ocurren detrás del grafo para obtener la puntuación correspondiente. Este número, conocido como puntuación _Cred_, es tu pequeño porcentaje aportado a la comunidad BALLE.
+Los mismos sistemas que usa _Siri_ para escuchar y comprender lo que dicen los usuarios, se utilizan en _SourceCred_ para calcular tu puntuación _Cred_. Miles, o millones de acciones de equilibrio ocurren detrás del grafo para obtener la puntuación correspondiente. Este número, conocido como puntuación _Cred_, es tu pequeño porcentaje aportado a la comunidad BALLE.
 
 ## Conceder/Recibir Cred <a id="7652"></a>
 
 * **Base 1:** Nunca se pierde _Cred_.
 * **Base 2**: Podemos variar las bases de distribución en cualquier momento.
 
-El _Cred_ es gratuito, inflacionario e intrínseco. Eso es lo que lo hace genial. El _Cred_ se puede compartir. **Cuando otorgas** _**Cred**_**, no pierdes** _**Cred**_**. En su lugar, el sistema acuña más** _**Cred**_ **para satisfacer las necesidades.** Otorga _Cred_ a otros usuarios y será mucho más probable que obtengas más _Cred_ a cambio. Solo tienes que tener en cuenta que: “Un gran poder conlleva una gran responsabilidad”. ¡Premia a tus héroes!
+El _Cred_ es gratuito, inflacionario e intrínseco. Eso es lo que lo hace genial. El _Cred_ se puede compartir. **Cuando otorgas** _**Cred**_**, no pierdes** _**Cred**_**. En su lugar, el sistema acumula más** _**Cred**_ **para satisfacer las necesidades.** Otorga _Cred_ a otros usuarios y será mucho más probable que obtengas más _Cred_ a cambio. Sólo tienes que tener en cuenta que: “Un gran poder conlleva una gran responsabilidad”. ¡Premia a tus héroes!
 
 ## Sistema de ponderación <a id="6a74"></a>
 
-_SourceCred_ utiliza un sistema de ponderación para medir cuánto _Cred_ quiere otorgar cada usuario. Es importante comprender que podemos cambiar este algoritmo tanto como queramos en cualquier momento. Puedes sugerir cualquier propuesta en nuestra [plataforma de votación](https://vote.ballena.io/#/).
+_SourceCred_ utiliza un sistema de ponderación para medir cuánto _Cred_ quiere otorgar a cada usuario. Es importante comprender que podemos cambiar este algoritmo tanto como queramos en cualquier momento. Puedes sugerir cualquier propuesta en nuestra [plataforma de votación](https://vote.ballena.io/#/).
 
 ## Valores iniciales del sistema de ponderación de [ballena.io](https://ballena.io/) <a id="0117"></a>
 
@@ -69,9 +69,9 @@ Los valores de ponderación actúan como **multiplicadores**. Por ejemplo, un em
 
 ### \#💙gracias <a id="baed"></a>
 
-Este canal se utiliza para **mencionar a un usuario** que te ha ayudado en privado, en cuanto a la contrución del proyecto se refiere, cuando el sistema de retribución de Github no puede contemplarlo. Esta hecho para **otorgar** _**Cred**_ **directamente a un usuario y no para recibirlo**.
+Este canal se utiliza para **mencionar a un usuario** que te ha ayudado en privado, en cuanto a la construcción del proyecto se refiere, cuando el sistema de retribución de Github no puede contemplarlo. Esta hecho para **otorgar** _**Cred**_ **directamente a un usuario y no para recibirlo**.
 
-Por lo tanto, todas **las publicaciones deberán ir acompañadas de una mención**, y en caso contrario, tu aportación será invalidada.
+Por lo tanto, todas **las publicaciones deberán ir acompañadas de una mención.** En caso contrario, tu aportación será invalidada.
 
 
 
@@ -87,5 +87,9 @@ Todo el esfuerzo recopilado por SourceCred se refleja como porcentajes del token
 
 ## Más información <a id="e70d"></a>
 
-Si estás interesado en obtener a más información, haz click en la [Guía SourceCred](https://sourcecred.io/docs/beta/cred/).
+Si estás interesado en obtener a más información, haz clic en la [Guía SourceCred](https://sourcecred.io/docs/beta/cred/).
+
+
+
+
 

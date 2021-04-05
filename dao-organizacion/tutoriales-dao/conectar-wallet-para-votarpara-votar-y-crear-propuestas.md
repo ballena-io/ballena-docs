@@ -10,7 +10,7 @@ Para formar parte en el proceso de creación y votación de nuevas propuestas, t
 
 
 
-### 2. Haz click en "Connect Wallet".
+### 2. Haz clic en "Connect Wallet".
 
 
 
@@ -18,7 +18,7 @@ Para formar parte en el proceso de creación y votación de nuevas propuestas, t
 
 
 
-### 3. Si has seguido nuestros tutoriales elige "MetaMask/TrustWallet", en caso contrario, elige la wallet con la que trabajes.
+### 3. Si has seguido nuestros tutoriales, elige "MetaMask/TrustWallet", en caso contrario, elige la wallet con la que trabajes.
 
 
 
@@ -26,7 +26,7 @@ Para formar parte en el proceso de creación y votación de nuevas propuestas, t
 
 
 
-### 4. Conecta tu wallet haciendo click en "Unlock" al introducir tu clave.
+### 4. Conecta tu wallet haciendo clic en "Unlock" al introducir tu clave.
 
 
 

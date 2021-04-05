@@ -20,7 +20,7 @@ Sigue los pasos del tutorial [Conectar Wallet para votar y crear propuestas](con
 
 
 
-### 3. **Haz click en la propuesta deseada.**
+### 3. **Haz clic en la propuesta deseada.**
 
 \*\*\*\*
 
@@ -32,7 +32,7 @@ Sigue los pasos del tutorial [Conectar Wallet para votar y crear propuestas](con
 
 ### \*\*\*\*
 
-### **4. Selecciona tu respuesta y haz click en "Vote".**
+### **4. Selecciona tu respuesta y haz clic en "Vote".**
 
 \*\*\*\*
 
