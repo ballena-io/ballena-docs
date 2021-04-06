@@ -22,7 +22,7 @@ After the first start of the application, we will be presented with the followin
 
 
 
-![](https://user-images.githubusercontent.com/79335891/108876340-6adddd00-75fe-11eb-8726-9d7b82e7ef48.png)
+![](../../../../.gitbook/assets/11%20%283%29.png)
 
 ### 
 
@@ -32,7 +32,7 @@ Read carefully everything that appears on the screen.
 
 
 
-![](https://user-images.githubusercontent.com/79335891/108876346-6b767380-75fe-11eb-8e60-0ad2168cbcf9.png)
+![](../../../../.gitbook/assets/22%20%281%29.png)
 
 ### 
 
@@ -49,9 +49,9 @@ When noted, continue**.**
 
 
 
-![](https://user-images.githubusercontent.com/79335891/108876348-6c0f0a00-75fe-11eb-82ef-c52f4cd854bd.png)
+![](../../../../.gitbook/assets/33%20%281%29.png)
 
-![](https://user-images.githubusercontent.com/79335891/108876350-6c0f0a00-75fe-11eb-9f16-b690b89e08c0.png)
+![](../../../../.gitbook/assets/4%20%2810%29.png)
 
 ### 
 
@@ -62,9 +62,9 @@ If we followed the previous step and have backed up the Recovery 12 Words, just 
 
 
 
-![](https://user-images.githubusercontent.com/79335891/108876351-6ca7a080-75fe-11eb-9307-c1411f2a99b9.png)
+![](../../../../.gitbook/assets/5%20%288%29.png)
 
-![](https://user-images.githubusercontent.com/79335891/108876353-6ca7a080-75fe-11eb-8b70-cf69ff6df103.png)
+![](../../../../.gitbook/assets/66%20%281%29.png)
 
 ### 
 
@@ -75,11 +75,15 @@ After going through the backup and verification process, we will be redirected t
   
 
 
-![](https://user-images.githubusercontent.com/79335891/108876357-6d403700-75fe-11eb-9ba2-30c231cd9be2.png)
+![](../../../../.gitbook/assets/7%20%287%29.png)
 
-![](https://user-images.githubusercontent.com/79335891/108876359-6d403700-75fe-11eb-80f2-45b1dba7bf70.png)
+![](../../../../.gitbook/assets/88%20%281%29.png)
 
 From this inicial list of coins, we will focus on **Smart Chain BNB**. Let's see how to receive this coin from Binance:
+
+{% page-ref page="how-to-send-funds-from-binance-to-trustwallet.md" %}
+
+
 
 
 
