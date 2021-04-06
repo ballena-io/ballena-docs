@@ -37,6 +37,10 @@ In the top search bar type "ballena.io" and it will lead us directly to the land
 
 Congratulations! We are almost there. We just need to know how to participate in  [ballena.io ](https://ballena.io/)🐋:
 
+{% page-ref page="participate-in-ballena.io/" %}
+
+
+
 
 
 
