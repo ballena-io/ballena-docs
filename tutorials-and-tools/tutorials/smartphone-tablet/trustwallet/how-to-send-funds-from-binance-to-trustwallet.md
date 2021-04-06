@@ -89,6 +89,10 @@ At the same time, a Trust Wallet notification will confirm the BNB deposit.
 
 We can now proceed to use our **Smart Chain BNB** on the BSC through the Trust Wallet DApps browser:
 
+{% page-ref page="how-to-use-dapps-in-trust-wallet.md" %}
+
+
+
 
 
 
