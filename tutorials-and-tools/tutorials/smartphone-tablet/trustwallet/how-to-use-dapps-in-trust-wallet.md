@@ -22,7 +22,9 @@ Simply select PancakeSwap among the options shown on the interface.
 
 
 
-![](https://user-images.githubusercontent.com/79335891/108876365-6e716400-75fe-11eb-8d5a-40e7c72501cf.png)
+![](../../../../.gitbook/assets/photo6003629256741074233%20%281%29.jpg)
+
+![](../../../../.gitbook/assets/photo6003629256741074232%20%281%29.jpg)
 
 
 
@@ -31,7 +33,7 @@ Simply select PancakeSwap among the options shown on the interface.
 In the top search bar type "ballena.io" and it will lead us directly to the landing we see below:  
 
 
-![](../../../../.gitbook/assets/ballenaio.jpg)
+![](../../../../.gitbook/assets/photo6003629256741074236%20%281%29.jpg)
 
 
 
