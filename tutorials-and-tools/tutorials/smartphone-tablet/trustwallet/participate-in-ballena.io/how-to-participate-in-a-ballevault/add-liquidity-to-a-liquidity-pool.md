@@ -1,4 +1,4 @@
-# Add liquidity to a LP
+# Add liquidity to a Liquidity Pool
 
 ## How to add liquidity in PancakeSwap through Trust Wallet
 

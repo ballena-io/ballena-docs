@@ -4,7 +4,7 @@
 
 You will learn how to add your LP tokens to the BalleVaults in this short tutorial.
 
-Remember that [adding liquidity](add-liquidity-to-a-lp.md) to a pair in PancakeSwap is mandatory in order to participate in a BalleVault as LP tokens are deposited.
+Remember that [adding liquidity](add-liquidity-to-a-liquidity-pool.md) to a pair in PancakeSwap is mandatory in order to participate in a BalleVault as LP tokens are deposited.
 
 
 
