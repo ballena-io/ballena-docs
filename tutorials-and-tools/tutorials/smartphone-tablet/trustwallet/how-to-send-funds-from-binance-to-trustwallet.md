@@ -5,23 +5,27 @@
 Select **Smart Chain BNB** and press "Receive" to find out the "Smart Chain" \(BSC\) address. Copy the address.  
 
 
-​
+![](../../../../.gitbook/assets/sc%20%281%29.png)
 
-![](https://user-images.githubusercontent.com/79335891/108876360-6d403700-75fe-11eb-939b-80df41248836.png)
+![](../../../../.gitbook/assets/ssc%20%281%29.png)
 
-​
+![](../../../../.gitbook/assets/scc%20%281%29.png)
+
+
 
 ### 2. Transfer funds from Binance. <a id="2-depositar-activos-desde-binance"></a>
 
-We will first transfer from Binance to Trust Wallet the BNB we have purchased on previous steps. Know that the following process and the address we have copied are the same for any other asset we want to transfer and use on BSC network.
+We will first transfer from Binance to Trust Wallet the BNB we have purchased on previous steps. Know that the following process and the address we have copied are the same for any other asset we want to transfer to and use on BSC network.
 
-​
+
+
+
 
 ### 3. Open the Binance App. <a id="3-abrir-la-aplicacion-binance"></a>
 
 ​
 
-![](https://gblobscdn.gitbook.com/assets%2F-MTqcMNejtSwviEPBQE6%2F-MUiTjDhcQAs2toI8fNe%2F-MUiVN_muAHlJKkRwqhs%2FScreenshot_20210224-221417.jpg?alt=media&token=cea93565-f942-422c-9f0b-ad683484bff8)
+![](../../../../.gitbook/assets/dfg%20%281%29.jpg)
 
 ​
 
@@ -31,7 +35,7 @@ Click on the "Wallet" icon at the bottom right of the screen.
 
 ​
 
-![](../../../../.gitbook/assets/1615028657935%20%282%29%20%282%29%20%282%29%20%282%29.jpg)
+![](../../../../.gitbook/assets/ing1.jpg)
 
 ​
 
@@ -41,7 +45,7 @@ We will now see the Spot Wallet screen on our device.
 
 ​
 
-![](../../../../.gitbook/assets/1615033140220.jpg)
+![](../../../../.gitbook/assets/ing2.jpg)
 
 ​
 
@@ -49,7 +53,7 @@ We will now see the Spot Wallet screen on our device.
 
 ​
 
-![](../../../../.gitbook/assets/1615033140213.jpg)
+![](../../../../.gitbook/assets/ing3.jpg)
 
 ​
 
@@ -57,7 +61,7 @@ We will now see the Spot Wallet screen on our device.
 
 ​
 
-![](../../../../.gitbook/assets/1615033140205.jpg)
+![](../../../../.gitbook/assets/ing4.jpg)
 
 ​
 
@@ -71,7 +75,7 @@ We will now see the Spot Wallet screen on our device.
 
 ### 10. Enter the desired BNB amount and press "Withdrawal". <a id="10-introducir-el-numero-de-bnb-a-enviar-a-la-billetera-y-pulsar-retirar"></a>
 
-![](../../../../.gitbook/assets/1615033140194.jpg)
+![](../../../../.gitbook/assets/ing5.jpg)
 
 ​
 
@@ -83,7 +87,7 @@ At the same time, a Trust Wallet notification will confirm the BNB deposit.
 
 ### 11. Well done! Funds successfully sent to Trust Wallet. <a id="4-buen-trabajo-has-terminado-de-enviar-tus-criptomonedas-ya-puedes-usar-tus-bnb-en-trustwallet"></a>
 
-We can now proceed to use our Smart Chain BNB on the BSC through the Trust Wallet DApps browser:
+We can now proceed to use our **Smart Chain BNB** on the BSC through the Trust Wallet DApps browser:
 
 
 
