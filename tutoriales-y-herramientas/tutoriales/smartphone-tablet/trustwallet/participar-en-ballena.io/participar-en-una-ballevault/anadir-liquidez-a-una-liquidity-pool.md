@@ -54,7 +54,7 @@ Tener en cuenta que cuando aportamos liquidez, los dos tokens del par aportado y
 
 
 
-Todavía nos falta agregar esos tokens LP a una BalleVault en [**ballena.io**](https://app.ballena.io/)**🐋** y optimizar ganacias de forma exponencial:
+Todavía nos falta agregar esos tokens LP a una BalleVault en [**ballena.io**](https://app.ballena.io/)**🐋** y optimizar ganancias de forma exponencial:
 
 {% page-ref page="agregar-los-tokens-lp-a-una-ballevault.md" %}
 
