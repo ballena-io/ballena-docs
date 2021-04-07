@@ -14,6 +14,17 @@ El proyecto [ballena.io](https://ballena.io/) es **gobernado por la forma de una
 
 
 
+### ¿Cómo puedes controlar el rumbo de proyecto?
+
+Los usuarios que poseen el token BALLE pueden participar en la gobernanza a través de la [plataforma de votación](https://vote.ballena.io/#/ballena). 
+
+Aquí, podrás crear propuestas y votar en las que se encuentren activas. Puedes encontrar más información en los tutoriales de la DAO:
+
+* Crear propuestas.
+* Votar.
+
+
+
 Recibiréis beneficio, por cada token BALLE que poseéis, generado por el rendimiento de la plataforma. También os corresponde el voto en cuanto a cualquier cambio e idea de la plataforma BALLE.
 
 Los usuarios que poseen tokens BALLE y que participan activamente en la App de Gobernanza \(BALLEReward Pool o BALLE Staking Pool\), recibirán el 3% de los beneficios obtenidos por los usuarios en la Yield Optimizer App. 
