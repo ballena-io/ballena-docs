@@ -10,9 +10,9 @@
 
 Total fix supply distributed as:
 
-* **60% - 24000 BALLE tokens:** Distributed among all platform users.
-* **32.5% - 13000 BALLE tokens:** Distributed among BALLE holders as an extra reward.
-* **7.5% - 3000 BALLE tokens:** Dev. Team funds, these are dedicated to the dev team to ensure sustainable and rapid innovation and for promotion actions.
+* **60% - 24000 BALLE tokens:** Distributed among the BalleVaults users.
+* **30% - 12000 BALLE tokens:** Distributed among BALLE holders as an extra reward.
+* **10% - 4000 BALLE tokens:** Dev. Team funds, these are dedicated to the dev team to ensure sustainable and rapid innovation and for promotion actions.
 
 
 
