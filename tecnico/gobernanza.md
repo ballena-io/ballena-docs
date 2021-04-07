@@ -4,9 +4,17 @@ description: TODO add new info
 
 # Gobernanza
 
+## \*\*IN PROGRESS\*\*
+
 ## Gobernanza
 
-¡Poseedores de BALLE! Debido a vuestra participación en el proyecto, gobernáis y poseéis parte del mismo, y por lo tanto, sois merecedores de recibir parte de los beneficios de lo que habéis construido. Recibiréis beneficio, por cada token BALLE que poseéis, generado por el rendimiento de la plataforma. También os corresponde el voto por cualquier cambio e idea de la plataforma BALLE.
+¡Poseedores de BALLE! Debido a vuestra participación en el proyecto, **gobernáis y poseéis parte del mismo**, y por lo tanto, sois merecedores de recibir parte de los beneficios de lo que habéis construido y de la capacidad de dirigir el mismo. 
+
+El proyecto [ballena.io](https://ballena.io/) es **gobernado por la forma de una DAO**, Organización Autónoma Descentralizada. Esto quiere decir que los usuarios de la comunidad que poseen el token de gobernanza, el token BALLE, son los que controlan la organización, y por lo tanto, el proyecto.
+
+
+
+Recibiréis beneficio, por cada token BALLE que poseéis, generado por el rendimiento de la plataforma. También os corresponde el voto en cuanto a cualquier cambio e idea de la plataforma BALLE.
 
 Los usuarios que poseen tokens BALLE y que participan activamente en la App de Gobernanza \(BALLEReward Pool o BALLE Staking Pool\), recibirán el 3% de los beneficios obtenidos por los usuarios en la Yield Optimizer App. 
 
