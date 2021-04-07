@@ -25,7 +25,7 @@ La distribución del total, fijo e inmutable, se compone de:
 **Utilidad:** Las tasas del ecosistema van dirigidas a los usuarios que poseen el token BALLE. 
 
 * El 4% de los beneficios generados de la Yield Optimizer App \(BalleVaults\) se destinan a la compra de tokens BALLE para su posterior distribución entre los participantes de la App de Gobernanza o la Pool de Staking de BALLE y a la tesorería, para gastos operativos de la plataforma.
-* El 10% de los beneficios de la BALLE Stakin Pool se destinan a tesorería para gastos futuros de la DAO. Se trata de una comisión temporal, aplicada mientras se reparten los 12.000 BALLE a través de este pool.
+* El 10% de los beneficios de la BALLE Staking Pool se destinan a tesorería para gastos futuros de la DAO. Se trata de una comisión temporal, aplicada mientras se reparten los 12.000 BALLE a través de este pool.
 
 ## Cómo se distribuyen los tokens BALLE
 
@@ -45,7 +45,7 @@ Cada 3 segundos se distribuye un bloque de la BSC. De este modo, cada bloque dis
 
 ### Distribución entre los usuarios que poseen el token BALLE \(Governance App\).
 
-Los usuarios que poseen tokens BALLE y que participan activamente en la App de Gobernanza \(BALLEReward Pool o BALLE Staking Pool\), recibirán el 3% de los beneficios obtenidos por los usuarios en la Yield Optimizer App. Además de este reparto, estos usuarios serán recompensados con una distribución gradual de 12000 tokens BALLE, como mejora a estos rewards que provienen de las comisiones.
+Los usuarios que poseen tokens BALLE y que participan activamente en la App de Gobernanza \(BALLE Reward Pool o BALLE Staking Pool\), recibirán el 3% de los beneficios obtenidos por los usuarios en la Yield Optimizer App. Además de este reparto, estos usuarios serán recompensados con una distribución gradual de 12000 tokens BALLE, como mejora a estos rewards que provienen de las comisiones.
 
 Esta recompensa extra será distribuida como un multiplicador sobre el retorno generado de la tasa de la Yield Optimizer App. Este multiplicador aparecerá como un x10, x100 o x200 en la pool de gobernanza, o staking pool. De esta manera, el usuario recibirá la parte proporcional de la tasa multiplicada por este factor dependiendo del porcentaje aportado a la pool.
 
@@ -91,7 +91,7 @@ El suministro se encuentra cerrado y no es posible ampliarlo. La cuenta de produ
   * 0x28ef2c802ce26c961fe46cb777876bb532d36a57 [https://bscscan.com/address/0x28ef2c802ce26c961fe46cb777876bb532d36a57](https://bscscan.com/address/0x28ef2c802ce26c961fe46cb777876bb532d36a57)
 * 13.000 BALLE para repartir a través de los pools de gobernanza \(holders de BALLE\), depositados en el contrato: 
   * 0x95b901549d7e9adc63ffb7cd95a5681427259520 [https://bscscan.com/address/0x95b901549d7e9adc63ffb7cd95a5681427259520](https://bscscan.com/address/0x95b901549d7e9adc63ffb7cd95a5681427259520)
-* 3.000 BALLE repartidos al equipo de desarrollo, depositados en los contratos con timelock siguientes:
+* 3.000 BALLE. Fondos destinados a la DAO para proveer liquidez, pagos a los contribuidores, airdrops, etc.
   * Timelock para liquidez inicial, promociones, airdrop - 600 BALLE \(se liberan en el lanzamiento del proyecto\) 
     * 0x0891CC8a8Ee37B5ad28c79Cac6b948caC4e57797 [https://bscscan.com/address/0x0891CC8a8Ee37B5ad28c79Cac6b948caC4e57797](https://bscscan.com/address/0x0891CC8a8Ee37B5ad28c79Cac6b948caC4e57797)
   * Timelock del equipo de desarrollo - 400 BALLE por wallet \(se libera 20% en el lanzamiento, 20% cada 3 meses\) 
