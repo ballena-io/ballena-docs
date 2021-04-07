@@ -12,11 +12,9 @@
 
 La distribución del total, fijo e inmutable, se compone de:
 
-* **60% - 24000 BALLE tokens:** Distribuidos entre todos los usuarios de la plataforma [ballena.io](https://ballena.io/).
-* **32.5% - 13000 BALLE tokens:** Distribuidos entre los holders del token BALLE como recompensa.
-* **7.5% - 3000 BALLE tokens:** Fondos para el Equipo de Desarrollo. Están dedicados al equipo de desarrollo promoviendo la innovación rápida, sostenible y segura de la plataforma, así como para acciones con objeto de promoción.
-
-
+* **60% - 24000 BALLE tokens:** Distribuidos entre todos los usuarios de las BalleVaults \(Bóvedas\) de la plataforma [ballena.io](https://ballena.io/).
+* **30% - 12000 BALLE tokens:** Distribuidos entre los holders del token BALLE a través de la BALLE Staking Pool o Pool de Gobernanza.
+* **10% - 4000 BALLE tokens:** Fondos destinados a la DAO para proveer liquidez, pagos a los contribuidores, airdrops, etc.
 
 ## Detalles:
 
