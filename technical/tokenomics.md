@@ -11,24 +11,26 @@
 Total fix supply distributed as:
 
 * **60% - 24000 BALLE tokens:** Distributed among the BalleVaults users.
-* **30% - 12000 BALLE tokens:** Distributed among BALLE holders as an extra reward.
-* **10% - 4000 BALLE tokens:** Dev. Team funds, these are dedicated to the dev team to ensure sustainable and rapid innovation and for promotion actions.
+* **30% - 12000 BALLE tokens:** Distributed as an extra reward
 
+   among the BALLE holders involved in the BALLE Staking Pool.
 
+* **10% - 4000 BALLE tokens:** DAO funds for purposes such as liquidity, aridrops and contribution rewards.
 
 ## Details:
 
 **Fixed Supply Tokenomics:** All tokens are minted and will be freely distributed. No more minting possible.
 
-**Utility:** Fees from the ecosystem will go to token holders. From our Yield Optimizer, 3% of user gains will be used to buy BALLE and paid it back to token holders.
+**Utility:** Fees from the ecosystem will go to token holders. 
 
-
+* 4% of the revenue from our Yield Optimizer App is distributed among the users who participate in the BALLE Staking Pool \(3%\) and the project´s treasury \(1%\).
+* 10% of the revenue generated at the BALLE Staking Pool is destined to the project´s treasury for the DAO´s future expenses. This is a temporary fee, applicable while the 12,000 BALLE are distributed through this pool.
 
 ## How distribution works
 
 All distribution mechanisms are already implemented in our Smart Contracts. Only a multiplier can be modified in order to adjust the rewards rate for certain pools. All info will be clearly stated on the user interface.
 
-A total of 37000 BALLE tokens will be distributed among Yield Optimizer App and Governance App users accordingly.
+A total of 36000 BALLE tokens will be distributed among Yield Optimizer App and Governance App users accordingly.
 
 
 
