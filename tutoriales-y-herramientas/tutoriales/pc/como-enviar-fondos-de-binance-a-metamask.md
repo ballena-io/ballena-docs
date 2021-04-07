@@ -6,7 +6,7 @@
 
 
 
-### 1. Abrir nuestra página de [Binance](https://www.binance.com/es) e ingresar con nuestra cuenta. Una vez ahí entramos en Billetera-Spot.
+### 1. Abre nuestra página de [Binance](https://www.binance.com/es) e ingresa con nuestra cuenta. Una vez ahí, entramos en Billetera-Spot.
 
 ### 
 
@@ -28,7 +28,7 @@
 
 ### 4. Ahora copiamos nuestra dirección de la red BSC en Metamask.
 
-Hacemos click en la extensión de Metamask en nuestro navegador, y asegurándonos de tener la BSC seleccionada como red \(ver parte superior de la siguiente imagen\), hacer click en la cuenta que aparece, copiando así su dirección.
+Hacemos clic en la extensión de Metamask en nuestro navegador asegurándonos de tener la BSC seleccionada como red \(ver parte superior de la siguiente imagen\). Luego hacemos clic en la cuenta que aparece, copiando así su dirección.
 
 ​
 
@@ -36,9 +36,9 @@ Hacemos click en la extensión de Metamask en nuestro navegador, y asegurándono
 
 ### 
 
-### 5. Por último pegamos nuestra dirección en el campo "Dirección BNB del destinatario", la cantidad deseada de BNB en la parte inferior y le damos a enviar. 
+### 5. Por último, pegamos nuestra dirección en el campo "Dirección BNB del destinatario", la cantidad deseada de BNB en la parte inferior y le damos clic a enviar. 
 
-No tengas prisa, en un par de minutos tus BNB aparecerán en tu Wallet de Metamask.
+No tengas prisa! En unos pocos minutos, tus BNB aparecerán en tu Wallet de Metamask.
 
 ​​
 

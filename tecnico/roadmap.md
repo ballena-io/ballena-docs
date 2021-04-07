@@ -7,7 +7,7 @@ description: Un resumen sobre las tareas llamadas "Epics" en las que estamos tra
 Sabemos que no es exactamente un roadmap, sino una lista de tareas con ningún orden en particular o tiempos estimados. Cada tarea épica de esta lista se subdivide a su vez en pequeñas tareas por el equipo de desarrollo.
 
 {% hint style="info" %}
-Debido a la naturaleza del proyecto trabajamos tan rápido como podemos en lo que consideramos prioritario para cumplir objetivos. La capacidad de reacción y pivotar son esenciales.
+Debido a la naturaleza del proyecto, trabajamos tan rápido como podemos en lo que consideramos prioritario para cumplir objetivos. La capacidad de reacción y pivotar son esenciales.
 {% endhint %}
 
 #### DAO

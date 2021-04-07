@@ -10,7 +10,7 @@ MetaMask es una billetera, o wallet, compatible con ERC20. En este tutorial expl
 
 ### 1. Abre [https://metamask.io/](https://metamask.io/) en tu navegador y descarga la extensión. 
 
-MetaMask soporta los navegadores Chrome, Firefox, Brave and Edge. Hagámoslo en Chrome. Una vez en la web de MetaMask, hacer click en "Download" y luego en "Install MetaMask for Chrome" para obtener la extensión.
+MetaMask soporta los navegadores Chrome, Firefox, Brave and Edge. Hagámoslo en Chrome. Una vez en la web de MetaMask, haz clic en "Download" y luego en "Install MetaMask for Chrome" para obtener la extensión.
 
 ​
 
@@ -22,7 +22,7 @@ MetaMask soporta los navegadores Chrome, Firefox, Brave and Edge. Hagámoslo en 
 
 #### 
 
-### 2. Una vez en la Store de Chrome, haz click en "Add to Chrome". Ahora haz Click en "Add extensión" y el icono de MetaMask aparecerá en la parte superior derecha de tu navegador.
+### 2. Una vez en la Store de Chrome, haz clic en "Add to Chrome". Ahora haz Clic en "Add extensión" y el ícono de MetaMask aparecerá en la parte superior derecha de tu navegador.
 
 ​​
 
@@ -32,7 +32,7 @@ MetaMask soporta los navegadores Chrome, Firefox, Brave and Edge. Hagámoslo en 
 
 #### 
 
-### 3. Ahora haz click en el botón de extensiones, parte superior derecha, y haz click en Pin para el MetaMask para que el icono sea siempre visible.
+### 3. Ahora haz clic en el botón de extensiones, parte superior derecha, y haz clic en Pin para el MetaMask para que el ícono sea siempre visible.
 
 ​​
 
@@ -40,7 +40,7 @@ MetaMask soporta los navegadores Chrome, Firefox, Brave and Edge. Hagámoslo en 
 
 #### 
 
-### 4. Crea una cuenta. Haz click en el botón "Get Started" de Metamask y después en "Create a Wallet". Sigue los siguientes pasos y acepta las condiciones.
+### 4. Crea una cuenta. Haz clic en el botón "Get Started" de Metamask y después en "Create a Wallet". Sigue los siguientes pasos y acepta las condiciones.
 
 ​   ​
 
@@ -90,7 +90,7 @@ Escribe tu frase de recuperación en el recuadro y confirma.​
 
 
 
-### 1. Ahora vamos a configurar la red BSC en tu Wallet. Primero haz click en el desplegable que pone "Ethereum mainnet" y haz click en "Custom RPC" en el menú.
+### 1. Ahora vamos a configurar la red BSC en tu Wallet. Primero haz clic en el desplegable que pone "Ethereum mainnet" y haz clic en "Custom RPC" en el menú.
 
 ​​
 
@@ -98,9 +98,9 @@ Escribe tu frase de recuperación en el recuadro y confirma.​
 
 #### 
 
-### 2. Añade los datos de la BSC que mostramos a continuación y haz click en "Save".
+### 2. Añade los datos de la BSC que mostramos a continuación y haz clic en "Save".
 
-​​En el campo "Chain ID" puedes escribir 0x38 o 56, ya que son equivalentes. No debería precuparos si al hacer click en "Save" los valores se intercambian entre estos dos citados.
+​​En el campo "Chain ID" puedes escribir 0x38 o 56, ya que son equivalentes. No te preocupes si al hacer clic en "Save" los valores se intercambian entre estos dos citados.
 
 
 
@@ -117,4 +117,8 @@ Escribe tu frase de recuperación en el recuadro y confirma.​
 
 
 Sigue con [ballena.io](https://ballena.io/) en los siguientes pasos!
+
+
+
+
 

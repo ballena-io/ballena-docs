@@ -26,7 +26,7 @@ A continuación, pulsamos el botón “Crear cuenta” y completamos la verifica
 
 ![](../../../../.gitbook/assets/binance_4%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%281%29.png)
 
-### 5. Obtener el código de verificación.
+### 5. Obtiene el código de verificación.
 
 Una vez hecho se nos pedirá en la página que introduzcamos un código de verificación que se nos ha enviado al correo electrónico que hemos utilizado para dar el alta.
 
@@ -38,11 +38,11 @@ Nos habrá llegado un correo electrónico de este estilo.
 
 ![](../../../../.gitbook/assets/binance_6%20%281%29%20%281%29%20%281%29.png)
 
-### 6. Introducir el código de verificación.
+### 6. Introduce el código de verificación.
 
 Utiliza el código de seis dígitos enviado a tu correo para completar la verificación.
 
-### 7. Una vez completada la verificación ya estamos dados de alta en Binance y se nos ofrecen tres opciones.
+### 7. Una vez completada la verificación, ya estamos dados de alta en Binance y se nos ofrecen tres opciones.
 
 ![](../../../../.gitbook/assets/binance_7.png)
 
@@ -50,7 +50,7 @@ Para las opciones de depósito Fiat o compra con tarjeta de crédito deberás pa
 
 ### 8. Ya estamos dados de alta en Binance.
 
-Una vez identificados en la plataforma podrás cargar saldo o comprar cripto para pasar a Binance Smart Chain. Estos pasos los podrás ver en el correspondiente tutorial.
+Una vez identificados en la plataforma, podrás cargar saldo o comprar cripto para pasar a Binance Smart Chain. Estos pasos los podrás ver en el correspondiente tutorial.
 
 {% page-ref page="comprar-bnb-en-binance-transferencia-bancaria/depositar-fondos-en-binance.md" %}
 

@@ -1,6 +1,6 @@
 # PC
 
-Te has decidido por el teclado y el ratón. Los pasos a seguir son iguales en cualquier dispositivo, pero tanto las herramientas que usaremos como su funcionamiento serán diferentes. Por eso, en[ ballena.io](https://ballena.io/) hemos querido separarlos para contar con la ayuda más personalizada en cada uno de los dispositivos.
+Te has decidido por el teclado y el ratón. Los pasos a seguir son los mismos en cualquier dispositivo, pero tanto las herramientas que usaremos como su funcionamiento serán diferentes. Por eso, en[ ballena.io](https://ballena.io/) hemos querido separarlos para contar con la ayuda más personalizada en cada uno de los dispositivos.
 
 En el caso del PC, independientemente del sistema operativo con el que contemos, se utilizarán las siguientes herramientas:
 
@@ -11,7 +11,7 @@ El navegador web nos llevará a la web Binance.com y a las Dapps \(aplicaciones 
 
 MetaMask nos permitirá operar e interactuar con estas Dapps. Funciona como un puente entre el navegador y la blockchain Binance Smart Chain \(BSC\), plataforma descentralizada en la que se encuentran estas aplicaciones. 
 
-Recordemos el esquema visto anteriormente y sigamos los pasos de uno en uno para hacer que nuestro dinero pase de estar inmovil en el banco a que esté generando altos rendimientios en[ ballena.io](https://ballena.io/)🐋.
+Recordemos el esquema visto anteriormente y sigamos los pasos de uno en uno para hacer que nuestro dinero pase de estar inmóvil en el banco a que esté generando altos rendimientos en[ ballena.io](https://ballena.io/)🐋.
 
 {% hint style="info" %}
 Ningún paso se deberá realizar sin haber completado el anterior.
@@ -25,7 +25,7 @@ Ningún paso se deberá realizar sin haber completado el anterior.
 
 Puede resultar algo confuso a primera vista, pero cada paso se detalla de modo que lo podamos entender a medida que lo vayamos haciendo. ¡Comencemos!
 
-Para comenzar, hacemos click en el siguiente enlace:
+Para comenzar, hacemos clic en el siguiente enlace:
 
 {% page-ref page="primeros-pasos-binance/" %}
 

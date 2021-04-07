@@ -16,7 +16,7 @@
       * [Comprar BNB en Binance \(Transferencia Bancaria\)](tutoriales-y-herramientas/tutoriales/pc/primeros-pasos-binance/comprar-bnb-en-binance-transferencia-bancaria/README.md)
         * [Depositar fondos en Binance](tutoriales-y-herramientas/tutoriales/pc/primeros-pasos-binance/comprar-bnb-en-binance-transferencia-bancaria/depositar-fondos-en-binance.md)
         * [Convertir tus fondos a BNB en Binance](tutoriales-y-herramientas/tutoriales/pc/primeros-pasos-binance/comprar-bnb-en-binance-transferencia-bancaria/convertir-tus-fondos-a-bnb-en-binance.md)
-      * [Comprar BNB en Binance \(Tarjeta de crédito\)](tutoriales-y-herramientas/tutoriales/pc/primeros-pasos-binance/comprar-bnb-en-binance-tarjeta-de-credito.md)
+      * [Comprar BNB en Binance \(Tarjeta de Crédito\)](tutoriales-y-herramientas/tutoriales/pc/primeros-pasos-binance/comprar-bnb-en-binance-tarjeta-de-credito.md)
     * [Configurar Wallet: Metamask](tutoriales-y-herramientas/tutoriales/pc/configurar-wallet-metamask/README.md)
       * [Cómo configurar Metamask y la red BSC](tutoriales-y-herramientas/tutoriales/pc/configurar-wallet-metamask/como-configurar-metamask-y-la-red-bsc.md)
       * [Cómo añadir un Token personalizado a Metamask](tutoriales-y-herramientas/tutoriales/pc/configurar-wallet-metamask/como-anadir-un-token-personalizado-a-metamask.md)
