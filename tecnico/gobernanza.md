@@ -35,6 +35,8 @@ Esta recompensa extra será distribuida como un multiplicador sobre el retorno g
 
 El beneficio generado del staking del token BALLE en la [Pool de Gobernanza](https://github.com/ballena-io/ballena-docs/tree/7598f81eedce3b787518f11966a2ced4c11c047e/link/README.md) se reciben como BALLE tokens proporcionalmente al número de tokens aportados a la misma. Estos beneficios pueden ser retirados en cualquier momento sin ninguna penalización. ​
 
+## \*\*IN PROGRESS\*\*
+
 ## Seguridad de la Wallet
 
 Estamos orgullosos de anunciar que **Somos el primer proyecto en implementar Gnosis** como sistema Multi-firma en la BSC.
@@ -55,6 +57,8 @@ Para más información acerca del sistema Mulit-firma Gnosis haz clic en el sigu
 
 
 ![](../.gitbook/assets/image.png)
+
+
 
 
 
