@@ -4,8 +4,6 @@ description: TODO add new info
 
 # Gobernanza
 
-## \*\*IN PROGRESS\*\*
-
 ## Gobernanza
 
 ¡Poseedores de BALLE! Debido a vuestra participación en el proyecto, **gobernáis y poseéis parte del mismo**, y por lo tanto, sois merecedores de recibir parte de los beneficios de lo que habéis construido y de la capacidad de dirigir el mismo. 
@@ -39,34 +37,19 @@ El beneficio generado del staking del token BALLE en la [Pool de Gobernanza](htt
 
 Estamos orgullosos de anunciar que **Somos el primer proyecto en implementar Gnosis** como sistema Multi-firma en la BSC.
 
-Las transacciones que tienen que ver con la tesorería del proyecto están protegidas por el sistema multi-firma Gnosis. Estas, por lo tanto, tendrán que ser aprobadas por un mínimo de firmas de usuarios de la comunidad.
+Las **operaciones relacionadas con la tesorería** están vinculadas a un [**sistema multi-firma**](gobernanza.md#seguridad-de-la-wallet) llamado Gnosis. Esto quiere decir que todas las nuevas ideas serán propuestas en comunidad, serán votadas por todos los miembros y que además antes de hacer **cualquier movimiento, este tendrá que ser aprobado previamente por un mínimo de usuarios** de la misma garantizando así la democratización de su trayectoria.  
 
+Para más información haz click en [Seguridad de la Wallet](seguridad-y-riesgos.md#seguridad-de-la-wallet).
 
+## DAO
 
+[ballena.io ](https://ballena.io/)está **100% gestionada por la comunidad** que la compone y todos los miembros de la misma tienen voz y voto para dirigirla. 
 
+Además, la DAO cuenta con una comunidad muy activa en la que los usuarios pueden formar parte del desarrollo del proyecto. Los usuarios pueden unirse a nuestro canal de [Discord](https://discord.gg/ydRbEAaqqc) y familiarizarse con el contenido para **comenzar con sus aportaciones** para mejorar el proyecto**.**
 
+La DAO cuenta con el sistema [SourceCred](https://sourcecred.io/docs/) __para distribuir una **cantidad fija de BALLE por semana en función de las puntuaciones de** _**Cred**_ **y** _**Grain**_ **acumuladas por los usuarios** en Github y los canales de gobernanza en Discord.
 
-
-Una wallet de firma múltiple es una billetera de criptomonedas que controla el acceso y los cambios de uno o varios contratos inteligentes \(Smart Contracts\). La mayoría de los proyectos controlados por la comunidad de la red Ethereum requieren un sistema Multisig, es decir, múltiples firmas, para aprobar una transacción antes de ser ejecutada. 
-
-[ballena.io](https://ballena.io/) es el primer proyecto de la red Binance Smart Chain en implementar Gnosis Safe para controlar nuestra DAO. Hemos implementado una estructura de 2 safes:
-
-1. Protocolo de operación de la tesorería. La tesorería contiene 9 wallets, donde harán falta 6 de 9 firmas de la comunidad que estén de acuerdo con la transacción en cuestión para que un contrato inteligente sea implementado o se haga efectivo cualquier cambio que afecte a los fondos de la tesorería.
-2. Protocolo de emergencia de seguridad. Solo hacen falta 2 firmas principales para llevar a cabo ciertas acciones. Estas acciones incluyen protocolos de emergencia en caso de algún bug, hack o fallo de unas de las vaults, por ejemplo.
-
-
-
-Para más información acerca del sistema Mulit-firma Gnosis haz clic en el siguiente link:
-
-* **Gnosis**: [https://docs.binance.org/smart-chain/developer/gnosis.html](https://docs.binance.org/smart-chain/developer/gnosis.html)
-
-
-
-![](../.gitbook/assets/image.png)
-
-
-
-
+Puedes consultar más información acerca de nuestra DAO en la sección DAO ORGANIZACIÓN, comienza por la [Introducción DAO](../dao-organizacion/introduccion-dao.md) para familiarizarte con la misma.
 
 
 
