@@ -38,7 +38,7 @@ Seleccionamos EUR en la casilla de arriba y USDT en la casilla de abajo. Elegimo
 
 ### 4. Convertir de USDT a BNB
 
-Ahora que tenemos USDT ya podemos comprar los BNB que necesitamos. Vamos a seguir el mismo proceso anterior pero esta vez los USDT en la casilla de arriba y BNB en la casilla de abajo.
+Ahora que tenemos USDT, ya podemos comprar los BNB que necesitamos. Vamos a seguir el mismo proceso anterior, pero esta vez los USDT en la casilla de arriba y BNB en la casilla de abajo.
 
 
 

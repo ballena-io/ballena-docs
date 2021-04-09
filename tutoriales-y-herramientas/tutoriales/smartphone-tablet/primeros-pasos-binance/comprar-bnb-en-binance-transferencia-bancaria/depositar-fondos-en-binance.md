@@ -34,9 +34,9 @@ Leer con detenimiento las notas importantes que emergen en pantalla.
 
 ### 
 
-### 4. Acceder a nuestro banco vía Web o vía App y realizar una transferencia internacional con los datos que se nos han facilitado.
+### 4. Accedemos a nuestro banco vía Web o vía App y realizamos una transferencia internacional con los datos que se nos han facilitado.
 
-En este paso elegiremos la cuantía que deseamos transferir.
+En este paso elegiremos la cantidad que deseamos transferir.
 
 {% hint style="info" %}
 No olvidar añadir el Código de referencia de 4 cifras en el concepto de la transferencia.  

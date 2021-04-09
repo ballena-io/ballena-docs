@@ -54,7 +54,7 @@ Nos aparece una pantalla con el detalle exacto de la operación.
 
 ### 6. Confirmamos.
 
-Revisamos los datos de la transacción y, si estamos conforme, pulsamos “Confirmar”. Tener en cuenta que estas operaciones tienen una validez de 60 segundos, pasado este tiempo se tendrán que recargar.
+Revisamos los datos de la transacción y, si estamos conforme, pulsamos “Confirmar”. Debemos tener en cuenta que estas operaciones tienen una validez de 60 segundos, pasado este tiempo se tendrán que recargar.
 
 
 
