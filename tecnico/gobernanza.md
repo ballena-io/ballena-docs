@@ -29,17 +29,19 @@ Además, el hecho de poseer el token de BALLE y participar en la BALLE Staking P
 
 #### Recompensa extra, ¡12000 BALLE tokens!
 
-Además de este reparto, estos usuarios serán recompensados con una distribución gradual de 12000 tokens BALLE. En resumen, poseer BALLE \(token de suministro limitado\) es muy rentable y además te permite decidir el futuro del poryecto.
+Además de este reparto, estos usuarios serán recompensados con una distribución gradual de 12000 tokens BALLE. En resumen, poseer BALLE \(token de suministro limitado\) es muy rentable y además te permite decidir el futuro del proyecto.
 
 Esta recompensa extra será distribuida como un multiplicador sobre el retorno generado de la tasa de la Yield Optimizer App. Este multiplicador aparecerá como un x10, x100 o x200 en la pool de gobernanza, o staking pool. De esta manera, el usuario recibirá la parte proporcional de la tasa multiplicada por este factor dependiendo del porcentaje aportado a la pool.
 
 El beneficio generado del staking del token BALLE en la [Pool de Gobernanza](https://github.com/ballena-io/ballena-docs/tree/7598f81eedce3b787518f11966a2ced4c11c047e/link/README.md) se reciben como BALLE tokens proporcionalmente al número de tokens aportados a la misma. Estos beneficios pueden ser retirados en cualquier momento sin ninguna penalización. ​
 
-## \*\*IN PROGRESS\*\*
-
 ## Seguridad de la Wallet
 
 Estamos orgullosos de anunciar que **Somos el primer proyecto en implementar Gnosis** como sistema Multi-firma en la BSC.
+
+Las transacciones que tienen que ver con la tesorería del proyecto están protegidas por el sistema multi-firma Gnosis. Estas, por lo tanto, tendrán que ser aprobadas por un mínimo de firmas de usuarios de la comunidad.
+
+
 
 Una wallet de firma múltiple es una billetera de criptomonedas que controla el acceso y los cambios de uno o varios contratos inteligentes \(Smart Contracts\). La mayoría de los proyectos controlados por la comunidad de la red Ethereum requieren un sistema Multisig, es decir, múltiples firmas, para aprobar una transacción antes de ser ejecutada. 
 
