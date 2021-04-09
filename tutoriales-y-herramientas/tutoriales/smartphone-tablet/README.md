@@ -9,9 +9,9 @@ En el caso de los dispositivos móviles se utilizarán las siguientes herramient
 
 La aplicación de Binance será el puente entre nuestro banco y el mundo de las criptomonedas. Después la usaremos para conectar con Trust Wallet.
 
-Y Trust Wallet, a parte de ser una billetera segura donde almacenar nuestras criptomonedas, será nuestra puerta de acceso a la blockchain Binance Smart Chain \(BSC\), plataforma descentralizada en la que operan Dapps \(aplicaciones descentralizadas\) como PancakeSwap y la misma [app.ballena.io](https://app.ballena.io/)🐋.
+Y Trust Wallet, aparte de ser una billetera segura donde almacenar nuestras criptomonedas, será nuestra puerta de acceso a la blockchain Binance Smart Chain \(BSC\), plataforma descentralizada en la que operan Dapps \(aplicaciones descentralizadas\) como PancakeSwap y la misma [app.ballena.io](https://app.ballena.io/)🐋.
 
-Cada paso de este esquema es necesario para hacer que nuestro dinero pase de estar inmovil en el banco a que esté generando altos rendimientios en[ ballena.io](https://ballena.io/)🐋.
+Cada paso de este esquema es necesario para hacer que nuestro dinero pase de estar inmóvil en el banco a que esté generando altos rendimientos en[ ballena.io](https://ballena.io/)🐋.
 
 {% hint style="info" %}
 Ningún paso se deberá realizar sin haber completado el anterior.
@@ -23,7 +23,7 @@ Ningún paso se deberá realizar sin haber completado el anterior.
 
 
 
-Puede resultar algo confuso a primera vista, pero cada paso se detalla de modo que lo podamos entender a medida que lo vayamos haciendo. ¡Comencemos!  
+Puede resultar algo confuso a primera vista, pero cada paso se detallará de modo que lo podamos entender a medida que lo vayamos haciendo. ¡Comencemos!  
 
 
 Para comenzar  nos dirigimos al siguiente enlace:
