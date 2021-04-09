@@ -32,7 +32,7 @@ En una casilla seleccionamos BNB y en la otra elegimos bALBT. Le damos a ****_**
 
 ### 
 
-### 4. Hacemos click en “Supply” y luego en “Confirm Supply”. 
+### 4. Hacemos clic en “Supply” y luego en “Confirm Supply”. 
 
 A continuación, aprobamos la transacción para añadir finalmente nuestros tokens a la plataforma y crear así el par.
 
@@ -46,7 +46,7 @@ A continuación, aprobamos la transacción para añadir finalmente nuestros toke
 
 **Obtendremos tokens LP \(Liquidity Provider\)** que **demuestran que somos proveedores de liquidez** en PancakeSwap y que **representan el valor de nuestra aportación**. A cambio de añadir liquidez, cobraremos una pequeña porción de las comisiones generadas por esa Liquidity Pool.
 
-Tener en cuenta que cuando aportamos liquidez, los dos tokens del par aportado ya no se visualizarán en nuestra billetera de Trust Wallet. En cambio, podremos ver que nos aparece _Pancake LPs_. Estos tienen el mismo valor y son intercambiables en cualquier momento.
+Debemos tener en cuenta que cuando aportamos liquidez, los dos tokens del par aportado ya no se visualizarán en nuestra billetera de Trust Wallet. En cambio, podremos ver que nos aparece _Pancake LPs_. Estos tienen el mismo valor y son intercambiables en cualquier momento.
 
 
 

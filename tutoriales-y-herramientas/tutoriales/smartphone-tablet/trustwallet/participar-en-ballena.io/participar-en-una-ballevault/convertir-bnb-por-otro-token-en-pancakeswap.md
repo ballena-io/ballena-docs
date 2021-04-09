@@ -37,7 +37,7 @@ En el apartado _Trade → Exchange_ de PancakeSwap, partimos con BNB de la casil
 
 ### 4. Estipulamos parámetros de conversión.
 
-Para crear el **par bALBT/BNB necesitaremos las dos monedas a partes iguales**. Por tanto, si disponemos de 2 BNB, necesitaremos **cambiar exactamente 1 BNB por bALBT**. Estipulamos la cantidad de BNB y debajo nos aparecerá la cantidad de bALBT que recibiremos . Pulsamos "Swap" y confirmamos la transacción.
+Para crear el **par bALBT/BNB necesitaremos las dos monedas en partes iguales**. Por lo tanto, si disponemos de 2 BNB, necesitaremos **cambiar exactamente 1 BNB por bALBT**. Estipulamos la cantidad de BNB y debajo nos aparecerá la cantidad de bALBT que recibiremos . Pulsamos "Swap" y confirmamos la transacción.
 
 
 
