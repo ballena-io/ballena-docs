@@ -10,7 +10,7 @@ Este navegador se puede conseguir en la siguiente guía haciendo click [aquí](h
 
 
 
-### 2. Abrir el navegador DApps.
+### 2. Abrimos el navegador DApps.
 
 Una vez que hayamos recargado la billetera, en la aplicación de Trust Wallet, abrimos el navegador DApps presionando los cuatro cuadros en la parte inferior de la pantalla.
 
@@ -20,7 +20,7 @@ Una vez que hayamos recargado la billetera, en la aplicación de Trust Wallet, a
 
 
 
-### 3. Navegar hacia una DApp de Binance Smart Chain como PancakeSwap.
+### 3. Navegamos hacia una DApp de Binance Smart Chain como PancakeSwap.
 
 Simplemente seleccionamos PancakeSwap entre las opciones que nos ofrece la interfaz. 
 
@@ -30,7 +30,7 @@ Simplemente seleccionamos PancakeSwap entre las opciones que nos ofrece la inter
 
 
 
-### 4. Navegar a [ballena.io](https://ballena.io/) 🐋 mediante el navegador DApps.
+### 4. Navegamos a [ballena.io](https://ballena.io/) 🐋 mediante el navegador DApps.
 
 En el buscador de la parte superior introducimos "ballena.io" y nos llevará directamente a la landing que vemos a continuación:
 
