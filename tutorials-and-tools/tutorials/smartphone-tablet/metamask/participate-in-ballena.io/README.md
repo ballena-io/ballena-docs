@@ -8,6 +8,10 @@ Through the steps explained in this section, we will invest our money in a Balle
 
 **Learn more about the method ballena uses to multiply our investment in** [**this link**](../../../../../getting-started-1/getting-started.md)**.**
 
+{% page-ref page="how-to-participate-in-a-ballevault/" %}
+
+\*\*\*\*
+
 ### **2. Provide liquidity for the BALLEv2 tokens in the Staking Pool.**
 
 The BALLEv2 tokens accumulated in the previous process are NOT recommended to be sold or exchanged, as a gradual rise in value is expected over time. The best place for these BALLEv2 is the Staking Pool of[ ballena.io](https://ballena.io/)🐋. This is a DApp developed by our team that offers us the option to **reinvest BALLEv2 tokens to generate more BALLEv2 tokens. The performance is massively exponential.**
@@ -16,7 +20,7 @@ In addition, being holders of BALLEv2, we can be part of the [**Governance**](..
 
 Let's learn about the first step on the next page:
 
-{% page-ref page="how-to-participate-in-a-ballevault/" %}
+{% page-ref page="advanced-how-to-participate-in-the-balle-staking-pool/" %}
 
 
 
