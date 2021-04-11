@@ -1,7 +1,5 @@
 # DAO Rules
 
-\*\***IN PROGRESS**\*\*
-
 Our DAO is a transparent organization managed by the smart contracts. However, its members have the ability to propose and vote on new proposals. For this, a series of rules have been established to guarantee its correct development.
 
 * Any member of the BALLE Governance \(who owns the BALLE token\) can **create proposals**.
