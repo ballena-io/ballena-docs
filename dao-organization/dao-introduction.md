@@ -35,6 +35,8 @@ That is exactly what our DAO is, this is what is all about.
 
 You will be able to **propose new ideas** which will be studied and voted among all members in the community seeking the success of the project.
 
+You can also take part in the dev. proccess of the project and get involved in our Discord channels to start contributing. More information in [Our dev. Team](our-dev.-team.md).
+
 The tr**easury related operations rely on a** [**Multi-signature system called Gnosis**](../technical/governance.md#wallet-safety). This means the new ideas will be proposed in our community, voted by all members and before **any transaction or change** becomes effective, it **will need** **the approval of a minimum number of users**.
 
   
