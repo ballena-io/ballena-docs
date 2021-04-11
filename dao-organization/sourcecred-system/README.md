@@ -18,7 +18,7 @@ To be eligible for these rewards, community members should participate in this c
 
 The introduction of ‘soft’ incentives around governance in Maker have improved the quantity, quality and diversity of contributions.
 
-We aim to **empower these contributions in the** [**ballena.io** ](https://ballena.io/)**ecosystem via a suite of governance incentive programs**. We believe that there is a much broader space for participation in the BALLE community from people and groups who may not have the capital to become LPs, or who otherwise choose not to do so.
+We aim to **empower these contributions in the** [ballena.io ](https://ballena.io/)**ecosystem via a suite of governance incentive programs**. We believe that there is a much broader space for participation in the BALLE community from people and groups who may not have the capital to become LPs, or who otherwise choose not to do so.
 
 After the last dev. team meeting, the issues related to token distribution regarding this last team arose. As [ballena.io](https://ballena.io/) aims a community led DAO, **the contribution rewarding system should be a major concern** for the design of this project.
 
@@ -26,19 +26,13 @@ We are committed for a **long-term sustainable project**, meaning we are committ
 
 This is the way we found to be the most suitable for what we, at [ballena.io](https://ballena.io/), are aiming for. Our goal is to **bring together the greatest thinkers**, work together in innovative solutions and continue evolving as a **unique project for the long-term**.
 
-
-
 The **tokens will be distributed as a reward to contributors individually based upon the Cred´s score gained by contributing on the required tasks**. The idea for the rewards distribution is mainly based upon the cred system’s analytics. However, human intervention will be required to readjust these values for the proper compensation for users’ work. The dev. team leaders will supervise this analytics and readjust the cred’s parameters consequently.
 
-This way, community members will be eligible for task performing and being rewarded with BALLE tokens to do so. Leaders will publish contributor vacants and simple tasks when required. Enroll to your area of interest as a contributor or perform these simple tasks for earning the rewards you deserve!
-
-Find **more information about development areas, leaders and tasks in the following link to the organization document below**. Here, you will also find information regarding **vacant positions** of the new available areas, which will be voted in the following hours.
-
-* **Link**: [https://docs.google.com/spreadsheets/d/1xN\_0I3ceNBnqHzByvokrSUpqWjYQXA\_j15S3oMZ-pvA/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1xN_0I3ceNBnqHzByvokrSUpqWjYQXA_j15S3oMZ-pvA/edit?usp=sharing)
+This way, community members will be eligible for task performing and being rewarded with BALLE tokens to do so. Leaders will publish contributor vacants and simple tasks when required. 
 
 ## Specification <a id="11ad"></a>
 
-The [**ballena.io**](https://ballena.io/) [SourceCred Instance](https://cred.ballena.io/#/) was set up in March 2021 and has been collecting contribution data for the past ~2 weeks.
+The [ballena.io](https://ballena.io/) [SourceCred Instance](https://cred.ballena.io/#/) was set up in March 2021 and has been collecting contribution data ever since.
 
 We propose that BALLE tokens are **distributed to contributors based on the Cred scores** recorded by SourceCred **and the subsequent grain \(or BALLE\) scores** earned among active participants. For more on how this works, please see this [documentation](https://sourcecred.io/docs/beta/grain/).
 
@@ -68,7 +62,7 @@ This way, contributors will be able to leave the dev. efforts for a few days wit
 
 ## Drawbacks <a id="4839"></a>
 
-Some points to consider around the introduction of SourceCred incentives for contributions to the [**ballena.io**](https://ballena.io/) ****Discord and Github sites:
+Some points to consider around the introduction of SourceCred incentives for contributions to the [ballena.io](https://ballena.io/) ****Discord and Github sites:
 
 * There is potential for this program to be exploited using bots or through collusion between actors. We will be monitoring the rewards distributed by the instance and will take action if malicious activity occurs.
 * The corresponding cred could be misleading as the algo could not correctly rate users´ contribution. Please note that the dev. team will closely follow-up the cred´s steps and take action if necessary.
@@ -76,4 +70,10 @@ Some points to consider around the introduction of SourceCred incentives for con
 ## Notes <a id="2169"></a>
 
 Please note that this program aims to ramp up in the event that it is successful, and we believe that starting with smaller allocations and building up as time goes on is the best way to approach these incentives.
+
+If you have ideas on how to improve our system, join [Discord](https://discord.gg/PuypCMpE)!
+
+
+
+
 
