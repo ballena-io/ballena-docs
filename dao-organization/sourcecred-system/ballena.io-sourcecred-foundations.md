@@ -76,6 +76,8 @@ This channel is used to **mention a user** who has helped you in private, as far
 
 Therefore, all **posts must be accompanied by a mention**. Otherwise, your contribution will be invalidated.
 
+
+
 ### \#🎉éxito <a id="d98d"></a>
 
 In this channel, users **publish feats and contributions of great value** made, so that the rest of the members can thank them. 
