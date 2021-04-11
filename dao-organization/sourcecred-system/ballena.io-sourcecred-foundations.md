@@ -78,9 +78,9 @@ Therefore, all **posts must be accompanied by a mention**. Otherwise, your contr
 
 ### \#🎉éxito <a id="d98d"></a>
 
-In this channel, users **publish feats or contributions of great value** made so that the rest of the members can thank them. 
+In this channel, users **publish feats and contributions of great value** made, so that the rest of the members can thank them. 
 
-This way, the **users of the community will be able to react to these publications made by the contributor, thus granting them the cred** they deserve.
+This way, the **users of the community will be able to react to these publications made by the contributor, thus granting them the Cred** they deserve.
 
 ## Distribution of Grain \(BALLE Token\) <a id="967e"></a>
 
