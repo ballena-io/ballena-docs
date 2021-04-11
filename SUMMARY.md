@@ -84,7 +84,6 @@
 * [DAO Rules](dao-organization/dao-rules.md)
 * [How to be part of the DAO](dao-organization/how-to-be-part-of-the-dao.md)
 * [Our dev. Team](dao-organization/our-dev.-team.md)
-* [Contributors & Devs.](dao-organization/contributors-and-devs..md)
 * [SourceCred System](dao-organization/sourcecred-system/README.md)
   * [ballena.io SourceCred foundations](dao-organization/sourcecred-system/ballena.io-sourcecred-foundations.md)
 * [Trust Levels](dao-organization/trust-levels.md)
