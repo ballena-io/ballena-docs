@@ -1,4 +1,4 @@
-# Our dev. Team
+# Our Dev. Team
 
 The [ballena.io](https://ballena.io/) project is **driven by its community members** who  actively participate in it. They contribute content to the project in their areas of knowledge and skills, trying to bring together the best thinking heads to obtain the best results in each of the areas.
 
