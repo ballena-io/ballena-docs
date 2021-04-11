@@ -4,7 +4,7 @@
 
 In addition, our DAO has a very active community in which users can take part in the development process of the project. Users can join our [Discord](https://discord.gg/ydRbEAaqqc) channel and familiarize themselves with the content to begin their contribution to improve the project. 
 
-Our DAO relies on the [SourceCred ](sourcecred-system.md)system to distribute a **fixed amount of BALLE per week based on the Cred and Grain scores accumulated by users** on Github and the governance channels on Discord.
+Our DAO relies on the [SourceCred ](sourcecred-system/)system to distribute a **fixed amount of BALLE per week based on the Cred and Grain scores accumulated by users** on Github and the governance channels on Discord.
 
 
 
