@@ -1,6 +1,6 @@
 # Introducción DAO
 
-## **FINANZAS DESCENTRALIZADAS PARA TODO EL MUNDO** 
+## **Finanzas descentralizadas para todo el mundo** 
 
 \*\*\*\*[**ballena.io** ](https://ballena.io/)**está 100% gestionada por la comunidad que la compone y todos los miembros de la misma tienen voz y voto para dirigirla.**   
   

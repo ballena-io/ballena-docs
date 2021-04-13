@@ -23,7 +23,7 @@ Además, el hecho de poseer el token de BALLE y participar en la BALLE Staking P
 
 
 
-#### Recompensa extra, ¡12000 BALLE tokens!
+### Recompensa extra, ¡12000 BALLE tokens!
 
 Además de este reparto, estos usuarios serán recompensados con una distribución gradual de 12000 tokens BALLE. En resumen, poseer BALLE \(token de suministro limitado\) es muy rentable y además te permite decidir el futuro del proyecto.
 
