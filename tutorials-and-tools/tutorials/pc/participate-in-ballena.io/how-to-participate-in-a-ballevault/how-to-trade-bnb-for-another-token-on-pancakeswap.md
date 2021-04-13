@@ -2,7 +2,9 @@
 
 In this tutorial we are going to learn how to trade your BNB for another token. This way we will be able to add liquidity to the selected pair and we will add LP tokens to a BalleVault.
 
-‌**Remember**: In order to add liquidity to a LP pair we will need the same vaule for both assets. You will have to make the swap in an exchange if you only hold BNB.
+{% hint style="info" %}
+In order to add liquidity to a LP pair we will need the same vaule for both assets. You will have to make the swap in an exchange if you only hold BNB.
+{% endhint %}
 
 ‌In this example we will swap BNB for Balbt.
 
