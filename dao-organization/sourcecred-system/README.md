@@ -1,7 +1,5 @@
 # SourceCred System
 
- **\*\* IN PROGRESS** \*\*
-
 We have created this governance mechanism to encourage community members and liquidity providers to participate in it and to **compensate these people** for doing so.
 
 The first initiative as part of this incentive program is the **implementation of a** [SourceCred](https://sourcecred.io/docs/) __**instance** to track contributions to the [ballena.io](https://ballena.io/) community.
