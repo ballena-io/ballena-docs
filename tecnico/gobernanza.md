@@ -4,9 +4,7 @@ description: TODO add new info
 
 # Gobernanza
 
-## Gobernanza
-
-¡Poseedores de BALLE! Debido a vuestra participación en el proyecto, **gobernáis y poseéis parte del mismo**, y por lo tanto, sois merecedores de recibir parte de los beneficios de lo que habéis construido y de la capacidad de dirigir el mismo. 
+¡Poseedores de BALLE! Debido a tu participación en el proyecto, **gobiernan y poseen parte del mismo**, y por lo tanto, son merecedores de recibir parte de los beneficios de lo que han construido y de la capacidad de dirigir el mismo. 
 
 El proyecto [ballena.io](https://ballena.io/) es **gobernado por la forma de una DAO**, Organización Autónoma Descentralizada. Esto quiere decir que los usuarios de la comunidad que poseen el token de gobernanza, el token BALLE, son los que controlan la organización, y por lo tanto, el proyecto.
 
@@ -39,7 +37,7 @@ Estamos orgullosos de anunciar que **Somos el primer proyecto en implementar Gno
 
 Las **operaciones relacionadas con la tesorería** están vinculadas a un [**sistema multi-firma**](gobernanza.md#seguridad-de-la-wallet) llamado Gnosis. Esto quiere decir que todas las nuevas ideas serán propuestas en comunidad, serán votadas por todos los miembros y que además antes de hacer **cualquier movimiento, este tendrá que ser aprobado previamente por un mínimo de usuarios** de la misma garantizando así la democratización de su trayectoria.  
 
-Para más información haz click en [Seguridad de la Wallet](seguridad-y-riesgos.md#seguridad-de-la-wallet).
+Para más información haz clic en [Seguridad de la Wallet](seguridad-y-riesgos.md#seguridad-de-la-wallet).
 
 ## DAO
 
