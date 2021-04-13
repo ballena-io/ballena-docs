@@ -1,6 +1,6 @@
 # Seguridad y Riesgos
 
-En el mundo de las criptomonedas, especialmente en el espacio de las Finanzas Descentralizadas \(DeFi\), los usuarios tienen que entender los riesgos asociados a los proyectos y los contratos inteligentes \(Smart contracts\) antes de aventurarse en el mismo. Nosotros lo llamamos "DYOR" \(Do Your Own Research\), o lo que es lo mismo, estudia el caso por tu cuenta antes de entrar.
+En el mundo de las criptomonedas, especialmente en el espacio de las Finanzas Descentralizadas \(DeFi\), los usuarios deben entender los riesgos asociados a los proyectos y los contratos inteligentes \(Smart contracts\) antes de aventurarse en el mismo. Nosotros lo llamamos "DYOR" \(Do Your Own Research\), o lo que es lo mismo, estudia el caso por tu cuenta antes de entrar.
 
 
 
@@ -24,12 +24,12 @@ Una wallet de firma múltiple es una billetera de criptomonedas que controla el 
 
 [ballena.io](https://ballena.io/) es el primer proyecto de la red Binance Smart Chain en implementar Gnosis Safe para controlar nuestra DAO. Hemos implementado una estructura de 2 safes:
 
-1. Protocolo de operación de la tesorería. La tesorería contiene 9 wallets, donde harán falta 6 de 9 firmas de la comunidad que estén de acuerdo con la transacción en cuestión para que un contrato inteligente sea implementado o se haga efectivo cualquier cambio que afecte a los fondos de la tesorería.
-2. Protocolo de emergencia de seguridad. Solo hacen falta 2 firmas principales para llevar a cabo ciertas acciones. Estas acciones incluyen protocolos de emergencia en caso de algún bug, hack o fallo de unas de las vaults, por ejemplo.
+1. Protocolo de operación de la tesorería: La tesorería contiene 9 wallets, donde harán falta 6 de 9 firmas de la comunidad que estén de acuerdo con la transacción en cuestión para que un contrato inteligente sea implementado o se haga efectivo cualquier cambio que afecte a los fondos de la tesorería.
+2. Protocolo de emergencia de seguridad: Solo hacen falta 2 firmas principales para llevar a cabo ciertas acciones. Estas acciones incluyen protocolos de emergencia en caso de algún bug, hack o fallo de unas de las vaults, por ejemplo.
 
 
 
-Para más información acerca del sistema Mulit-firma Gnosis haz click en el siguiente link:
+Para más información acerca del sistema Mulit-firma Gnosis haz clic en el siguiente link:
 
 * **Gnosis**: [https://docs.binance.org/smart-chain/developer/gnosis.html](https://docs.binance.org/smart-chain/developer/gnosis.html)
 
