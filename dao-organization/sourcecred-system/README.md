@@ -52,7 +52,7 @@ Project development takes place on several GitHub repositories managed by front 
 
 The proposed **funding for SourceCred incentives consist of 40 BALLE per week**.
 
-This total quantity of tokens is the sum of 10 tokens, corresponding to the contributions made during the same week and 30 tokens, which correspond to the contributions made during the past 10 weeks, approximately.
+This total quantity of tokens is the sum of 30 tokens, corresponding to the contributions made during the same week and 10 tokens, which correspond to the contributions made during the past 10 weeks, approximately.
 
 Based on a weekly decay of 0.16, the 50% of the total rewards is distributed in accordance to the contributions made during the whole month, the 25% is distributed according to the last month´s contributions, the 12.5% is distributed in accordance to the one before, and so on.
 
