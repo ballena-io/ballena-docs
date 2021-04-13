@@ -4,11 +4,11 @@
 
 
 
-### 1. Abre nuestra página de [Binance](https://www.binance.com/es) e ingresa con nuestra cuenta. Una vez ahí, entramos en Billetera-Spot.
+### 1. Abrimos [Binance](https://www.binance.com/es) e ingresamos con nuestra cuenta. Una vez ahí, entramos en _Billetera **→**Spot_.
 
 ### 
 
-### ​2. Selecciona “Retirar” en la línea del Token BNB.
+### ​2. Seleccionamos “Retirar” en la parte derecha de la línea de la moneda BNB.
 
 
 
@@ -16,7 +16,7 @@
 
 ### 
 
-### 3. El siguiente paso será rellenar los campos del cuadro de la parte derecha del panel. Lo primero que tendremos que hacer aquí es seleccionar "Binance Smart Chain \(BSC\)".
+### 3. El siguiente paso será rellenar los campos del cuadro de la parte derecha del panel. Lo primero que tendremos que hacer aquí es seleccionar _Binance Smart Chain \(BSC\)_.
 
 ​​
 
@@ -26,7 +26,7 @@
 
 ### 4. Ahora copiamos nuestra dirección de la red BSC en Metamask.
 
-Hacemos clic en la extensión de Metamask en nuestro navegador asegurándonos de tener la BSC seleccionada como red \(ver parte superior de la siguiente imagen\). Luego hacemos clic en la cuenta que aparece, copiando así su dirección.
+Hacemos clic en la extensión de Metamask en nuestro navegador **asegurándonos de tener la BSC seleccionada** como red \(ver parte superior de la siguiente imagen\). Luego hacemos clic en la cuenta que aparece, copiando así la dirección.
 
 ​
 
@@ -34,9 +34,9 @@ Hacemos clic en la extensión de Metamask en nuestro navegador asegurándonos de
 
 ### 
 
-### 5. Por último, pegamos nuestra dirección en el campo "Dirección BNB del destinatario", la cantidad deseada de BNB en la parte inferior y le damos clic a enviar. 
+### 5. Por último, pegamos nuestra dirección en el campo "Dirección BNB del destinatario" y es muy importante que en "Red de transferencia" nos aseguremos de seleccionar _Binance Smart Chain \(BSC_\).
 
-No tengas prisa! En unos pocos minutos, tus BNB aparecerán en tu Wallet de Metamask.
+Más abajo, la cantidad deseada de BNB y le damos a enviar. No hay prisa! En unos pocos minutos, los BNB aparecerán en nuestra Wallet de Metamask.  
 
 ​​
 
