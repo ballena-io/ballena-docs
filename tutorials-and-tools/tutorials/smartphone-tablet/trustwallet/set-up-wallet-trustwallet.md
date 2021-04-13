@@ -2,8 +2,7 @@
 
 ## Setting up Trust Wallet for the Binance Smart Chain
 
-Trust Wallet can be downloaded from the following[ link](https://share.trustwallet.com/kuBobNL1Mab). It is always recommended updating the application to the latest version.  
-
+Trust Wallet can be downloaded from the following[ link](https://share.trustwallet.com/kuBobNL1Mab). It is always recommended updating the application to the latest version.
 
 
 
@@ -37,6 +36,10 @@ Read carefully everything that appears on the screen.
 ### 
 
 ### 4. Write down Recovery Phrase.
+
+{% hint style="warning" %}
+Remember to **write this phrase down in the right order, store it in a safe place** \( preferably offline\) and never disclose it to anyone. T**he failure to do so could mean the total loss of your funds.**
+{% endhint %}
 
 {% hint style="warning" %}
 Remember to **write this phrase down in the right order, store it in a safe place** \(preferably offline\) and never disclose it to anyone. **The failure to do so could mean the total loss of your funds.**
