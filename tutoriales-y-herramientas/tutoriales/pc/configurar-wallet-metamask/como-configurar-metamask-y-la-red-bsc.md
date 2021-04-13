@@ -1,6 +1,6 @@
-# Cómo configurar Metamask y la red BSC
+# Cómo configurar MetaMask y la red BSC
 
-MetaMask es una billetera, o wallet, compatible con ERC20. En este tutorial explicaremos cómo configurar una wallet en MetaMask desde el comienzo. Además veremos cómo configurar la red BSC para la misma.
+En este tutorial explicaremos cómo descargar y abrir una cuenta en MetaMask desde el comienzo. Además veremos cómo configurar la red BSC.
 
 
 
@@ -38,7 +38,9 @@ MetaMask soporta los navegadores Chrome, Firefox, Brave and Edge. Hagámoslo en 
 
 #### 
 
-### 4. Crea una cuenta. Haz clic en el botón "Get Started" de Metamask y después en "Create a Wallet". Sigue los siguientes pasos y acepta las condiciones.
+### 4. Crea una cuenta. Haz clic en el botón "Get Started" de Metamask y después en "Create a Wallet". 
+
+Sigue los siguientes pasos y acepta las condiciones.
 
 ​   ​
 
@@ -63,7 +65,7 @@ MetaMask soporta los navegadores Chrome, Firefox, Brave and Edge. Hagámoslo en 
 ### 6. Secret Backup Phrase. 
 
 {% hint style="warning" %}
-**Asegúrate de guardar las palabras de recuperación** en un lugar seguro, preferentemente offline. **Recuerda** **anotarlas exactamente en el mismo orden** que aparecen en nuestra pantalla, ya que de lo contrario no sería válida y **su pérdida ocasionaría la pérdida total de los fondos.**
+**Asegúrate de guardar las palabras de recuperación** en varios lugares seguros, preferentemente offline, como una libreta y una placa metálica. **Recuerda** **anotarlas exactamente en el mismo orden** que aparecen en nuestra pantalla, ya que de lo contrario no sería válida y **su pérdida ocasionaría la pérdida total de los fondos.**
 {% endhint %}
 
 Escribe tu frase de recuperación en el recuadro y confirma.​
