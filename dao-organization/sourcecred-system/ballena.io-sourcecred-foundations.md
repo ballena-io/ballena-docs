@@ -1,7 +1,5 @@
 # ballena.io SourceCred foundations
 
- **\*\* IN PROGRESS** \*\*
-
 ## The Graph <a id="9c7b"></a>
 
 [**ballena.io**](https://ballena.io/) is powered by the **SourceCred graph**. We, the BALLE community, build our own personal version of SourceCred that is tailored to **our specific requirements and needs**. It represents Decentralized Autonomous Value.
@@ -54,11 +52,10 @@ SourceCred uses weights to measure how much Cred you want to give. Is important 
 
 #### **Role weights**
 
-* no role — — — — — 0x
-* @ premium — — — 0x
-* @ oldfags — — — —0x
-* @ contributors — —2x
-* @ team- leads — — 3x
+* @ TL0 Newcomer — — — 0x
+* @ TL1 Community — — —0x
+* @ TL2 Contributor — — —2x
+* @ TL3 Team Lead — — —3x
 
 #### **Emoji weights**
 
