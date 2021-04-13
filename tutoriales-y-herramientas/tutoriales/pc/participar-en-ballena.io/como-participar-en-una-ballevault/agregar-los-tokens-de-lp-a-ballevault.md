@@ -1,6 +1,4 @@
-# Agregar los tokens de LP a BalleVault
-
-## Agregar los LP tokens a la BalleVault correspondiente en [ballena.io](https://ballena.io/)
+# Agregar los tokens de LP a BalleVault correspondiente en ballena.io
 
 En este pequeño tutorial [ballena.io](https://ballena.io/) os muestra cómo agregar los LP tokens a las BalleVaults.
 

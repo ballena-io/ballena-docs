@@ -1,6 +1,4 @@
-# BALLE Staking Pool
-
-### BALLE Staking Pool \(App de Gobernanza\)
+# BALLE Staking Pool \(App de Gobernanza\)
 
 Aquí podemos proveer liquidez al staking pool del token BALLE. Es una forma de inversión en la que añades liquidez exclusivamente del token BALLE. Esto, por lo tanto, genera retorno en token BALLE, contribuyendo además a su revalorización y el potenciamiento de la plataforma. 
 

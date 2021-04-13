@@ -1,7 +1,5 @@
 # ¿Qué podemos hacer en ballena.io?
 
-## ¿Qué podemos hacer en [ballena.io](https://ballena.io/)🐋?
-
 ### Ramas de actuación
 
 1. [Gobernanza ](../tecnico/gobernanza.md)y [staking](../tecnico/productos/balle-staking-pool.md#balle-staking-pool-app-de-gobernanza).

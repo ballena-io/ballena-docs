@@ -1,7 +1,5 @@
 # Cómo enviar fondos de Binance a Metamask
 
-## Cómo enviar fondos de Binance a Metamask
-
 [ballena.io](https://ballena.io/)🐋 te ayuda a transferir tus fondos desde Binance a Metamask en 5 sencillos pasos. ¡Vamos allá!
 
 

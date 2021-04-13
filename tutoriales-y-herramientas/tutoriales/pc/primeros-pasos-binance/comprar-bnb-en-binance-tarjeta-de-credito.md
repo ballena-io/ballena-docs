@@ -1,7 +1,5 @@
 # Comprar BNB en Binance \(Tarjeta de Crédito\)
 
-## Cómo comprar Cripto en Binance \(Tarjeta de Crédito\)
-
 Si no deseamos depositar fondos a través de una transferencia bancaria para su posterior conversión a BNB, podremos comprar BNB directamente con nuestra tarjeta de crédito. Esta transacción suele requerir el pago de una tasa algo más alta, aunque el proceso es mucho más rápido y sencillo. Para comprar cripto con tarjeta de crédito en Binance, lo haremos de la siguiente manera.
 
 ### 1. Pulsa el botón “Comprar Cripto” del menú de la Barra superior en Binance.

@@ -1,6 +1,4 @@
-# Configurar Wallet: Trust Wallet
-
-## Configuración de una billetera Trust Wallet para Binance Smart Chain
+# Cómo configurar una billetera Trust Wallet para Binance Smart Chain
 
 Se puede descargar la billetera de Trust Wallet desde el siguiente [link](https://share.trustwallet.com/kuBobNL1Mab). Siempre se recomienda actualizar la aplicación a la última versión. 
 

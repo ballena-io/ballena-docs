@@ -1,6 +1,4 @@
-# Agregar los tokens LP a una BalleVault
-
-## Cómo añadir los tokens LP a una BalleVault \(bóveda\) en [**ballena.io**](https://ballena.io/)**🐋.**
+# Cómo agregar los tokens LP a una BalleVault \(bóveda\) en ballena.io
 
 
 

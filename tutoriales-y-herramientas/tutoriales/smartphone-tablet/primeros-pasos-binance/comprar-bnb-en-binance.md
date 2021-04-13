@@ -1,6 +1,4 @@
-# Comprar BNB en Binance \(Tarjeta de crédito\)
-
-## Cómo comprar BNB en Binance a través de Smartphone/Tablet \(Tarjeta de Crédito\)
+# Cómo comprar BNB en Binance a través de Smartphone/Tablet \(Tarjeta de crédito\)
 
 Esta opción ofrece una compra directa de BNB a traves de la Tarjeta de Crédito, sin necesidad de esperas de deposito ni tampoco conversiones. Debemos saber que la comisión aplicada a este proceso es del 1.8%.
 

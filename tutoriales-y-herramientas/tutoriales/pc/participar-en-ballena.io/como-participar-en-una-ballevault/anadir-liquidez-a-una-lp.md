@@ -1,6 +1,4 @@
-# Añadir liquidez a una LP
-
-## Cómo añadir liquidez a una LP en PancakeSwap
+# Cómo añadir liquidez a una LP en PancakeSwap
 
 En muchas ocasiones querrás añadir liquidez en PancakeSwap para obtener un rendimiento en base a estos tokens LP en [ballena.io](https://ballena.io/). Para eso es necesario acceder a [Pancakeswap ](https://pancakeswap.finance/)donde podremos añadir liquidez al par que queramos. Hay que tener en cuenta que hay que proporcionar el mismo valor en los dos tokens que utilicemos para añadir liquidez, si no tenemos suficientes deberemos utilizar la opción swap y realizar los cambios que necesitemos.
 

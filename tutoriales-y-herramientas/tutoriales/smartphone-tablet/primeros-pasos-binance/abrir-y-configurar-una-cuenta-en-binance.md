@@ -1,6 +1,4 @@
-# Abrir y configurar una cuenta en Binance
-
-## Abrir y configurar una cuenta en Binance - Smartphone/Tablet
+# Abrir y configurar una cuenta en Binance - Smartphone/Tablet
 
 Para poder empezar a trabajar en el mundo de las criptomonedas, es indispensable darse de alta en un exchange. Podemos utilizar cualquier exchange que disponga de la moneda BNB. Este tutorial se centra en[ Binance](https://www.binance.com/es), por lo tanto, lo mejor será seguirlo al pie de la letra.  
 

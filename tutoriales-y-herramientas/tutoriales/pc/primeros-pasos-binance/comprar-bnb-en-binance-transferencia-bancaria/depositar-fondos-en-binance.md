@@ -1,6 +1,4 @@
-# Depositar fondos en Binance
-
-## Cómo depositar fondos en Binance \(Transferencia Bancaria SEPA\)
+# Cómo depositar fondos en Binance \(Transferencia Bancaria SEPA\)
 
 Para cargar fondos en Binance lo haremos de la siguiente manera.
 

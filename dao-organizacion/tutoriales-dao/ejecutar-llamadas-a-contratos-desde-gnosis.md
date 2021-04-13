@@ -1,6 +1,4 @@
-# Ejecutar llamadas a contratos desde Gnosis
-
-## Cómo Ejecutar llamadas a contratos desde Gnosis
+# Cómo ejecutar llamadas a contratos desde Gnosis
 
 ### 1. **Crear nueva transacción desde el safe que corresponda.**  
 

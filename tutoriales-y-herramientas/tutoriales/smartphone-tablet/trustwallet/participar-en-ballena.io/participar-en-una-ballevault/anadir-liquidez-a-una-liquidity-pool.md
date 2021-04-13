@@ -1,6 +1,4 @@
-# Añadir liquidez a una Liquidity Pool
-
-## Cómo añadir liquidez en PancakeSwap con Trust Wallet
+# Cómo añadir liquidez en PancakeSwap a una Liquidity Pool en Trust Wallet
 
 Se puede añadir liquidez del par que queramos, siempre y cuando las dos monedas del par estén a partes iguales y que la plataforma [**ballena.io**](https://app.ballena.io/)**🐋** cuente con el mismo. En este tutorial nos centraremos en añadir liquidez del par bALBT/BNB.
 

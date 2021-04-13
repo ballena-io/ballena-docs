@@ -1,7 +1,5 @@
 # Cómo usar DApps en Trust Wallet
 
-## Cómo usar las DApps de Binance Smart Chain
-
 
 
 ### 1. Para poder acceder a esta funcionalidad en Trust Wallet, los usuarios de iOS necesitan el navegador DApps.
