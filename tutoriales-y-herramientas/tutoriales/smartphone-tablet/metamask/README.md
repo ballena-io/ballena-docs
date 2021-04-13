@@ -1,4 +1,2 @@
 # Metamask
 
-\*\***IN PROGRESS**\*\*
-
