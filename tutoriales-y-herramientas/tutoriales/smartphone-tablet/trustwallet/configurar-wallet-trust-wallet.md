@@ -34,7 +34,7 @@ A partir de aquí, leemos con detenimiento todo lo que sale en pantalla. Hay que
 ### 4. Guardamos las Palabras Clave de Recuperación.
 
 {% hint style="warning" %}
-**Esta es la parte más importante** de la configuración de una billetera, las Palabras de Recuperación son las claves de nuestra billetera criptográfica. **Nos aseguramos de guardarlas** en un lugar seguro, preferentemente offline. Anotarlas **exactamente en el mismo orden que aparecen en nuestra pantalla**, ya que de lo contrario no sería válida y **su pérdida ocasionaría la pérdida total de los fondos.**
+**Esta es la parte más importante** de la configuración de una billetera, las Palabras de Recuperación son las claves de nuestra billetera criptográfica. **Nos aseguramos de guardarlas** en varios lugares seguros, preferentemente offline, como una libreta y una tarjeta metálica. Anotarlas **exactamente en el mismo orden que aparecen en nuestra pantalla**, ya que de lo contrario no sería válida y **su pérdida ocasionaría la pérdida total de los fondos.**
 {% endhint %}
 
 
