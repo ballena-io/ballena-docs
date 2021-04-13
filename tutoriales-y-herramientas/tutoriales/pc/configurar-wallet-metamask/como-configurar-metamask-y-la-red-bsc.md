@@ -68,6 +68,8 @@ MetaMask soporta los navegadores Chrome, Firefox, Brave and Edge. Hagámoslo en 
 
 Escribe tu frase de recuperación en el recuadro y confirma.​
 
+
+
 ![](https://user-images.githubusercontent.com/79335891/108597312-b424f700-7388-11eb-87f6-a2a026b295e5.png)
 
 ![](https://user-images.githubusercontent.com/79335891/108597314-b4bd8d80-7388-11eb-913b-1c4f2b9bc6af.png)

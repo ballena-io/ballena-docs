@@ -6,6 +6,8 @@ Si no deseamos depositar fondos a través de una transferencia bancaria para su 
 
 ### 1. Pulsa el botón “Comprar Cripto” del menú de la Barra superior en Binance.
 
+
+
 ![](../../../../.gitbook/assets/binance_comprar_cripto%20%282%29%20%282%29%20%281%29%20%281%29.jpg)
 
 
@@ -16,6 +18,8 @@ Si no deseamos depositar fondos a través de una transferencia bancaria para su 
 
 ### 3. Selecciona la moneda correspondiente, introduce la cantidad y haz clic en continuar.
 
+
+
 ![](../../../../.gitbook/assets/binance_credit_1%20%282%29%20%282%29%20%282%29%20%281%29.png)
 
 
@@ -23,6 +27,8 @@ Si no deseamos depositar fondos a través de una transferencia bancaria para su 
 ### 4. Selecciona BNB.
 
 Recuerda que, en la mayoría de proyectos de la Red Binance Smart Chain, utilizan como token básico BNB y además se utiliza BNB para pagar las comisiones. Por lo tanto, necesitarás tener BNB en tu billetera para trabajar en Binance Smart Chain. Puedes seleccionar BNB en el combo de selección de criptomoneda.
+
+
 
 ![](../../../../.gitbook/assets/binance_credit_2.png)
 
@@ -47,6 +53,8 @@ Una vez validada la operación, te aparecerá una pantalla de confirmación. Hay
 
 
 ### 7. Completada.
+
+
 
 ![](../../../../.gitbook/assets/binance_credit_5.png)
 

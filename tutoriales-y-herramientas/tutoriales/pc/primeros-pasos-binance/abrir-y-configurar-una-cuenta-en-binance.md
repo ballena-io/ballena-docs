@@ -14,6 +14,8 @@ Para darte de alta en [Binance](https://www.binance.com/es) lo primero que tiene
 
 ### 2. Pulsa el botón “Registrarse”.
 
+
+
 ![](../../../../.gitbook/assets/binance_1.png)
 
 
@@ -55,6 +57,8 @@ Utiliza el código de seis dígitos enviado a tu correo para completar la verifi
 
 
 ### 7. Una vez completada la verificación, ya estamos dados de alta en Binance y se nos ofrecen tres opciones.
+
+
 
 ![](../../../../.gitbook/assets/binance_7.png)
 
