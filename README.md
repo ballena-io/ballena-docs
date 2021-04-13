@@ -52,7 +52,7 @@ Esta es una de nuestras metas a corto plazo. El Equipo [ballena.io](https://ball
 
 En caso de tener cualquier pregunta, contacta con nuestro equipo a través de cualquiera de nuestros canales. Nuestra comunidad [ballena.io](https://ballena.io/) está siempre en disposición de ayudarte, y aunque no necesites ayuda, pásate a saludar!
 
-Twitter: [https://twitter.com/ballenaio](https://twitter.com/ballenaio)
+Twitter: [https://twitter.com/ballenaio](https://twitter.com/BallenaioE)
 
 Discord: [https://discord.gg/ydRbEAaqqc](https://discord.gg/ydRbEAaqqc)
 
