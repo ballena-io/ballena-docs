@@ -2,8 +2,6 @@
 
 La plataforma [ballena.io](https://ballena.io/) ofrece una amplia variedad de **farms y pools** \(fondos de liquidez\) de [PancakeSwap](https://pancakeswap.finance/), uno de los mejores exchanges descentralizados de la red de Binance Smart Chain, y a su vez permite el **Staking de nuestro token BALLE**.
 
-
-
 ## App de Gobernanza: Staking BALLE
 
 #### Resumen: Genera beneficios en BALLE al aportar BALLE.
@@ -21,8 +19,6 @@ Además la plataforma permite hacer staking de más criptomonedas para alimentar
 #### Resumen: [ballena.io](https://ballena.io/) se encarga de asignar, cambiar y reinvertir tus tokens siguiendo la estrategia más rentable de la plataforma. Aporta liquidez a SimpleFarming y recoge beneficios sin ocuparte de nada más.
 
 Añade un nivel de optimización más a la cadena, una completa automatización del flujo de nuestras criptos buscando los mejores rendimientos en la red BSC. Asigna tus monedas al **SimpleFarming** y [ballena.io](https://ballena.io/) se encargará de maximizar beneficios a través de las oportunidades más rentables en la red. Más información en breve.
-
-
 
 ## BalleVaults \(Bóvedas\)
 
