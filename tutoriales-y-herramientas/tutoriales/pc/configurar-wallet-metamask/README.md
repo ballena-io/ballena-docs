@@ -2,7 +2,7 @@
 
 MetaMask es una billetera, o wallet, compatible con ERC20. En este tutorial explicaremos cómo configurar una wallet en MetaMask desde el comienzo y además, como añadir un Token personalizado como BALLE a la misma.
 
-Haz click en los siguientes enlaces para empezar.
+Haz clic en los siguientes enlaces para empezar.
 
 
 

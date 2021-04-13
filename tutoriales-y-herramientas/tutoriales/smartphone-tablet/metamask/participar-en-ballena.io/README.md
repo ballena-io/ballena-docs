@@ -1,6 +1,7 @@
 # Participar en ballena.io
 
-Este es el fin último de todos los pasos anteriores. Nos encontraremos con **dos maneras diferentes de participar en** [**ballena.io**](https://ballena.io/)**🐋**. Lo ideal es partir de la primera para poder seguir con la segunda.  
+Este es el fin último de todos los pasos anteriores. Nos encontraremos con **dos maneras diferentes de participar en** [**ballena.io**](https://ballena.io/)**🐋**. Lo ideal es partir de la primera para poder seguir con la segunda.
+
 
 
 ### 1. **Participar en una BalleVault y generar tokens BALLEv2**
@@ -8,6 +9,8 @@ Este es el fin último de todos los pasos anteriores. Nos encontraremos con **do
 Mediante los pasos explicados en este apartado, invertiremos nuestro dinero en una BalleVault en ****[**ballena.io**](https://app.ballena.io/)**🐋**. Como ya sabemos, la plataforma nos dará altos retornos sobre los activos invertidos y, además, **nos recompensará con tokens BALLEv2.**
 
 En [este link](../../../../../primeros-pasos/primeros-pasos.md) se detalla el método que [ballena.io](https://app.ballena.io/) utiliza para multiplicar la inversión.
+
+
 
 ### 2. Proveer liquidez de **los** tokens BALLEv2 en la Staking Pool.
 

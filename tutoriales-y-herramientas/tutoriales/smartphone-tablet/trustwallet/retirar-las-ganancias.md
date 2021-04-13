@@ -12,6 +12,8 @@ Sigue los siguientes pasos para ello:
 
 ### 1. Una vez dentro de la app [ballena.io](https://app.ballena.io/) conecta tu Metamask como en el resto de los tutoriales.
 
+### 
+
 ### 2. Selecciona la BalleVault de la que quieras retirar tus fondos y haz click en "RETIRAR".
 
 

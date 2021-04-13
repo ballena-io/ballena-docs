@@ -26,7 +26,7 @@ En este tutorial veremos como **convertir tus BNB** **por el token BALLE** y ade
 
 
 
-### 3. Haz click en "Trade" y después en "Exchange" en el menú de la parte izquierda.
+### 3. Haz clic en "Trade" y después en "Exchange" en el menú de la parte izquierda.
 
 
 
@@ -34,7 +34,7 @@ En este tutorial veremos como **convertir tus BNB** **por el token BALLE** y ade
 
 
 
-### 4. Haz click en "Select a token" para seleccionar el token requerido.
+### 4. Haz clic en "Select a token" para seleccionar el token requerido.
 
 
 
@@ -56,7 +56,7 @@ En este tutorial veremos como **convertir tus BNB** **por el token BALLE** y ade
 
 ### 
 
-### 6. Haz click en "\(Add\)" y después en la palabra "BALLE" para seleccionarlo.
+### 6. Haz clic en "\(Add\)" y después en la palabra "BALLE" para seleccionarlo.
 
 
 
@@ -64,7 +64,7 @@ En este tutorial veremos como **convertir tus BNB** **por el token BALLE** y ade
 
 ### 
 
-### 6. Introducimos la cantidad BNB deseada y hacemos click en "Swap".
+### 6. Introducimos la cantidad BNB deseada y hacemos clic en "Swap".
 
 Recuerda dejar algunos BNB tokens para hacer frente al pago de las fees que surgirán en estas plataformas.
 
@@ -74,7 +74,7 @@ Recuerda dejar algunos BNB tokens para hacer frente al pago de las fees que surg
 
 
 
-### 7. Haz click en "Confirm swap" y confirma la transacción en Metamask.
+### 7. Haz clic en "Confirm swap" y confirma la transacción en Metamask.
 
 
 
@@ -85,6 +85,8 @@ Recuerda dejar algunos BNB tokens para hacer frente al pago de las fees que surg
 ### 8. Completado!
 
 Tus tokens deberían aparecer en tu Metamask. En caso de no verlos, asegúrate de haber agregado el token a tu metamask, si no sabes como hacerlo ve a [este tutorial](../../configurar-wallet-metamask/como-anadir-un-token-personalizado-a-metamask.md).
+
+
 
 
 

@@ -9,6 +9,8 @@ Mediante los pasos explicados en este apartado, invertiremos nuestro dinero en u
 
 En [este link](../../../../../primeros-pasos/primeros-pasos.md) se detalla el método que [ballena.io](https://app.ballena.io/) utiliza para multiplicar la inversión.
 
+
+
 ### 2. Proveer liquidez de **los** tokens BALLEv2 en la Staking Pool.
 
 Los tokens BALLEv2 acumulados en el proceso anterior NO se recomienda venderlos ni intercambiarlos, ya que se espera una subida gradual de su valor con el tiempo. El mejor lugar para estos BALLEv2 es la Staking Pool de [**ballena.io**](https://ballena.io/)**🐋**. Esta es una DApp elaborada por nuestro equipo que nos ofrece la opción de **reinvertir tokens BALLEv2 para generar más tokens BALLEv2. El rendimiento es masivamente exponencial.**

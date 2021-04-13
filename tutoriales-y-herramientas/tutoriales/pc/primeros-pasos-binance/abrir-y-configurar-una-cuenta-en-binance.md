@@ -10,9 +10,13 @@ Para poder empezar a trabajar en el mundo de las criptomonedas, es imprescindibl
 
 Para darte de alta en [Binance](https://www.binance.com/es) lo primero que tienes que hacer es ir a la dirección de su página web. Recomendamos escribir la dirección directamente y una vez dentro verificar que estas trabajando con la página correcta.
 
+
+
 ### 2. Pulsa el botón “Registrarse”.
 
 ![](../../../../.gitbook/assets/binance_1.png)
+
+
 
 ### 3. Rellena los siguientes campos.
 
@@ -20,11 +24,15 @@ Rellenamos los campos utilizando nuestro correo electrónico y una contraseña s
 
 ![](../../../../.gitbook/assets/binance_2%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.png)
 
+
+
 ### 4. Pulsa "Crear cuenta".
 
 A continuación, pulsamos el botón “Crear cuenta” y completamos la verificación de seguridad deslizando la pieza del puzzle al lugar correcto haciendo clic y deslizando sobre la pieza o en la flecha amarilla.
 
 ![](../../../../.gitbook/assets/binance_4%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%281%29.png)
+
+
 
 ### 5. Obtiene el código de verificación.
 
@@ -38,15 +46,21 @@ Nos habrá llegado un correo electrónico de este estilo.
 
 ![](../../../../.gitbook/assets/binance_6%20%281%29%20%281%29%20%281%29.png)
 
+
+
 ### 6. Introduce el código de verificación.
 
 Utiliza el código de seis dígitos enviado a tu correo para completar la verificación.
+
+
 
 ### 7. Una vez completada la verificación, ya estamos dados de alta en Binance y se nos ofrecen tres opciones.
 
 ![](../../../../.gitbook/assets/binance_7.png)
 
 Para las opciones de depósito Fiat o compra con tarjeta de crédito deberás pasar un proceso de identificación “KYC” \(Know your customer\). Sigue los pasos marcados en la plataforma. Este proceso es un proceso de seguridad para vincular la cuenta con una empresa o persona física. Para completarlo, necesitarás un DNI, Carnet de Conducir o Pasaporte y tener webcam o poder hacer la verificación con el teléfono móvil.
+
+
 
 ### 8. Ya estamos dados de alta en Binance.
 

@@ -8,6 +8,8 @@ MetaMask es una billetera, o wallet, compatible con ERC20. En este tutorial expl
 
 MetaMask está disponible para sistemas iOS y Android**.**
 
+\*\*\*\*
+
 ### **1. Abre el AppStore en tu móvil y descarga la aplicación.** 
 
 **​** Una vez en el AppStore, busca la aplicación de MetaMask y toca en descargar.
@@ -34,7 +36,7 @@ MetaMask está disponible para sistemas iOS y Android**.**
 
 **​**
 
-### **5. Crea una contraseña y acepta los términos.**
+### **4. Crea una contraseña y acepta los términos.**
 
 **​​**
 
@@ -42,13 +44,11 @@ MetaMask está disponible para sistemas iOS y Android**.**
 
 \*\*\*\*
 
-### **​6. Asegura tu billetera con la frase de semilla.** 
+### **​5. Asegura tu billetera con la frase de semilla.** 
 
-Esta es la parte más importante de la configuración de tu billetera, las palabras de recuperación son las claves de su billetera criptográfica. **Asegúrate de guardarlas en un lugar seguro, preferente offline.**
-
-Necesitas **tomar nota** de tus palabras clave de recuperación **EXACTAMENTE EN EL MISMO ORDEN QUE APARECE EN NUESTRA PANTALLA**.  ****
-
-Al no respetar el orden de dichas palabras, la clave privada no será válida y en caso de pérdida ocasionará la **PERDIDA TOTAL DE LOS FONDOS.**
+{% hint style="warning" %}
+**Esta es la parte más importante** de la configuración de una billetera, las Palabras de Recuperación son las claves de nuestra billetera criptográfica. **Nos aseguramos de guardarlas** en un lugar seguro, preferentemente offline. Anotarlas **exactamente en el mismo orden que aparecen en nuestra pantalla**, ya que de lo contrario no sería válida y **su pérdida ocasionaría la pérdida total de los fondos.**
+{% endhint %}
 
 Escríbela en el recuadro y confirma.​
 
@@ -66,7 +66,7 @@ Escríbela en el recuadro y confirma.​
 
 **​**
 
-### **7. ¡Hecho! ¡Has creado tu cuenta de MetaMask!. Ahora toca “Done” para acceder a la billetera.**
+### **6. ¡Hecho! ¡Has creado tu cuenta de MetaMask!. Ahora toca “Done” para acceder a la billetera.**
 
 \*\*\*\*
 

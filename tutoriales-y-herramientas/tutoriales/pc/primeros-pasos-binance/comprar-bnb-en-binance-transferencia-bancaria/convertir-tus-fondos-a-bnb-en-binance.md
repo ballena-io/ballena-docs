@@ -39,6 +39,8 @@ Tenemos dos opciones para ello:
 
 ![](../../../../../.gitbook/assets/4%20%284%29.png)
 
+
+
 ### 5.Introduce la cantidad y Confirma la conversión.
 
 Antes de confirmarla, te dará una previsión del cambio. Mira que esté todo bien y haz clic en Confirmar.
@@ -50,6 +52,8 @@ Antes de confirmarla, te dará una previsión del cambio. Mira que esté todo bi
 
 
 ![](../../../../../.gitbook/assets/5%20%281%29.png)
+
+
 
 ### 7.Introduce la cantidad y Confirma la conversión.
 

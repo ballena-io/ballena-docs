@@ -14,7 +14,7 @@ Esta decisión marcará la diferencia en los siguientes pasos del tutorial. Tene
 
 
 
-#### Proveer liquidez a una BalleVault de un par que nos llame la atención.
+### Proveer liquidez a una BalleVault de un par que nos llame la atención.
 
 Es una forma de inversión en la que se añaden a partes iguales dos assets con el mismo valor. El retorno, por lo tanto, será de estos dos assets también a partes iguales. La BalleVault lo que hará será aumentar los tokens que tenemos asignados al par seleccionado. Por ejemplo, podríamos añadir liquidez al par Balbt/BNB. Lo que haremos en este caso será cambiar la mitad de nuestros BNB por Balbt y añadiremos ambos a una LP. El hecho de añadir el mismo valor para ambos significa que si queremos aportar tokens BNB con valor de 200€, tendremos que añadir también tokens Balbt equivalentes a 200€.
 
@@ -22,9 +22,13 @@ Para ello tendremos que cambiar BNB por Balbt en PancakeSwap como se detalla en 
 
 
 
-#### Proveer liquidez al staking del token BALLE \(BALLE Staking Pool, BALLE Reward Pool o Pool de Gobernanza\).
+### Proveer liquidez al staking del token BALLE \(BALLE Staking Pool, BALLE Reward Pool o Pool de Gobernanza\).
 
 Es otra forma de inversión en la que añades liquidez exclusivamente del token BALLE. Esto, por lo tanto, genera retorno en token BALLE, contribuyendo además a su revalorización y el potenciamiento de la plataforma. Además de su alta rentabilidad, debido a su incremento de valor, podrás formar parte en la [Gobernanza](../../../../tecnico/gobernanza.md). 
 
 Para ello tendremos que cambiar BNB por BALLE en PancakeSwap como se detalla en [este tutorial](avanzado-como-participar-en-la-staking-pool-de-balle/como-comprar-el-token-balle.md).
+
+
+
+
 

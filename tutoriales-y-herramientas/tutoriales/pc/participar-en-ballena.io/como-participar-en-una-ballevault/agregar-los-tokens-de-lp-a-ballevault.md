@@ -30,7 +30,7 @@ En caso de aparecer "Error de conexión" asegúrate de haber configurado y selec
 
 
 
-### 4. Selecciona la cartera Metamask \(O la que hayas configurado\) haciendo click en "Injected".
+### 4. Selecciona la cartera Metamask \(O la que hayas configurado\) haciendo clic en "Injected".
 
 
 
@@ -46,7 +46,7 @@ En caso de aparecer "Error de conexión" asegúrate de haber configurado y selec
 
 
 
-### 6. Haz click en "DEPOSITAR" en la bóveda seleccionada. 
+### 6. Haz clic en "DEPOSITAR" en la bóveda seleccionada. 
 
 
 
@@ -54,7 +54,7 @@ En caso de aparecer "Error de conexión" asegúrate de haber configurado y selec
 
 
 
-### 7. Una vez abierto el menú hacer click en "DEPOSITAR" o "DEPOSITAR TODO".
+### 7. Una vez abierto el menú hacer clic en "DEPOSITAR" o "DEPOSITAR TODO".
 
 
 

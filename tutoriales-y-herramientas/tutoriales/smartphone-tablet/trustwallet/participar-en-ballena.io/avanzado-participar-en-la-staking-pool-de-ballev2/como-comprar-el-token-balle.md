@@ -11,8 +11,6 @@ Una vez que hayas recargado la billetera con BNB, abre el navegador DApps presio
 
 
 
-### 
-
 ### 2. Selecciona los parámetros de conversión de tus tokens.
 
 Selecciona el token al que quieres convertir y selecciona la cantidad de tokens que están dispuesto a convertir, o cuantos tokens deseas recibir. Una vez hayas seleccionado lo que deseas, pulsa “Swap” \(Cambiar\). 

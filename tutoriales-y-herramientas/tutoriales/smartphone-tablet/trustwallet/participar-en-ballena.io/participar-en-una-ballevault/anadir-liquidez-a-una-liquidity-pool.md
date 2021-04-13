@@ -40,6 +40,8 @@ A continuación, aprobamos la transacción para añadir finalmente nuestros toke
 
 ![](../../../../../../.gitbook/assets/photo6003629256741074188.jpg)
 
+
+
 ### 5. Comprobamos.
 
 **Obtendremos tokens LP \(Liquidity Provider\)** que **demuestran que somos proveedores de liquidez** en PancakeSwap y que **representan el valor de nuestra aportación**. A cambio de añadir liquidez, cobraremos una pequeña porción de las comisiones generadas por esa Liquidity Pool.

@@ -26,7 +26,7 @@ Recuerda que para poder agregar liquidez a una LP necesitaremos el mismo valor e
 
 
 
-### 4. Hacer click en "Add Liquidity".
+### 4. Hacer clic en "Add Liquidity".
 
 
 
@@ -42,7 +42,7 @@ Recuerda que para poder agregar liquidez a una LP necesitaremos el mismo valor e
 
 
 
-### 6. Haz click en "Supply" y en "Confirm Supply".
+### 6. Haz clic en "Supply" y en "Confirm Supply".
 
 
 
