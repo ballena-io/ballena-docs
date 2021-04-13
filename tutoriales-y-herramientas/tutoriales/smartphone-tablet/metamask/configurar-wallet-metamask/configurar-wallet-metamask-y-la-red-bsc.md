@@ -1,7 +1,5 @@
 # Configurar Wallet: Metamask y la red BSC
 
-## **Cómo configurar MetaMask y la red BSC**
-
 MetaMask es una billetera, o wallet, compatible con ERC20. En este tutorial explicaremos cómo configurar una wallet en MetaMask desde el comienzo. Además veremos cómo configurar la red BSC para la misma.
 
 **​**
@@ -12,7 +10,7 @@ MetaMask está disponible para sistemas iOS y Android**.**
 
 ### **1. Abre el AppStore en tu móvil y descarga la aplicación.** 
 
-**​** Una vez en el AppStore buscar la aplicación de MetaMask y tocar en descargar.
+**​** Una vez en el AppStore, busca la aplicación de MetaMask y toca en descargar.
 
 **​**
 
@@ -20,7 +18,7 @@ MetaMask está disponible para sistemas iOS y Android**.**
 
 **​**
 
-### **2. Una vez descargada la app, la abrimos . Ahora haz Click en "Empezar".** 
+### **2. Una vez descargada la app, la abrimos . Ahora haz Clic en "Empezar".** 
 
 **​**
 
@@ -28,7 +26,7 @@ MetaMask está disponible para sistemas iOS y Android**.**
 
 **​**
 
-### **3. Crea una cuenta. Haz click en el botón "Crear billetera" de Metamask.** 
+### **3. Crea una cuenta. Haz clic en el botón "Crear billetera" de Metamask.** 
 
 **​ ​**
 
@@ -46,7 +44,7 @@ MetaMask está disponible para sistemas iOS y Android**.**
 
 ### **​6. Asegura tu billetera con la frase de semilla.** 
 
-Esta es la parte más importante de la configuración de su billetera, las palabras de recuperación son las claves de su billetera criptográfica. **Asegúrate de guardarlas en un lugar seguro, preferente offline.**
+Esta es la parte más importante de la configuración de tu billetera, las palabras de recuperación son las claves de su billetera criptográfica. **Asegúrate de guardarlas en un lugar seguro, preferente offline.**
 
 Necesitas **tomar nota** de tus palabras clave de recuperación **EXACTAMENTE EN EL MISMO ORDEN QUE APARECE EN NUESTRA PANTALLA**.  ****
 
@@ -80,7 +78,7 @@ Escríbela en el recuadro y confirma.​
 
 **​**
 
-### **1. Ahora vamos a configurar la red BSC en tu Wallet. Primero haz click arriba a la izquierda en el botón para ingresar al menú y haz click en "ajustes".**
+### **1. Ahora vamos a configurar la red BSC en tu Wallet. Primero haz clic arriba a la izquierda en el botón para ingresar al menú y haz clic en "ajustes".**
 
 **​​**
 
@@ -92,7 +90,7 @@ Escríbela en el recuadro y confirma.​
 
 
 
-### **​2. Ahora hacemos click en “Redes” y luego “Agregar Red”.**
+### **​2. Ahora hacemos clic en “Redes” y luego “Agregar Red”.**
 
 \*\*\*\*
 
@@ -104,9 +102,9 @@ Escríbela en el recuadro y confirma.​
 
 
 
-### **3. Añade los datos de la BSC que mostramos a continuación y haz click en "Agregar".**
+### **3. Añade los datos de la BSC que mostramos a continuación y haz clic en "Agregar".**
 
-**​​**En el campo "Chain ID" puedes escribir 0x38 o 56, ya que son equivalentes. No debería preocuparos si al hacer click en "Save" los valores se intercambian entre estos dos citados.
+**​​**En el campo "Chain ID" puedes escribir 0x38 o 56, ya que son equivalentes. No debería preocuparos si al hacer clic en "Save" los valores se intercambian entre estos dos citados.
 
 **​**
 
