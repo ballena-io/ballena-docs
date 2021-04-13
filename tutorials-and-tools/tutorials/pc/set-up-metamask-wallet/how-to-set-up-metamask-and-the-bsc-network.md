@@ -74,7 +74,9 @@ Continue with the following steps & Accept Conditions.
 
 ### 6. Secret Backup Phrase. 
 
-Write it down and store it in a safe place. Then confirm your Secret Backup Phrase.
+{% hint style="warning" %}
+Remember to write  this phrase down in the right order, store it in a safe place and never disclose it to anyone. The failure to do so, could mean the loss of your funds. 
+{% endhint %}
 
  
 
