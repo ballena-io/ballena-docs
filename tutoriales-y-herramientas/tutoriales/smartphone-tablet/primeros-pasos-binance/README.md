@@ -8,3 +8,7 @@ Vayamos con lo básico para comprar esos BNB siguiendo todos los pasos de este t
 
 {% page-ref page="abrir-y-configurar-una-cuenta-en-binance.md" %}
 
+
+
+
+
