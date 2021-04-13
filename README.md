@@ -52,15 +52,15 @@ Esta es una de nuestras metas a corto plazo. El Equipo [ballena.io](https://ball
 
 En caso de tener cualquier pregunta, contacta con nuestro equipo a través de cualquiera de nuestros canales. Nuestra comunidad [ballena.io](https://ballena.io/) está siempre en disposición de ayudarte, y aunque no necesites ayuda, pásate a saludar!
 
-Twitter: [https://twitter.com/ballenaio](https://twitter.com/BallenaioE)
+Twitter: [https://twitter.com/BallenaioE](https://twitter.com/BallenaioE)
 
 Discord: [https://discord.gg/ydRbEAaqqc](https://discord.gg/ydRbEAaqqc)
 
-Medium: [https://medium.com/@ballena](https://medium.com/@ballena)
+Medium: [https://ballenaioe.medium.com/](https://ballenaioe.medium.com/)
 
 Website: [https://ballena.io](https://ballena.io)
 
-Telegram: [https://t.me/stgcrypto](https://t.me/stgcrypto)
+Telegram: [https://t.me/ballenaspanish](https://t.me/ballenaspanish)
 
 
 
