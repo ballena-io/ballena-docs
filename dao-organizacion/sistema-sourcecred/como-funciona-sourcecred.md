@@ -52,10 +52,10 @@ _SourceCred_ utiliza un sistema de ponderación para medir cuánto _Cred_ quiere
 
 #### Ponderación de los roles
 
-* Newcomer — — — 0x
-* Community — — —0x
-* Contributor — —— 2x
-* Team Lead — — —3x
+* @ TL0 Newcomer — — — 0x
+* @ TL1 Community — — —0x
+* @ TL2 Contributor — — —2x
+* @ TL3 Team Lead — — —3x
 
 #### Ponderación de los emojis
 
