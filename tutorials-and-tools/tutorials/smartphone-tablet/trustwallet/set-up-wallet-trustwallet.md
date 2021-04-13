@@ -38,13 +38,11 @@ Read carefully everything that appears on the screen.
 
 ### 4. Write down Recovery Phrase.
 
-Make sure to **save it in several safe places, preferably offline \(in a notebook or on a device without Internet access\), and even memorize them.**
+{% hint style="warning" %}
+Remember to **write this phrase down in the right order, store it in a safe place** \(preferably offline\) and never disclose it to anyone. **The failure to do so could mean the total loss of your funds.**
+{% endhint %}
 
-Before continuing, we will need to make a note of the Recovery Phrase **IN EXACTLY THE SAME ORDER IN WHICH IT HAVE BEEN GIVEN TO US.**
-
-It does not have any complications but it is of vital importance, since by not respecting the order of these words, the Private Key will not be valid and in case of loss it will cause the **TOTAL LOSS OF FUNDS.**
-
-When noted, continue**.**  
+  
 
 
 
