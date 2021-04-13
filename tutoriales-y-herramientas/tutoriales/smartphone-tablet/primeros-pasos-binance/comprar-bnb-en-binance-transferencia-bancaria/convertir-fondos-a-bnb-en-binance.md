@@ -1,6 +1,6 @@
 # Convertir fondos a BNB en Binance
 
-Ya tenemos nuestro dinero en Binance. Podremos comprobarlo en el saldo de Billetera→Spot.
+Ya tenemos nuestro dinero en Binance. Podremos comprobarlo en el saldo de _Billetera→Spot._
 
 
 
