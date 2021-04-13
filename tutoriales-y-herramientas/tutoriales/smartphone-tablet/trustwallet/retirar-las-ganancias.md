@@ -1,12 +1,12 @@
 # Retirar las ganancias
 
-Para retirar tanto los tokens LP como las ganancias seguiremos este pequeño tutorial. Al cosechar tu inversión recibirás:
+Para cosechar tanto los tokens LP como las ganancias deberemos hacer todos los pasos de forma inversa. Al retirar las ganancias recibiremos:
 
 * Los LP tokens aportados.
-* Los LP ganados debido al interés compuesto.
-*  BALLE tokens a modo de recompensa.
+* Los LP ganados debido al interés compuesto \(éstos se suman al valor total de LPs\).
+* BALLE tokens a modo de recompensa.
 
-Sigue los siguientes pasos para ello:
+Sigamos los siguientes pasos:
 
 
 
