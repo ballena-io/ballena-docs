@@ -4,17 +4,19 @@ Para cosechar tanto los tokens LP como las ganancias deberemos hacer todos los p
 
 * Los LP tokens aportados.
 * Los LP ganados debido al interés compuesto \(éstos se suman al valor total de LPs\).
-* BALLE tokens a modo de recompensa.
+* BALLE tokens generados a modo de recompensa.
 
 Sigamos los siguientes pasos:
 
 
 
-### 1. Una vez dentro de la app [ballena.io](https://app.ballena.io/) conecta tu Metamask como en el resto de los tutoriales.
+### 1. Dentro de la DApp [ballena.io](https://app.ballena.io/), a través del navegador DApps de Trust Wallet.
 
-### 
+Nos aseguramos de estar en la red correcta.
 
-### 2. Selecciona la BalleVault de la que quieras retirar tus fondos y haz click en "RETIRAR".
+
+
+### 2. Seleccionar la BalleVault de la que queramos retirar fondos y hacemos click en "RETIRAR".
 
 
 
