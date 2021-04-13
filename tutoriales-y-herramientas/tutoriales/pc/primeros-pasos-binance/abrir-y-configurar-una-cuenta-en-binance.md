@@ -8,7 +8,7 @@ Para poder empezar a trabajar en el mundo de las criptomonedas, es imprescindibl
 
 ### 1. Navegar a Binance.
 
-Para darte de alta en [Binance](https://www.binance.com/es) lo primero que tienes que hacer es ir a la dirección de su página web. Recomendamos escribir la dirección directamente y una vez dentro verificar que estas trabajando con la página correcta.
+Para darte de alta en [Binance](https://www.binance.com/es) lo primero que tienes que hacer es ir a la dirección de su página web. Recomendamos escribir la dirección directamente y una vez dentro verificar que estas trabajando con la página correcta: **binance.com/es**. Añadir la página a marcadores.
 
 
 
