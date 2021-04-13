@@ -12,8 +12,6 @@ Las Vaults, o bóvedas, sirven como generadores pasivos de tokens para los usuar
 
 Además, los usuarios de las BalleVaults recibirán una recompensa de tokens BALLE como se describe [aquí](../tokenomics.md#distribucion-entre-los-usuarios-de-la-plataforma-yield-optimizer-app). Estos tokens podrán ser reinvertidos en la [BALLE Staking Pool](balle-staking-pool.md) para buscar el máximo rendimiento y beneficios.
 
-
-
 ## BalleVaults Simples <a id="cake-smart"></a>
 
 La estrategia realiza farming con un solo token. A continuación se listan las bóvedas activas:
@@ -21,8 +19,6 @@ La estrategia realiza farming con un solo token. A continuación se listan las b
 #### CAKE SMART
 
 Cultiva rendimiento con CAKE y recibe CAKE tokens, [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
-
-
 
 ## BalleVaults Compuestas
 
