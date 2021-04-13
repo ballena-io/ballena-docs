@@ -157,13 +157,15 @@ Navega a la página de [Tutoriales](https://docs.ballena.io/v/es/tutoriales) y a
 
 También es recomendable que te unas a nuestra comunidad. En caso de tener cualquier pregunta, contacta con nuestro equipo a través de cualquiera de nuestros canales. Nuestra comunidad[ ballena.io](https://ballena.io/) está siempre en disposición de ayudarte, y aunque no necesites ayuda, ¡pásate a saludar!
 
-Twitter:[ https://twitter.com/ballenaio](https://twitter.com/ballenaio)
+Twitter: [https://twitter.com/BallenaioE](https://twitter.com/BallenaioE)
 
-Discord:[ https://discord.gg/ydRbEAaqqc](https://discord.gg/ydRbEAaqqc)
+Discord: [https://discord.gg/ydRbEAaqqc](https://discord.gg/ydRbEAaqqc)
 
-Medium:[ https://medium.com/@ballena](https://medium.com/@ballena)
+Medium: [https://ballenaioe.medium.com/](https://ballenaioe.medium.com/)
 
-‌Website:[ https://ballena.io](https://ballena.io/)
+Website: [https://ballena.io](https://ballena.io)
+
+Telegram: [https://t.me/ballenaspanish](https://t.me/ballenaspanish)
 
 
 
