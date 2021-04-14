@@ -30,7 +30,7 @@ Estamos orgullosos de anunciar que **somos el primer proyecto en implementar Gno
 
 Una wallet de firma múltiple es una billetera de criptomonedas que controla el acceso y los cambios de uno o varios contratos inteligentes \(Smart Contracts\). La mayoría de los proyectos controlados por la comunidad de la red Ethereum requieren un sistema Multisig, es decir, múltiples firmas para aprobar una transacción antes de ser ejecutada.
 
-El sistema multi-firma exige que un mínimo número de usuarios autorice una transacción para que esta se haga efectiva. De esta manera el proyecto garantiza que las decisiones con impactos transcendentales que tienen que ver con la tesorería son verificadas por varios usuarios de la DAO.
+El sistema multi-firma exige que un mínimo número de usuarios autorice una transacción para que esta se haga efectiva. De esta manera el proyecto garantiza que las decisiones que supongan impactos transcendentales que tienen que ver con la tesorería, sean verificadas por varios usuarios de la DAO.
 
 Para más información acerca del sistema Mulit-firma Gnosis haz clic en el siguiente [link](tecnico/gobernanza.md#seguridad-de-la-wallet).
 
