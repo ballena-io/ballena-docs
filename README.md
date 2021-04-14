@@ -24,7 +24,7 @@ We are glad to announce **We are the first project working with Gnosis** Multisi
 
 A multiple signature wallet is a cryptocurrency wallet that controls access and changes to one or more Smart Contracts. Most of the community governed projects in the Ethereum network often require multiple signers to approve a transaction before it will be executed. In Binance Smart Chain, we are the first project implementing Gnosis Safe to run our DAO. 
 
-The multi-signature system requires that a minimum number of users authorize a transaction for it to become effective. This way, the project guarantees that decisions involving transcendental impacts that have to do with the treasury, are verified by various users of the DAO.
+The multi-signature system requires that a minimum number of users authorize a transaction for it to become effective. This way, the project guarantees that treasury related decisions involving transcendental impacts, are verified by several users of the DAO.
 
 For more information regarding Gnosis Multi signature system check this [link](technical/governance.md#wallet-safety).
 
