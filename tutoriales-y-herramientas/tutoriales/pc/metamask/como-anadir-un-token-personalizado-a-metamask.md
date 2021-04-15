@@ -31,7 +31,11 @@ Recomendamos siempre añadir los tokens a Metamask antes de enviar fondos a tu w
 ### 4. Copia y pega la dirección del contrato del token BALLE en el campo "Address" y comprobamos que el resto de campos se rellenen automáticamente. Hacemos clic en "Next".
 
 {% hint style="info" %}
-Siempre copiar la dirección de cualquier token en un sitio fiable como [bscscan.com](https://bscscan.com).
+Siempre copiar la dirección de BALLE de un sitio oficial de ballena.io.
+{% endhint %}
+
+{% hint style="danger" %}
+Tener cuidado si se va a copiar la dirección desde bscscan.com ya que existen 2 tokens con este mismo nombre al buscar "ballena.io". Asegurarse de seleccionar ✅ ballena.io \(BALLE\) ✅ y no ❌ Ballena.io \(Balle\) ❌ 
 {% endhint %}
 
 **Esta es la dirección del contrato del token BALLE:** \ ADD NEW ADDRESS / \(siempre comprobar\)
