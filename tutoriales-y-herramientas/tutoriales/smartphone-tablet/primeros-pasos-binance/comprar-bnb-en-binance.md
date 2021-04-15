@@ -52,13 +52,21 @@ Nos aparece una pantalla con el detalle exacto de la operación.
 
 ### 6. Confirmamos.
 
-Revisamos los datos de la transacción y, si estamos conforme, pulsamos “Confirmar”. Debemos tener en cuenta que estas operaciones tienen una validez de 60 segundos, pasado este tiempo se tendrán que recargar.
+Revisamos los datos de la transacción y, si estamos conforme, pulsamos “Confirmar”. Hay que tener en cuenta que el pago puede necesitar de acciones propias de nuestro banco.
 
 
 
 ### 7. Ingreso finalizado.
 
-Una vez validada la operación nos aparecerá una pantalla de confirmación. Hay que tener en cuenta que el pago puede necesitar de acciones propias de nuestro banco.
+Una vez validada la operación nos aparecerá una pantalla de confirmación. 
+
+{% hint style="info" %}
+**Comprobamos si se ha realizado el cargo en nuestra cuenta bancaria y si nuestro saldo de Binance ha aumentado.**
+{% endhint %}
+
+En caso de que las dos anteriores sean negativas, volvemos a realizar el proceso.
+
+
 
 
 
