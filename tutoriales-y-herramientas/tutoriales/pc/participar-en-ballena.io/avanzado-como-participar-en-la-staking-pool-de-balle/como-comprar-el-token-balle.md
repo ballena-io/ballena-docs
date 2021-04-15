@@ -84,7 +84,7 @@ Recuerda dejar algunos BNB tokens para hacer frente al pago de las fees que surg
 
 ### 8. Completado!
 
-Tus tokens deberían aparecer en tu Metamask. En caso de no verlos, asegúrate de haber agregado el token a tu metamask, si no sabes como hacerlo ve a [este tutorial](../../configurar-wallet-metamask/como-anadir-un-token-personalizado-a-metamask.md).
+Tus tokens deberían aparecer en tu Metamask. En caso de no verlos, asegúrate de haber agregado el token a tu metamask, si no sabes como hacerlo ve a [este tutorial](../../metamask/como-anadir-un-token-personalizado-a-metamask.md).
 
 
 

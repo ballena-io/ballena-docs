@@ -80,7 +80,7 @@ En caso de que las dos anteriores sean negativas, volvemos a realizar el proceso
 
 Completado este proceso, dispondremos de una pequeña cantidad de BNB en nuestra _Billetera Spot_ y estaremos listos para el siguiente paso:
 
-{% page-ref page="../configurar-wallet-metamask/" %}
+{% page-ref page="../metamask/" %}
 
 
 

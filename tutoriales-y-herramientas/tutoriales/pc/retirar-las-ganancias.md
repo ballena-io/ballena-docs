@@ -40,7 +40,7 @@ Sigue los siguientes pasos para ello:
 
 ### 5. Ya has retirado tus fondos. Comprueba que en tu cartera cuentas con los LP correspondientes y los tokens BALLE. 
 
-Asegúrate de tener esos tokens agregados en tu Metamask o no podrás verlos. Para ello dirígete a este [tutorial](configurar-wallet-metamask/como-anadir-un-token-personalizado-a-metamask.md). 
+Asegúrate de tener esos tokens agregados en tu Metamask o no podrás verlos. Para ello dirígete a este [tutorial](metamask/como-anadir-un-token-personalizado-a-metamask.md). 
 
 Además, podrás ver tus LP tokens tanto en Metamask como en el apartado "Liquidity" de [PancakeSwap](https://pancakeswap.finance/).
 

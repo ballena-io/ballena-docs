@@ -64,7 +64,7 @@ Colocamos las monedas como en la siguiente captura y convertimos el _MAX_ de USD
 
 Dispondremos de una pequeña cantidad de BNB en nuestra _Billetera Spot_ y estaremos listos para el siguiente paso:
 
-{% page-ref page="../../configurar-wallet-metamask/" %}
+{% page-ref page="../../metamask/" %}
 
 
 
