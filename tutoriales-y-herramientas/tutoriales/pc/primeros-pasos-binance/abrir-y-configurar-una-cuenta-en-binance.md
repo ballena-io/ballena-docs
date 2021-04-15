@@ -8,11 +8,11 @@ Para poder empezar a trabajar en el mundo de las criptomonedas, es imprescindibl
 
 ### 1. Navegar a Binance.
 
-Para darte de alta en [Binance](https://www.binance.com/es) lo primero que tienes que hacer es ir a la dirección de su página web. Recomendamos escribir la dirección directamente y una vez dentro verificar que estas trabajando con la página correcta: **binance.com/es**. Añadir la página a marcadores.
+Para darse de alta en [Binance](https://www.binance.com/es) lo primero que tenemos que hacer es ir a la dirección de su página web. Se recomienda escribir la dirección directamente y una vez dentro verificar que estamos trabajando con la página correcta: **binance.com/es**. Añadir la página a marcadores.
 
 
 
-### 2. Pulsa el botón “Registrarse”.
+### 2. Pulsar el botón “Registrarse”.
 
 
 
@@ -20,29 +20,31 @@ Para darte de alta en [Binance](https://www.binance.com/es) lo primero que tiene
 
 
 
-### 3. Rellena los siguientes campos.
+### 3. Rellenar los siguientes campos.
 
-Rellenamos los campos utilizando nuestro correo electrónico y una contraseña segura. Ten en cuenta que para los siguientes pasos tendrás que tener acceso al correo electrónico que has utilizado para darte de alta.
+Rellenamos los campos utilizando nuestro correo electrónico y una contraseña segura. Tener en cuenta que para los siguientes pasos tendremos que tener acceso al correo electrónico que hemos utilizado para darnos de alta.
 
 ![](../../../../.gitbook/assets/binance_2%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.png)
 
 
 
-### 4. Pulsa "Crear cuenta".
+### 4. Pulsar "Crear cuenta".
 
-A continuación, pulsamos el botón “Crear cuenta” y completamos la verificación de seguridad deslizando la pieza del puzzle al lugar correcto haciendo clic y deslizando sobre la pieza o en la flecha amarilla.
+Y completamos la verificación de seguridad.
 
 ![](../../../../.gitbook/assets/binance_4%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%281%29.png)
 
 
 
-### 5. Obtiene el código de verificación.
+### 5. Obtener el código de verificación.
 
-Una vez hecho se nos pedirá en la página que introduzcamos un código de verificación que se nos ha enviado al correo electrónico que hemos utilizado para dar el alta.
+Una vez hecho, se nos pedirá que introduzcamos un código de verificación que se nos ha enviado al correo electrónico.
 
 ![](../../../../.gitbook/assets/binance_5%20%281%29%20%281%29%20%281%29%20%281%29.png)
 
-Nos habrá llegado un correo electrónico de este estilo.
+
+
+Nos habrá llegado un correo electrónico de este estilo:
 
 
 
@@ -50,27 +52,25 @@ Nos habrá llegado un correo electrónico de este estilo.
 
 
 
-### 6. Introduce el código de verificación.
+### 6. Completamos la verificación.
 
-Utiliza el código de seis dígitos enviado a tu correo para completar la verificación.
-
-
-
-### 7. Una vez completada la verificación, ya estamos dados de alta en Binance y se nos ofrecen tres opciones.
+Introducimos el código de seis dígitos enviado a nuestro correo para completar la verificación.
 
 
 
-![](../../../../.gitbook/assets/binance_7.png)
-
-Para las opciones de depósito Fiat o compra con tarjeta de crédito deberás pasar un proceso de identificación “KYC” \(Know your customer\). Sigue los pasos marcados en la plataforma. Este proceso es un proceso de seguridad para vincular la cuenta con una empresa o persona física. Para completarlo, necesitarás un DNI, Carnet de Conducir o Pasaporte y tener webcam o poder hacer la verificación con el teléfono móvil.
+### 7. Ya estamos dados de alta en Binance y se nos ofrecen tres opciones.
 
 
 
-### 8. Ya estamos dados de alta en Binance.
+![](../../../../.gitbook/assets/binance_7%20%281%29.png)
 
-Una vez identificados en la plataforma, podrás cargar saldo o comprar cripto para pasar a Binance Smart Chain. Estos pasos los podrás ver en el correspondiente tutorial.
 
-{% page-ref page="comprar-bnb-en-binance-transferencia-bancaria/depositar-fondos-en-binance.md" %}
+
+Para las opciones de Depósito Fiat o Compra con tarjeta de crédito debemos pasar un proceso de identificación “KYC” \(Know Your Customer\). Seguiremos los pasos marcados en la plataforma Binance. Este es un proceso de seguridad para vincular la cuenta con una empresa o persona física. Para completarlo necesitaremos un DNI, Carnet de Conducir o Pasaporte y poder hacer la verificación facial con el teléfono. Una vez identificados en la plataforma, se nos permitirá hacer depósitos Fiat y comprar criptomonedas. Habrá dos opciones diferentes para esto ultimo:
+
+{% page-ref page="comprar-bnb-en-binance-transferencia-bancaria/" %}
+
+{% page-ref page="comprar-bnb-en-binance-tarjeta-de-credito.md" %}
 
 
 
