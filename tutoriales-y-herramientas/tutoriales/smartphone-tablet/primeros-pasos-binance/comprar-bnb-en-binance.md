@@ -64,7 +64,7 @@ Revisamos los datos de la transacción y, si estamos conforme, pulsamos “Confi
 
 ### 7. Ingreso finalizado.
 
-Una vez validada la operación nos aparecerá una pantalla de confirmación. 
+Una vez validada la operación nos aparecerá una pantalla de confirmación ✅ . 
 
 {% hint style="info" %}
 **Comprobamos si se ha realizado el cargo en nuestra cuenta bancaria y si nuestro saldo de Binance ha aumentado.**
