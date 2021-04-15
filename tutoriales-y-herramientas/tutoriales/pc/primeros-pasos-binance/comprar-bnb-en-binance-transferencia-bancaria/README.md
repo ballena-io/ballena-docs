@@ -1,6 +1,6 @@
 # Comprar BNB en Binance \(Transferencia Bancaria\)
 
-Esta es la mejor opción para depositar **grandes cantidades** en Binance ya que **no cobra comisiones**. Debemos saber que la transferencia **puede tardar hasta 48h** en reflejarse en nuestra billetera de Binance.  
+Esta es la **mejor opción para** depositar **grandes cantidades** en Binance ya que **no cobra comisiones**. Debemos saber que la transferencia **puede tardar hasta 48h** en reflejarse en nuestra billetera de Binance.  
 
 
 Aprendamos cómo funciona en la siguiente página:

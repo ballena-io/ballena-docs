@@ -15,7 +15,7 @@
       * [Abrir y configurar una cuenta en Binance](tutoriales-y-herramientas/tutoriales/pc/primeros-pasos-binance/abrir-y-configurar-una-cuenta-en-binance.md)
       * [Comprar BNB en Binance \(Transferencia Bancaria\)](tutoriales-y-herramientas/tutoriales/pc/primeros-pasos-binance/comprar-bnb-en-binance-transferencia-bancaria/README.md)
         * [Cómo depositar fondos en Binance \(Transferencia Bancaria SEPA\)](tutoriales-y-herramientas/tutoriales/pc/primeros-pasos-binance/comprar-bnb-en-binance-transferencia-bancaria/depositar-fondos-en-binance.md)
-        * [Convertir tus fondos a BNB en Binance](tutoriales-y-herramientas/tutoriales/pc/primeros-pasos-binance/comprar-bnb-en-binance-transferencia-bancaria/convertir-tus-fondos-a-bnb-en-binance.md)
+        * [Convertir fondos a BNB en Binance](tutoriales-y-herramientas/tutoriales/pc/primeros-pasos-binance/comprar-bnb-en-binance-transferencia-bancaria/convertir-fondos-a-bnb-en-binance.md)
       * [Comprar BNB en Binance \(Tarjeta de Crédito\)](tutoriales-y-herramientas/tutoriales/pc/primeros-pasos-binance/comprar-bnb-en-binance-tarjeta-de-credito.md)
     * [Configurar Wallet: Metamask](tutoriales-y-herramientas/tutoriales/pc/configurar-wallet-metamask/README.md)
       * [Cómo configurar MetaMask y la red BSC](tutoriales-y-herramientas/tutoriales/pc/configurar-wallet-metamask/como-configurar-metamask-y-la-red-bsc.md)

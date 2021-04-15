@@ -1,10 +1,8 @@
 # Cómo depositar fondos en Binance \(Transferencia Bancaria SEPA\)
 
-Para cargar fondos en Binance lo haremos de la siguiente manera.
 
 
-
-### 1. Pulsa el botón “Comprar Cripto” del menú de la Barra superior en Binance.
+### 1. Pulsar el botón “Comprar Cripto” del menú de la barra superior en Binance.
 
 
 
@@ -12,11 +10,11 @@ Para cargar fondos en Binance lo haremos de la siguiente manera.
 
 ### 
 
-### 2. Selecciona la opción “Depósito Bancario”.
+### 2. Seleccionar la opción “Depósito bancario”.
 
 
 
-### 3. Selecciona la moneda correspondiente, introduce la cantidad y has clic en continuar.
+### 3. Seleccionar la moneda correspondiente, introducimos la cantidad y continuamos.
 
 
 
@@ -24,7 +22,7 @@ Para cargar fondos en Binance lo haremos de la siguiente manera.
 
 ### 
 
-### 4. Rellena la información de pago detallada.
+### 4. Recibimos los Detalles del pago.
 
 
 
@@ -32,13 +30,21 @@ Para cargar fondos en Binance lo haremos de la siguiente manera.
 
 ### 
 
-### 5. Completa el depósito en tu cuenta desde la aplicación o la web de tu banco.
+### 5. Accedemos a nuestro banco vía Web o vía App y realizamos una transferencia internacional con los datos que se nos han facilitado.
 
 {% hint style="info" %}
-Recuerda completar correctamente los campos a la hora de realizar la trasferencia bancaria.
+ Añadir el Código de referencia de 4 dígitos en el concepto de la transferencia y comprobar todos los datos.
 {% endhint %}
 
-Puedes obtener información más detallada y respuestas a preguntas frecuentes en la propia web de Binance [Cómo hacer depósitos de monedas fíat por transferencia bancaria \(SEPA\)](https://www.binance.com/es/support/faq/e117b4c063534e5f93b735b980575000) o [Comprar cripto](https://www.binance.com/es/support/faq/c-66?navId=75).
+
+
+Podemos obtener información más detallada y respuestas a preguntas frecuentes en la propia web de Binance [Cómo hacer depósitos de monedas fíat por transferencia bancaria \(SEPA\)](https://www.binance.com/es/support/faq/e117b4c063534e5f93b735b980575000) o [Comprar cripto](https://www.binance.com/es/support/faq/c-66?navId=75).
+
+
+
+### 6. Esperamos hasta que nuestro dinero llegue a Binance al día siguiente.
+
+Mientras tanto, podemos seguir leyendo el resto de la documentación. ¡Aprende más sobre [ballena.io](https://ballena.io/)!
 
 
 
