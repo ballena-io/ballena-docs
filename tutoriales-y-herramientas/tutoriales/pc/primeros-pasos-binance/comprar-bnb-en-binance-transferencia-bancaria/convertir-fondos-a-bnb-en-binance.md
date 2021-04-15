@@ -10,11 +10,11 @@ Ya tenemos nuestro dinero en Binance. Podremos comprobarlo en el saldo de _Bille
 
 
 
-### 1. Accede a la página web de [Binance](https://www.binance.com/es).
+### 1. Accedemos a la página web de [Binance](https://www.binance.com/es).
 
 ### 
 
-### 2. Ingresa en tu cuenta de Binance creada en los pasos anteriores.
+### 2. Ingresamos en nuestra cuenta creada en los pasos anteriores.
 
 
 
@@ -22,7 +22,7 @@ Ya tenemos nuestro dinero en Binance. Podremos comprobarlo en el saldo de _Bille
 
 
 
-### 3. Haz clic en "Trading" y "Convertir".
+### 3. En la barra superior, en "Trading", elegimos "Convertir".
 
 
 
@@ -34,7 +34,9 @@ Ya tenemos nuestro dinero en Binance. Podremos comprobarlo en el saldo de _Bille
 
 
 
-### 4. Selecciona EUR y USDT como en la siguiente imagen.
+### 4. Seleccionamos EUR y USDT como en la siguiente imagen.
+
+De este modo convertiremos nuestros EUR en USDT.
 
 
 
@@ -42,27 +44,27 @@ Ya tenemos nuestro dinero en Binance. Podremos comprobarlo en el saldo de _Bille
 
 
 
-### 5.Introduce la cantidad y Confirma la conversión.
+### 5.Introducimos la cantidad de EUR.
 
-Antes de confirmarla, te dará una previsión del cambio. Mira que esté todo bien y haz clic en Confirmar.
-
-
-
-### 6. Ahora tendrás que hacer lo mismo para USDT-BNB. De nuevo en "Conversión" selecciona USDT y BNB como en la siguiente imagen.
+Le damos a "Previsualizar conversión" y convertimos.
 
 
 
-![](../../../../../.gitbook/assets/5%20%281%29.png)
+### 6. Ahora habrá que hacer lo mismo de USDT a BNB.
+
+Colocamos las monedas como en la siguiente captura y convertimos el _MAX_ de USDT.
 
 
 
-### 7.Introduce la cantidad y Confirma la conversión.
-
-Antes de confirmarla te dará una previsión del cambio, mira que esté todo bien y haz clic en Confirmar.
+![](../../../../../.gitbook/assets/screenshot-2021-04-15-at-12.05.27.png)
 
 
 
-### 8. Completado! Ahora podrás ver tus tokens BNB en "Billetera" - "Fiat y Spot".
+### 7. **¡**Completado! 
+
+Dispondremos de una pequeña cantidad de BNB en nuestra _Billetera Spot_ y estaremos listos para el siguiente paso:
+
+{% page-ref page="../../configurar-wallet-metamask/" %}
 
 
 
