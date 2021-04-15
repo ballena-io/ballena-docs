@@ -1,10 +1,10 @@
 # Comprar BNB en Binance \(Tarjeta de Crédito\)
 
-Si no deseamos depositar fondos a través de una transferencia bancaria para su posterior conversión a BNB, podremos comprar BNB directamente con nuestra tarjeta de crédito. Esta transacción suele requerir el pago de una tasa algo más alta, aunque el proceso es mucho más rápido y sencillo. Para comprar cripto con tarjeta de crédito en Binance, lo haremos de la siguiente manera.
+Podemos comprar BNB directamente con nuestra Tarjeta de Crédito. Esta opción ofrece una **compra directa de BNB,** **sin** necesidad de **esperas** de deposito **ni** tampoco **conversiones**. Debemos saber que la **comisión** aplicada a este proceso es del **1.8%**.
 
 
 
-### 1. Pulsa el botón “Comprar Cripto” del menú de la Barra superior en Binance.
+### 1. Sobre “Comprar Cripto” del menú de la barra superior en Binance.
 
 
 
@@ -12,11 +12,13 @@ Si no deseamos depositar fondos a través de una transferencia bancaria para su 
 
 
 
-### 2. Selecciona la opción “Tarjeta de Crédito/Débito”.
+### 2. Seleccionamos la opción “Tarjeta de crédito/débito”.
+
+Necesitaremos introducir los datos de nuestra tarjeta.
 
 
 
-### 3. Selecciona la moneda correspondiente, introduce la cantidad y haz clic en continuar.
+### 3. Seleccionamos la moneda correspondiente en "Depositar".
 
 
 
@@ -24,9 +26,9 @@ Si no deseamos depositar fondos a través de una transferencia bancaria para su 
 
 
 
-### 4. Selecciona BNB.
+### 4. Elegimos comprar BNB.
 
-Recuerda que, en la mayoría de proyectos de la Red Binance Smart Chain, utilizan como token básico BNB y además se utiliza BNB para pagar las comisiones. Por lo tanto, necesitarás tener BNB en tu billetera para trabajar en Binance Smart Chain. Puedes seleccionar BNB en el combo de selección de criptomoneda.
+Como ya sabemos, es imprescindible comprar BNB para cumplir este objetivo.
 
 
 
@@ -34,9 +36,13 @@ Recuerda que, en la mayoría de proyectos de la Red Binance Smart Chain, utiliza
 
 
 
-### 5. Asegúrate que has verificado tu identidad en Binance.
+### 5. Estipulamos el importe en Euro y pulsamos "Comprar BNB".
 
-Si no has completado el proceso de verificación no se te permitirá realizar esta acción y aparecerá esta pantalla.
+
+
+### 5. Asegurarse de haber completado la Verificado de identidad de Binance.
+
+Si no hemos completado el proceso de verificación, no se nos permitirá realizar la acción y aparecerá esta pantalla.
 
 ![](../../../../.gitbook/assets/binance_credit_3.png)
 

@@ -14,7 +14,11 @@ En lugar de EUR puede aparecer otra divisa si es la divisa por defecto en nuestr
 
 
 
-### 2. Seleccionamos el importe en Euros.
+Nos aseguramos de haber completado la Verificación de identidad e introducimos los datos de nuestra tarjeta.
+
+### 
+
+### 2. Seleccionamos Euro en "Depositar".
 
 
 
@@ -22,7 +26,9 @@ En lugar de EUR puede aparecer otra divisa si es la divisa por defecto en nuestr
 
 
 
-### 3. Seleccionamos BNB.
+### 3. Elegimos comprar BNB.
+
+Como ya sabemos, es imprescindible comprar BNB para completar este objetivo.
 
 
 
