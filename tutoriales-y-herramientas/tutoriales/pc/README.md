@@ -7,14 +7,14 @@ En el caso del PC, independientemente del sistema operativo con el que contemos,
 * **Navegador web** - El tutorial se basa en Google Chrome.
 * Wallet ****- En este caso utilizaremos **MetaMask.**
 
-El navegador web nos llevará a la web Binance.com y a las Dapps \(aplicaciones descentralizadas\) de las que nos nutrimos: PancakeSwap y [app.ballena.io](https://app.ballena.io/)🐋. 
+El navegador web nos llevará a la web Binance.com y a las DApps \(aplicaciones descentralizadas\) de las que nos nutrimos: PancakeSwap y [ballena.io](https://app.ballena.io/)🐋. 
 
-MetaMask nos permitirá operar e interactuar con estas Dapps. Funciona como un puente entre el navegador y la blockchain Binance Smart Chain \(BSC\), plataforma descentralizada en la que se encuentran estas aplicaciones. 
+MetaMask nos permitirá operar e interactuar con estas DApps. Funciona como un puente entre el navegador y la blockchain Binance Smart Chain \(BSC\), plataforma descentralizada en la que se encuentran estas aplicaciones. 
 
 Recordemos el esquema visto anteriormente y sigamos los pasos de uno en uno para hacer que nuestro dinero pase de estar inmóvil en el banco a que esté generando altos rendimientos en[ ballena.io](https://ballena.io/)🐋.
 
 {% hint style="info" %}
-Ningún paso se deberá realizar sin haber completado el anterior.
+**Ningún paso se deberá realizar sin haber completado el anterior.**
 {% endhint %}
 
 
