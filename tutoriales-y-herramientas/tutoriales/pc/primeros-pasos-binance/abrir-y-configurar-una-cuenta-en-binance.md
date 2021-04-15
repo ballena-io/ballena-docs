@@ -66,7 +66,7 @@ Introducimos el código de seis dígitos enviado a nuestro correo para completar
 
 
 
-Para las opciones de Depósito Fiat o Compra con tarjeta de crédito debemos pasar un proceso de identificación “KYC” \(Know Your Customer\). Seguiremos los pasos marcados en la plataforma Binance. Este es un proceso de seguridad para vincular la cuenta con una empresa o persona física. Para completarlo necesitaremos un DNI, Carnet de Conducir o Pasaporte y poder hacer la verificación facial con el teléfono. Una vez identificados en la plataforma, se nos permitirá hacer depósitos Fiat y comprar criptomonedas. Habrá dos opciones diferentes para esto ultimo:
+Para las opciones de Depósito Fiat o Compra con tarjeta de crédito debemos pasar un proceso de identificación “KYC” \(Know Your Customer\). Seguiremos los pasos marcados en la plataforma Binance. Este es un proceso de seguridad para vincular la cuenta con una empresa o persona física. Para completarlo necesitaremos un DNI, Carnet de Conducir o Pasaporte y poder hacer la verificación facial con el teléfono. Una vez identificados en la plataforma, se nos permitirá hacer depósitos Fiat y comprar criptomonedas. Habrá dos opciones diferentes para esto último:
 
 {% page-ref page="comprar-bnb-en-binance-transferencia-bancaria/" %}
 
