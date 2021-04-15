@@ -10,6 +10,8 @@ Ya tenemos nuestro dinero en Binance. Podremos comprobarlo en el saldo de _Bille
 
 ## Cómo convertir fondos a BNB en Binance
 
+
+
 ### 1. Dentro de la aplicación de Binance vamos a la sección “Trading”.
 
 

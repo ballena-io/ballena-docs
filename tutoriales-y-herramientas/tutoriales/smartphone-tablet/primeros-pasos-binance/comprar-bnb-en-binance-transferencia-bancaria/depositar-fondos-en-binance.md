@@ -39,7 +39,7 @@ Leer con detenimiento las notas importantes que emergen en pantalla.
 En este paso elegiremos la cantidad que deseamos transferir.
 
 {% hint style="info" %}
-No olvidar añadir el Código de referencia de 4 cifras en el concepto de la transferencia.  
+No olvidar añadir el Código de referencia de 4 cifras en el concepto de la transferencia y comprobar todos los datos.  
 {% endhint %}
 
 
