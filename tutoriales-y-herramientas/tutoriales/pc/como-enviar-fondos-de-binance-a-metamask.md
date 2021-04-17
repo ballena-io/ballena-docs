@@ -1,10 +1,10 @@
 # Cómo enviar fondos de Binance a Metamask
 
-[ballena.io](https://ballena.io/)🐋 te ayuda a transferir tus fondos desde Binance a Metamask en 5 sencillos pasos. ¡Vamos allá!
+Con este tutorial, transferiremos fondos \(en este caso BNB\) desde Binance a Metamask en 5 sencillos pasos. ¡Vamos allá!
 
 
 
-### 1. Abrimos [Binance](https://www.binance.com/es) e ingresamos con nuestra cuenta. Una vez ahí, entramos en _Billetera **→**Spot_.
+### 1. Abrimos [Binance](https://www.binance.com/es) e ingresamos con nuestra cuenta. Una vez dentro, vamos a _Billetera **→**Spot_.
 
 ### 
 
@@ -16,7 +16,7 @@
 
 ### 
 
-### 3. El siguiente paso será rellenar los campos del cuadro de la parte derecha del panel. Lo primero que tendremos que hacer aquí es seleccionar _Binance Smart Chain \(BSC\)_.
+### 3. Tendremos que rellenar los campos del cuadro de la parte derecha del panel. Lo primero que tendremos que hacer aquí es averiguar nuestra dirección de envío.
 
 ​​
 
@@ -24,9 +24,9 @@
 
 ​
 
-### 4. Ahora copiamos nuestra dirección de la red BSC en Metamask.
+### 4. Vamos a MetaMask y copiamos nuestra dirección BSC .
 
-Hacemos clic en la extensión de Metamask en nuestro navegador **asegurándonos de tener la BSC seleccionada** como red \(ver parte superior de la siguiente imagen\). Luego hacemos clic en la cuenta que aparece, copiando así la dirección.
+Hacemos clic en la extensión de MetaMask en nuestro navegador **asegurándonos de tener la BSC seleccionada** como red \(ver siguiente imagen\). Luego hacemos clic en la cuenta que aparece, copiando así la dirección.
 
 ​
 
@@ -36,11 +36,23 @@ Hacemos clic en la extensión de Metamask en nuestro navegador **asegurándonos 
 
 ### 5. Por último, pegamos nuestra dirección en el campo "Dirección BNB del destinatario" y es muy importante que en "Red de transferencia" nos aseguremos de seleccionar _Binance Smart Chain \(BSC_\).
 
-Más abajo, la cantidad deseada de BNB y le damos a enviar. No hay prisa! En unos pocos minutos, los BNB aparecerán en nuestra Wallet de Metamask.  
+Más abajo, elegimos la cantidad deseada de BNB y le damos a enviar. Tendremos que confirmar la transferencia.
+
+No hay prisa! En unos pocos minutos, los BNB aparecerán en nuestra wallet de MetaMask.  
 
 ​​
 
 ![](../../../.gitbook/assets/binance_enviarbnb3.png)
+
+
+
+
+
+
+
+Ya tenemos fondos para operar en la BSC y participar en ballena.io:
+
+{% page-ref page="participar-en-ballena.io/" %}
 
 
 
