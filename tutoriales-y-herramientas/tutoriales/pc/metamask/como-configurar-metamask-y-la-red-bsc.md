@@ -104,7 +104,7 @@ Escribimos nuestra frase de recuperación en el recuadro y confirmamos.​
 
 ​​He aquí los datos de la imagen siguiente para poder copiarlos con facilidad:
 
-**BSC Mainnet**
+**BSC Mainnet** \(o el nombre que queramos\)
 
 **https://bsc-dataseed.binance.org/** 
 
