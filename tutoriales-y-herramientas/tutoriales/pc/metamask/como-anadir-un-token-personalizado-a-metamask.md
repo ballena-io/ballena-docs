@@ -1,12 +1,14 @@
-# Cómo añadir un Token personalizado a Metamask
+# Cómo añadir un token personalizado a Metaask
 
-[ballena.io](https://ballena.io/)🐋 te ayuda a añadir un token personalizado a Metamask. En este caso añadiremos nuestro token BALLE como ejemplo. El añadir un token a Metamask no varía su cuantía, sino que simplemente permite a Metamask mostrarlo en su menú. De esta manera, serás capaz de ver cuantos tokens BALLE tienes.
+Durante el proceso de [ballena.io](https://ballena.io/)🐋 trabajaremos con varios tokens, pero MetaMask no cuenta con la información de todos ellos. Esto NO significa que no vayan a ser compatibles con nuestra billetera. Significa que aunque seamos poseedores del token, este no se verá reflejado en nuestra billetera. **Necesitaremos añadir la información \(el contrato\) del token** a MetaMask **para** que este aparezca en la lista de tokens y **poder ver la cantidad de la que disponemos**.
 
-Recomendamos siempre añadir los tokens a Metamask antes de enviar fondos a tu wallet para evitar sustos.
+**Pondremos como ejemplo el token BALLE** ya que es el protagonista de esta odisea y porque es el único token que sabemos que manejaremos con toda certeza.
+
+Recomendamos **siempre añadir los tokens** a MetaMask **antes de enviar fondos** a la wallet para evitar sustos.
 
 
 
-### 1. Abrimos MetaMask, ícono en la parte superior derecha de nuestro navegador.
+### 1. Abrimos MetaMask, icono en la parte superior derecha de nuestro navegador.
 
 
 
@@ -38,7 +40,7 @@ Siempre copiar la dirección de BALLE de un sitio oficial de ballena.io.
 Tener cuidado si se va a copiar la dirección desde bscscan.com ya que existen 2 tokens con este mismo nombre al buscar "ballena.io". Asegurarse de seleccionar ✅ ballena.io \(BALLE\) ✅ y no ❌ Ballena.io \(Balle\) ❌ 
 {% endhint %}
 
-**Esta es la dirección del contrato del token BALLE:** \ ADD NEW ADDRESS / \(siempre comprobar\)
+**Esta es la dirección del contrato de BALLE** \(siempre comprobar\)**:** \ ADD NEW ADDRESS / 
 
 
 
@@ -46,7 +48,7 @@ Tener cuidado si se va a copiar la dirección desde bscscan.com ya que existen 2
 
 ### 
 
-### 5. Haz clic en 'Add Tokens' y...
+### 5. Hacemos clic en 'Add Tokens' y...
 
 
 
@@ -58,11 +60,19 @@ Tener cuidado si se va a copiar la dirección desde bscscan.com ya que existen 2
 
 #### 
 
-### 6. BALLE 🐋! El token BALLE ahora está disponible entre tus tokens. La Wallet está lista para mostrar su balance y ya puedes comenzar a visualizarlo en tu Metamask.
+### 6. BALLE 🐋! El token BALLE ya está disponible entre nuestros tokens. La wallet muestra ahora su balance en el menú principal de MestaMask.
 
 
 
 ![](../../../../.gitbook/assets/7%20%283%29.png)
+
+
+
+
+
+Hora de enviar los BNB que compramos en Binance a MetaMask:
+
+{% page-ref page="../como-enviar-fondos-de-binance-a-metamask.md" %}
 
 
 
