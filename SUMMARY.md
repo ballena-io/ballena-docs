@@ -19,7 +19,7 @@
       * [Comprar BNB en Binance \(Tarjeta de Crédito\)](tutoriales-y-herramientas/tutoriales/pc/primeros-pasos-binance/comprar-bnb-en-binance-tarjeta-de-credito.md)
     * [MetaMask](tutoriales-y-herramientas/tutoriales/pc/metamask/README.md)
       * [Cómo configurar MetaMask y la red BSC](tutoriales-y-herramientas/tutoriales/pc/metamask/como-configurar-metamask-y-la-red-bsc.md)
-      * [Cómo añadir un token personalizado a Metaask](tutoriales-y-herramientas/tutoriales/pc/metamask/como-anadir-un-token-personalizado-a-metamask.md)
+      * [Cómo añadir un token personalizado a MetaMask](tutoriales-y-herramientas/tutoriales/pc/metamask/como-anadir-un-token-personalizado-a-metamask.md)
     * [Cómo enviar fondos de Binance a Metamask](tutoriales-y-herramientas/tutoriales/pc/como-enviar-fondos-de-binance-a-metamask.md)
     * [Participar en ballena.io](tutoriales-y-herramientas/tutoriales/pc/participar-en-ballena.io/README.md)
       * [Cómo participar en una BalleVault](tutoriales-y-herramientas/tutoriales/pc/participar-en-ballena.io/como-participar-en-una-ballevault/README.md)

@@ -1,4 +1,4 @@
-# Cómo añadir un token personalizado a Metaask
+# Cómo añadir un token personalizado a MetaMask
 
 Durante el proceso de [ballena.io](https://ballena.io/)🐋 trabajaremos con varios tokens, pero MetaMask no cuenta con la información de todos ellos. Esto NO significa que no vayan a ser compatibles con nuestra billetera. Significa que aunque seamos poseedores del token, este no se verá reflejado en nuestra billetera. **Necesitaremos añadir la información \(el contrato\) del token** a MetaMask **para** que este aparezca en la lista de tokens y **poder ver la cantidad de la que disponemos**.
 
