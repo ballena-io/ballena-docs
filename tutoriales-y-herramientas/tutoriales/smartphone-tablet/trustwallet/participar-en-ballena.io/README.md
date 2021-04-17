@@ -19,13 +19,13 @@ Además, al ser poseedores de BALLEv2, podremos formar parte de la [Gobernanza](
 
 Aprendamos sobre el primer paso en la siguiente página:
 
-{% page-ref page="participar-en-una-ballevault/" %}
+{% page-ref page="como-participar-en-una-ballevault/" %}
 
 
 
 En caso de que ya seamos poseedores de BALLEv2 y queramos maximizar su rendimiento, en el siguiente enlace se detalla cómo añadirlos a la Staking Pool:
 
-{% page-ref page="avanzado-participar-en-la-staking-pool-de-ballev2/" %}
+{% page-ref page="avanzado-como-participar-en-la-staking-pool-de-ballev2/" %}
 
 
 

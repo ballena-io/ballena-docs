@@ -66,7 +66,7 @@ El token se añadirá a la pantalla principal de nuestra billetera.
 
 En el siguiente paso se explica cómo dar un uso práctico a los BALLE recaudados participando en la Staking Pool:
 
-{% page-ref page="avanzado-participar-en-la-staking-pool-de-ballev2/" %}
+{% page-ref page="avanzado-como-participar-en-la-staking-pool-de-ballev2/" %}
 
 
 
