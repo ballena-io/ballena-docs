@@ -14,6 +14,8 @@ Recomendamos **siempre añadir los tokens** a MetaMask **antes de enviar fondos*
 
 ![](../../../../.gitbook/assets/1%20%288%29.png)
 
+### 
+
 ### 2. Hacemos clic en "Add Token" en la parte inferior del menú.
 
 
