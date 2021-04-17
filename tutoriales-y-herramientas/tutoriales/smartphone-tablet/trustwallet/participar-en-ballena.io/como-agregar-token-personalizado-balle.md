@@ -1,5 +1,7 @@
 # Cómo agregar token personalizado: BALLE
 
+Este tutorial vale para cualquier token.
+
 Los BALLE solo **entraran** en nuestra billetera **al cosechar las ganancias** de una BalleVault. En cambio, es posible que **NO se reflejen** en la lista de tokens de **Trust Wallet.**
 
 Para poder ver de cuántos BALLE disponemos, **tendremos que agregar el token** a Trust Wallet mediante unos sencillos pasos.
@@ -34,7 +36,7 @@ En la pantalla principal de nuestra billetera, pulsamos el botón de la esquina 
 
 Abajo del todo de la lista seleccionamos "Agregar Token personalizado"
 
-![](../../../../../.gitbook/assets/photo6034987384199820702.jpg)
+![](../../../../../.gitbook/assets/photo6034987384199820702%20%281%29.jpg)
 
 ![](../../../../../.gitbook/assets/photo6034987384199820713.jpg)
 
@@ -46,9 +48,9 @@ El resto de casillas se rellenarán automáticamente.
 
 
 
-![](../../../../../.gitbook/assets/photo6034987384199820712.jpg)
+![](../../../../../.gitbook/assets/photo6034987384199820712%20%281%29.jpg)
 
-![](../../../../../.gitbook/assets/photo6034987384199820711.jpg)
+![](../../../../../.gitbook/assets/photo6034987384199820711%20%281%29.jpg)
 
 
 

@@ -3,7 +3,7 @@
 ### 1. Accedemos a PancakeSwap en el navegador DApps de Trust Wallet.
 
 {% hint style="warning" %}
-Nunca cambiar todos los BNB para poder pagar las tasas de las transacciones de la red BSC.
+Nunca cambiar todos los BNB para poder pagar las tasas de las transacciones de la red BSC. Las comisiones cuestan céntimos pero vale más tener siempre BNB de sobra para no quedarse atascado en ningún paso.
 {% endhint %}
 
 {% hint style="info" %}
@@ -37,7 +37,7 @@ En el apartado _Trade → Exchange_ de PancakeSwap, partimos con BNB de la casil
 
 ### 4. Estipulamos parámetros de conversión.
 
-Para crear el **par bALBT/BNB necesitaremos las dos monedas en partes iguales**. Por lo tanto, si disponemos de 2 BNB, necesitaremos **cambiar exactamente 1 BNB por bALBT**. Estipulamos la cantidad de BNB y debajo nos aparecerá la cantidad de bALBT que recibiremos . Pulsamos "Swap" y confirmamos la transacción.
+Para crear el **par bALBT/BNB necesitaremos las dos monedas en partes iguales**. Por lo tanto, si disponemos de 2 BNB \(sin contar lo que usaremos para pagar las comisiones de red\), necesitaremos **cambiar exactamente 1 BNB por bALBT**. Estipulamos la cantidad de BNB y debajo nos aparecerá la cantidad de bALBT que recibiremos . Pulsamos "Swap" y confirmamos la transacción.
 
 
 
@@ -48,6 +48,8 @@ Para crear el **par bALBT/BNB necesitaremos las dos monedas en partes iguales**.
 ### 5. Intercambio completado.
 
 Disponemos ahora de 1 BNB y de su valor correspondiente en bALBT.
+
+El nuvo token debería aparecer en Trust Wallet. En caso de no verlo, asegurarse de haber agregado el token a MetaMask, si no sabemos como hacerlo vamos a [este tutorial](../como-agregar-token-personalizado-balle.md).
 
 
 
