@@ -49,7 +49,7 @@ Para crear el **par bALBT/BNB necesitaremos las dos monedas en partes iguales**.
 
 Disponemos ahora de 1 BNB y de su valor correspondiente en bALBT.
 
-El nuvo token debería aparecer en Trust Wallet. En caso de no verlo, asegurarse de haber agregado el token a MetaMask, si no sabemos como hacerlo vamos a [este tutorial](../como-agregar-token-personalizado-balle.md).
+El nuvo token debería aparecer en Trust Wallet. En caso de no verlo, asegurarse de haber agregado el token a MetaMask. Si no sabemos como hacerlo, vamos a [este tutorial](../como-agregar-token-personalizado-balle.md).
 
 
 

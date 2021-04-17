@@ -89,7 +89,7 @@ Primer cobro de comisiones.
 
 Disponemos ahora de 1 BNB y de su valor correspondiente en bALBT.
 
-El nuvo token debería aparecer en MetaMask. En caso de no verlo, asegurarse de haber agregado el token a MetaMask, si no sabemos como hacerlo vamos a [este tutorial](../../metamask/como-anadir-un-token-personalizado-a-metamask.md).
+El nuvo token debería aparecer en MetaMask. En caso de no verlo, asegurarse de haber agregado el token a MetaMask. Si no sabemos como hacerlo, vamos a [este tutorial](../../metamask/como-anadir-un-token-personalizado-a-metamask.md).
 
 
 
