@@ -8,7 +8,7 @@ En muchas ocasiones querrás añadir liquidez en PancakeSwap para obtener un ren
 
 
 
-### 2. Conectar nuestra billetera pulsando el botón "Connect" de la parte superior derecha.
+### 2. Conectar nuestra billetera MetaMask pulsando el botón "Connect" de la parte superior derecha.
 
 
 
@@ -16,7 +16,7 @@ En muchas ocasiones querrás añadir liquidez en PancakeSwap para obtener un ren
 
 
 
-### 3. Hacer click en "Trade" y a continuación "Liquidity" en el menú de la izquierda.
+### 3.  Vamos a _Trade→Liquidity_ en el menú de la izquierda.
 
 Recuerda que para poder agregar liquidez a una LP necesitaremos el mismo valor en ambos assets. En caso de no tenerlo habrá que hacer el cambio correspondiente en "Exchange".
 
