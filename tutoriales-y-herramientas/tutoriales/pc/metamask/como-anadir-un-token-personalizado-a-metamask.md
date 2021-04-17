@@ -24,7 +24,7 @@ Recomendamos **siempre añadir los tokens** a MetaMask **antes de enviar fondos*
 
 ### 3. Hacemos clic en "Custom Token".
 
-
+Nos aseguramos de estar en la red correcta \(BSC\).
 
 ![](../../../../.gitbook/assets/3%20%289%29.png)
 
