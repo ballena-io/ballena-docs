@@ -2,7 +2,7 @@
 
 Durante el proceso de [ballena.io](https://ballena.io/)🐋 trabajaremos con varios tokens, pero MetaMask no cuenta con la información de todos ellos. Esto NO significa que no vayan a ser compatibles con nuestra billetera. Significa que aunque seamos poseedores del token, este no se verá reflejado en nuestra billetera. **Necesitaremos añadir la información \(el contrato\) del token** a MetaMask **para** que este aparezca en la lista de tokens y **poder ver la cantidad de la que disponemos**.
 
-**Pondremos como ejemplo el token BALLE** ya que es el protagonista de esta odisea y porque es el único token que sabemos que manejaremos con toda certeza.
+**Pondremos como ejemplo el token BALLE** ya que es el protagonista de esta odisea y porque es el único token que sabemos con toda certeza que manejaremos.
 
 Recomendamos **siempre añadir los tokens** a MetaMask **antes de enviar fondos** a la wallet para evitar sustos.
 
