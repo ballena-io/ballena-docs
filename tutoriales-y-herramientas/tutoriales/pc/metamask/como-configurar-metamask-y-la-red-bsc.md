@@ -1,14 +1,12 @@
 # Cómo configurar MetaMask y la red BSC
 
-En este tutorial explicaremos cómo descargar y abrir una cuenta en MetaMask desde el comienzo. Además veremos cómo configurar la red BSC.
 
 
+## Cómo instalar MetaMask en el navegador.
 
-## Cómo instalar MetaMask en tu navegador.
+### 1. Abrimos [https://metamask.io/](https://metamask.io/) en el navegador y descargamos la extensión. 
 
-### 1. Abre [https://metamask.io/](https://metamask.io/) en tu navegador y descarga la extensión. 
-
-MetaMask soporta los navegadores Chrome, Firefox, Brave and Edge. Hagámoslo en Chrome. Una vez en la web de MetaMask, haz clic en "Download" y luego en "Install MetaMask for Chrome" para obtener la extensión.
+MetaMask soporta los navegadores Chrome, Firefox, Brave y Edge. Aquí lo haremos en Chrome. Una vez en la web de MetaMask, hacemos clic en "Download" y luego en "Install MetaMask for Chrome".
 
 ​
 
@@ -20,7 +18,7 @@ MetaMask soporta los navegadores Chrome, Firefox, Brave and Edge. Hagámoslo en 
 
 #### 
 
-### 2. Una vez en la Store de Chrome, haz clic en "Add to Chrome". Ahora haz Clic en "Add extensión" y el ícono de MetaMask aparecerá en la parte superior derecha de tu navegador.
+### 2. Nos redirige a la Store de Chrome. Hacemos clic en "Add to Chrome". Ahora clic en "Add extensión" y el ícono de MetaMask aparecerá en la parte superior derecha del navegador.
 
 ​​
 
@@ -30,7 +28,7 @@ MetaMask soporta los navegadores Chrome, Firefox, Brave and Edge. Hagámoslo en 
 
 #### 
 
-### 3. Ahora haz clic en el botón de extensiones, parte superior derecha, y haz clic en Pin para el MetaMask para que el ícono sea siempre visible.
+### 3. Seleccionamos el botón de extensiones, parte superior derecha, y hacemos clic en Pin para que el icono de MetaMask se siempre visible.
 
 ​​
 
@@ -38,9 +36,9 @@ MetaMask soporta los navegadores Chrome, Firefox, Brave and Edge. Hagámoslo en 
 
 #### 
 
-### 4. Crea una cuenta. Haz clic en el botón "Get Started" de Metamask y después en "Create a Wallet". 
+### 4. Crear una cuenta. Hacemos clic en el botón "Get Started" de MetaMask y después en "Create a Wallet". 
 
-Sigue los siguientes pasos y acepta las condiciones.
+Seguir los siguientes pasos y aceptar las condiciones.
 
 ​   ​
 
@@ -52,9 +50,11 @@ Sigue los siguientes pasos y acepta las condiciones.
 
 #### 
 
-### 5. Crea una contraseña y acepta los términos.
+### 5. Crear una contraseña segura.
 
-​​
+​​Y aceptamos los términos.
+
+
 
 ![](https://user-images.githubusercontent.com/79335891/108597310-b424f700-7388-11eb-91b5-3dd1aa7b7f2d.png)
 
@@ -65,10 +65,10 @@ Sigue los siguientes pasos y acepta las condiciones.
 ### 6. Secret Backup Phrase. 
 
 {% hint style="warning" %}
-**Asegúrate de guardar las palabras de recuperación** en varios lugares seguros, preferentemente offline, como una libreta y una placa metálica. **Recuerda** **anotarlas exactamente en el mismo orden** que aparecen en nuestra pantalla, ya que de lo contrario no sería válida y **su pérdida ocasionaría la pérdida total de los fondos.**
+**Asegurarse de guardar las palabras de recuperación** en varios lugares seguros, preferentemente offline, como una libreta y una placa metálica. **Importante** **anotarlas exactamente en el mismo orden** que aparecen en nuestra pantalla, ya que de lo contrario no sería válida y **su pérdida ocasionaría la pérdida total de los fondos.**
 {% endhint %}
 
-Escribe tu frase de recuperación en el recuadro y confirma.​
+Escribimos nuestra frase de recuperación en el recuadro y confirmamos.​
 
 
 
@@ -78,7 +78,7 @@ Escribe tu frase de recuperación en el recuadro y confirma.​
 
 #### 
 
-### 7. ¡Hecho! ¡Has creado tu cuenta de MetaMask!
+### 7. ¡Hecho! ¡Cuenta de MetaMask creada!
 
 ​​
 
@@ -88,21 +88,31 @@ Escribe tu frase de recuperación en el recuadro y confirma.​
 
 ### 
 
-## Cómo configurar la red BSC en tu Wallet de MetaMask
+## Cómo configurar la red BSC en MetaMask
 
 
 
-### 1. Ahora vamos a configurar la red BSC en tu Wallet. Primero haz clic en el desplegable que pone "Ethereum mainnet" y haz clic en "Custom RPC" en el menú.
+### 1. Abrimos MetaMask en una pestaña. Primero hacemos clic en el desplegable que pone "Ethereum Mainnet" y elegimos "Custom RPC" en el menú.
 
-​​
+​​Como podemos ver, la red Ethereum viene configurada de serie en la wallet. Lo que vamos a hacer es añadir esta nueva red \(BSC\) porque es la que nos interesa.
 
 ![](https://user-images.githubusercontent.com/79335891/108597780-1b43ab00-738b-11eb-8b8f-abf7481ad127.png)
 
 #### 
 
-### 2. Añade los datos de la BSC que mostramos a continuación y haz clic en "Save".
+### 2. Añadimos los datos de la BSC que se muestran a continuación y hacemos clic en "Save".
 
-​​En el campo "Chain ID" puedes escribir 0x38 o 56, ya que son equivalentes. No te preocupes si al hacer clic en "Save" los valores se intercambian entre estos dos citados.
+​​He aquí los datos de la imagen siguiente para poder copiarlos con facilidad:
+
+**BSC Mainnet**
+
+**https://bsc-dataseed.binance.org/** 
+
+**0x38** o **56** \(son equivalentes\)
+
+**BNB**
+
+**https://bscscan.com/**
 
 
 
@@ -110,7 +120,7 @@ Escribe tu frase de recuperación en el recuadro y confirma.​
 
 #### 
 
-### 3. Ahora tu Wallet está lista para operar en la red Binance Smart Chain, ¡enhorabuena!
+### 3. Así de sencillo, nuestra wallet de MetaMask está lista para operar en la red Binance Smart Chain, ¡enhorabuena!
 
  ​
 
@@ -118,7 +128,9 @@ Escribe tu frase de recuperación en el recuadro y confirma.​
 
 
 
-Sigue con [ballena.io](https://ballena.io/) en los siguientes pasos!
+Sigamos con [ballena.io](https://ballena.io/) en el siguiente paso:
+
+{% page-ref page="como-anadir-un-token-personalizado-a-metamask.md" %}
 
 
 
