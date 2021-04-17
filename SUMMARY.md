@@ -43,7 +43,7 @@
       * [Cómo usar DApps en Trust Wallet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/trustwallet/como-usar-dapps-en-trust-wallet.md)
       * [Participar en ballena.io](tutoriales-y-herramientas/tutoriales/smartphone-tablet/trustwallet/participar-en-ballena.io/README.md)
         * [Cómo participar en una BalleVault](tutoriales-y-herramientas/tutoriales/smartphone-tablet/trustwallet/participar-en-ballena.io/como-participar-en-una-ballevault/README.md)
-          * [Convertir BNB por otro Token en PancakeSwap](tutoriales-y-herramientas/tutoriales/smartphone-tablet/trustwallet/participar-en-ballena.io/como-participar-en-una-ballevault/convertir-bnb-por-otro-token-en-pancakeswap.md)
+          * [Convertir BNB por otro token en PancakeSwap](tutoriales-y-herramientas/tutoriales/smartphone-tablet/trustwallet/participar-en-ballena.io/como-participar-en-una-ballevault/convertir-bnb-por-otro-token-en-pancakeswap.md)
           * [Cómo añadir liquidez en PancakeSwap a una Liquidity Pool en Trust Wallet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/trustwallet/participar-en-ballena.io/como-participar-en-una-ballevault/anadir-liquidez-a-una-liquidity-pool.md)
           * [Cómo agregar los tokens LP a una BalleVault \(bóveda\) en ballena.io](tutoriales-y-herramientas/tutoriales/smartphone-tablet/trustwallet/participar-en-ballena.io/como-participar-en-una-ballevault/agregar-los-tokens-lp-a-una-ballevault.md)
         * [Cómo agregar token personalizado: BALLE](tutoriales-y-herramientas/tutoriales/smartphone-tablet/trustwallet/participar-en-ballena.io/como-agregar-token-personalizado-balle.md)

@@ -1,4 +1,4 @@
-# Convertir BNB por otro Token en PancakeSwap
+# Convertir BNB por otro token en PancakeSwap
 
 ### 1. Accedemos a PancakeSwap en el navegador DApps de Trust Wallet.
 
