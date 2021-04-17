@@ -8,7 +8,7 @@
 * Por tanto, nuestro **valor total disponible** es de **2 BNB**.
 
 {% hint style="warning" %}
-Nunca cambiar todos los BNB para poder pagar las tasas de las transacciones de la red BSC.
+Nunca cambiar todos los BNB para poder pagar las tasas de las transacciones de la red BSC. Las comisiones cuestan céntimos pero vale más tener siempre BNB de sobra para no quedarse atascado en ningún paso.
 {% endhint %}
 
 {% hint style="info" %}
@@ -45,7 +45,7 @@ Si el buscador DApps no conecta con el sitio, asegurarse que la red en la que es
 
 
 
-### 4. Hacemos clic en "Select a token" para seleccionar el token requerido.
+### 4. Hacemos clic en _Select a token_ para seleccionar el token requerido.
 
 
 
@@ -87,7 +87,15 @@ Primer cobro de comisiones.
 
 ### 8. Completado!
 
-Tus tokens deberían aparecer en tu Metamask. En caso de no verlos, asegúrate de haber agregado el token a tu metamask, si no sabes como hacerlo ve a [este tutorial](../../metamask/como-anadir-un-token-personalizado-a-metamask.md).
+Disponemos ahora de 1 BNB y de su valor correspondiente en bALBT.
+
+El nuvo token debería aparecer en MetaMask. En caso de no verlo, asegurarse de haber agregado el token a MetaMask, si no sabemos como hacerlo vamos a [este tutorial](../../metamask/como-anadir-un-token-personalizado-a-metamask.md).
+
+
+
+Veamos cómo añadir liquidez y crear el par:
+
+{% page-ref page="anadir-liquidez-a-una-lp.md" %}
 
 
 
