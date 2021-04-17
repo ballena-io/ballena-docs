@@ -1,32 +1,34 @@
 # Participar en ballena.io
 
-**\*\* IN PROGRESS \*\***
+Este es el fin último de todos los pasos anteriores. Nos encontraremos con **dos maneras diferentes de participar en** [**ballena.io**](https://ballena.io/)**🐋**. Lo ideal es partir de la primera para poder seguir con la segunda.
+
+### 1. **Participar en una BalleVault y generar tokens BALLE** <a id="1-participar-en-una-ballevault-y-generar-tokens-ballev2"></a>
+
+Mediante los pasos explicados en este apartado, invertiremos nuestro dinero en una BalleVault en [**ballena.io**](https://app.ballena.io/)**🐋**. Como ya sabemos, la plataforma nos dará altos retornos sobre los activos invertidos y, además, **nos recompensará con tokens BALLE.**
+
+En [este link](https://docs.ballena.io/primeros-pasos/primeros-pasos) se detalla el método que [ballena.io](https://app.ballena.io/) utiliza para multiplicar la inversión.
+
+​
+
+### 2. Proveer liquidez de **los** tokens BALLE en la Staking Pool. <a id="2-proveer-liquidez-de-los-tokens-ballev2-en-la-staking-pool"></a>
+
+Los tokens BALLE acumulados en el proceso anterior NO se recomienda venderlos ni intercambiarlos, ya que se espera una subida gradual de su valor con el tiempo. El mejor lugar para estos BALLE es la Staking Pool de [**ballena.io**](https://ballena.io/)**🐋**. Esta es una DApp elaborada por nuestro equipo que nos ofrece la opción de **reinvertir tokens BALLE para generar más tokens BALLE. El rendimiento es masivamente exponencial.**
+
+Además, al ser poseedores de BALLE, podremos formar parte de la [Gobernanza](https://docs.ballena.io/tecnico/gobernanza) de la plataforma.
 
 
 
-En este tutorial veremos como **convertir tus BNB** por otro token para poder, posteriormente, agregar liquidez al par seleccionado y así agregar tokens LP a una BalleVault.
+Aprendamos sobre el primer paso en la siguiente página:
+
+{% page-ref page="como-participar-en-una-ballevault/" %}
 
 
 
-### Decide si invertirás en una BalleVault determinada o si buscarás rentabilidad en staking de nuestro token BALLE.
+En caso de que ya seamos poseedores de BALLE y queramos maximizar su rendimiento, en el siguiente enlace se detalla cómo añadirlos a la Staking Pool:
 
-Esta decisión marcará la diferencia en los siguientes pasos del tutorial. Tenemos dos vías de actuación:
-
-
-
-### Proveer liquidez a una BalleVault de un par que nos llame la atención.
-
-Es una forma de inversión en la que se añaden a partes iguales dos assets con el mismo valor. El retorno, por lo tanto, será de estos dos assets también a partes iguales. La BalleVault lo que hará será aumentar los tokens que tenemos asignados al par seleccionado. Por ejemplo, podríamos añadir liquidez al par Balbt/BNB. Lo que haremos en este caso será cambiar la mitad de nuestros BNB por Balbt y añadiremos ambos a una LP. El hecho de añadir el mismo valor para ambos significa que si queremos aportar tokens BNB con valor de 200€, tendremos que añadir también tokens Balbt equivalentes a 200€.
-
-Para ello tendremos que cambiar BNB por Balbt en PancakeSwap como se detalla en [este tutorial](como-participar-en-una-ballevault/cambiar-bnb-por-otro-token-en-pancakeswap.md).
+{% page-ref page="avanzado-como-participar-en-la-staking-pool-de-balle/" %}
 
 
-
-### Proveer liquidez al staking del token BALLE \(BALLE Staking Pool, BALLE Reward Pool o Pool de Gobernanza\).
-
-Es otra forma de inversión en la que añades liquidez exclusivamente del token BALLE. Esto, por lo tanto, genera retorno en token BALLE, contribuyendo además a su revalorización y el potenciamiento de la plataforma. Además de su alta rentabilidad, debido a su incremento de valor, podrás formar parte en la [Gobernanza](../../../../tecnico/gobernanza.md). 
-
-Para ello tendremos que cambiar BNB por BALLE en PancakeSwap como se detalla en [este tutorial](avanzado-como-participar-en-la-staking-pool-de-balle/como-comprar-el-token-balle.md).
 
 
 
