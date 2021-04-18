@@ -101,4 +101,5 @@
 ## Others
 
 * [Developers](others/developers.md)
+* [Contributing](others/contributing.md)
 
