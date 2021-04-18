@@ -16,9 +16,9 @@ En el apartado _Trade →Liquidity_  pulsamos en "Add Liquidity".
 
 
 
-![](../../../../../../.gitbook/assets/photo6003629256741074154.jpg)
+![](../../../../../../.gitbook/assets/photo6003629256741074154%20%281%29.jpg)
 
-![](../../../../../../.gitbook/assets/photo6003629256741074153.jpg)
+![](../../../../../../.gitbook/assets/photo6003629256741074153%20%281%29.jpg)
 
 ### 
 
@@ -26,9 +26,9 @@ En el apartado _Trade →Liquidity_  pulsamos en "Add Liquidity".
 
 En una casilla seleccionamos BNB y en la otra elegimos bALBT. Le damos a ****_**MAX**_  **en la casilla de bALBT** y, automaticamente, se añadirá la cantidad correspondiente de BNB en su respectiva casilla. Pulsamos abajo en "Approve bALBT" y confirmamos.
 
-![](../../../../../../.gitbook/assets/photo6003629256741074152%20%281%29.jpg)
+![](../../../../../../.gitbook/assets/photo6003629256741074152%20%282%29%20%282%29.jpg)
 
-![](../../../../../../.gitbook/assets/photo6003629256741074151.jpg)
+![](../../../../../../.gitbook/assets/photo6003629256741074151%20%281%29%20%281%29.jpg)
 
 ### 
 
@@ -38,9 +38,9 @@ A continuación, aprobamos la transacción para añadir finalmente nuestros toke
 
 
 
-![](../../../../../../.gitbook/assets/photo6003629256741074150.jpg)
+![](../../../../../../.gitbook/assets/photo6003629256741074150%20%281%29.jpg)
 
-![](../../../../../../.gitbook/assets/photo6003629256741074188.jpg)
+![](../../../../../../.gitbook/assets/photo6003629256741074188%20%281%29%20%281%29.jpg)
 
 
 

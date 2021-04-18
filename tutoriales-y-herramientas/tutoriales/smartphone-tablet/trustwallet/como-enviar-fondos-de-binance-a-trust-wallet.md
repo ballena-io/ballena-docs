@@ -10,9 +10,9 @@ Seleccionamos Smart Chain BNB y presionamos "Receive" para encontrar nuestra dir
 
 ![](../../../../.gitbook/assets/sc.png)
 
-![](../../../../.gitbook/assets/ssc.png)
+![](../../../../.gitbook/assets/ssc%20%281%29%20%281%29.png)
 
-![](../../../../.gitbook/assets/scc.png)
+![](../../../../.gitbook/assets/scc%20%281%29.png)
 
 ### 
 
@@ -26,7 +26,7 @@ En el caso de que queramos mandar un activo \(no solo BNB\) a Trust Wallet con e
 
 
 
-![](../../../../.gitbook/assets/dfg.jpg)
+![](../../../../.gitbook/assets/dfg%20%281%29.jpg)
 
 
 
@@ -36,7 +36,7 @@ Accedemos a la Billetera pulsando el icono “Billetera” en la parte inferior 
 
 
 
-![](../../../../.gitbook/assets/tt.jpg)
+![](../../../../.gitbook/assets/tt%20%281%29.jpg)
 
 
 

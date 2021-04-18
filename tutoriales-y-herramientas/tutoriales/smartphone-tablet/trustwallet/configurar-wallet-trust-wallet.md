@@ -17,7 +17,7 @@ Tras el primer inicio de la aplicación, se nos presentará la siguiente pantall
 
 
 
-![](../../../../.gitbook/assets/11%20%282%29.png)
+![](../../../../.gitbook/assets/11%20%283%29%20%281%29.png)
 
 ### 
 
@@ -27,7 +27,7 @@ A partir de aquí, leemos con detenimiento todo lo que sale en pantalla. Hay que
 
 
 
-![](../../../../.gitbook/assets/22.png)
+![](../../../../.gitbook/assets/22%20%281%29.png)
 
 ### 
 
@@ -43,9 +43,9 @@ Cuando hayamos tomado nota, continuamos.
 
 
 
-![](../../../../.gitbook/assets/33.png)
+![](../../../../.gitbook/assets/33%20%281%29%20%281%29.png)
 
-![](../../../../.gitbook/assets/4%20%289%29.png)
+![](../../../../.gitbook/assets/4%20%2810%29.png)
 
 ### 
 
@@ -57,7 +57,7 @@ Si hemos seguido el paso anterior y hemos realizado una copia de seguridad de la
 
 ![](../../../../.gitbook/assets/5%20%287%29.png)
 
-![](../../../../.gitbook/assets/66.png)
+![](../../../../.gitbook/assets/66%20%282%29%20%281%29.png)
 
 ### 
 
@@ -67,9 +67,9 @@ Después de pasar por el proceso de respaldo y verificación, se nos redirigirá
 
  
 
-![](../../../../.gitbook/assets/7%20%286%29.png)
+![](../../../../.gitbook/assets/7%20%287%29.png)
 
-![](../../../../.gitbook/assets/88.png)
+![](../../../../.gitbook/assets/88%20%282%29%20%281%29.png)
 
 
 

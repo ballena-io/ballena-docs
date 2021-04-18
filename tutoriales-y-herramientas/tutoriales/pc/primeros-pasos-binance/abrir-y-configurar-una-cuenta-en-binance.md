@@ -24,7 +24,7 @@ Para darse de alta en [Binance](https://www.binance.com/es) lo primero que tenem
 
 Rellenamos los campos utilizando nuestro correo electrónico y una contraseña segura. Tener en cuenta que para los siguientes pasos tendremos que tener acceso al correo electrónico que hemos utilizado para darnos de alta.
 
-![](../../../../.gitbook/assets/binance_2%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.png)
+![](../../../../.gitbook/assets/binance_2%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.png)
 
 
 
@@ -32,7 +32,7 @@ Rellenamos los campos utilizando nuestro correo electrónico y una contraseña s
 
 Y completamos la verificación de seguridad.
 
-![](../../../../.gitbook/assets/binance_4%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%281%29.png)
+![](../../../../.gitbook/assets/binance_4%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%281%29.png)
 
 
 
@@ -62,7 +62,7 @@ Introducimos el código de seis dígitos enviado a nuestro correo para completar
 
 
 
-![](../../../../.gitbook/assets/binance_7%20%281%29.png)
+![](../../../../.gitbook/assets/binance_7%20%281%29%20%281%29.png)
 
 
 

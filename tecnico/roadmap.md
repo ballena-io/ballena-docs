@@ -10,23 +10,19 @@ Sabemos que no es exactamente un roadmap, sino una lista de tareas sin un orden 
 Debido a la naturaleza del proyecto, trabajamos tan rápido como podemos en lo que consideramos prioritario para cumplir objetivos. La capacidad de reacción y pivotar son esenciales.
 {% endhint %}
 
-#### DAO
+## DAO
 
 * [x] Añadir plataforma de votación para DAO.
 * [x] Añadir SourceCred para contabilizar contribuciones.
 * [x] Definición e implementación niveles colaboradores.
 
-
-
-#### ballena.io v1.0
+## ballena.io v1.0
 
 * [x] Añadir estado Pausado a Bóvedas.
 * [x] Añadir estado ''Retirada' a cada Bóveda actual.
 * [x] Actualizar Disclaimer.
 
-
-
-#### ballena.io v2.0
+## ballena.io v2.0
 
 * [x] Migración a base de código solida y escalable.
 * [x] Librería de componentes reutilizables.
@@ -36,8 +32,4 @@ Debido a la naturaleza del proyecto, trabajamos tan rápido como podemos en lo q
 * [ ] Migración Token v1.0 a v2.0.
 * [ ] Añadir nuevas Bóvedas generando BALLE como recompensa.
 * [ ] Añadir habilidad para hacer Stake de BALLE.
-
-
-
-
 

@@ -22,7 +22,7 @@ Necesitaremos introducir los datos de nuestra tarjeta.
 
 
 
-![](../../../../.gitbook/assets/binance_credit_1%20%282%29%20%282%29%20%282%29%20%281%29.png)
+![](../../../../.gitbook/assets/binance_credit_1%20%282%29%20%282%29%20%282%29%20%282%29%20%281%29.png)
 
 
 

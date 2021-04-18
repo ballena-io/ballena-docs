@@ -24,7 +24,7 @@ Simplemente seleccionamos PancakeSwap entre las opciones que nos ofrece la inter
 
 
 
-![](../../../../.gitbook/assets/photo6003629256741074232.jpg)
+![](../../../../.gitbook/assets/photo6003629256741074232%20%281%29.jpg)
 
 
 
@@ -34,7 +34,7 @@ En el buscador de la parte superior introducimos "ballena.io" y nos llevará dir
 
 
 
-![](../../../../.gitbook/assets/photo6003629256741074236.jpg)
+![](../../../../.gitbook/assets/photo6003629256741074236%20%281%29.jpg)
 
 
 

@@ -37,11 +37,11 @@ Sigue los pasos del tutorial [Conectar Wallet para votar y crear propuestas](con
 
 
 
-![](../../.gitbook/assets/4.5%20%282%29.png)
+![](../../.gitbook/assets/4.5%20%284%29%20%281%29.png)
 
 
 
-![](../../.gitbook/assets/5.5.png)
+![](../../.gitbook/assets/5.5%20%281%29%20%281%29.png)
 
 
 
@@ -59,11 +59,11 @@ Recuerda las [bases ](crear-propuestas.md#estandarizacion)para crear una propues
 
 
 
-![](../../.gitbook/assets/6.5.png)
+![](../../.gitbook/assets/6.5%20%281%29.png)
 
 
 
-![](../../.gitbook/assets/7.5.png)
+![](../../.gitbook/assets/7.5%20%281%29.png)
 
 
 
@@ -81,7 +81,7 @@ Te aparecerá un desplegable para firmar la propuesta, haz clic en "Sign".
 
 
 
-![](../../.gitbook/assets/9.5.png)
+![](../../.gitbook/assets/9.5%20%281%29.png)
 
 
 

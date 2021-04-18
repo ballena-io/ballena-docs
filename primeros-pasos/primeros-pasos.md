@@ -126,8 +126,8 @@ Una vez entendido el potencial del interés compuesto de nuestras inversiones en
 
 [ballena.io](https://ballena.io/) trabaja con dos grupos de fondos de liquidez. 
 
-* Por un lado, el fondo BALLE de nuestra comunidad, llamado **BALLE Staking Pool**. Podrás ver el código de los contratos en nuestra documentación.
-* Por otro lado, [ballena.io](https://ballena.io/) trabaja sobre los fondos de [PancakeSwap](https://pancakeswap.finance/), una de las mejores plataformas DeFi hasta el momento. Puedes ver todo su código y [auditorias de seguridad](https://certik-public-assets.s3.amazonaws.com/REP-PancakeSwap-16_10_2020.pdf) en la documentación de su plataforma.
+* Por un lado, el fondo BALLE de nuestra comunidad, llamado **BALLE Staking Pool**. En esta Pool, podrás añadir tus tokens BALLE para que se incremente su número automáticamente y recibir recompensas de la plataforma. Puedes ver más información en [BALLE Staking Pool](../tecnico/productos/balle-staking-pool.md).
+* Por otro lado, [ballena.io](https://ballena.io/) trabaja sobre los fondos de [PancakeSwap](https://pancakeswap.finance/), una de las mejores plataformas DeFi hasta el momento. Estos se encuentran en las BalleVaults de neustra plataforma, más información en [BalleVaults](../tecnico/productos/ballevaults-de-pancake-swap.md). Puedes ver todo su código y [auditorias de seguridad](https://certik-public-assets.s3.amazonaws.com/REP-PancakeSwap-16_10_2020.pdf) en la documentación de su plataforma.
 
 ### 
 

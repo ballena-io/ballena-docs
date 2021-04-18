@@ -12,7 +12,7 @@ Si el buscador DApps no conecta con el sitio, asegurarse que la red en la que es
 
 
 
-![](../../../../../../.gitbook/assets/photo6003629256741074194.jpg)
+![](../../../../../../.gitbook/assets/photo6003629256741074194%20%281%29.jpg)
 
 ### 
 
@@ -31,7 +31,7 @@ En el apartado _Trade → Exchange_ de PancakeSwap, partimos con BNB de la casil
 
 
 
-![](../../../../../../.gitbook/assets/photo6003629256741074193.jpg)
+![](../../../../../../.gitbook/assets/photo6003629256741074193%20%281%29.jpg)
 
 ### 
 
@@ -41,7 +41,7 @@ Para crear el **par bALBT/BNB necesitaremos las dos monedas en partes iguales**.
 
 
 
-![](../../../../../../.gitbook/assets/photo6003629256741074192.jpg)
+![](../../../../../../.gitbook/assets/photo6003629256741074192%20%281%29.jpg)
 
 ### 
 

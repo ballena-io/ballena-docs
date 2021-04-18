@@ -24,7 +24,7 @@ Sigue los pasos del tutorial [Conectar Wallet para votar y crear propuestas](con
 
 \*\*\*\*
 
-![](../../.gitbook/assets/4.5%20%283%29.png)
+![](../../.gitbook/assets/4.5%20%284%29%20%282%29.png)
 
 \*\*\*\*
 

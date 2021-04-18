@@ -28,7 +28,7 @@ En la pantalla principal de nuestra billetera, pulsamos el botón de la esquina 
 
 
 
-![](../../../../../.gitbook/assets/photo6034987384199820715.jpg)
+![](../../../../../.gitbook/assets/photo6034987384199820715%20%281%29.jpg)
 
 
 
