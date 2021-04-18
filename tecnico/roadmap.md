@@ -31,7 +31,7 @@ Debido a la naturaleza del proyecto, trabajamos tan rápido como podemos en lo q
 * [x] Migración a base de código solida y escalable.
 * [x] Librería de componentes reutilizables.
 * [ ] Rebranding de la nueva plataforma 2.0.
-* [ ] Añadir sistema de traducciones.
+* [x] Añadir sistema de traducciones.
 * [ ] Añadir testnet.
 * [ ] Migración Token v1.0 a v2.0.
 * [ ] Añadir nuevas Bóvedas generando BALLE como recompensa.
