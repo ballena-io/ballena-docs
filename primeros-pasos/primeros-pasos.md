@@ -72,6 +72,8 @@ Las decisiones se toman en comunidad entre todos los usuarios que poseen el toke
 
 [ballena.io](https://ballena.io/) cuenta con una [plataforma de votación](https://vote.ballena.io) en la que se proponen nuevos cambios y son votados por todos los usuarios para su puesta en marcha. 
 
+Para más información haz click en [Tutoriales DAO.](../dao-organizacion/tutoriales-dao/)
+
 
 
 ### ¿Quién se encarga de gestionar los fondos de tesorería del proyecto?
