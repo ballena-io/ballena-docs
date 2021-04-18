@@ -101,5 +101,6 @@
 ## Others
 
 * [Developers](others/developers.md)
+* [Codebase Overview](others/codebase-overview.md)
 * [Contributing](others/contributing.md)
 
