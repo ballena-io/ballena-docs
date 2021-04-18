@@ -9,7 +9,7 @@ Select **Smart Chain BNB** and press "Receive" to find out the "Smart Chain" \(B
 
 ![](../../../../.gitbook/assets/ssc%20%281%29.png)
 
-![](../../../../.gitbook/assets/scc%20%281%29.png)
+![](../../../../.gitbook/assets/scc%20%281%29%20%281%29.png)
 
 
 
@@ -25,7 +25,7 @@ We will first transfer from Binance to Trust Wallet the BNB we have purchased on
 
 ​
 
-![](../../../../.gitbook/assets/dfg%20%281%29.jpg)
+![](../../../../.gitbook/assets/dfg.jpg)
 
 ​
 

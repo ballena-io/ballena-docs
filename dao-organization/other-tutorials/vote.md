@@ -26,7 +26,7 @@ Follow the simple steps found in the [Connect your wallet](connect-your-wallet-f
 
 \*\*\*\*
 
-![](../../.gitbook/assets/4.5%20%283%29.png)
+![](../../.gitbook/assets/4.5%20%284%29%20%282%29.png)
 
 \*\*\*\*
 

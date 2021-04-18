@@ -12,9 +12,9 @@ In the Trade → Liquidity section, click on "Add Liquidity".
 
 
 
-![](../../../../../../.gitbook/assets/photo6003629256741074154%20%281%29.jpg)
+![](../../../../../../.gitbook/assets/photo6003629256741074154%20%281%29%20%281%29.jpg)
 
-![](../../../../../../.gitbook/assets/photo6003629256741074153%20%281%29.jpg)
+![](../../../../../../.gitbook/assets/photo6003629256741074153%20%281%29%20%281%29.jpg)
 
 
 
@@ -24,7 +24,7 @@ In one box select BNB and in the other one pick bALBT. **Tap** _**MAX**_ **in th
 
 
 
-![](../../../../../../.gitbook/assets/photo6003629256741074152%20%282%29.jpg)
+![](../../../../../../.gitbook/assets/photo6003629256741074152%20%282%29%20%281%29.jpg)
 
 ![](../../../../../../.gitbook/assets/photo6003629256741074151%20%281%29.jpg)
 
@@ -36,7 +36,7 @@ We then approve the transaction to finally add our tokens to the platform and th
 
 
 
-![](../../../../../../.gitbook/assets/photo6003629256741074150%20%281%29.jpg)
+![](../../../../../../.gitbook/assets/photo6003629256741074150.jpg)
 
 ![](../../../../../../.gitbook/assets/photo6003629256741074188%20%281%29.jpg)
 

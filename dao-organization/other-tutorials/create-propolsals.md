@@ -39,7 +39,7 @@ Follow the simple steps found in the [Connect your wallet](connect-your-wallet-f
 
 ‌
 
-![](../../.gitbook/assets/4.5%20%284%29.png)
+![](../../.gitbook/assets/4.5%20%284%29%20%283%29.png)
 
 ‌
 
@@ -62,11 +62,11 @@ Remember the [standardization rules](create-propolsals.md#standarization) for cr
 
 ‌
 
-![](../../.gitbook/assets/6.5%20%281%29.png)
+![](../../.gitbook/assets/6.5%20%281%29%20%281%29.png)
 
 ‌
 
-![](../../.gitbook/assets/7.5%20%281%29.png)
+![](../../.gitbook/assets/7.5%20%281%29%20%281%29.png)
 
 ‌
 
@@ -82,7 +82,7 @@ Remember the [standardization rules](create-propolsals.md#standarization) for cr
 
 ‌
 
-![](../../.gitbook/assets/9.5%20%281%29.png)
+![](../../.gitbook/assets/9.5.png)
 
 ‌
 

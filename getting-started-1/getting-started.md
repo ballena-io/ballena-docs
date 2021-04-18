@@ -131,8 +131,8 @@ Another great point about [ballena.io](https://ballena.io/), is the **huge cost 
 
 [ballena.io](https://ballena.io/) works with two different liquidity funds. 
 
-* On one side, the comunity BALLE fund, called **BALLE Staking Pool**. Please find the contracts within the documentation. 
-* On the other side, [ballena.io](https://ballena.io/) works on [PancakeSwap ](https://pancakeswap.finance/)funds. One of the best DeFi platforms so far. Please check their code and [safety audits](https://certik-public-assets.s3.amazonaws.com/REP-PancakeSwap-16_10_2020.pdf) on their platform documentation.
+* On one side, the comunity BALLE fund, called **BALLE Staking Pool**. You can add your BALLE tokens for receiving rewards and increasing your tokens. For more information check [BALLE Staking Pool](../technical/products/balle-staking-pool.md).
+* On the other side, [ballena.io](https://ballena.io/) works on [PancakeSwap ](https://pancakeswap.finance/)funds. One of the best DeFi platforms so far. You can find these on our BalleVaults, for more info click on [BalleVaults](../technical/products/ballevaults-pancake-swap.md). Please check their code and [safety audits](https://certik-public-assets.s3.amazonaws.com/REP-PancakeSwap-16_10_2020.pdf) on their platform documentation.
 
 
 

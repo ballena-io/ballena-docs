@@ -12,7 +12,7 @@
 
 
 
-![](../../../../../../.gitbook/assets/photo6003629256741074194%20%281%29.jpg)
+![](../../../../../../.gitbook/assets/photo6003629256741074194.jpg)
 
 
 
@@ -31,9 +31,9 @@ In the _Trade → Exchange_ section of PancakeSwap, we start with BNB in the "Fr
 
 
 
-![](../../../../../../.gitbook/assets/photo6003629256741074154%20%281%29.jpg)
+![](../../../../../../.gitbook/assets/photo6003629256741074154%20%281%29%20%281%29.jpg)
 
-![](../../../../../../.gitbook/assets/photo6003629256741074193%20%281%29.jpg)
+![](../../../../../../.gitbook/assets/photo6003629256741074193.jpg)
 
 
 
@@ -43,7 +43,7 @@ In order to create the **bALBT/BNB pair we will need to add both assets in equal
 
 
 
-![](../../../../../../.gitbook/assets/photo6003629256741074192%20%281%29.jpg)
+![](../../../../../../.gitbook/assets/photo6003629256741074192.jpg)
 
 
 

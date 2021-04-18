@@ -31,7 +31,7 @@ Read carefully everything that appears on the screen.
 
 
 
-![](../../../../.gitbook/assets/22%20%281%29.png)
+![](../../../../.gitbook/assets/22.png)
 
 ### 
 
@@ -52,7 +52,7 @@ Remember to **write this phrase down in the right order, store it in a safe plac
 
 ![](../../../../.gitbook/assets/33%20%281%29.png)
 
-![](../../../../.gitbook/assets/4%20%2810%29.png)
+![](../../../../.gitbook/assets/4%20%2810%29%20%281%29.png)
 
 ### 
 
@@ -63,9 +63,9 @@ If we followed the previous step and have backed up the Recovery 12 Words, just 
 
 
 
-![](../../../../.gitbook/assets/5%20%288%29.png)
+![](../../../../.gitbook/assets/5%20%287%29%20%281%29.png)
 
-![](../../../../.gitbook/assets/66%20%281%29.png)
+![](../../../../.gitbook/assets/66%20%282%29.png)
 
 ### 
 
@@ -76,9 +76,9 @@ After going through the backup and verification process, we will be redirected t
   
 
 
-![](../../../../.gitbook/assets/7%20%287%29.png)
+![](../../../../.gitbook/assets/7%20%287%29%20%281%29.png)
 
-![](../../../../.gitbook/assets/88%20%281%29.png)
+![](../../../../.gitbook/assets/88%20%282%29.png)
 
 From this inicial list of coins, we will focus on **Smart Chain BNB**. Let's see how to receive this coin from Binance:
 

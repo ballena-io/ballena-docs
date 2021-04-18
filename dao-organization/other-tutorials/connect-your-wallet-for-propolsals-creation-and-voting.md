@@ -14,7 +14,7 @@ We need to connect our wallet first in order to create or vote on any proposal. 
 
 
 
-![](../../.gitbook/assets/1.5.png)
+![](../../.gitbook/assets/1.5%20%281%29.png)
 
 
 
@@ -40,7 +40,7 @@ You can see your wallet´s address at the top right corner of your screen.
 
 
 
-![](../../.gitbook/assets/4.5%20%281%29.png)
+![](../../.gitbook/assets/4.5%20%284%29.png)
 
 
 

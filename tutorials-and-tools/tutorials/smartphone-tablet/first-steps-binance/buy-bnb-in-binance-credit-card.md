@@ -12,7 +12,7 @@ We can use some other currencies depending on our country's base currency.
 
 
 
-![](../../../../.gitbook/assets/1615028657935%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.jpg)
+![](../../../../.gitbook/assets/1615028657935%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.jpg)
 
 ### 
 
