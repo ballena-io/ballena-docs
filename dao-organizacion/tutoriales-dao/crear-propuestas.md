@@ -17,7 +17,8 @@ La creación de propuesta seguirá estas bases de estandarización para seguir u
   * **Propuestas transcendentales: mínimo 72 horas.**
   * **Propuestas no transcendentales: mínimo 24 horas.**
 * **Todas las propuestas deberán incluir una opción de voto que vaya en contra de la propia cuestión** propuesta, una opción de voto de negación. Siempre existirá la opción de negarse a acatar el cambio propuesto, sean cual sean el resto de las opciones.
-* Una vez se haya publicado la propuesta, el usuario debe notificar la publicación en el canal **\#votaciones** de Discord.
+* Se recomienda publicar el borrador de propuesta en el canal **\#votaciones** de Discord antes de publicarla en la plataforma de votación y poder así ajustar los términos en comunidad.
+* Una vez se haya publicado la propuesta en la plataforma de votación, el usuario debe notificar la publicación en el canal **\#votaciones** de Discord.
 
 ## Cómo crear una propuesta
 
