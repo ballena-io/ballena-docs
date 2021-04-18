@@ -4,7 +4,7 @@
 
 Before starting any development, we highly recommend you to join our [Discord ](https://discord.gg/ydRbEAaqqc)channles and reach out to the dev. team on the **\#dev** channel.
 
-Before starting any development, we highly encourage you to submit an issue on Github in order to discuss the problem, and the solution with the team. If you want to reach out to the dev team directly, contact **@chef\_chungus** on Telegram  
+
 
 ### Setup your dev environment
 
