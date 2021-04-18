@@ -1,6 +1,8 @@
 # Cómo añadir liquidez en PancakeSwap a una Liquidity Pool en Trust Wallet
 
-Se puede añadir liquidez del par que queramos, siempre y cuando las dos monedas del par estén a partes iguales y que la plataforma [**ballena.io**](https://app.ballena.io/)**🐋** cuente con el mismo. En este tutorial nos centraremos en añadir liquidez del par bALBT/BNB.
+Al **crear un par,** estaremos **aportando liquidez a una Pool** que habilita intercambios entre las dos divisas \(e.g: BNB y bALBT\). Es decir, hacemos posible que otros usuarios de la plataforma \(e.g: PancakeSwap\) puedan comprar bALBT con BNB o puedan vender bALBT por BNB. A cambio de esto, **cobraremos** una pequeña parte de las **comisiones** generadas por esa Pool en forma de las dos monedas. Se puede crear un par a partir de 2 divisas cualesquiera siempre y cuando vayan a partes iguales \(de valor, no de cantidad\). 
+
+En [**ballena.io**](https://app.ballena.io/)**🐋** seguiremos con el ejemplo del par bALBT/BNB.
 
 
 
@@ -44,7 +46,7 @@ A continuación, aprobamos la transacción para añadir finalmente nuestros toke
 
 ### 5. Comprobamos.
 
-**Obtendremos tokens LP \(Liquidity Provider\)** que **demuestran que somos proveedores de liquidez** en PancakeSwap y que **representan el valor de nuestra aportación**. A cambio de añadir liquidez, cobraremos una pequeña porción de las comisiones generadas por esa Liquidity Pool.
+**Obtendremos tokens LP \(Liquidity Provider\)** que **demuestran que somos proveedores de liquidez** en PancakeSwap y que **representan el valor de nuestra aportación**. 
 
 Debemos tener en cuenta que cuando aportamos liquidez, los dos tokens del par aportado ya no se visualizarán en nuestra billetera de Trust Wallet. En cambio, podremos ver que nos aparece _Pancake LPs_. Estos tienen el mismo valor y son intercambiables en cualquier momento.
 
@@ -52,9 +54,11 @@ Debemos tener en cuenta que cuando aportamos liquidez, los dos tokens del par ap
 
 ### 6. La liquidez ha sido aportada con éxito y hemos recibido tokens LP.
 
+Todavía nos falta **agregar esos tokens LP a una BalleVault** en [**ballena.io**](https://app.ballena.io/)**🐋** y optimizar los retornos de forma exponencial. Por un lado, **aplica el interés compuesto a las comisiones generadas** por la Pool, **reinvirtiendo automáticamente** las **ganancias**. Por otro lado, **nos recompensa con tokens BALLE**.
 
 
-Todavía nos falta agregar esos tokens LP a una BalleVault en [**ballena.io**](https://app.ballena.io/)**🐋** y optimizar ganancias de forma exponencial:
+
+El siguiente es el primero de los dos ultimos pasos:
 
 {% page-ref page="agregar-los-tokens-lp-a-una-ballevault.md" %}
 
