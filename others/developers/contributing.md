@@ -6,6 +6,10 @@ Before starting any development, we highly recommend you to join our [Discord ](
 
 
 
+## **\*\*IN PROGRESS\*\***
+
+\*\*\*\*
+
 ### Setup your dev environment
 
 1. Fork the repository and an [add upstream remote](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork). E.g.
