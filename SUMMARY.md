@@ -87,11 +87,11 @@
 * [SourceCred System](dao-organization/sourcecred-system/README.md)
   * [ballena.io SourceCred foundations](dao-organization/sourcecred-system/ballena.io-sourcecred-foundations.md)
 * [Trust Levels](dao-organization/trust-levels.md)
-* [Other tutorials](dao-organization/other-tutorials/README.md)
-  * [Connect your Wallet for propolsals creation and voting](dao-organization/other-tutorials/connect-your-wallet-for-propolsals-creation-and-voting.md)
-  * [Create propolsals](dao-organization/other-tutorials/create-propolsals.md)
-  * [Vote](dao-organization/other-tutorials/vote.md)
-  * [Execute calls contracts from Gnosis](dao-organization/other-tutorials/execute-calls-contracts-from-gnosis.md)
+* [DAO Tutorials](dao-organization/dao-tutorials/README.md)
+  * [Connect your Wallet for propolsals creation and voting](dao-organization/dao-tutorials/connect-your-wallet-for-propolsals-creation-and-voting.md)
+  * [Create propolsals](dao-organization/dao-tutorials/create-propolsals.md)
+  * [Vote](dao-organization/dao-tutorials/vote.md)
+  * [Execute calls contracts from Gnosis](dao-organization/dao-tutorials/execute-calls-contracts-from-gnosis.md)
 
 ## Tools for the User
 

@@ -79,6 +79,8 @@ All the decissions are made within the comunity, by the BALLE token holders. If 
 
 [ballena.io](https://ballena.io/)  has got a [voting platform](https://vote.ballena.io/), where changes are proposed and voted by the users to be applied.
 
+For more information, navigate to [DAO Tutorials](../dao-organization/dao-tutorials/).
+
 
 
 ### Who manages the project’s treasury funds?

@@ -12,8 +12,8 @@ Users who own the BALLE token can participate in the governance through the [vot
 
 Here, you can create proposals and vote on those that are active. You can find more information in the DAO tutorials: 
 
-* [Create proposals](../dao-organization/other-tutorials/create-propolsals.md). 
-* [Vote](../dao-organization/other-tutorials/vote.md). 
+* [Create proposals](../dao-organization/dao-tutorials/create-propolsals.md). 
+* [Vote](../dao-organization/dao-tutorials/vote.md). 
 
 In addition, holding the BALLE token and participating in the BALLE Staking Pool, or Governance App, **rewards the user with fees generated on the platform**. They will receive 3% of the profits obtained by users in the Yield Optimizer App, and in addition, an **extra reward of 12,000 tokens**.
 
