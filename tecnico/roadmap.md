@@ -13,8 +13,8 @@ Debido a la naturaleza del proyecto, trabajamos tan rápido como podemos en lo q
 #### DAO
 
 * [x] Añadir plataforma de votación para DAO.
-* [ ] Añadir SourceCred para contabilizar contribuciones.
-* [ ] Definición e implementación niveles colaboradores.
+* [x] Añadir SourceCred para contabilizar contribuciones.
+* [x] Definición e implementación niveles colaboradores.
 
 
 
