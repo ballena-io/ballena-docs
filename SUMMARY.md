@@ -100,7 +100,7 @@
 
 ## Others
 
-* [Developers](others/developers.md)
-* [Codebase Overview](others/codebase-overview.md)
-* [Contributing](others/contributing.md)
+* [Developers](others/developers/README.md)
+  * [Contributing](others/developers/contributing.md)
+  * [Codebase Overview](others/developers/codebase-overview.md)
 
