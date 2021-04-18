@@ -32,7 +32,7 @@ Debido a la naturaleza del proyecto, trabajamos tan rápido como podemos en lo q
 * [x] Librería de componentes reutilizables.
 * [ ] Rebranding de la nueva plataforma 2.0.
 * [x] Añadir sistema de traducciones.
-* [ ] Añadir testnet.
+* [x] Añadir testnet.
 * [ ] Migración Token v1.0 a v2.0.
 * [ ] Añadir nuevas Bóvedas generando BALLE como recompensa.
 * [ ] Añadir habilidad para hacer Stake de BALLE.
