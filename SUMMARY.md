@@ -24,7 +24,7 @@
     * [Participar en ballena.io](tutoriales-y-herramientas/tutoriales/pc/participar-en-ballena.io/README.md)
       * [Cómo participar en una BalleVault](tutoriales-y-herramientas/tutoriales/pc/participar-en-ballena.io/como-participar-en-una-ballevault/README.md)
         * [Convertir BNB por otro token en PancakeSwap](tutoriales-y-herramientas/tutoriales/pc/participar-en-ballena.io/como-participar-en-una-ballevault/cambiar-bnb-por-otro-token-en-pancakeswap.md)
-        * [Cómo añadir liquidez a una LP en PancakeSwap](tutoriales-y-herramientas/tutoriales/pc/participar-en-ballena.io/como-participar-en-una-ballevault/anadir-liquidez-a-una-lp.md)
+        * [Cómo añadir liquidez a una Liquidity Pool en PancakeSwap](tutoriales-y-herramientas/tutoriales/pc/participar-en-ballena.io/como-participar-en-una-ballevault/anadir-liquidez-a-una-lp.md)
         * [Agregar los tokens de LP a BalleVault correspondiente en ballena.io](tutoriales-y-herramientas/tutoriales/pc/participar-en-ballena.io/como-participar-en-una-ballevault/agregar-los-tokens-de-lp-a-ballevault.md)
       * [Avanzado - Cómo participar en la Staking Pool de BALLE](tutoriales-y-herramientas/tutoriales/pc/participar-en-ballena.io/avanzado-como-participar-en-la-staking-pool-de-balle/README.md)
         * [Cómo comprar el token BALLE](tutoriales-y-herramientas/tutoriales/pc/participar-en-ballena.io/avanzado-como-participar-en-la-staking-pool-de-balle/como-comprar-el-token-balle.md)

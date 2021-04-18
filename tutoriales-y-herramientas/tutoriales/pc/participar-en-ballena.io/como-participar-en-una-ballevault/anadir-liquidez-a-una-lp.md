@@ -1,6 +1,8 @@
-# Cómo añadir liquidez a una LP en PancakeSwap
+# Cómo añadir liquidez a una Liquidity Pool en PancakeSwap
 
-En muchas ocasiones querrás añadir liquidez en PancakeSwap para obtener un rendimiento en base a estos tokens LP en [ballena.io](https://ballena.io/). Para eso es necesario acceder a [Pancakeswap ](https://pancakeswap.finance/)donde podremos añadir liquidez al par que queramos. Hay que tener en cuenta que hay que proporcionar el mismo valor en los dos tokens que utilicemos para añadir liquidez, si no tenemos suficientes deberemos utilizar la opción swap y realizar los cambios que necesitemos.
+Al **crear un par,** estaremos **aportando liquidez a una Pool** que habilita intercambios entre las dos divisas \(e.g: BNB y bALBT\). Es decir, hacemos posible que otros usuarios de la plataforma \(e.g: PancakeSwap\) puedan comprar bALBT con BNB o puedan vender bALBT por BNB. A cambio de esto, **cobraremos** una pequeña parte de las **comisiones** generadas por esa Pool en forma de las dos monedas. Se puede crear un par a partir de 2 divisas cualesquiera siempre y cuando vayan a partes iguales \(de valor, no de cantidad\). 
+
+En [**ballena.io**](https://app.ballena.io/)**🐋** seguiremos con el ejemplo del par bALBT/BNB.
 
 
 
@@ -18,15 +20,13 @@ En muchas ocasiones querrás añadir liquidez en PancakeSwap para obtener un ren
 
 ### 3.  Vamos a _Trade→Liquidity_ en el menú de la izquierda.
 
-Recuerda que para poder agregar liquidez a una LP necesitaremos el mismo valor en ambos assets. En caso de no tenerlo habrá que hacer el cambio correspondiente en "Exchange".
-
 
 
 ![](../../../../../.gitbook/assets/foto-2.png)
 
 
 
-### 4. Hacer clic en "Add Liquidity".
+### 4. Hacemos clic en "Add Liquidity".
 
 
 
@@ -34,15 +34,15 @@ Recuerda que para poder agregar liquidez a una LP necesitaremos el mismo valor e
 
 ### 
 
-### 5. Seleccionar los dos tokens que vamos a aportar. En este ejemplo vemos cómo añadir BALBT-BNB.
+### 5. Seleccionar los dos tokens que vamos a aportar. 
 
-
+En una casilla seleccionamos BNB y en la otra elegimos bALBT. Le damos a ****_**MAX**_  **en la casilla de bALBT** y, automaticamente, se añadirá la cantidad correspondiente de BNB en su respectiva casilla. Pulsamos abajo en "Approve bALBT" y confirmamos.
 
 ![](../../../../../.gitbook/assets/captura-de-pantalla-2021-03-27-190315.png)
 
 
 
-### 6. Haz clic en "Supply" y en "Confirm Supply".
+### 6. Ahora clicamos en "Supply" y en "Confirm Supply".
 
 
 
@@ -50,13 +50,19 @@ Recuerda que para poder agregar liquidez a una LP necesitaremos el mismo valor e
 
 
 
-### 7. La liquidez ha sido aportada.
+### 7. La liquidez ha sido aportada con éxito.
 
-Los tokens LP del par BALBT/BUSD se encuentran ahora en tu billetera listos para ser agregados a una de las BalleVaults.
+**Obtendremos tokens LP \(Liquidity Provider\)** que **demuestran que somos proveedores de liquidez** en PancakeSwap y que **representan el valor de nuestra aportación**.
+
+Debemos tener en cuenta que cuando aportamos liquidez, los dos tokens del par aportado ya no se visualizarán en nuestra billetera de MetaMask. En cambio, podremos ver que nos aparece una cantidad de _Cake-LP_. Estos tienen el mismo valor y son intercambiables en cualquier momento.
+
+Todavía nos falta **agregar esos tokens LP a una BalleVault** en [**ballena.io**](https://app.ballena.io/)**🐋** y optimizar los retornos de forma exponencial. Por un lado, **aplica el interés compuesto a las comisiones** de la Pool, **reinvirtiendo automáticamente** las **ganancias**. Por otro lado, **nos recompensa con tokens BALLE**.
 
 
 
+El siguiente es el primero de los dos ultimos pasos:
 
+{% page-ref page="agregar-los-tokens-de-lp-a-ballevault.md" %}
 
 
 
