@@ -15,6 +15,7 @@ Standarization should be a must at the time of a propolsal creation. Follow this
   * **Momentous decision: 72 hours minimum.**
   * **Non-momentous decision: 24 hours minimum.**
 * **Proposals MUST always include a choice that goes against the proposed matter itself,** a negative voting option. Users shall always have the option to refuse to abide by the proposed changes, whatever the rest of the options are.
+* It is recommended to publish the draft proposal on the **\#votaciones** channel of Discord before publishing it on the voting platform and thus be able to adjust the terms among the community.
 * Once the proposal has been published, the user shall notify the community through the **\#votaciones** channel on our Discord.
 
 ‌
