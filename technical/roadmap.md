@@ -9,8 +9,8 @@ Due to the nature of the project, we work as fast as we can on what we consider 
 #### DAO
 
 * [x] Add our DAO´s voting platform.
-* [ ] Add SouceCred as the retribution system for contributors.
-* [ ] Definition and implementation of Trust Levels.
+* [x] Add SouceCred as the retribution system for contributors.
+* [x] Definition and implementation of Trust Levels.
 
 ‌
 
@@ -27,8 +27,8 @@ Due to the nature of the project, we work as fast as we can on what we consider 
 * [x] Solid and scalable code-based migration.
 * [x] Library of reusable components.
 * [ ] Rebranding of the new 2.0 platform.
-* [ ] Add the translation system.
-* [ ] Add testnet.
+* [x] Add the translation system.
+* [x] Add testnet.
 * [ ] Token migration from v1.0 to v2.0.
 * [ ] Add new Vaults generating BALLE as a reward.
 * [ ] Add BALLE Staking Pool.
