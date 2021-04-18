@@ -20,7 +20,7 @@ All our repositories are stored on [Github](https://github.com/ballena-io) and a
 | Toolkit \(uikit\) | [![](../../.gitbook/assets/1200px-octicons-mark-github.svg.png)](https://github.com/ballena-io/ballena-uikit) | [🔗](https://github.com/ballena-io/ballena-uikit) |
 | Frontend | [![](../../.gitbook/assets/1200px-octicons-mark-github.svg.png)](https://github.com/ballena-io/ballena-frontend) | [🔗](https://ballena.io/) |
 | Protocol | [![](../../.gitbook/assets/1200px-octicons-mark-github.svg.png)](https://github.com/ballena-io/ballena-protocol) | [🔗](https://github.com/ballena-io/ballena-protocol) |
-| Voting | [![](../../.gitbook/assets/1200px-octicons-mark-github.svg.png)](https://github.com/ballena-io/ballena-cred) | [🔗](https://vote.ballena.io/#/ballena) |
+| Voting | [![](../../.gitbook/assets/1200px-octicons-mark-github.svg.png)](https://github.com/snapshot-labs/snapshot) | [🔗](https://vote.ballena.io/#/ballena) |
 | Cred | [![](../../.gitbook/assets/1200px-octicons-mark-github.svg.png)](https://github.com/ballena-io/ballena-cred) | [🔗](https://cred.ballena.io/#/) |
 | Docs | [![](../../.gitbook/assets/1200px-octicons-mark-github.svg.png)](https://github.com/ballena-io/ballena-docs/tree/en) | [🔗](https://docs.ballena.io/v/en/) |
 
