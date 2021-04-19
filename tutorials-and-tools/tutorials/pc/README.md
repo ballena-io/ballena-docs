@@ -11,9 +11,7 @@ We will need these tools for the PC:
 
 ‌The web browser will let us navigate through the webs and Dapps like[ ballena.io](https://ballena.io/), Binance and PancakeSwap. And we will use the wallet to access the Dapps, move our crypto and buy, sell, trade, add liquidity and pay fees.
 
-
-
-![](../../../.gitbook/assets/illustration-pc.png)
+![](../../../.gitbook/assets/tutorials_pc_-_en.png)
 
 
 
