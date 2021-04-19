@@ -14,12 +14,10 @@ MetaMask nos permitirá operar e interactuar con estas DApps. Funciona como un p
 Recordemos el esquema visto anteriormente y sigamos los pasos de uno en uno para hacer que nuestro dinero pase de estar inmóvil en el banco a que esté generando altos rendimientos en[ ballena.io](https://ballena.io/)🐋.
 
 {% hint style="info" %}
-**Ningún paso se deberá realizar sin haber completado el anterior.**
+**Ningún paso se deberá realizar sin haber completado el anterior. Haz clic en la imagen para agrandarla.**
 {% endhint %}
 
-
-
-![](../../../.gitbook/assets/esquema-tutoriales-2.png)
+![](../../../.gitbook/assets/tutoriales_pc_-_es.png)
 
 
 
