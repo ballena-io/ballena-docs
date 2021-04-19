@@ -14,10 +14,6 @@ Una vez entendido el esquema a grandes rasgos, empezamos con los tutoriales uno 
 
 
 
-
-
-
-
 {% page-ref page="pc/" %}
 
 {% page-ref page="smartphone-tablet/" %}
