@@ -17,9 +17,7 @@ Cada paso de este esquema es necesario para hacer que nuestro dinero pase de est
 Ningún paso se deberá realizar sin haber completado el anterior.
 {% endhint %}
 
-
-
-![](../../../.gitbook/assets/esquema-tutoriales-trustwallet.png)
+![](../../../.gitbook/assets/tutoriales_smartphone_-_es.png)
 
 
 
