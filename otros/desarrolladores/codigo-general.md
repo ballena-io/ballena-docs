@@ -2,7 +2,7 @@
 
 ## Introducción
 
-Todos nuestros repositorios están almacenados en [Github](https://github.com/ballena-io) y son de dominio público. Puedes leer nuestras pautas en [Contribuir ](contribuir.md)y enviar libremente una incidencia o un "pull request".
+Todos nuestros repositorios están almacenados en [Github](https://github.com/ballena-io) y son de dominio público. Puedes leer las pautas a seguir en [Contribuir ](contribuir.md)y enviar libremente una incidencia o un "pull request".
 
 
 
