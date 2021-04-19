@@ -14,25 +14,25 @@ Before starting any development, we highly recommend you to join our [Discord ](
 
 1. Fork the repository and an [add upstream remote](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork). E.g.
 
-   ```bash
-   $ git remote add upstream git@github.com:pancakeswap/pancake-frontend.git
-   ```
+```bash
+$ git remote add upstream git@github.com:ballena-io/ballena-frontend.git
+```
 
-2. Make sure you have the latest version of the default branch \( `develop` or `master` \)
+2. Make sure you have the latest version of the default branch \( `develop` or `master` \).
 
-   ```bash
-   $ git checkout develop
-   $ git pull upstream develop
-   ```
+```bash
+$ git checkout develop
+$ git pull upstream develop
+```
 
-3. Create your own branch and install dependencies
+3. Create your own branch and install dependencies.
 
-   ```bash
-   $ git checkout -b branch-name
-   $ yarn
-   ```
+```bash
+$ git checkout -b branch-name
+$ yarn
+```
 
-4. Happy coding 🎉 
+
 
 ### Coding rules
 
