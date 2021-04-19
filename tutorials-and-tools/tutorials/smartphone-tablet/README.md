@@ -21,7 +21,7 @@ No step should be performed without completing the previous one. Click on the im
 
 
 
-**It might seem confusing at first glance, but each step is detailed so that we can understand it as we go through it. Let's get started!**  
+It might seem confusing at first glance, but each step is detailed so that we can understand it as we go through it. Let's get started!  
 
 
 {% page-ref page="first-steps-binance/" %}
