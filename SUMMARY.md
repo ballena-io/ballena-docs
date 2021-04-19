@@ -101,6 +101,7 @@
 
 ## Otros
 
-* [Desarrolladores](otros/desarrolladores.md)
-* [Código - General](otros/codigo-general.md)
+* [Desarrolladores](otros/desarrolladores/README.md)
+  * [Contribuir](otros/desarrolladores/contribuir.md)
+  * [Código - General](otros/desarrolladores/codigo-general.md)
 
