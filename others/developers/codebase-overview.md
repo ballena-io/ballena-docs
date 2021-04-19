@@ -2,7 +2,7 @@
 
 ## Introduction
 
-All our repositories are stored on [Github](https://github.com/ballena-io) and are of public domain. You can read our guidelines in [Contributing ](contributing.md)and freely submit an  issue or a pull request.
+All our repositories are stored on [Github](https://github.com/ballena-io) and are of public domain. You can read our guidelines in [Contributing ](contributing.md)and freely submit an issue or a pull request.
 
 ### Github repositories
 
