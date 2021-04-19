@@ -1,19 +1,19 @@
 # Código - General
 
-## Introduction
+## Introducción
 
-All our repositories are stored on [Github](https://github.com/ballena-io) and are of public domain. You can read our guidelines in [Contributing ]()and freely submit an  issue or a pull request.
-
-### Github repositories
-
-* **UiKit**: Contains a set of packages used to build the [ballena.io ](https://ballena.io/)ecosystem.
-* **Frontend**: The main frontend. It contains the main features of the [ballena.io ](https://ballena.io/)application.
-* **Protocol**:  Implementation of [ballena.io](https://ballena.io/) smart contracts on the Binance Smart Chain.
-* **Voting:** The community voting features.
-* **Cred**: This repository contains the code to run a SourceCred instance.
-* **Docs**: Repository containing the [ballena.io](https://ballena.io/) documentation.
+Todos nuestros repositorios están almacenados en [Github](https://github.com/ballena-io) y son de dominio público. Puedes leer nuestras pautas en [Contribuir ](contribuir.md)y enviar libremente una incidencia o un "pull request".
 
 
+
+### Repositorios Github
+
+* **UiKit**: Contiene un conjunto de paquetes que se utilizan para construir el ecosistema [ballena.io](https://ballena.io/).
+* **Frontend**: La interfaz principal. Contiene las principales características de la aplicación [ballena.io](https://ballena.io/)**.**
+* **Protocol**: Implementación de los contratos inteligentes de [ballena.io](https://ballena.io/) en la Binance Smart Chain.
+* **Voting:** Las funciones de votación de la comunidad.
+* **Cred**: Este repositorio contiene el código para ejecutar la instancia de SourceCred.
+* **Docs**: Repositorio que contiene la documentación de [ballena.io](https://ballena.io/).
 
 | Project | Github | Website |
 | :--- | :--- | :--- |
@@ -22,7 +22,9 @@ All our repositories are stored on [Github](https://github.com/ballena-io) and a
 | Protocol | [![](../../.gitbook/assets/1200px-octicons-mark-github.svg.png)](https://github.com/ballena-io/ballena-protocol) | [🔗](https://github.com/ballena-io/ballena-protocol) |
 | Voting | [![](../../.gitbook/assets/1200px-octicons-mark-github.svg.png)](https://github.com/snapshot-labs/snapshot) | [🔗](https://vote.ballena.io/#/ballena) |
 | Cred | [![](../../.gitbook/assets/1200px-octicons-mark-github.svg.png)](https://github.com/ballena-io/ballena-cred) | [🔗](https://cred.ballena.io/#/) |
-| Docs | [![](../../.gitbook/assets/1200px-octicons-mark-github.svg.png)](https://github.com/ballena-io/ballena-docs/tree/en) | [🔗](https://docs.ballena.io/v/en/) |
+| Docs | [![](../../.gitbook/assets/1200px-octicons-mark-github.svg.png)](https://github.com/ballena-io/ballena-docs/tree/es) | [🔗](https://docs.ballena.io/) |
+
+
 
 
 
