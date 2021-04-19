@@ -18,7 +18,7 @@ Before starting any development, we highly recommend you to join our [Discord ](
 $ git remote add upstream git@github.com:ballena-io/ballena-frontend.git
 ```
 
-2. Make sure you have the latest version of the default branch \( `develop` or `master` \).
+2. Make sure you have the latest version of the default branch \( `dev` or `master` \).
 
 ```bash
 $ git checkout develop
@@ -48,7 +48,7 @@ If a variant of a component needs to be created, use the corresponding component
 
 ```javascript
 import styled from 'styled-components'
-import { Button } from '@pancakeswap-libs/uikit'
+import { Button } from '@@ballena-io/ballena-uikit'
 
 const NewButtonVariant = styled(Button)`
   // custom styles here
@@ -99,5 +99,7 @@ Your code is ready to be submitted for review, congratulations🥳
 Create a [draft PR](https://github.blog/2019-02-14-introducing-draft-pull-requests/) as soon as possible so we can view your ongoing progress.
 {% endhint %}
 
-**Thanks your for helping us making Pancake even more awesome** ❤ 
+\*\*\*\*
+
+\*\*\*\*
 
