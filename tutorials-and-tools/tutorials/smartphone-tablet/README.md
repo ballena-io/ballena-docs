@@ -11,12 +11,13 @@ The Binance application will be the bridge between our bank and the world of cry
 
 And Trust Wallet, apart from being a secure wallet where we store our cryptocurrencies, will be our gateway to the Binance Smart Chain \(BSC\) blockchain, a decentralized platform in which Dapps \(decentralized applications\) such as PancakeSwap and [app.ballena.io🐋](https://app.ballena.io) operate.
 
-Each step of this diagram is required to make our money generate high returns in[ ballena.io](https://ballena.io/)🐋, and none can be done without having completed the previous one. 
+Each step of this diagram is required to make our money generate high returns in[ ballena.io](https://ballena.io/)🐋.
 
-  
+{% hint style="info" %}
+No step should be performed without completing the previous one. Click on the image to view full size.
+{% endhint %}
 
-
-![](../../../.gitbook/assets/illustration-smart.png)
+![](../../../.gitbook/assets/tutorials_smartphone_-_en.png)
 
 
 
