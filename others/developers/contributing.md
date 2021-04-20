@@ -4,13 +4,7 @@
 
 Before starting any development, we highly recommend you to join our [Discord ](https://discord.gg/ydRbEAaqqc)channles and reach out to the dev. team on the **\#dev** channel.
 
-
-
-## **\*\*IN PROGRESS\*\***
-
-\*\*\*\*
-
-### Setup your dev environment
+## Setup your dev environment
 
 1. Fork the repository and an [add upstream remote](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork). E.g.
 
@@ -34,9 +28,9 @@ $ yarn
 
 
 
-### Coding rules
+## Coding rules
 
-We try to maintain as much consistency as we can between each of our repository. Your pull request has more chances to be accepted if you follow some the following rules, and write high quality code. **Let's get started** 💪 
+We try to maintain as much consistency as we can between each of our repository. Your pull request has more chances to be accepted if you follow some the following rules, and write high quality code. 
 
 #### Use the UIKit
 
@@ -69,7 +63,7 @@ Make sure your code is formatted with Prettier, and is free from any ESLint erro
 * Use [Composition over Inheritance](https://reactjs.org/docs/composition-vs-inheritance.html).
 * Keep in mind that your code will be read and maintained by several other developers. Make it as clear and easy to update as possible.
 
-### Committing <a id="committing"></a>
+## Committing
 
 Our commit messages follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) using [commitlint](https://commitlint.js.org/#/).‌
 
@@ -85,11 +79,13 @@ Our commit messages follow [Conventional Commits](https://www.conventionalcommit
 | **style** | Changes that do not affect the meaning of the code \(white-space, formatting, missing semi-colons, etc\) |
 | **test** | Adding missing tests or correcting existing tests |
 
-_More at_ [_Angular's guidelines_](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#type)_​_
+_More at_ [_Angular's guidelines_](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#type)_._
 
-### Creating your pull request 
+_​_
 
-Your code is ready to be submitted for review, congratulations🥳 
+## Creating your pull request 
+
+Your code is ready to be submitted for review, congratulations🥳_._
 
 * All pull requests **must** have a description of what the PR is trying to accomplish.
 * Keep pull requests **as small as possible**. Larger pull requests should be broken up into smaller chunks with a dedicated base branch. Please tag the PR's that are merging into your base branch with the `epic` tag.
