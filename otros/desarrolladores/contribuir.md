@@ -1,25 +1,27 @@
 # Contribuir
 
-[ballena.io](https://ballena.io/) is open to contributors and the dev. team shows you the steps for you to start contributing to this open source project.
+##  **\*\* IN PROGRESS** \*\*
 
-Before starting any development, we highly recommend you to join our [Discord ](https://discord.gg/ydRbEAaqqc)channles and reach out to the dev. team on the **\#dev** channel.
+[ballena.io](https://ballena.io/) está abierto a colaboradores y el equipo de desarrollo te muestra los pasos para que puedas comenzar a contribuir en este proyecto de código abierto. 
 
-## Setup your dev environment
+Antes de comenzar cualquier desarrollo, recomendamos que te unas a nuestros canales de [Discord](https://discord.gg/ydRbEAaqqc) y que te pongas en contacto con nuestro equipo de desarrollo en el canal **\#dev**.
 
-1. Fork the repository and an [add upstream remote](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork). E.g.
+## Configura tu entorno de desarrollo
+
+1. Bifurca \(Fork\) el repositorio y agrega un [control remoto upstream](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork). Ej.
 
 ```bash
 $ git remote add upstream git@github.com:ballena-io/ballena-frontend.git
 ```
 
-2. Make sure you have the latest version of the default branch \( `dev` or `master` \).
+2. Asegúrate de tener la última versión de la rama predeterminada \( `dev` o `master` \).
 
 ```bash
 $ git checkout develop
 $ git pull upstream develop
 ```
 
-3. Create your own branch and install dependencies.
+3. Crea tu propia rama e instala dependencias.
 
 ```bash
 $ git checkout -b branch-name
@@ -28,17 +30,19 @@ $ yarn
 
 
 
-## Coding rules
+## Reglas Coding
 
-We try to maintain as much consistency as we can between each of our repository. Your pull request has more chances to be accepted if you follow some the following rules, and write high quality code. 
+Intentamos mantener la mayor consistencia posible entre cada uno de nuestros repositorios. Tu solicitud de extracción tiene más posibilidades de ser aceptada si sigue algunas de las siguientes reglas y desarrollas código de alta calidad.
 
-#### Use the UIKit
+
+
+#### Utiliza el UIKit
 
 {% hint style="warning" %}
-Check the [UI Kit](https://github.com/ballena-io/ballena-uikit) before you start doing anything. A lot of components are already created, and we don't want that you waste your time reinventing the wheel.
+Verifica el [UI Kit](https://github.com/ballena-io/ballena-uikit) antes de comenzar a hacer cualquier cosa. Ya se han creado muchos componentes y no queremos que pierdas el tiempo reinventando la rueda.
 {% endhint %}
 
-If a variant of a component needs to be created, use the corresponding component in the UI Kit as a base. For example:
+Si es necesario crear una variante de un componente, utilice el componente correspondiente en el UI Kit como base. Por ejemplo:
 
 ```javascript
 import styled from 'styled-components'
@@ -49,7 +53,9 @@ const NewButtonVariant = styled(Button)`
 `
 ```
 
-#### Use the tools !
+#### 
+
+#### Utiliza las herramientas
 
 Most of our repos use [Typescript](https://www.typescriptlang.org/docs), [ESLint](https://eslint.org/docs/user-guide/getting-started), and [Prettier](https://prettier.io/). Make sure you are familiar with Typescript’s best practices, and enable an ESLint and Prettier plugin for your IDE.
 
