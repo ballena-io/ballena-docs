@@ -57,23 +57,25 @@ const NewButtonVariant = styled(Button)`
 
 #### Utiliza las herramientas
 
-Most of our repos use [Typescript](https://www.typescriptlang.org/docs), [ESLint](https://eslint.org/docs/user-guide/getting-started), and [Prettier](https://prettier.io/). Make sure you are familiar with Typescript’s best practices, and enable an ESLint and Prettier plugin for your IDE.
+La mayoría de nuestros repositorios utilizan [Typescript](https://www.typescriptlang.org/docs), [ESLint](https://eslint.org/docs/user-guide/getting-started) y [Prettier](https://prettier.io/). Asegúrate de estar familiarizado con las mejores prácticas de Typescript y habilita un complemento ESLint y Prettier para tu IDE.
 
 {% hint style="warning" %}
-Make sure your code is formatted with Prettier, and is free from any ESLint error before you submit a pull request.
+Asegúrate de que tu código esté formateado con Prettier y que no tenga ningún error de ESLint antes de enviar un Pull Request.
 {% endhint %}
 
-#### Some good practices
 
-* Keep components as small and ["dumb"](https://en.wikipedia.org/wiki/Pure_function) as possible.
-* Use [Composition over Inheritance](https://reactjs.org/docs/composition-vs-inheritance.html).
-* Keep in mind that your code will be read and maintained by several other developers. Make it as clear and easy to update as possible.
+
+#### Buenas prácticas
+
+* Mantén los componentes lo más pequeños y ["dumb"](https://en.wikipedia.org/wiki/Pure_function) posible. 
+* Utiliza la [Composition sobre Inheritance](https://reactjs.org/docs/composition-vs-inheritance.html). 
+* Ten en cuenta que tu código será leído y mantenido por otros desarrolladores. Hazlo lo más claro y fácil de actualizar posible.
 
 ## Committing
 
-Our commit messages follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) using [commitlint](https://commitlint.js.org/#/).‌
+Nuestros mensajes de confirmación \(Commit\) siguen los [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) mediante [commitlint](https://commitlint.js.org/#/).‌
 
-| Type | Description |
+| Tipo | Descripción |
 | :--- | :--- |
 | **build** | Changes that affect the build system or external dependencies \(example scopes: gulp, broccoli, npm\) |
 | **ci** | Changes to our CI configuration files and scripts \(example scopes: Travis, Circle, BrowserStack, SauceLabs\) |
@@ -85,23 +87,21 @@ Our commit messages follow [Conventional Commits](https://www.conventionalcommit
 | **style** | Changes that do not affect the meaning of the code \(white-space, formatting, missing semi-colons, etc\) |
 | **test** | Adding missing tests or correcting existing tests |
 
-_More at_ [_Angular's guidelines_](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#type)_._
+_Más info en_ [_Angular's guidelines_](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#type)_._
 
-_​_
+## _​_Crea tu pull request 
 
-## Creating your pull request 
-
-Your code is ready to be submitted for review, congratulations🥳_._
+Tu código está listo para ser enviado a revisión, felicitaciones🥳_._
 
 * All pull requests **must** have a description of what the PR is trying to accomplish.
 * Keep pull requests **as small as possible**. Larger pull requests should be broken up into smaller chunks with a dedicated base branch. Please tag the PR's that are merging into your base branch with the `epic` tag.
 * If possible self-review your PR and **add comments** where additional clarification is needed.
 
 {% hint style="info" %}
-Create a [draft PR](https://github.blog/2019-02-14-introducing-draft-pull-requests/) as soon as possible so we can view your ongoing progress.
+Cree un [draft PR](https://github.blog/2019-02-14-introducing-draft-pull-requests/) \(borrador\) lo antes posible para que podamos ver tu progreso.
 {% endhint %}
 
-\*\*\*\*
+
 
 \*\*\*\*
 
