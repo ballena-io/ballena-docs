@@ -77,12 +77,12 @@ Nuestros mensajes de confirmación \(Commit\) siguen los [Conventional Commits](
 
 | Tipo | Descripción |
 | :--- | :--- |
-| **build** | Changes that affect the build system or external dependencies \(example scopes: gulp, broccoli, npm\) |
-| **ci** | Changes to our CI configuration files and scripts \(example scopes: Travis, Circle, BrowserStack, SauceLabs\) |
-| **docs** | Documentation only changes |
-| **feat** | A new feature |
-| **fix** | A bug fix |
-| **perf** | A code change that improves performance |
+| **build** | Cambios que afectan el sistema de compilación o las dependencias externas \(Ejemplo: gulp, broccoli, npm\) |
+| **ci** | Cambios en nuestros archivos de configuración y scripts CI \(Ejemplo: Travis, Circle, BrowserStack, SauceLabs\) |
+| **docs** | Cambios de documentación |
+| **feat** | Nueva característica |
+| **fix** | Corrección de errores |
+| **perf** | Un cambio de código que mejora el rendimiento |
 | **refactor** | A code change that neither fixes a bug nor adds a feature |
 | **style** | Changes that do not affect the meaning of the code \(white-space, formatting, missing semi-colons, etc\) |
 | **test** | Adding missing tests or correcting existing tests |
@@ -93,9 +93,9 @@ _Más info en_ [_Angular's guidelines_](https://github.com/angular/angular/blob/
 
 Tu código está listo para ser enviado a revisión, felicitaciones🥳_._
 
-* All pull requests **must** have a description of what the PR is trying to accomplish.
-* Keep pull requests **as small as possible**. Larger pull requests should be broken up into smaller chunks with a dedicated base branch. Please tag the PR's that are merging into your base branch with the `epic` tag.
-* If possible self-review your PR and **add comments** where additional clarification is needed.
+* Todas los PR **deben** tener una descripción acerca de lo que el RP está tratando de lograr.
+* Manten los PR lo más pequeños posible. Los PR más grandes deben dividirse en partes más pequeñas con una rama base dedicada. Etiqueta los RP que se fusionan en tu rama base con la etiqueta `epic`.
+* Si es posible, revisa tu mismo los RP y **agrega comentarios** donde se necesite aclaración adicional.
 
 {% hint style="info" %}
 Cree un [draft PR](https://github.blog/2019-02-14-introducing-draft-pull-requests/) \(borrador\) lo antes posible para que podamos ver tu progreso.
