@@ -83,9 +83,9 @@ Nuestros mensajes de confirmación \(Commit\) siguen los [Conventional Commits](
 | **feat** | Nueva característica |
 | **fix** | Corrección de errores |
 | **perf** | Un cambio de código que mejora el rendimiento |
-| **refactor** | A code change that neither fixes a bug nor adds a feature |
-| **style** | Changes that do not affect the meaning of the code \(white-space, formatting, missing semi-colons, etc\) |
-| **test** | Adding missing tests or correcting existing tests |
+| **refactor** | Un cambio de código que no corrige un error ni agrega una función. |
+| **style** | Cambios que no afectan al significado del código \(espacios en blanco, formato, punto y coma que faltan, etc.\) |
+| **test** | Añadir pruebas que faltan o corregir pruebas existentes |
 
 _Más info en_ [_Angular's guidelines_](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#type)_._
 
