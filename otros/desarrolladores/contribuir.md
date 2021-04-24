@@ -89,7 +89,7 @@ _Más info en_ [_Angular's guidelines_](https://github.com/angular/angular/blob/
 
 ## _​_Crea tu pull request 
 
-Tu código está listo para ser enviado a revisión, felicitaciones🥳_._
+Tu código está listo para ser enviado a revisión, felicidades🥳_._
 
 * Todas los PR **deben** tener una descripción acerca de lo que el RP está tratando de lograr.
 * Manten los PR lo más pequeños posible. Los PR más grandes deben dividirse en partes más pequeñas con una rama base dedicada. Etiqueta los RP que se fusionan en tu rama base con la etiqueta `epic`.
