@@ -49,6 +49,11 @@ No olvidar añadir el Código de referencia de 4 cifras en el concepto de la tra
 Mientras tanto, podemos seguir leyendo el resto de la documentación. ¡Aprende más sobre [ballena.io](https://ballena.io/)!
 
   
-  
+
+
+He aquí el siguiente paso:
+
+{% page-ref page="../../../pc/primeros-pasos-binance/comprar-bnb-en-binance-transferencia-bancaria/convertir-fondos-a-bnb-en-binance.md" %}
+
 
 
