@@ -1,7 +1,5 @@
 # Contribuir
 
-##  **\*\* IN PROGRESS** \*\*
-
 [ballena.io](https://ballena.io/) está abierto a colaboradores y el equipo de desarrollo te muestra los pasos para que puedas comenzar a contribuir en este proyecto de código abierto. 
 
 Antes de comenzar cualquier desarrollo, recomendamos que te unas a nuestros canales de [Discord](https://discord.gg/ydRbEAaqqc) y que te pongas en contacto con nuestro equipo de desarrollo en el canal **\#dev**.
