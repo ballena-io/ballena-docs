@@ -8,8 +8,6 @@ Si estás interesado en participar en el desarrollo del proyecto, navega al sigu
 
 {% page-ref page="contribuir.md" %}
 
-
-
 Para ver el código en nuestros repositorios, haz click en el siguiente enlace:
 
 {% page-ref page="codigo-general.md" %}
