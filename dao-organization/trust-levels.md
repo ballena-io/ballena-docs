@@ -1,7 +1,5 @@
 # Trust Levels
 
-## **\*\* IN PROGRESS \*\***
-
 ## **Motivation**
 
 The project[ ballena.io](https://ballena.io/) is governed by the form of a Decentralized Autonomous Organization \(DAO\). Despite having a decentralized power, the project divides the contributors into groups determined by development areas and, in turn, in **Trust levels** to guarantee its adequate progress.
