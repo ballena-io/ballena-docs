@@ -99,11 +99,11 @@ This level of trust is the one of **maximum responsibility**. The user at this l
 
 ## **Level change procedure**
 
-**It is very important to note that the level change procedure should not be something forced by the users, both by the interested party and the one who proposes it, but should be a natural procedure that falls under its own weight.**
+It is very important to note that the level change procedure should not be something forced by the users, both by the interested party and the one who proposes it, but should be a **natural procedure** that falls under its own weight.
 
-**This means that no user will be rewarded for the upgrade directly, but simply serves as a reference for the rest of the community about the level of trust and commitment of this user. This is why users should not pursue a level change but rather the level change will come naturally to them if appropriate. Therefore, there should be no ambitions and rush in terms of leveling up, making it a goal.**
+This means that **no user will be rewarded for the upgrade** directly, but simply **serves as a reference for the rest of the community about the level of trust and commitment** of this user. This is why users should not pursue a level change but rather the level change will come naturally to them if appropriate. Therefore, there should be no ambitions and rush in terms of leveling up, making it a goal.
 
-**The level changes are made throughout the Sunday of each week, since every Sunday the cycle of the previous week is closed with the corresponding distribution.**  
+The level changes are made throughout the **Sunday of each week**, since every Sunday the cycle of the previous week is closed with the corresponding distribution.  
 
 
   
