@@ -103,14 +103,57 @@ It is very important to note that the level change procedure should not be somet
 
 This means that **no user will be rewarded for the upgrade** directly, but simply **serves as a reference for the rest of the community about the level of trust and commitment** of this user. This is why users should not pursue a level change but rather the level change will come naturally to them if appropriate. Therefore, there should be no ambitions and rush in terms of leveling up, making it a goal.
 
-The level changes are made throughout the **Sunday of each week**, since every Sunday the cycle of the previous week is closed with the corresponding distribution.  
-
-
-  
+The level changes are made throughout the **Sunday of each week**, since every Sunday the cycle of the previous week is closed with the corresponding distribution.
 
 
 
+### **TL0-TL1: From Newcomer to Active Member**
 
-  
+The transfer of the level of a TL0 user to TL1 originates, mainly, due to the contributions and activity  in the channels of the[ Discord](https://discord.gg/X3XHjtsS) of [ballena.io](https://ballena.io/).
+
+This change will be proposed by one of the TL2 or TL3 users to the Project Lead for promotion.
+
+### **TL1-TL2: From Active Member to True Contributor**
+
+The transition from a TL1 level user to TL2 will be proposed by a TL3 Leader and approved by the Project Lead.
+
+The TL3 user will assess the contributions of the TL1 users, and if they consider it, will propose the corresponding upgrade to the Project Lead.
+
+### **TL2-TL3: From True Contributor to Leader**
+
+The level change of a user from TL2 to TL3 will be proposed by one of the TL3 leaders of the project and published in the[ voting platform](https://vote.ballena.io/#/).
+
+## **Regressions**
+
+Regressions are contemplated in the DAO to **protect the project** from illicit actions and abuse of the power of trust levels. This is why guidelines are set for it.
+
+Regressions can be voluntary but it will always be necessary to do it by way of the established guidelines.
+
+### **TL3-TL2**
+
+Regression will be proposed by one of the TL3 leaders and it will be put to a vote by the rest of the community, always citing the reasons that lead to this decision.
+
+In case the regression is voluntary, a vote will not be necessary and the regression will be instantaneous.
+
+### **TL2-TL1-TL0**
+
+It will be proposed by any TL3, TL2 and TL1, correctly justifying this proposal to the Project Lead, and this will be able to process the regression if the reason is pertinent.
+
+In case the regression is voluntary, the regression will be instantaneous.
+
+## **Abandonment procedure**
+
+Abandonment of one of the Trust Levels or the SourceCred system by one of the users will **consist on notifying the Project Lead, or the TL3 of the corresponding area**, in order to process its withdrawal.
+
+In the event that the user transmits the intentions to **retake the position** to the community after leaving, it **will rejoin at a lower level** than the one it belonged to. To resume the position you left, you must do so by the established route.
+
+The abandonment process is carried out throughout the Sunday of each week, since every Sunday the cycle of the previous week is closed with the corresponding distribution.
+
+## **Updates**
+
+This document will be adapted as the community grows and as long as new ways of improvement are observed in favor of the development of the project, the community and the fair distribution of the Cred.
+
+
+
 
 
