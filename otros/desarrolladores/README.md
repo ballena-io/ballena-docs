@@ -16,7 +16,7 @@ Para ver el código en nuestros repositorios, haz click en el siguiente enlace:
 
 
 
-¡Te estamos esperando! :partying\_face:
+**¡Te estamos esperando!**  ❤ 
 
 
 
