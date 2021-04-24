@@ -36,11 +36,7 @@ Having these data, a drop-down appears under the ABI field that allows us to sel
 
 
 
-If the method has parameters, they will be displayed when select the method.
-
-
-
-
+If the method has parameters, they will be displayed when selecting the method.
 
 There are two types of methods:
 
