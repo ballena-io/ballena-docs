@@ -50,13 +50,17 @@ En una casilla seleccionamos BNB y en la otra elegimos bALBT. Le damos a ****_**
 
 
 
-### 7. La liquidez ha sido aportada con éxito.
+### 5. Comprobamos.
 
-**Obtendremos tokens LP \(Liquidity Provider\)** que **demuestran que somos proveedores de liquidez** en PancakeSwap y que **representan el valor de nuestra aportación**.
+**Obtendremos tokens LP \(Liquidity Provider\)** que **demuestran que somos proveedores de liquidez** en PancakeSwap y que **representan el valor de nuestra aportación**. 
 
-Debemos tener en cuenta que cuando aportamos liquidez, los dos tokens del par aportado ya no se visualizarán en nuestra billetera de MetaMask. En cambio, podremos ver que nos aparece una cantidad de _Cake-LP_. Estos tienen el mismo valor y son intercambiables en cualquier momento.
+Debemos tener en cuenta que cuando aportamos liquidez, los dos tokens del par aportado ya no se visualizarán en nuestra billetera de Trust Wallet. En cambio, podremos ver que nos aparece _Pancake LPs_. Estos tienen el mismo valor y son intercambiables en cualquier momento.
 
-Todavía nos falta **agregar esos tokens LP a una BalleVault** en [**ballena.io**](https://app.ballena.io/)**🐋** y optimizar los retornos de forma exponencial. Por un lado, **aplica el interés compuesto a las comisiones** de la Pool, **reinvirtiendo automáticamente** las **ganancias**. Por otro lado, **nos recompensa con tokens BALLE**.
+
+
+### 6. La liquidez ha sido aportada con éxito y hemos recibido tokens LP.
+
+Todavía nos falta **agregar esos tokens LP a una BalleVault** en [**ballena.io**](https://app.ballena.io/)**🐋** y optimizar los retornos de forma exponencial. Por un lado, **aplica el interés compuesto a las comisiones generadas** por la Pool, **reinvirtiendo automáticamente** las **ganancias**. Por otro lado, **nos recompensa con tokens BALLE**.
 
 
 
