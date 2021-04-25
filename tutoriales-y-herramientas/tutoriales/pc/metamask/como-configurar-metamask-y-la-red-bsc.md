@@ -28,7 +28,7 @@ MetaMask soporta los navegadores Chrome, Firefox, Brave y Edge. Aquí lo haremos
 
 #### 
 
-### 3. Seleccionamos el botón de extensiones, parte superior derecha, y hacemos clic en Pin para que el icono de MetaMask se siempre visible.
+### 3. Seleccionamos el botón de extensiones, parte superior derecha, y hacemos clic en Pin para que el icono de MetaMask sea siempre visible.
 
 ​​
 
