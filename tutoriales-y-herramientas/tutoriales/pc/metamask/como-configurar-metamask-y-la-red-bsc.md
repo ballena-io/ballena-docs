@@ -92,7 +92,7 @@ Escribimos nuestra frase de recuperación en el recuadro y confirmamos.​
 
 
 
-### 1. Abrimos MetaMask en una pestaña. Primero hacemos clic en el desplegable que pone "Ethereum Mainnet" y elegimos "Custom RPC" en el menú.
+### 1. Expandimos MetaMask a una pestaña. Primero hacemos clic en el desplegable que pone "Ethereum Mainnet" y elegimos "Custom RPC" en el menú.
 
 ​​Como podemos ver, la red Ethereum viene configurada de serie en la wallet. Lo que vamos a hacer es añadir esta nueva red \(BSC\) porque es la que nos interesa.
 
