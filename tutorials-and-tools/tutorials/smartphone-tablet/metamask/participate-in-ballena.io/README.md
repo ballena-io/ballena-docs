@@ -2,7 +2,7 @@
 
 ![](../../../../../.gitbook/assets/ballena.io-en.png)
 
-### **1. Participate in a BalleVault and generate BALLEv2 tokens**
+###  **Participate in a BalleVault and generate BALLEv2 tokens**
 
 Through the steps explained in this section, we will invest our money in a BalleVault in[ **ballena.io**](https://app.ballena.io/)🐋. As we already know, the platform will give us high returns on the invested assets and, in addition, it **will reward us with BALLEv2 tokens**.
 
