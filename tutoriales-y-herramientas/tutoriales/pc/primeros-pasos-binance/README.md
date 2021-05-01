@@ -2,7 +2,7 @@
 
 Binance es un exchange \(plataforma de compra/venta de criptodivisas\) en el que deberemos abrir una cuenta, depositar dinero y comprar la moneda BNB.
 
-![](../../../../.gitbook/assets/primeros-pasos-en-binance_en.png)
+![](../../../../.gitbook/assets/primeros-pasos-en-binance_en%20%281%29.png)
 
 ¿Por qué BNB y no otra moneda? BNB es la divisa de Binance y, como ya sabemos, la plataforma de[ ballena.io](https://ballena.io/)🐋 se encuentra en la Binance Smart Chain \(BSC\). Dentro de la BSC realizaremos una serie de movimientos para los que necesitaremos BNB como moneda de cambio. Imaginemos la BSC como un país con su propia divisa en el que no podremos comprar nada sin disponer de esta. En este caso BNB nos servirá para comprar otros tokens y para pagar las tasas de transacción.
 
