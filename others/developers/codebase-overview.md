@@ -11,6 +11,7 @@ All our repositories are stored on [Github](https://github.com/ballena-io) and a
 * **Protocol**:  Implementation of [ballena.io](https://ballena.io/) smart contracts on the Binance Smart Chain.
 * **Voting:** The community voting features.
 * **Cred**: This repository contains the code to run a SourceCred instance.
+* **Automator**: Automatization tasks for [ballena.io](https://ballena.io/).
 * **Docs**: Repository containing the [ballena.io](https://ballena.io/) documentation.
 
 
@@ -22,6 +23,7 @@ All our repositories are stored on [Github](https://github.com/ballena-io) and a
 | Protocol | [![](../../.gitbook/assets/1200px-octicons-mark-github.svg.png)](https://github.com/ballena-io/ballena-protocol) | [🔗](https://github.com/ballena-io/ballena-protocol) |
 | Voting | [![](../../.gitbook/assets/1200px-octicons-mark-github.svg.png)](https://github.com/snapshot-labs/snapshot) | [🔗](https://vote.ballena.io/#/ballena) |
 | Cred | [![](../../.gitbook/assets/1200px-octicons-mark-github.svg.png)](https://github.com/ballena-io/ballena-cred) | [🔗](https://cred.ballena.io/#/) |
+| Automator | [![](../../.gitbook/assets/1200px-octicons-mark-github.svg.png)](https://github.com/ballena-io/ballena-automator) | [🔗](https://github.com/ballena-io/ballena-automator) |
 | Docs | [![](../../.gitbook/assets/1200px-octicons-mark-github.svg.png)](https://github.com/ballena-io/ballena-docs/tree/en) | [🔗](https://docs.ballena.io/v/en/) |
 
 
