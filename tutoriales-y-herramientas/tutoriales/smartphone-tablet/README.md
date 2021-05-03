@@ -17,9 +17,7 @@ Cada paso de este esquema es necesario para hacer que nuestro dinero pase de est
 Ningún paso se deberá realizar sin haber completado el anterior.
 {% endhint %}
 
-![](../../../.gitbook/assets/tutoriales_smartphone_-_es.png)
-
-
+![](../../../.gitbook/assets/tutoriales_smartphone300x.png)
 
 Puede resultar algo confuso a primera vista, pero cada paso se detallará de modo que lo podamos entender a medida que lo vayamos haciendo. ¡Comencemos!  
 
