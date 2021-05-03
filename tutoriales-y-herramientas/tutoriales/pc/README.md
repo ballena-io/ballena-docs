@@ -17,9 +17,7 @@ Recordemos el esquema visto anteriormente y sigamos los pasos de uno en uno para
 **Ningún paso se deberá realizar sin haber completado el anterior. Haz clic en la imagen para agrandarla.**
 {% endhint %}
 
-![](../../../.gitbook/assets/tutoriales_pc_-_es.png)
-
-
+![](../../../.gitbook/assets/tutoriales_pc300x.png)
 
 Puede resultar algo confuso a primera vista, pero cada paso se detalla de modo que lo podamos entender a medida que lo vayamos haciendo. ¡Comencemos!
 
