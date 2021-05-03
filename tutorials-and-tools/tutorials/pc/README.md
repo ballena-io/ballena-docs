@@ -6,7 +6,7 @@ You have chosen the PC. The steps are almost similar for both platforms but we h
 No step should be performed without completing the previous one. Click on the image to view full size.
 {% endhint %}
 
-![](../../../.gitbook/assets/tutorials_pc_-_en.png)
+![](../../../.gitbook/assets/tutorials_pc300x.png)
 
 We will need these tools for the PC:
 
