@@ -4,9 +4,7 @@
 
 Empecemos con el siguiente esquema. Aquí se encuentran los pasos para llegar a invertir en la plataforma [ballena.io](https://ballena.io/) y generar ingresos pasivos. Haz clic en la imagen para agrandarla.
 
-
-
-![](../../.gitbook/assets/tutoriales_-_es-1-.png)
+![](../../.gitbook/assets/tutoriales_ess300x.png)
 
 
 
