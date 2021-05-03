@@ -17,7 +17,7 @@ Each step of this diagram is required to make our money generate high returns in
 No step should be performed without completing the previous one. Click on the image to view full size.
 {% endhint %}
 
-![](../../../.gitbook/assets/tutorials_smartphone_-_en.png)
+![](../../../.gitbook/assets/tutorials_smartphone300x.png)
 
 
 
