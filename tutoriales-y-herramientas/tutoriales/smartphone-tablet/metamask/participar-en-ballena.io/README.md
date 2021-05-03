@@ -1,6 +1,6 @@
 # Participar en ballena.io
 
-![](../../../../../.gitbook/assets/participar_en_ballena.io.png)
+![](../../../../../.gitbook/assets/participar_en_balllena.io_2.png)
 
 
 
