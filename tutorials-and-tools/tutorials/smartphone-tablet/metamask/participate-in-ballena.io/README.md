@@ -1,6 +1,6 @@
 # Participate in ballena.io
 
-![](../../../../../.gitbook/assets/ballena.io-en.png)
+![](../../../../../.gitbook/assets/participate_in_ballena.io_2.png)
 
 ###  **Participate in a BalleVault and generate BALLEv2 tokens**
 
