@@ -1,8 +1,8 @@
 # Participar en ballena.io
 
-![](../../../../.gitbook/assets/participar_en_ballena.io.png)
-
 ###  <a id="1-participar-en-una-ballevault-y-generar-tokens-ballev2"></a>
+
+![](../../../../.gitbook/assets/participar_en_balllena.io_2.png)
 
 ###  **Participar en una BalleVault y generar tokens BALLE**
 
