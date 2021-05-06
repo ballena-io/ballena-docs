@@ -10,5 +10,9 @@ Una vez completado el mismo, accede al siguiente tutorial para aprender a votar 
 
 {% page-ref page="votar.md" %}
 
+En caso de que quieras proponer un cambio, una nueva idea, etc. podrás crear una propuesta. Una vez conectada la wallet siguiendo los pasos del primer tutorial, accede al siguiente para ver como puedes crear tu propuesta. Recuerda seguir las bases para su creación.
+
+{% page-ref page="crear-propuestas.md" %}
+
 
 
