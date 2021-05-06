@@ -153,11 +153,11 @@ Yes, there is a treasury in the [ballena.io](https://ballena.io/) to ensure the 
 
 #### 2. Voting platform?
 
-[ballena.io](https://ballena.io/)´s decisions are taken among the community following the DAO bases. Users actively participating in the Governance APP with BALLE tokens will have access to the voting platform. 
+[ballena.io](https://ballena.io/)´s decisions are taken among the community following the DAO bases. Users actively participating in the Governance APP with BALLE tokens will have access to the voting platform. Here you can create and vote  on proposals as a BALLE token holder. 
 
-\(link in progress\)
+For more information about this process, navigate to the documentation of our [DAO ](../dao-organization/dao-introduction.md)or its [Tutorials](../tutorials-and-tools/tutorials/). 
 
-​
+* Link: [https://vote.ballena.io](https://vote.ballena.io)
 
 ​
 
