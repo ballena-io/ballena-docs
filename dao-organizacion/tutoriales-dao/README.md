@@ -6,5 +6,9 @@ Para comenzar a participar en la dirección del mismo, accede a la [plataforma d
 
 {% page-ref page="conectar-wallet-para-votarpara-votar-y-crear-propuestas.md" %}
 
+Una vez completado el mismo, accede al siguiente tutorial para aprender a votar en una propuesta ya creada:
+
+{% page-ref page="votar.md" %}
+
 
 
