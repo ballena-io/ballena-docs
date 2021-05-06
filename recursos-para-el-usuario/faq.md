@@ -86,7 +86,7 @@ Estamos en presencia de una de las preguntas más importantes. La comunidad de [
 
 ### 2. Staking de BALLE
 
-El staking de BALLE sirve para **hacer crecer el número de tokens BALLE**. Esto significa que además de lucrarse por la subida de precio exponencial del token, cada vez poseerán más BALLE. Además, esta participación te permitirá tener acceso a una recompensa extra de 13.000 tokens BALLE a repartir entre los usuarios que aquí participan. Encontrarás el staking de BALLE en la App de Gobernanza y podrás acceder así a la plataforma de votación para formar parte activamente en la toma de decisiones de la comunidad.
+El staking de BALLE sirve para **hacer crecer el número de tokens BALLE**. Esto significa que además de lucrarse por la subida de precio exponencial del token, cada vez poseerán más BALLE. Además, esta participación te permitirá tener acceso a una recompensa extra de 12.000 tokens BALLE a repartir entre los usuarios que aquí participan. Encontrarás el staking de BALLE en la App de Gobernanza y podrás acceder así a la plataforma de votación para formar parte activamente en la toma de decisiones de la comunidad.
 
 
 
