@@ -65,8 +65,8 @@ Estamos en presencia de una de las preguntas más importantes. La comunidad de [
 El **suministro máximo es de 40.000** tokens **BALLE**. Este máximo de tokens se divide en 3 grupos:
 
 * 24.000 tokens que **se distribuyen a lo largo de un año** a todos los usuarios de las vaults \(bóvedas\).
-* 13.000 tokens que **se reparten como recompensa adicional** a los usuarios que practican staking de BALLE. Estos serán repartidos hasta su fin.
-* 3.000 tokens destinados al **equipo de desarrollo** y **fines publicitarios**.
+* 12.000 tokens que **se reparten como recompensa adicional** a los usuarios que practican staking de BALLE. Estos serán repartidos hasta su fin.
+* 4.000 tokens destinados al **equipo de desarrollo** y **fines publicitarios**.
 
 
 
