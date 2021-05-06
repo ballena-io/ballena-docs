@@ -42,7 +42,7 @@ Estamos en presencia de una de las preguntas más importantes. La comunidad de [
 
 ### 2. ¿Se han verificado sus contratos?
 
-Sí. El código de todos los contratos ha sido **verificado y publicado en** [**BSCScan**](https://bscscan.com/token/0x9f0d5f45ce8573f43e0ba17876329784be0fd700). Para más información haz clic [aquí](/tecnico/tokenomics#smart-contracts).
+Sí. El código de todos los contratos ha sido **verificado y publicado en** [**BSCScan**](https://bscscan.com/token/0x9f0d5f45ce8573f43e0ba17876329784be0fd700). Para más información haz clic [aquí](../tecnico/tokenomics.md).
 
 
 
