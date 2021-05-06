@@ -1,6 +1,6 @@
 # Asociaciones comerciales
 
-La mejor vía de contacto para contratos y asociaciones comerciales es a través de nuestro canal de [Discord](https://discord.gg/ydRbEAaqqc).
+La mejor vía de contacto para contratos y asociaciones comerciales es a través de nuestro canal de [Discord](https://discord.gg/ydRbEAaqqc). 
 
 * **Link**: [https://discord.gg/ydRbEAaqqc](https://discord.gg/ydRbEAaqqc)
 
@@ -10,5 +10,5 @@ También puedes encontrarnos en nuestro Telegram:
 
 
 
-No dudes en escribirnos si tienes cualquier consulta o proposición!
+No dudes en escribirnos si tienes cualquier consulta o proposición. Ponte en contacto con la comunidad y los desarrolladores te atenderán lo antes posible.
 
