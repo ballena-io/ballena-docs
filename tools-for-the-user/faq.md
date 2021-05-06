@@ -141,8 +141,6 @@ The auto-compound is the automatic reinvestment of all your pool gains.[ ballena
 Newbie users can usually find the message "Connection error" at the time of launching the App. This error is usually due to a lack of proper configuration of the user´s wallet for the BSC. Make sure you are on the Binance Smart Chain on your wallet´s network. You can find how to do this in our tutorials.  
 
 
-### 
-
 ## Governance & Voting
 
 #### 1. Is there a treasury?
