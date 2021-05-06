@@ -118,11 +118,11 @@ Estamos en presencia de una de las preguntas más importantes. La comunidad de [
 
 En los productos de [ballena.io](https://ballena.io/) hay implícitas unas fees que se mencionan a continuación:
 
-* El 4% de los beneficios de la plataforma se reparten como:
-  * 3% para los holders de BALLE que **participen activamente** en la Staking Pool.
-  * 1% destinado a la **tesorería del proyecto** \(También destinados a pagar las tasas de reinversión, despliegues de contratos, etc.\)
-* Un 10% de la recompensa extra de la pool de gobernanza está destinado también a la tesorería. Esta fee sólo será recaudada mientras se siga repartiendo la recompensa extra.
-* La **tasa de retiro** de las vaults o pools es del 0.1%.
+* El 4% de los beneficios de la Yield Optimizer App se reparten como:
+  * 3% para los holders de BALLE que participen activamente en la BALLE Staking Pool. Se compra BALLE con este importe y se envía a un contrato para su distribución diaria a los holders \(cada día se distribuye lo recaudado el día anterior\).
+  * 1% destinado a la tesorería del proyecto \(También destinados a pagar las tasas de reinversión, despliegues de contratos, etc.\)
+* Un 10% de la recompensa extra de la pool de gobernanza está destinado también a la tesorería para futuros gastos de la DAO. Esta fee sólo será recaudada mientras se siga repartiendo la recompensa extra.
+* La tasa de retiro de las Vaults o pools es del 0.1%.
 
 
 
@@ -136,7 +136,7 @@ En los productos de [ballena.io](https://ballena.io/) hay implícitas unas fees 
 
 ### 1. ¿La DAO cuenta con una tesorería?
 
-Sí, [ballena.io](https://ballena.io/) cuenta con una tesorería para **garantizar el correcto desarrollo del proyecto**. La misma se lucra del 0.5% de los beneficios de la plataforma. Además, durante el reparto de la recompensa extra se destina un 10% de la misma a la tesorería.
+Sí, [ballena.io](https://ballena.io/) cuenta con una tesorería para **garantizar el correcto desarrollo del proyecto**. La misma se lucra del 1% de los beneficios de la plataforma. Además, durante el reparto de la recompensa extra se destina un 10% de la misma a la tesorería.
 
 
 
