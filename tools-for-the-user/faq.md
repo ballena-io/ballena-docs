@@ -90,7 +90,7 @@ The BalleVaults increase your LP tokens for the corresponding pair. If the user 
 
 #### **2. BALLE Staking**
 
-Staking BALLE will essentially increase your BALLE tokens. This product also enables users to gain access to an extra reward of 13000 BALLE tokens. You will find the BALLE Staking Pool at the Governance App and you will be able to access the voting platform for actively participating in the decision making process of the community.
+Staking BALLE will essentially increase your BALLE tokens. This product also enables users to gain access to an extra reward of 12000 BALLE tokens. You will find the BALLE Staking Pool at the Governance App and you will be able to access the voting platform for actively participating in the decision making process of the community.
 
 **‌**
 
@@ -116,7 +116,7 @@ If the APY values look weird or don't appear, usually means you are not in the p
 
 #### **6. How does auto-compound work?**
 
-The auto-compound is the automatic reinvestment of all your pool gains.[ ballena.io](https://ballena.io/) harvests your revenue and reinvests it for the gains to be exponential. A 0.5% of the platform benefits is used for paying off reinvestment fees.
+The auto-compound is the automatic reinvestment of all your pool gains.[ ballena.io](https://ballena.io/) harvests your revenue and reinvests it for the gains to be exponential. A 1% of the platform benefits is used for paying off reinvestment fees.
 
 **‌**
 
