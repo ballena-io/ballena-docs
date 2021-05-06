@@ -14,6 +14,10 @@ Hemos desarrollado el apartado de "[Tutoriales" ](tutoriales-y-herramientas/tuto
 
 {% page-ref page="tutoriales-y-herramientas/tutoriales/" %}
 
+Encontrarás respuesta a muchas de las preguntas en nuestro apartado de preguntas frecuentes:
+
+{% page-ref page="recursos-para-el-usuario/faq.md" %}
+
 
 
 
