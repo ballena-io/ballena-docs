@@ -142,11 +142,9 @@ En los productos de [ballena.io](https://ballena.io/) hay implícitas unas fees 
 
 ### 2. ¿Plataforma de voto?
 
-[ballena.io](https://ballena.io/) cuenta con un sistema de voto que **garantiza una toma de decisiones consensuadas** de acuerdo a las bases de la DAO. Los usuarios que participen activamente en la App de Gobernanza con tokens BALLE tendrán acceso a este voto en la plataforma:
+[ballena.io](https://ballena.io/) cuenta con un sistema de voto que **garantiza una toma de decisiones consensuadas** de acuerdo a las bases de la DAO. Los usuarios que participen activamente en la App de Gobernanza con tokens BALLE tendrán acceso a este voto en la plataforma. Aquí podrás crear y votar propuestas como poseedor del token BALLE. Para más información acerca de este proceso navega a la documentación de nuestra [DAO ](../dao-organizacion/introduccion-dao.md)o a los [Tutoriales ](../dao-organizacion/tutoriales-dao/)de la misma.
 
-[vote.ballena.io](https://vote.ballena.io)
-
-​
+* **Link**: [https://vote.ballena.io](https://vote.ballena.io/#/ballena)
 
 ​
 
