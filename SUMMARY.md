@@ -2,6 +2,7 @@
 
 * [Introducción a ballena.io](README.md)
 * [Ayuda](ayuda.md)
+* [Contacto](contacto.md)
 
 ## Primeros Pasos
 
