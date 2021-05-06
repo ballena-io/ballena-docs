@@ -10,7 +10,7 @@ BALLE token is [ballena.io](https://ballena.io/)´s native token. [ballena.io](h
 
 #### 2. Where is it listed?
 
-BALLE token is listed on Coinmarketcap \(link\), Coingecko \(link\), \(add others\). You can get BALLE at \(link\).
+BALLE token is listed on [BSCScan](https://bscscan.com/token/0x9f0d5f45ce8573f43e0ba17876329784be0fd700). You can get BALLE in [PancakeSwap](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x9f0d5f45ce8573f43e0ba17876329784be0fd700).
 
 
 
