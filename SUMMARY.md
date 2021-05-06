@@ -3,9 +3,9 @@
 * [Introducción a ballena.io](README.md)
 * [Ayuda](ayuda.md)
 * [Contacto](contacto/README.md)
-  * [Asociaciones comerciales](contacto/asociaciones-comerciales.md)
   * [Social/Comunidad](contacto/social-comunidad.md)
   * [Atención al usuario](contacto/atencion-al-usuario.md)
+  * [Asociaciones comerciales](contacto/asociaciones-comerciales.md)
 
 ## Primeros Pasos
 
