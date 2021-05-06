@@ -1,6 +1,6 @@
 # Ayuda
 
-El equipo de ballena.io te ayudará en lo que necesites para que puedas formar parte de nuestra plataforma y de nuestra comunidad.
+El equipo de [ballena.io](https://ballena.io/) te ayudará en lo que necesites para que puedas formar parte de nuestra plataforma y de nuestra comunidad.
 
 Comienza con el apartado "[Primeros Pasos](primeros-pasos/primeros-pasos.md)" para familiarizarte con la plataforma y el yieldfarming.
 
