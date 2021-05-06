@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Introducción a ballena.io](README.md)
-* [Contacta con nosotros](contacta-con-nosotros.md)
 * [Ayuda](ayuda.md)
 
 ## Primeros Pasos
