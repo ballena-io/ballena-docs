@@ -14,5 +14,11 @@ En caso de que quieras proponer un cambio, una nueva idea, etc. podrás crear un
 
 {% page-ref page="crear-propuestas.md" %}
 
+Por último, en este apartado encontrarás un tutorial relacionado con el sistema Gnosis multi-firma. Las transacciones relacionadas con tesorería están sometidas a un sistema multi-firma llamado Gnosis para la seguridad de la misma. Aquí verás los pasos para ejecutar llamadas a los contratos desde el sistema Gnosis. 
+
+{% page-ref page="ejecutar-llamadas-a-contratos-desde-gnosis.md" %}
+
+
+
 
 
