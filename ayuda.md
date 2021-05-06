@@ -22,7 +22,7 @@ Encontrarás respuesta a muchas de las preguntas en nuestro apartado de pregunta
 
 En caso de necesitar ayuda puedes contactar con nuestro equipo en los canales de Discord o Telegram. Para más información acerca del contacto haz click en el siguiente link:
 
-{% page-ref page="contacto.md" %}
+{% page-ref page="contacto/" %}
 
 
 
