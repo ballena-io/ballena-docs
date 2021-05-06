@@ -44,11 +44,11 @@ The project is currently undergoing an audit process. It will be published here.
 
 #### 2. Are its contracts verified?
 
-Yes, all contracts´ codes have been verified and published on BSCScan. For more information click [here](../technical/tokenomics.md#smart-contracts).
+Yes, all contracts´ codes have been verified and published on [BSCScan](https://bscscan.com/token/0x9f0d5f45ce8573f43e0ba17876329784be0fd700). For more information click [here](../technical/tokenomics.md#smart-contracts).
 
 
 
-#### 3. Is Ballena.io safe?
+#### 3. Is [ballena.io](https://ballena.io/) safe?
 
 Our project is audited, our contracts verified and we are part of a huge community on social media. We truly believe in the transparency of the project serving as a proof of the safety provided.
 
@@ -69,8 +69,8 @@ After conducting a deep research through the tokenomics in the DeFi market, the 
 The maximum total supply is 40000 BALLE tokens. These tokens are divided in 3 groups:
 
 * 24000 tokens distributed during the first year for the BalleVaults´ users.
-* 13000 tokens distributed as an extra reward for users practicing BALLE staking.
-* 3000 tokens for the Dev. Team and promotion purposes.
+* 12000 tokens distributed as an extra reward for users practicing BALLE staking.
+* 4000 tokens for the Dev. Team and promotion purposes.
 
 
 
