@@ -4,7 +4,7 @@
 * [Ayuda](ayuda.md)
 * [Contacto](contacto/README.md)
   * [Social/Comunidad](contacto/social-comunidad.md)
-  * [Atención al usuario](contacto/atencion-al-usuario.md)
+  * [Atención al cliente](contacto/atencion-al-cliente.md)
   * [Asociaciones comerciales](contacto/asociaciones-comerciales.md)
 
 ## Primeros Pasos
