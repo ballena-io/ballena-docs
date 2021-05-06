@@ -4,7 +4,7 @@ La mejor vía de contacto para contratos y asociaciones comerciales es a través
 
 * **Link**: [https://discord.gg/ydRbEAaqqc](https://discord.gg/ydRbEAaqqc)
 
-También puedes encontrarnos en nuestro Telegram:
+También puedes encontrarnos en nuestro [Telegram](https://t.me/ballenaspanish):
 
 * **Link**: [https://t.me/ballenaspanish](https://t.me/ballenaspanish)
 
