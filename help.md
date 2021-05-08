@@ -22,7 +22,7 @@ You will find the answers to many of your questions in our FAQ section:
 
 If you need any help, please contact our team channels in Discord or Telegram. For more information about how to the contact us, click on the following link:
 
-{% page-ref page="contact-us.md" %}
+{% page-ref page="contact-us/" %}
 
 
 

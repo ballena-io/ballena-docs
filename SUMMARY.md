@@ -2,10 +2,10 @@
 
 * [Introduction to ballena.io](README.md)
 * [Help](help.md)
-* [Contact us](contact-us.md)
-* [Social/Community](social-community.md)
-* [Customer Support](customer-support.md)
-* [Bussines Partnership](bussines-partnership.md)
+* [Contact us](contact-us/README.md)
+  * [Social/Community](contact-us/social-community.md)
+  * [Customer Support](contact-us/customer-support.md)
+  * [Bussines Partnership](contact-us/bussines-partnership.md)
 
 ## Getting started <a id="getting-started-1"></a>
 
