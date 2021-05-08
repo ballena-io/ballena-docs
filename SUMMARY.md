@@ -2,6 +2,7 @@
 
 * [Introduction to ballena.io](README.md)
 * [Help](help.md)
+* [Contact us](contact-us.md)
 
 ## Getting started <a id="getting-started-1"></a>
 

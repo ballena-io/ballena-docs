@@ -1,40 +1,30 @@
 # Help
 
-The [ ballena.io](https://ballena.io/) team will help you out with whatever you need so that you can be part of our platform and our community.
+The [ ballena.io](https://ballena.io/) team will help you out with whatever your need is so that you can be part of our platform and our community.
 
 Start reading the section"[Getting Started](getting-started-1/getting-started.md)"to familiarize yourself with the platform and the yieldfarming.
 
-We have prepared a very extensive and detailed documentation for all users, both the newest and the most advanced, here you will find information of all kinds. Continue reading the documentation to know all the project data and try to clarify your doubts.
+We have prepared a very extensive and detailed documentation for all users, both the newbies and the most advanced ones, here you will find information of all kinds. Continue reading the documentation to get to know all the project data and try to clarify your doubts.
 
-You can
+You can find more detailed information in the section "Technical" where data related to products, Tokenomics, governance and security are drafted.
 
-find more detailed information in the section "Technical" where data related to products, Tokenomics, governance and security are drafted.  
+## For the Newbies
 
+We have developed the section "[Tutorials](tutorials-and-tools/tutorials/)" to teach you step by step the process about how to participate in the platform[ ballena.io](https://ballena.io/).
 
-Link  
+{% page-ref page="tutorials-and-tools/tutorials/" %}
 
+You will find the answers to many of your questions in our FAQ section:
 
-## For newer
-
-We
-
-developed the section"Tutorials" to teachstep by step process to participate in the platform[ whale.io](https://ballena.io/).  
-
-
-Link  
-
-
-find answers to many questions in our FAQ section:  
-
-
-Link  
-
+{% page-ref page="tools-for-the-user/faq.md" %}
 
 ## Contact
 
-Ifneed help please contact our channel team Discord or Telegram. For more information about the contact, click on the following link:  
+If you need any help, please contact our team channels in Discord or Telegram. For more information about how to the contact us, click on the following link:
+
+{% page-ref page="contact-us.md" %}
 
 
-Link  
-****
+
+
 
