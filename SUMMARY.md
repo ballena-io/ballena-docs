@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction to ballena.io](README.md)
+* [Help](help.md)
 
 ## Getting started <a id="getting-started-1"></a>
 
