@@ -14,15 +14,15 @@ Do not hesitate to contact our community if you have any questions, our [Discord
 
 {% embed url="https://academy.binance.com/en" %}
 
-## BSCNews - Tutoriales BSC
+## BSCNews - BSC Tutorials
 
 {% embed url="https://www.bsc.news/category/tutorials" %}
 
-## ¿Qué es el YieldFarming?
+## What is YieldFarming?
 
 {% embed url="https://academy.binance.com/en/articles/what-is-yield-farming-in-decentralized-finance-defi" %}
 
-## ¿Qué es y cómo usar MetaMask?
+## What is MetaMask?
 
 {% embed url="https://www.youtube.com/watch?v=MfkqgXNPiHg" %}
 
