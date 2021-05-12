@@ -1,10 +1,22 @@
 # Recursos de aprendizaje
 
+En este apartado de la documentación encontrarás tutoriales y recursos de aprendizaje a mayores acerca de nuestra plataforma, la BSC y el Yield Farming.
+
+Puedes ver videos que tratan sobre temas específicos como el Impermanent Loss, como el link a la Binance Academy, donde encontrarás un sin fin de información donde nutrir tus conocimientos.
+
+En [ballena.io](https://ballena.io/) hemos intentado cubrir todos los aspectos necesarios para el aprendizaje acerca del uso de nuestra plataforma, pero estos recursos te ayudarán a completar tu formación y adquirir unas buenas bases.
+
+![](../.gitbook/assets/gummy-programming.png)
+
+No dudes en contactar con nuestra comunidad si sigues teniendo dudas, nuestro [Discord ](https://discord.gg/2zEqxzZP)cuenta con un canal \#soporte para este tipo de cuestiones, te ayudaremos encantados.
+
+
+
 ## Binance Academy - Tutoriales
 
 {% embed url="https://academy.binance.com/es" %}
 
-## [BSCNews](https://www.bsc.news/category/tutorials) - Tutoriales BSC
+## BSCNews - Tutoriales BSC
 
 {% embed url="https://www.bsc.news/category/tutorials" %}
 
