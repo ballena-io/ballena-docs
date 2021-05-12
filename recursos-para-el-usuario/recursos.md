@@ -10,3 +10,5 @@
 
 -[https://www.growing.fi/](https://www.growing.fi/)
 
+[https://defiyield.info/advanced-impermanent-loss-calculator](https://defiyield.info/advanced-impermanent-loss-calculator)
+
