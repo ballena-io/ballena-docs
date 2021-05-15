@@ -115,7 +115,7 @@ Recuerda que el 3% de los beneficios de la plataforma se destinan a los usuarios
 
 \*\*\*\*
 
-* **APY Total:** Este valor es el retorno total que obtendremos anual/diariamente, el cual proviene de la suma de los retornos de APY de los LP tokens más las recompensas de BALLE. Como hemos visto, los LP tokens se reinvierten automáticamente pero los BALLE tokens en cambio, no.  Al participar únicamente en las vaults, el valor total del APY se ve ampliamente más beneficiado y afectado por los retornos de los LP que por las recompensas de BALLE. Es por esto que se recomienda participar en la BALLE Staking Pool con estas recompensas, ya que el usuario puede convertir este APY en retornos muchísimo mayores.
+* **APY Total:** Este valor es el retorno total estimado que obtendremos anual/diariamente, el cual proviene de la suma de los retornos de APY de los LP tokens más las recompensas de BALLE. Como hemos visto, los LP tokens se reinvierten automáticamente pero los BALLE tokens en cambio, no.  Al participar únicamente en las vaults, el valor total del APY se ve ampliamente más beneficiado y afectado por los retornos de los LP que por las recompensas de BALLE. Es por esto que se recomienda participar en la BALLE Staking Pool con estas recompensas, ya que el usuario puede convertir este APY en retornos muchísimo mayores.
 
 
 
