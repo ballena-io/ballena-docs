@@ -48,7 +48,7 @@ Estamos en presencia de una de las preguntas más importantes. La comunidad de [
 
 ### 3. [ballena.io](https://ballena.io/), ¿es seguro?
 
-Nuestro proyecto está siendo auditado, nuestros contratos han sido verificados y formamos parte de una gran comunidad en los medios. Apostamos por la **transparencia del proyecto** como prueba de seguridad y confianza del mismo. Podrás encontrar **todos los datos vinculantes en la documentación oficial**. Sin embargo, el mundo DeFi y Cripto en general, cuenta con riesgos inherentes a la operación, de los cuales deberías ser consciente como usuario. Para más información acerca de este tema, haz clic en [Seguridad y Riesgos](../tecnico/seguridad-y-riesgos.md).
+Nuestro proyecto está siendo auditado, nuestros contratos han sido verificados y formamos parte de una gran comunidad en los medios. Apostamos por la **transparencia del proyecto** como prueba de seguridad y confianza del mismo. Podrás encontrar **todos los datos vinculantes en la documentación oficial**. Sin embargo, el mundo DeFi y Cripto en general, cuenta con riesgos inherentes a la operación, de los cuales deberías ser consciente como usuario. Para más información acerca de este tema, haz clic en [Seguridad y Riesgos](/tecnico/seguridad-y-riesgos).
 
 
 
@@ -110,7 +110,7 @@ Estamos en presencia de una de las preguntas más importantes. La comunidad de [
 
 ### 6. ¿Cómo funciona el auto-compound?
 
-El auto-compound, o reinversión automática, recoge tus beneficios de cada una de las bóvedas y lo **reinvierte para que tus ganancias sean exponenciales** en vez de lineales. Esto hará que tus Liquidity Pool tokens, o tokens agregados al fondo de liquidez, vayan creciendo exponencialmente.
+El auto-compound, o reinversión automática, recoge tus beneficios de cada una de las bóvedas y lo **reinvierte para que tus ganancias sean exponenciales** en vez de lineales. Esto hará que tus Liquidity Pool tokens, o tokens agregados al fondo de liquidez, vayan creciendo exponencialmente. Se utiliza un 0.5% de los beneficios de la plataforma para afrontar las tasas del proceso de reinversión.
 
 
 
@@ -122,7 +122,7 @@ En los productos de [ballena.io](https://ballena.io/) hay implícitas unas fees 
   * 3% para los holders de BALLE que participen activamente en la BALLE Staking Pool. Se compra BALLE con este importe y se envía a un contrato para su distribución diaria a los holders \(cada día se distribuye lo recaudado el día anterior\).
   * 1% destinado a la tesorería del proyecto \(También destinados a pagar las tasas de reinversión, despliegues de contratos, etc.\)
 * Un 10% de la recompensa extra de la pool de gobernanza está destinado también a la tesorería para futuros gastos de la DAO. Esta fee sólo será recaudada mientras se siga repartiendo la recompensa extra.
-* La tasa de depósito de las Vaults o pools es inferior al 0.1%.
+* La tasa de retiro de las Vaults o pools es del 0.1%.
 
 
 
@@ -147,8 +147,4 @@ En los productos de [ballena.io](https://ballena.io/) hay implícitas unas fees 
 * **Link**: [https://vote.ballena.io](https://vote.ballena.io/#/ballena)
 
 ​
-
-
-
-
 

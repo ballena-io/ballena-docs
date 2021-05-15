@@ -59,7 +59,7 @@ En los productos de [ballena.io](https://ballena.io/) hay implícitas unas fees 
   * 3% para los holders de BALLE que participen activamente en la BALLE Staking Pool. Se compra BALLE con este importe y se envía a un contrato para su distribución diaria a los holders \(cada día se distribuye lo recaudado el día anterior\).
   * 1% destinado a la tesorería del proyecto \(También destinados a pagar las tasas de reinversión, despliegues de contratos, etc.\)
 * Un 10% de la recompensa extra de la pool de gobernanza está destinado también a la tesorería para futuros gastos de la DAO. Esta fee sólo será recaudada mientras se siga repartiendo la recompensa extra.
-* La tasa de retiro de las Vaults o pools es del 0.1%.
+* La tasa de depósito de las Vaults o pools es inferior al 0.1%.
 
 ## Smart contracts BALLEv1
 
