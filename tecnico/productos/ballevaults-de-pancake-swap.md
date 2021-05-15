@@ -1,10 +1,8 @@
 # BalleVaults de PancakeSwap
 
-## Vaults Activas <a id="vaults-activas"></a>
-
 Las Vaults, o bóvedas, sirven como generadores pasivos de tokens para los usuarios que aportan liquidez a la misma. Los beneficios obtenidos tienen 3 destinos:
 
-* La mayor parte de los beneficios se devuelve a los usuarios de las BalleVaults en forma de LP tokens.
+* La mayor parte de los beneficios se devuelve a los usuarios de las BalleVaults en forma de LP tokens y BALLE tokens.
 * Pagar las tasas \(Gas Fees\) de las operaciones de harvest o recolección de beneficios. Se aplica un 0.1% de tasa para dichas operaciones.
 * El resto es distribuido entre los usuarios que hacen staking de BALLE en la [BALLE Reward Pool](https://github.com/ballena-io/ballena-docs/tree/5bd75cc3a48b7c7fd3639459ce78234cc933dd65/productos/link/README.md) o BALLE Staking Pool. Esta tasa de recompensa para los usuarios que participan activamente en la BALLE Staking Pool es del 3% de los beneficios totales de la plataforma. Además, estos usuarios cuentan con más ventajas. Descúbrelas en [Gobernanza](../gobernanza.md).
 
