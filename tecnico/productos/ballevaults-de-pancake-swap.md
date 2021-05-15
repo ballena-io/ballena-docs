@@ -77,7 +77,7 @@ Aquí encontrarás información acerca de:
 * **BALLE RECOMPENSA**: Las recompensas en forma de tokens BALLE que tienes acumuladas y su valor aproximado en USD.
 * **Cosechar**: Con este botón cosecharemos las recompensas de tokens BALLE.
 * **ASSET-ASSET SALDO**: Saldo actual de los assets en tu wallet.
-* Tasa de depósito: Porcentaje sobre el valor depositado que se queda en la plataforma destinado a los usuarios de la BALLE Staking Pool y a tesorería. 
+* **Tasa de depósito:** Esta tasa se acumula en la vault y se reparte entre los usuarios. Esta se ha diseñado para evitar el frontrunning/gamificación/picardía de los usuarios y evitar así la continua entrada y salida instantánea de las vaults.
 * **1 x ASSET-ASSET**: Valor de cada token de los assets depositados.
 
 ## APY/APR
@@ -96,7 +96,7 @@ En el caso de invertir 1000$ como LP tokens en los assets correspondientes, esto
 
 \*\*\*\*
 
-* **APY en Granja:** Este valor es el retorno real anual/diario sobre tus tokens depositados en esta bóveda tras la reinversión instantánea de tus retornos. Este es el punto fuerte de la plataforma. Como ves, el valor de los retornos que obtienes tras la reinversión, en comparativa con el valor al no reinvertir estos retornos es abismal. 
+* **APY en Granja:** Este valor es el retorno anual/diario sobre tus tokens depositados en esta bóveda tras la reinversión instantánea de tus retornos. Este es el punto fuerte de la plataforma. Como ves, el valor de los retornos que obtienes tras la reinversión, en comparativa con el valor al no reinvertir estos retornos es abismal. 
 
 {% hint style="info" %}
 En el caso de invertir 1000$ como LP tokens en los assets correspondientes, estos habrán crecido un 2,615.6% a final de año, teniendo ahora un capital de 26.156$ a la hora de la retirada.
