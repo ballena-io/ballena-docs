@@ -88,7 +88,10 @@ Al hacer click en el botón pop-up del APY, nos aparecerá esta tarjeta acerca d
 
 \*\*\*\*
 
-* **APR en Granja**: Este valor es el retorno teórico anual/diario sobre tus tokens depositados en esta bóveda sin reinversión. Este valor no es efectivo en nuestra plataforma ya que [ballena.io](https://ballena.io/) realiza  el auto-compounding, reinversión, de tus retornos. Este dato es meramente informativo para entender el valor del APY.
+* **APR en Granja**: En el caso de invertir directamente en la granja en cuestión, y no a través de 
+
+  [ballena.io](https://ballena.io/), es el retorno que generaría nuestra inversión. Este valor es el retorno teórico anual/diario sobre tus tokens depositados en la granja directamente sin reinversión.   
+  Este valor no es efectivo en nuestra plataforma ya que [ballena.io](https://ballena.io/) realiza el auto-compounding, reinversión, de tus retornos. Este dato es meramente informativo para entender el valor del APY que se consigue en nuestra plataforma, ver el siguiente punto.
 
 {% hint style="info" %}
 En el caso de invertir 1000$ como LP tokens en los assets correspondientes, estos habrán crecido un 345.48% a final de año, teniendo ahora un capital de 3.454,8$ a la hora de la retirada.
@@ -107,7 +110,7 @@ En el caso de invertir 1000$ como LP tokens en los assets correspondientes, esto
 * **APR en BALLE**: Este valor es la recompensa de tokens BALLE que reciben los usuarios por participar en la plataforma. Estos tokens no tienen auto-compounding, con lo que hablamos siempre de APR para este concepto. 
 
 {% hint style="warning" %}
-Recuerda que el 3% de los beneficios de la plataforma se destinan a los usuarios de la BALLE Staking Pool. Además de mantener tus LP tokens en continua reinversión, si reinviertes tus tokens BALLE obtendrás retornos mucho mayores.
+Recuerda que el 3% de los beneficios de la plataforma se destinan a los usuarios de la BALLE Staking Pool. Además de mantener tus LP tokens en las vaults para generar retornos con reinversión automática, si reinviertes tus tokens BALLE en la misma obtendrás retornos mucho mayores.
 {% endhint %}
 
 \*\*\*\*
