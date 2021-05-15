@@ -64,6 +64,46 @@ With CryptoPanic’s free version, you can follow highly customized news accordi
 
 {% embed url="https://cryptopanic.com/" %}
 
+## CoinMarketCal
+
+Cryptocurrency calendar that shows you the most important events coming soon.
+
+{% embed url="https://coinmarketcal.com/en/" %}
+
+## Cointracking
+
+It allows you to import all of your historical transaction data manually or via API. From here, they calculate your performance and can spit out a tax report that you can send right to your accountant.
+
+{% embed url="https://Cointracking.info" %}
+
+## TokenTax
+
+TokenTax is more focused than Cointracking. Token Tax is strictly a tax-focused piece of software which will calculate your crypto taxes in addition to your full income.
+
+{% embed url="https://tokentax.co/?via=mendel" %}
+
+## New YieldFarms BSC
+
+Here you will find new farms coming into the BSC everyday. Be careful! Most of them could be scams.
+
+{% embed url="https://bscscan.com/yieldfarms" %}
+
+## Shrimpy
+
+Portfolio rebalancing software. Many sophisticated traders take advantage of portfolio rebalancing, as it helps mitigate risk and maintain profit generation. Portfolio rebalancing will automatically buy and sell assets in your assets based on portfolio weight.
+
+{% embed url="https://www.shrimpy.io" %}
+
+## Metamask
+
+One of the best crypto wallets supporting all kinds of nets and assets.
+
+{% embed url="https://metamask.io/" %}
+
+
+
+
+
 
 
 
