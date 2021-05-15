@@ -28,6 +28,18 @@ That diabolical impermanent loss which makes us lose some money. It can be calcu
 
 {% embed url="https://defiyield.info/advanced-impermanent-loss-calculator" %}
 
+## PooCoin
+
+Live streaming charts DAPP for Binance Smart Chain \(BSC\) tokens.
+
+{% embed url="https://poocoin.app/" %}
+
+## DeChart
+
+Track multiple charts for any asset on your favorite DEXs and platforms. It´s kind of a PooCoin but displays several charts at the same time.
+
+{% embed url="https://dechart.io" %}
+
 ## Binance
 
 One of the best crypto exchanges.
@@ -51,8 +63,6 @@ CoinGecko is another price and volume tracker website that does the same job as 
 With CryptoPanic’s free version, you can follow highly customized news according to the coins you are interested in. You can pay for a premium version for further features.
 
 {% embed url="https://cryptopanic.com/" %}
-
-
 
 
 
