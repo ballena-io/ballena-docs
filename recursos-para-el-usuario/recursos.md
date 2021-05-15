@@ -28,27 +28,29 @@ That diabolical impermanent loss which makes us lose some money. It can be calcu
 
 {% embed url="https://defiyield.info/advanced-impermanent-loss-calculator" %}
 
-Binance
+## Binance
 
 One of the best crypto exchanges.
 
 {% embed url="https://binance.com" %}
 
-
-
-Coinmarketcap
+## Coinmarketcap
 
 This is one of the most visited websites in the cryptosphere and that’s because it tracks prices, market cap, volume, listings of coins and tokens in this space.
 
 {% embed url="https://coinmarketcap.com/" %}
 
-
-
-Coingecko
+## Coingecko
 
 CoinGecko is another price and volume tracker website that does the same job as CoinMarketCap.
 
 {% embed url="https://www.coingecko.com/en" %}
+
+## CryptoPanic
+
+With CryptoPanic’s free version, you can follow highly customized news according to the coins you are interested in. You can pay for a premium version for further features.
+
+{% embed url="https://cryptopanic.com/" %}
 
 
 
