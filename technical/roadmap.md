@@ -49,13 +49,5 @@ Due to the nature of the project, we work as fast as we can on what we consider 
 
 
 
-{% tabs %}
-{% tab title="First Tab" %}
 
-{% endtab %}
-
-{% tab title="Second Tab" %}
-
-{% endtab %}
-{% endtabs %}
 
