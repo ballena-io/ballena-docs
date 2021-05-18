@@ -80,15 +80,9 @@ TokenTax is more focused than Cointracking. Token Tax is strictly a tax-focused 
 
 {% embed url="https://tokentax.co/?via=mendel" %}
 
-## New YieldFarms BSC
-
-Here you will find new farms coming into the BSC everyday. Be careful! Most of them could be scams.
-
-{% embed url="https://bscscan.com/yieldfarms" %}
-
 ## Shrimpy
 
-Portfolio rebalancing software. Many sophisticated traders take advantage of portfolio rebalancing, as it helps mitigate risk and maintain profit generation. Portfolio rebalancing will automatically buy and sell assets in your assets based on portfolio weight.
+Portfolio rebalancing software. Many sophisticated traders take advantage of portfolio rebalancing, as it helps mitigate risk and maintain profit generation. Portfolio rebalancing will automatically buy and sell assets based on portfolio weight.
 
 {% embed url="https://www.shrimpy.io" %}
 
