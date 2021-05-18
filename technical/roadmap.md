@@ -32,10 +32,13 @@ Due to the nature of the project, we work as fast as we can on what we consider 
 * [ ] Migration test.
 * [ ] Vaults test.
 * [ ] Set Gnosis Multisig wallets.
+* [ ] Include Staked+Wallet tokens as voting criteria.
 * [ ] Launch ballena.io Platform.
 * [ ] Token migration from v1.0 to v2.0.
 * [ ] Launch First Vaults.
-* [ ] * [ ] * [ ] Add new Vaults generating BALLE as a reward.
+* [ ] Staking pool test.
+* [ ] Launch Staking Pool.
+* [ ] * [ ] Add new Vaults generating BALLE as a reward.
 * [ ] Add BALLE Staking Pool.
 
 
