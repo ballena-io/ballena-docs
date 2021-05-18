@@ -41,6 +41,7 @@ Due to the nature of the project, we work as fast as we can on what we consider 
 * [ ] Staking pool test.
 * [ ] Staking announcements.
 * [ ] Launch Staking Pool.
+* [ ] Listing CMC, Coingecko, etc.
 * [ ] CERTIK Audit.
 * [ ] Marketing campaign.
 * [ ] Add new Vaults generating BALLE as a reward - Strategies.
