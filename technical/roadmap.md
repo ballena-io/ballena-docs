@@ -29,8 +29,8 @@ Due to the nature of the project, we work as fast as we can on what we consider 
 * [x] Rebranding of the new 2.0 platform.
 * [x] Add the translation system.
 * [x] Add testnet.
-* [ ] Migration test.
-* [ ] Vaults test.
+* [x] Migration test.
+* [x] Vaults test.
 * [ ] Set Gnosis Multisig wallets.
 * [ ] Include Staked+Wallet tokens as voting criteria.
 * [ ] Launch ballena.io Platform.
