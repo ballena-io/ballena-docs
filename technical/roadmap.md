@@ -26,10 +26,27 @@ Due to the nature of the project, we work as fast as we can on what we consider 
 
 * [x] Solid and scalable code-based migration.
 * [x] Library of reusable components.
-* [ ] Rebranding of the new 2.0 platform.
+* [x] Rebranding of the new 2.0 platform.
 * [x] Add the translation system.
 * [x] Add testnet.
+* [ ] Migration test.
+* [ ] Vaults test.
+* [ ] Set Gnosis Multisig wallets.
+* [ ] Launch ballena.io Platform.
 * [ ] Token migration from v1.0 to v2.0.
-* [ ] Add new Vaults generating BALLE as a reward.
+* [ ] Launch First Vaults.
+* [ ] * [ ] * [ ] Add new Vaults generating BALLE as a reward.
 * [ ] Add BALLE Staking Pool.
+
+
+
+{% tabs %}
+{% tab title="First Tab" %}
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
 
