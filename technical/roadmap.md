@@ -33,7 +33,7 @@ Due to the nature of the project, we work as fast as we can on what we consider 
 * [x] Vaults test.
 * [ ] Set Gnosis Multisig wallets.
 * [ ] Include Staked+Wallet tokens as voting criteria.
-* [ ] Launch ballena.io Platform.
+* [ ] Launch ballena.io platform.
 * [ ] Migration announcements.
 * [ ] Token migration from v1.0 to v2.0.
 * [ ] Vaults announcements.
