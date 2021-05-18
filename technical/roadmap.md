@@ -18,16 +18,6 @@ Due to the nature of the project, we work as fast as we can on what we consider 
 * [ ] Get Gnosis Multisig wallets.
 * [ ] Include Staked+Wallet tokens as voting criteria.
 
-‌
-
-## ballena.io v1.0
-
-* [x] Add Pause status to the vaults.
-* [x] Add “Retirada” status to the vaults.
-* [x] Update Disclaimer.
-
-‌
-
 ## ballena.io v2.0
 
 * [x] Solid and scalable code-based migration.
@@ -50,6 +40,14 @@ Due to the nature of the project, we work as fast as we can on what we consider 
 * [ ] Marketing campaign.
 * [ ] Add new Vaults generating BALLE as a reward - Strategies.
 * [ ] Frontend UX/UI optimization.
+
+## ballena.io v1.0
+
+* [x] Add Pause status to the vaults.
+* [x] Add “Retirada” status to the vaults.
+* [x] Update Disclaimer.
+
+
 
 
 
