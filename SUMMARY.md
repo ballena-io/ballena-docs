@@ -76,9 +76,9 @@
 
 * [Roadmap](technical/roadmap.md)
 * [Products](technical/products/README.md)
+  * [BalleVaults - Pancake Swap](technical/products/ballevaults-pancake-swap.md)
   * [SimpleFarming](technical/products/simplefarming.md)
   * [BALLE Staking Pool](technical/products/balle-staking-pool.md)
-  * [BalleVaults - Pancake Swap](technical/products/ballevaults-pancake-swap.md)
 * [Tokenomics](technical/tokenomics.md)
 * [Governance](technical/governance.md)
 * [Security and Risks](technical/security-and-risks.md)
