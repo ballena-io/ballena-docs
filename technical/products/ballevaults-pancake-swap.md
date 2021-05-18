@@ -57,78 +57,65 @@ Here you will find various filters such as:
 * Sort by: Popular, Liquidity, Multiplier and earnings. 
 * Search vaults.
 
-
-
-![](../../.gitbook/assets/image%20%2827%29.png)
+![](../../.gitbook/assets/image%20%2829%29.png)
 
 \*\*\*\*
 
 The vault´s cards are as follows.
 
+![](../../.gitbook/assets/image%20%2832%29.png)
 
-
-![](../../.gitbook/assets/image%20%2822%29.png)
-
-![](../../.gitbook/assets/image%20%2821%29.png)
+![](../../.gitbook/assets/image%20%2831%29.png)
 
 
 
 Aquí encontrarás información acerca de:
 
-* **ASSET-ASSET:** Nombre del par o asset. En este campo aparecerá el nombre de los assets en cuestión. Por ejemplo, BALLE-BNB para una vault compuesta o CAKE para una vault simple.
-* **PLATAFORMA:** Plataforma donde se encuentra la pool de liquidez. Por ejemplo, PancakeSwap.
-* **MULT.:** Multiplicador Rewards BALLE, por ejemplo, x1 o x10. Las vaults proporcionan rewards en forma de tokens BALLE, los cuales se multiplican por este valor para obtener recompensas mayores. 
-* **APY**: Annual Percentage Yield. Este es el porcentaje de retorno que obtendrás de tu inversión en nuestra plataforma gracias al auto-compounding, la reinversión automática. Más adelante se muestra el APY con más detalle.
-* **TVL:** Valor total depositado en la Vault por todos los usuarios de la plataforma.
-* **BALLE RECOMPENSA**: Las recompensas en forma de tokens BALLE que tienes acumuladas y su valor aproximado en USD.
-* **Cosechar**: Con este botón cosecharemos las recompensas de tokens BALLE.
-* **ASSET-ASSET SALDO**: Saldo actual de los assets en tu wallet.
-* **Tasa de depósito:** Esta tasa se acumula en la vault y se reparte entre los usuarios. Esta se ha diseñado para evitar el frontrunning/gamificación/picardía de los usuarios y evitar así la continua entrada y salida instantánea de las vaults.
-* **1 x ASSET-ASSET**: Valor de cada token de los assets depositados.
+* **ASSET-ASSET:** Name of the pair or asset. The name of the assets will appear in this field. For example, BALLE-BNB for a compound vault or CAKE for a single vault.
+* **PLATFORM:** Platforrm where the Liquidity Pools is at. For example, PancakeSwap.
+* **MULT.:** BALLE rewards multiplier, i.e. x1 o x10. Vaults provide rewards in the form of BALLE tokens, which are multiplied by this value to obtain higher rewards.
+* **APY**: Annual Percentage Yield. This is the return that you will get from your investment in our platform thanks to auto-compounding. The APY is explained with more detail later in this document.
+* **TVL:** Total Value Locked. Total value deposited in the Vault by all users of the platform.
+* **BALLE REWARD**: The rewards in the form of BALLE tokens that you have accumulated and their approximate value in USD.
+* **Harvest**: With this button we will harvest the BALLE token rewards.
+* **ASSET-ASSET BALANCE**: Current balance in your wallet.
+* **Deposit Fee:** This fee is added to the vault and distributed among users. This has been designed to avoid the frontrunning/gamification/mischief of the users and thus avoid the continuous instantaneous entry and exit of the vaults.
+* **Last ASSET-ASSET**: Value of the deposited assets.
 
 ## APY/APR
 
-Al hacer click en el botón pop-up del APY, nos aparecerá esta tarjeta acerca del cálculo de los retornos anuales.
+By clicking on the APY pop-up button, this card will be shown giving information about the calculation of annual returns.
 
-![](../../.gitbook/assets/image%20%2828%29.png)
+
+
+![](../../.gitbook/assets/image%20%2830%29.png)
 
 \*\*\*\*
 
-* **APR en Granja**: En el caso de invertir directamente en la granja en cuestión, y no a través de 
-
-  [ballena.io](https://ballena.io/), es el retorno que generaría nuestra inversión. Este valor es el retorno teórico anual/diario sobre tus tokens depositados en la granja directamente sin reinversión.   
-  Este valor no es efectivo en nuestra plataforma ya que [ballena.io](https://ballena.io/) realiza el auto-compounding, reinversión, de tus retornos. Este dato es meramente informativo para entender el valor del APY que se consigue en nuestra plataforma, ver el siguiente punto.
+* **Farm APR**: This value is the return that the user would get if the user invests directly in the farm, and not through [ballena.io](https://ballena.io/). This value is the theoretical annual / daily return on your tokens deposited in the farm directly without reinvestment. This value is not effective on our platform since [ballena.io](https://ballena.io/) performs the auto-compounding of your returns. This data is merely informative, displayed simply to understand the value of the APY that is achieved on our platform, see the next point.
 
 {% hint style="info" %}
-En el caso de invertir 1000$ como LP tokens en los assets correspondientes, estos habrán crecido un 345.48% a final de año, teniendo ahora un capital de 3.454,8$ a la hora de la retirada.
+In the event of investing $1000 as LP tokens in the corresponding assets, these will have grown by 345.48% at the end of the year, having then a capital worth $3,454.8 at the time of withdrawal.
 {% endhint %}
 
-\*\*\*\*
-
-* **APY en Granja:** Este valor es el retorno anual/diario sobre tus tokens depositados en esta bóveda tras la reinversión instantánea de tus retornos. Este es el punto fuerte de la plataforma. Como ves, el valor de los retornos que obtienes tras la reinversión, en comparativa con el valor al no reinvertir estos retornos es abismal. 
+* **Farm APY:** This value is the annual/daily return on your tokens deposited in this vault after the auto-compounding. As you can see, the value of the returns you get after auto-reinvestment, compared to the value of not reinvesting these returns is enormous.
 
 {% hint style="info" %}
-En el caso de invertir 1000$ como LP tokens en los assets correspondientes, estos habrán crecido un 2,615.6% a final de año, teniendo ahora un capital de 26.156$ a la hora de la retirada.
+In the event of investing $1000 as LP tokens in the corresponding assets, these will have grown by 2,615.6% at the end of the year, having then a capital worth $26,156 at the time of withdrawal.
 {% endhint %}
 
-\*\*\*\*
-
-* **APR en BALLE**: Este valor es la recompensa de tokens BALLE que reciben los usuarios por participar en la plataforma. Estos tokens no tienen auto-compounding, con lo que hablamos siempre de APR para este concepto. 
+* **BALLE APR**: This value is the BALLE token reward that users receive for participating in the platform. These tokens do not have the auto-compounding feature, so we always talk about APR for this concept.
 
 {% hint style="warning" %}
-Recuerda que el 3% de los beneficios de la plataforma se destinan a los usuarios de la BALLE Staking Pool. Además de mantener tus LP tokens en las vaults para generar retornos con reinversión automática, si reinviertes tus tokens BALLE en la misma obtendrás retornos mucho mayores.
+Remember that 3% of the benefits of the platform are distributed among users of the BALLE Staking Pool. In addition to keeping your LP tokens in the vaults to generate returns with automatic reinvestment, if you reinvest your BALLE tokens in the Staking Pool you will obtain much higher returns.
 {% endhint %}
 
-\*\*\*\*
+* **Total APY:** This value is the estimated total return that we will obtain annually/daily, which comes from the sum of the APY returns of the LP tokens plus the BALLE rewards. As we have seen, LP tokens are automatically reinvested but BALLE tokens are not. This is why it is recommended to participate in the BALLE Staking Pool with these rewards, since the user can turn this APY into much higher returns.
 
-* **APY Total:** Este valor es el retorno total estimado que obtendremos anual/diariamente, el cual proviene de la suma de los retornos de APY de los LP tokens más las recompensas de BALLE. Como hemos visto, los LP tokens se reinvierten automáticamente pero los BALLE tokens en cambio, no.  Al participar únicamente en las vaults, el valor total del APY se ve ampliamente más beneficiado y afectado por los retornos de los LP que por las recompensas de BALLE. Es por esto que se recomienda participar en la BALLE Staking Pool con estas recompensas, ya que el usuario puede convertir este APY en retornos muchísimo mayores.
-
-
-
-Para más información acerca del APY y APR haz click en este [enlace](../../tools-for-the-user/faq.md#4-apr-apy).
+For more information about the APY and APR click on this [link](../../tools-for-the-user/faq.md#4-apr-apy).
 
 {% hint style="danger" %}
-Calculado sobre a las tarifas vigentes, este cálculo del interés compuesto se realiza diariamente. Las tarifas son estimaciones que se proporcionan únicamente para tu comodidad, y en ningún caso representan rendimientos garantizados.
+Calculated over current rates, this compound interest calculation is performed daily. Rates are estimates provided for your convenience only, and in no way represent guaranteed returns.
 {% endhint %}
 
 
