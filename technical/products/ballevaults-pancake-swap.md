@@ -63,7 +63,7 @@ Here you will find various filters such as:
 
 \*\*\*\*
 
-Las tarjetas de las bóvedas, o vaults, son de la siguiente forma. 
+The vault´s cards are as follows.
 
 
 
