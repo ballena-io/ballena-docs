@@ -15,6 +15,8 @@ Due to the nature of the project, we work as fast as we can on what we consider 
 * [x] Add our DAO´s voting platform.
 * [x] Add SouceCred as the retribution system for contributors.
 * [x] Definition and implementation of Trust Levels.
+* [ ] Get Gnosis Multisig wallets.
+* [ ] Include Staked+Wallet tokens as voting criteria.
 
 ‌
 
@@ -35,8 +37,6 @@ Due to the nature of the project, we work as fast as we can on what we consider 
 * [x] Add testnet.
 * [x] Migration test.
 * [x] Vaults test.
-* [ ] Set Gnosis Multisig wallets.
-* [ ] Include Staked+Wallet tokens as voting criteria.
 * [ ] Launch ballena.io platform.
 * [ ] Migration announcements.
 * [ ] Token migration from v1.0 to v2.0.
