@@ -79,12 +79,12 @@ Here you will find information regarding:
 * **BALLE REWARD**: The rewards in the form of BALLE tokens that you have accumulated and their approximate value in USD.
 * **Harvest**: With this button we will harvest the BALLE token rewards.
 * **ASSET-ASSET BALANCE**: Current balance in your wallet.
-* **Deposit Fee:** This fee is added to the vault and distributed among users. This has been designed to avoid the frontrunning/gamification/mischief of the users and thus avoid the continuous instantaneous entry and exit of the vaults.
+* **Deposit Fee:** This fee is added to the vault and distributed among users. This has been designed to avoid the frontrunning/gamification/mischief of the users thus avoiding the continuous instantaneous entry and exit of the vaults.
 * **Last ASSET-ASSET**: Value of the deposited assets.
 
 ## APY/APR
 
-By clicking on the APY pop-up button, this card will be shown giving information about the calculation of annual returns.
+By clicking on the APY/APR pop-up button, this card will be shown which gives information about the calculation of annual returns.
 
 
 
@@ -92,7 +92,7 @@ By clicking on the APY pop-up button, this card will be shown giving information
 
 \*\*\*\*
 
-* **Farm APR**: This value is the return that the user would get if the user invests directly in the farm, and not through [ballena.io](https://ballena.io/). This value is the theoretical annual / daily return on your tokens deposited in the farm directly without reinvestment. This value is not effective on our platform since [ballena.io](https://ballena.io/) performs the auto-compounding of your returns. This data is merely informative, displayed simply to understand the value of the APY that is achieved on our platform, see the next point.
+* **Farm APR**: This value is the return that the user will get if the user invests directly in the farm, and not through [ballena.io](https://ballena.io/). This value is the theoretical annual / daily return on your tokens deposited in the farm directly without reinvestment. This value is not effective on our platform since [ballena.io](https://ballena.io/) performs the auto-compounding of your returns. This data is merely informative, displayed simply to understand the value of the APY that is achieved on our platform, see the next point.
 
 {% hint style="info" %}
 In the event of investing $1000 as LP tokens in the corresponding assets, these will have grown by 345.48% at the end of the year, having then a capital worth $3,454.8 at the time of withdrawal.
@@ -117,8 +117,6 @@ For more information about the APY and APR click on this [link](../../tools-for-
 {% hint style="danger" %}
 Calculated over current rates, this compound interest calculation is performed daily. Rates are estimates provided for your convenience only, and in no way represent guaranteed returns.
 {% endhint %}
-
-
 
 
 
