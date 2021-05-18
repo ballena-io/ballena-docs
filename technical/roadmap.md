@@ -34,12 +34,17 @@ Due to the nature of the project, we work as fast as we can on what we consider 
 * [ ] Set Gnosis Multisig wallets.
 * [ ] Include Staked+Wallet tokens as voting criteria.
 * [ ] Launch ballena.io Platform.
+* [ ] Migration announcements.
 * [ ] Token migration from v1.0 to v2.0.
+* [ ] Vaults announcements.
 * [ ] Launch First Vaults.
 * [ ] Staking pool test.
+* [ ] Staking announcements.
 * [ ] Launch Staking Pool.
-* [ ] * [ ] Add new Vaults generating BALLE as a reward.
-* [ ] Add BALLE Staking Pool.
+* [ ] CERTIK Audit.
+* [ ] Marketing campaign.
+* [ ] Add new Vaults generating BALLE as a reward - Strategies.
+* [ ] Frontend UX/UI optimization.
 
 
 
