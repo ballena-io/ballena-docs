@@ -20,6 +20,8 @@ This strategy farms one only token. You can see currently active vaults listed h
 
 Farm yield with the token CAKE and receive more CAKE, the [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
 
+
+
 ### Compound BalleVaults
 
 This strategy farms two assets´ LP tokens. This is obtained through the gain of CAKE tokens for its subsequent swap for the corresponding LP tokens at its harvest time.
@@ -32,37 +34,9 @@ This strategy farms CAKE-BNB LP tokens. This is obtained through the gain of CAK
 
 
 
+## Active BalleVaults
+
 You can see the active vaults listed here:
-
-#### 
-
-
-
-
-
-### BalleVaults Simples
-
-La estrategia realiza farming con un solo token. A continuación se listan las bóvedas activas:
-
-#### CAKE SMART
-
-Cultiva rendimiento con CAKE y recibe CAKE tokens, [Pancake Swap Native token](https://exchange.pancakeswap.finance/#/swap).
-
-
-
-### BalleVaults Compuestas
-
-La estrategia realiza farming con dos tokens LP \(Liquidity pool\). Esto se consigue mediante la obtención de tokens CAKE y posterior venta por los LP tokens correspondientes a la hora de su retirada.
-
-Por ejemplo:
-
-#### CAKE-BNB LP
-
-La estrategia realiza farming con tokens CAKE-BNB LP \(Liquidity pool\). Esto se consigue mediante la obtención de tokens CAKE y posterior venta por los LP tokens CAKE-BNB a la hora de su retirada.
-
-## BalleVaults activas
-
-A continuación se listan las bóvedas activas:
 
 **INJ-BNB LP**
 
@@ -70,7 +44,11 @@ A continuación se listan las bóvedas activas:
 
 **DOT-BNB LP**
 
-## Formato de las bóvedas
+\*\*\*\*
+
+## Vaults Format
+
+In the "Vaults" section of the dapp of ballena.io you will find both the currently active Vaults and the retired ones.
 
 En el apartado "Vaults" de la Dapp de [ballena.io](https://ballena.io/) encontrarás tanto las Vaults activas actualmente como las retiradas.
 
