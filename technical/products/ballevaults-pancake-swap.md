@@ -48,16 +48,14 @@ You can see the active vaults listed here:
 
 ## Vaults Format
 
-In the "Vaults" section of the dapp of ballena.io you will find both the currently active Vaults and the retired ones.
+In the "Vaults" section of the [ballena.io](https://ballena.io/) dapp you will find both the currently active vaults and the retired ones.
 
-En el apartado "Vaults" de la Dapp de [ballena.io](https://ballena.io/) encontrarás tanto las Vaults activas actualmente como las retiradas.
+Here you will find various filters such as: 
 
-Aquí encontrarás varios filtros como:
-
-* La división entre activas y inactivas.
-* Solo depositadas.
-* Ordenar por: Popular, Liquidez, Multiplicador y ganancias.
-* Buscar bóvedas.
+* Active/Inactive filter.
+* Only deposited. 
+* Sort by: Popular, Liquidity, Multiplier and earnings. 
+* Search vaults.
 
 
 
