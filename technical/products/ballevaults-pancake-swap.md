@@ -52,8 +52,8 @@ In the "Vaults" section of the [ballena.io](https://ballena.io/) dapp you will f
 
 Here you will find various filters such as: 
 
-* Active/Inactive filter.
-* Only deposited. 
+* Active/Inactive vaults filter.
+* Only deposited vaults. 
 * Sort by: Popular, Liquidity, Multiplier and earnings. 
 * Search vaults.
 
@@ -69,12 +69,12 @@ The vault´s cards are as follows.
 
 
 
-Aquí encontrarás información acerca de:
+Here you will find information regarding: 
 
 * **ASSET-ASSET:** Name of the pair or asset. The name of the assets will appear in this field. For example, BALLE-BNB for a compound vault or CAKE for a single vault.
 * **PLATFORM:** Platforrm where the Liquidity Pools is at. For example, PancakeSwap.
 * **MULT.:** BALLE rewards multiplier, i.e. x1 o x10. Vaults provide rewards in the form of BALLE tokens, which are multiplied by this value to obtain higher rewards.
-* **APY**: Annual Percentage Yield. This is the return that you will get from your investment in our platform thanks to auto-compounding. The APY is explained with more detail later in this document.
+* **APY**: Annual Percentage Yield. This is the return that you will get from your investment in our platform thanks to the auto-compounding. The APY is explained with more detail later in this document.
 * **TVL:** Total Value Locked. Total value deposited in the Vault by all users of the platform.
 * **BALLE REWARD**: The rewards in the form of BALLE tokens that you have accumulated and their approximate value in USD.
 * **Harvest**: With this button we will harvest the BALLE token rewards.
