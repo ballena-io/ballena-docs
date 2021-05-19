@@ -24,6 +24,12 @@ Una wallet de firma múltiple es una billetera de criptomonedas que controla el 
 
 [ballena.io](https://ballena.io/) es el primer proyecto de la red Binance Smart Chain en implementar Gnosis Safe para controlar nuestra DAO.
 
+
+
+![](../.gitbook/assets/image.png)
+
+
+
 Navega a nuestro apartado de la DAO acerca de Gnosis para más información.
 
 {% page-ref page="../dao-organizacion/gnosis.md" %}
@@ -31,12 +37,6 @@ Navega a nuestro apartado de la DAO acerca de Gnosis para más información.
 También podrás encontrar información acerca de este sistema en el siguiente enlace:
 
 {% embed url="https://docs.binance.org/smart-chain/developer/gnosis.html" %}
-
-
-
-![](../.gitbook/assets/image.png)
-
-
 
 ## Contratos Inteligentes \(Smart Contracts\)
 

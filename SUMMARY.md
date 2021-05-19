@@ -92,7 +92,7 @@
 * [Nuestro equipo de desarrollo](dao-organizacion/nuestro-equipo-de-desarrollo.md)
 * [Sistema SourceCred](dao-organizacion/sistema-sourcecred/README.md)
   * [Bases SourceCred de ballena.io](dao-organizacion/sistema-sourcecred/como-funciona-sourcecred.md)
-* [Gnosis](dao-organizacion/gnosis.md)
+* [Gnosis: Sistema Multi-firma](dao-organizacion/gnosis.md)
 * [Niveles de Confianza](dao-organizacion/niveles-de-confianza.md)
 * [Tutoriales DAO](dao-organizacion/tutoriales-dao/README.md)
   * [Conectar Wallet para votar y crear propuestas](dao-organizacion/tutoriales-dao/conectar-wallet-para-votarpara-votar-y-crear-propuestas.md)

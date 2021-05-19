@@ -1,4 +1,4 @@
-# Gnosis
+# Gnosis: Sistema Multi-firma
 
 Estamos orgullosos de anunciar que **Somos el primer proyecto en implementar Gnosis** como sistema Multi-firma en la BSC.
 
@@ -7,6 +7,10 @@ Una wallet de firma múltiple es una billetera de criptomonedas que controla el 
 [ballena.io](https://ballena.io/) es el primer proyecto de la red Binance Smart Chain en implementar Gnosis Safe para controlar nuestra DAO. Hemos implementado una estructura de 3 wallets Gnosis dependiento del grado de importancia de las acciones a realizar y por lo tanto variando el nivel de seguridad para cada una de las áreas.
 
 
+
+![](../.gitbook/assets/image.png)
+
+#### 
 
 #### Wallet 1: Protocolo de Gobernanza
 
@@ -34,13 +38,11 @@ En el siguiente archivo podrás ver todas las funciones y su respectiva descripc
 
 {% file src="../.gitbook/assets/balle-smartcontracts-smartcontracts-gnosis-access.pdf" caption="Smart Contracts Gnosis Access" %}
 
+
+
 Para más información acerca del sistema Mulit-firma Gnosis haz clic en el siguiente link:
 
 {% embed url="https://docs.binance.org/smart-chain/developer/gnosis.html" %}
-
-
-
-![](../.gitbook/assets/image.png)
 
 
 
