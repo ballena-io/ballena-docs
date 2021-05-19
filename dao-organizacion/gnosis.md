@@ -28,7 +28,7 @@ Se rige por el modelo 3/9, es decir, hacen falta 3 firmas de 9 wallets firmantes
 
 
 
-#### Wallet 3: Protocolo de emergencia de seguridad
+#### Wallet 3: Protocolo de Emergencia de Seguridad
 
 Este protocolo se reserva para actuaciones de emergencia y solo será necesaria una firma para poder ejecutar las acciones dentro de sus límites. Esta wallet no puede ejecutar acciones transcendentales que afecten al proyecto pero sirve para poder tomar medidas de manera inmediata por un firmante en caso de un ataque o situación de peligro. Pausar las vaults o pausar las distribuciones de BALLE, por ejemplo, son funciones que puede llevar a cabo esta wallet.
 
