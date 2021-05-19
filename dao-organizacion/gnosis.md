@@ -8,7 +8,7 @@ Una wallet de firma múltiple es una billetera de criptomonedas que controla el 
 
 
 
-#### 1. Protocolo de Gobernanza
+#### Wallet 1: Protocolo de Gobernanza
 
 Esta wallet es la más crítica. Se encarga de las acciones diarias de la plataforma y tiene acceso a todas las operaciones que tengan que ver con los Smart Contracts y [ballena.io](https://ballena.io/) en general. Cambiar la dirección de contrato de la tesorería, cambiar las wallets de Gnosis y operaciones de tesorería son ejemplos de las acciones que esta lleva a cabo.
 
@@ -16,17 +16,17 @@ Se rige por el modelo 6/9, es decir, hacen falta 6 firmas de 9 wallets firmantes
 
 
 
-#### 2. Protocolo de Operaciones
+#### Wallet 2: Protocolo de Operaciones
 
 Lleva a cabo acciones menos críticas pero que aun así requieren de un mínimo de firmas para no comprometer el proyecto. Este se encuentra en el nivel de seguridad media. Cambiar el multiplicador de los rewards en BALLE tokens, desactivar los BALLE rewards de las vaults, reanudar las vaults o agregar una nueva vault son funciones que puede ejecutar esta wallet.
 
-Se rige por el modelo 3/9, es decir, hacen falta 3 firmas de 9 wallets firmantes para poder llevar a cabo una operación.
+Se rige por el modelo 3/9, es decir, hacen falta 3 firmas de 9 wallets firmantes para poder llevar a cabo una operación. \(Número de firmantes pendiente de decisión\)
 
 
 
-#### 3. Protocolo de emergencia de seguridad
+#### Wallet 3: Protocolo de emergencia de seguridad
 
-Este protocolo se reserva para actuaciones de emergencia y solo será necesaria una firma para poder ejecutar las acciones dentro de sus límites. Esta wallet no puede ejecutar acciones transcendentales que afecten al proyecto pero sirve para poder tomar medidas inmediatamente por un firmante en caso de un ataque o situación de peligro. Pausar las vaults o pausar las distribuciones de BALLE, por ejemplo, son funciones que puede llevar a cabo.
+Este protocolo se reserva para actuaciones de emergencia y solo será necesaria una firma para poder ejecutar las acciones dentro de sus límites. Esta wallet no puede ejecutar acciones transcendentales que afecten al proyecto pero sirve para poder tomar medidas de manera inmediata por un firmante en caso de un ataque o situación de peligro. Pausar las vaults o pausar las distribuciones de BALLE, por ejemplo, son funciones que puede llevar a cabo esta wallet.
 
 
 
