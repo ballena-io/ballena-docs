@@ -40,7 +40,7 @@ En el siguiente archivo podrás ver todas las funciones y su respectiva descripc
 
 
 
-Para más información acerca del sistema Mulit-firma Gnosis haz clic en el siguiente link:
+Para más información acerca del sistema Mulit-firma Gnosis haz clic en el siguiente link.
 
 {% embed url="https://docs.binance.org/smart-chain/developer/gnosis.html" %}
 
