@@ -1,5 +1,7 @@
 # Seguridad y Riesgos
 
+## Riesgos
+
 En el mundo de las criptomonedas, especialmente en el espacio de las Finanzas Descentralizadas \(DeFi\), los usuarios deben entender los riesgos asociados a los proyectos y los contratos inteligentes \(Smart contracts\) antes de aventurarse en el mismo. Nosotros lo llamamos "DYOR" \(Do Your Own Research\), o lo que es lo mismo, estudia el caso por tu cuenta antes de entrar.
 
 
@@ -13,8 +15,6 @@ Las DeFi cuentan con un amplio abanico de riesgos desde el [impermanent loss](ht
 ### Riesgos de Terceros
 
 [ballena.io](https://ballena.io/) actúa como un proveedor de vaults con estrategia de auto-reinversión para maximizar los resultados. El Equipo de Desarrollo se encarga de verificar la seguridad de estas vaults de las Apps correspondientes antes de su publicación. Sin embargo, [ballena.io](https://ballena.io/) no es responsable ni trabaja conjuntamente con estas Vaults ni estas Apps.
-
-
 
 ## Seguridad de la Wallet
 
