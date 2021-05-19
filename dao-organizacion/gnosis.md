@@ -4,7 +4,7 @@ Estamos orgullosos de anunciar que **Somos el primer proyecto en implementar Gno
 
 Una wallet de firma múltiple es una billetera de criptomonedas que controla el acceso y los cambios de uno o varios contratos inteligentes \(Smart Contracts\). La mayoría de los proyectos controlados por la comunidad de la red Ethereum requieren un sistema Multisig, es decir, múltiples firmas, para aprobar una transacción antes de ser ejecutada. 
 
-[ballena.io](https://ballena.io/) es el primer proyecto de la red Binance Smart Chain en implementar Gnosis Safe para controlar nuestra DAO. Hemos implementado una estructura de 3 wallets Gnosis dependiento del grado de importancia de las acciones a realizar y por lo tanto vvariando el nivel de seguridad para cada una de las áreas.
+[ballena.io](https://ballena.io/) es el primer proyecto de la red Binance Smart Chain en implementar Gnosis Safe para controlar nuestra DAO. Hemos implementado una estructura de 3 wallets Gnosis dependiento del grado de importancia de las acciones a realizar y por lo tanto variando el nivel de seguridad para cada una de las áreas.
 
 
 
