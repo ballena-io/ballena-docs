@@ -20,7 +20,7 @@ Se rige por el modelo 6/9, es decir, hacen falta 6 firmas de 9 wallets firmantes
 
 Lleva a cabo acciones menos críticas pero que aun así requieren de un mínimo de firmas para no comprometer el proyecto. Este se encuentra en el nivel de seguridad media. Cambiar el multiplicador de los rewards en BALLE tokens, desactivar los BALLE rewards de las vaults, reanudar las vaults o agregar una nueva vault son funciones que puede ejecutar esta wallet.
 
-Se rige por el modelo 3/9, es decir, hacen falta 3 firmas de 9 wallets firmantes para poder llevar a cabo una operación. \(Número de firmantes pendiente de decisión\)
+Se rige por el modelo 3/9, es decir, hacen falta 3 firmas de 9 wallets firmantes para poder llevar a cabo una operación \(Número de firmantes por determinar\).
 
 
 
