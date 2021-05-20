@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introducción a ballena.io](README.md)
+* [Comunicados](comunicados.md)
 * [Ayuda](ayuda.md)
 * [Contacto](contacto/README.md)
   * [Social/Comunidad](contacto/social-comunidad.md)
