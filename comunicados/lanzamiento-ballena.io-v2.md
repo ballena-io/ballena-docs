@@ -10,7 +10,7 @@ Se ha completado el test plan general de la interfaz, así como del protocolo de
 La migración terminará en el bloque **\#8160245**. A partir de este momento no podrá realizarse la migración de más tokens.   
 La fecha y hora aproximada del fin de la migración es la siguiente:
 
- **Thu Jun 10 2021 00:00:14 GMT+0200** \(hora de verano de Europa central\)
+ Aproximadamente **Thu Jun 10 2021 00:00 GMT+0200** \(La hora aproximada no es efectiva, sino el número de bloque\).
 
 Puedes ver el bloque y la fecha para la finalización en el siguiente enlace:  
 [https://bscscan.com/block/countdown/8160345](https://bscscan.com/block/countdown/8160345)
