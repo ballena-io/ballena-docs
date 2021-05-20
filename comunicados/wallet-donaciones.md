@@ -1,7 +1,7 @@
 # Wallet Donaciones
 
- ![:whale:](https://discord.com/assets/1cb536137c5e70d114922edd3d3faaa0.svg) ¡Se aproxima la fecha de lanzamiento en mainnet de la plataforma!![:whale:](https://discord.com/assets/1cb536137c5e70d114922edd3d3faaa0.svg)   
-  
+###  ¡Se aproxima la fecha de lanzamiento en mainnet de la plataforma!
+
 Como sabéis, la plataforma recibe un pequeño porcentaje de las ganancias que se destinan a tesorería para cubrir los gastos de las transacciones en la blockchain, setup de los contratos, creación de vaults, etc. 
 
 Puesto que todavía no estamos recibiendo ingresos en tesorería, **hemos decidido poner en marcha una wallet para recoger donaciones**. Podéis enviar cualquier cantidad que deseéis, se acepta cualquier token.
