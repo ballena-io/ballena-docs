@@ -1,4 +1,6 @@
-# Lanzamiento ballena.io v2
+# Comunicados
+
+## Lanzamiento ballena.io v2
 
 En breves lanzaremos de nuevo la plataforma [ballena.io](https://ballena.io/). Tras meses de arduo trabajo, el equipo de desarrollo y la comunidad están orgullosos de anunciar esta hazaña.
 
@@ -18,7 +20,7 @@ Puedes ver el bloque y la fecha para la finalización en el siguiente enlace:
 
 
 
-![](.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 
 

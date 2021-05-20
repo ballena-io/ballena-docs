@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Introducción a ballena.io](README.md)
-* [Comunicados](comunicados.md)
-* [Lanzamiento ballena.io v2](lanzamiento-ballena.io-v2.md)
+* [Comunicados](comunicados/README.md)
+  * [Lanzamiento ballena.io v2](comunicados/lanzamiento-ballena.io-v2.md)
 * [Ayuda](ayuda.md)
 * [Contacto](contacto/README.md)
   * [Social/Comunidad](contacto/social-comunidad.md)
