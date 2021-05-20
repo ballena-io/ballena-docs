@@ -19,7 +19,9 @@ Las donaciones recogidas en esta wallet se trasladarán a tesorería y a partir 
 
 La wallet se puede compartir allá donde llegue a posibles donantes \(Telegram, Twitter, etc.\) 
 
-![:whale:](https://discord.com/assets/1cb536137c5e70d114922edd3d3faaa0.svg) Estamos muy cerca comunidad de ballena.io![:whale:](https://discord.com/assets/1cb536137c5e70d114922edd3d3faaa0.svg)
+
+
+🐋Estamos muy cerca comunidad de [ballena.io](https://ballena.io/)🐋
 
 
 
