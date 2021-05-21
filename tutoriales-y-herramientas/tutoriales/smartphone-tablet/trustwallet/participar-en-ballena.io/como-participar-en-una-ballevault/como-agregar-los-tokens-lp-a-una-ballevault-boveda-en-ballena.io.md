@@ -44,7 +44,7 @@ Nos redirigirá a [**app.ballena.io**](https://app.ballena.io/)**🐋.** DApp en
 
 ### 
 
-### 5. Nos dirigimos a la interfaz _Vaults_ mediante el menú de la izquierda.
+### 5. Desplgamos el menu con el botón de arriba a la izquierda y nos dirigimos a la interfaz _Vaults._
 
 Encontramos la bóveda correspondiente a nuestros LP tokens.
 
@@ -52,49 +52,37 @@ En el caso de que sigamos el ejemplo de los tutoriales anteriores, buscamos la b
 
 
 
-![](../../../../../../.gitbook/assets/ballena_boveda1.png)
+### 6. Depositamos en la bóveda seleccionada. 
+
+Es necesario aprobar la bóveda antes.
+
+
+
+![](../../../../../../.gitbook/assets/image%20%2822%29.png)
 
 ### 
 
-### 6. Aprobamos la transacción para poder trabajar con la Bóveda.
+### 7. Una vez desplegado el menú, seleccionamos la cantidad.
 
-Una vez confirmada la transacción, esperaremos unos segundos para que nos aparezcan las opciones de depósito.
+Deslizamos la ballena hasta donde queramos o elegimos un porcentaje.
 
-
-
-![](../../../../../../.gitbook/assets/12%20%281%29.png)
-
-### 
-
-### 7. Seleccionaremos la cantidad de LP a introducir en la Bóveda de las siguientes maneras:
-
-⦁ Introducir directamente el valor en el recuadro. Observa que en “Balance” ya te debe aparecer el balance de esos LP que tienes en tu billetera. 
-
-⦁ Arrastrar la pelota de % hasta el porcentaje deseado.
+Aprobamos la transacción con Trust Wallet y pagamos las comisiones.
 
 
 
-![](../../../../../../.gitbook/assets/ballena_boveda_deposita%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.jpg)
+![](../../../../../../.gitbook/assets/card2%20%281%29.png)
 
 ### 
 
-### 8. Una vez seleccionada la cantidad a depositar pulsaremos “Depositar” o “Depositar Todo”.
+### 8. Nuestros tokens LP ya se encuentran trabajando en la bóveda.
 
-En el caso de pulsar depositar todo, asegúrate que el valor que aparece en el recuadro no sea superior al balance real disponible en tu billetera. En algunas ocasiones el balance que aparece en el recuadro al seleccionar “Depositar todo” es un balance redondeado y puede ser superior al que realmente tienes y no se realizará la operación. En este caso, por favor introduce manualmente el balance real de tu billetera que aparece en el campo “Balance”.
-
-
-
-### 9. Aprobamos la transacción para añadir nuestros tokens LP a la Bóveda.
-
-Tras unos segundos, nos aparecerá la confirmación y veremos como los tokens LP que teníamos en el campo Balance ahora aparecen en Depositado.
+Podremos ver como los tokens pasan a estar en "DEPOSITADO". Podremos apreciar también como la cantidad de los LPs y la cantidad de BALLE generado va aumentando progresivamente.
 
 
 
-![](../../../../../../.gitbook/assets/7%20%281%29%20%281%29.png)
+En cuanto hayamos **generado bastantes BALLE**, los **cosecharemos** y los **stakearemos en la Pool de Gobernanza**. De este modo, con los BALLE que hemos ganado, **podremos producir más BALLE** para nuestro propio **beneficio**.
 
-### 
-
-### 10. Tu bóveda ya está generando rendimiento. Ahora a disfrutar.
+{% page-ref page="../avanzado-como-participar-en-la-staking-pool-de-ballev2/" %}
 
 
 
