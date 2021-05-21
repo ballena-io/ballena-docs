@@ -1,8 +1,6 @@
 # Agregar los tokens de LP a BalleVault correspondiente en ballena.io
 
-En este pequeño tutorial [ballena.io](https://ballena.io/) os muestra cómo agregar los LP tokens a las BalleVaults.
-
-Cuando queramos sacar rendimiento de nuestros tokens LP de las distintas plataformas las pondremos en la Bóveda que deseemos y a continuación ya nos irá generando rendimiento. Recuerda que para participar en las bóvedas LP antes es necesario que hayas agregado liquidez al de los pares indicados y en el Exchange al que hace referencia cada Bóveda.
+Basta con seguir los pasos de este pequeño tutorial que [ballena.io](https://ballena.io/) nos muestra para agregar los LP tokens a las BalleVaults y empezar a generar ingresos pasivos.
 
 
 
@@ -10,7 +8,7 @@ Cuando queramos sacar rendimiento de nuestros tokens LP de las distintas platafo
 
 ### 
 
-### 2. Presiona el botón "Launch App" en la parte superior derecha.
+### 2. Presionamos el botón _Launch App_ en la parte superior derecha.
 
 
 
@@ -18,11 +16,11 @@ Cuando queramos sacar rendimiento de nuestros tokens LP de las distintas platafo
 
 
 
-En caso de aparecer "Error de conexión" asegúrate de haber configurado y seleccionado correctamente la red BSC en Metamask. Puedes verlo en el tutorial [correspondiente](../../metamask/).
+Nos aseguramos de estar en la red adecuada. De no ser así, cambiamos la red en MetaMask a la Smart Chain de Binance.
 
 
 
-### 3. Selecciona "CARTERA" en la parte superior derecha.
+### 3. Arriba a la derecha, pulsamos "Connect".
 
 
 
@@ -30,7 +28,7 @@ En caso de aparecer "Error de conexión" asegúrate de haber configurado y selec
 
 
 
-### 4. Selecciona la cartera Metamask \(O la que hayas configurado\) haciendo clic en "Injected".
+### 4. Seleccionamos la cartera MetaMask.
 
 
 
@@ -38,7 +36,9 @@ En caso de aparecer "Error de conexión" asegúrate de haber configurado y selec
 
 
 
-### 5. Selecciona la bóveda requerida para proveer los LP tokens.
+### 5. Encontramos la bóveda requerida para proveer los LP tokens.
+
+En el caso de que sigamos el ejemplo de los tutoriales anteriores, buscamos la bóveda "bALBT-BNB".
 
 
 
@@ -46,7 +46,9 @@ En caso de aparecer "Error de conexión" asegúrate de haber configurado y selec
 
 
 
-### 6. Haz clic en "DEPOSITAR" en la bóveda seleccionada. 
+### 6. Hacemos clic en _DEPOSITAR_ en la bóveda seleccionada. 
+
+Es necesario aprobar la bóveda antes.
 
 
 
@@ -54,7 +56,11 @@ En caso de aparecer "Error de conexión" asegúrate de haber configurado y selec
 
 
 
-### 7. Una vez abierto el menú hacer clic en "DEPOSITAR" o "DEPOSITAR TODO".
+### 7. Una vez desplegado el menú, hacer clic en _DEPOSITAR_ o _DEPOSITAR TODO_.
+
+O bien deslizamos la ballena hasta donde queramos.
+
+Aprobamos la transacción con MetaMask y pagamos las comisiones.
 
 
 
@@ -62,7 +68,7 @@ En caso de aparecer "Error de conexión" asegúrate de haber configurado y selec
 
 
 
-### 8. Tus tokens LP ya se encuentran en la bóveda.
+### 8. Nuestros tokens LP ya se encuentran trabajando en la bóveda.
 
 Podrás ver estos tokens a continuación de "Depositado" en el menú de la bóveda a la que has aportado LP. Verás cómo este valor aumenta poco a poco.
 
