@@ -42,7 +42,7 @@ Nos aseguramos de estar en la red adecuada. De no ser así, cambiamos la red en 
 
 
 
-### 5. Nos dirigimos la interfaz _Vaults_ mediante el menú de la izquierda.
+### 5. Nos dirigimos a la interfaz _Vaults_ mediante el menú de la izquierda.
 
 Encontramos la bóveda correspondiente a nuestros LP tokens.
 
