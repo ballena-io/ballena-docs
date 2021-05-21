@@ -82,6 +82,10 @@ Podremos ver como los tokens pasan a estar en "DEPOSITADO". Podremos apreciar ta
 
 
 
+En cuanto hayamos **generado bastantes BALLE**, los **cosecharemos** y los **stakearemos en la Pool de Gobernanza**. De este modo, con los BALLE que hemos ganado, **podremos producir más BALLE** para nuestro propio **beneficio**.
+
+{% page-ref page="../avanzado-como-participar-en-la-staking-pool-de-balle/" %}
+
 
 
 
