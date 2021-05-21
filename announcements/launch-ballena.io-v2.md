@@ -16,6 +16,10 @@ You can see the block number and the date for its end in the following link: [ht
 
 
 
+![](../.gitbook/assets/image%20%2833%29.png)
+
+
+
 {% hint style="info" %}
 Connect your wallet containing your BALLE tokens and perform the migration from BALLEv1 to BALLEv2. The change is at a 1:1 rate and the tokens will be added to your wallet directly.
 {% endhint %}
