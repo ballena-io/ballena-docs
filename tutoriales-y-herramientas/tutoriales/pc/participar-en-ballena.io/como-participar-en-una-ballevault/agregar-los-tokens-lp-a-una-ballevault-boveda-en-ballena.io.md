@@ -54,31 +54,31 @@ En el caso de que sigamos el ejemplo de los tutoriales anteriores, buscamos la b
 
 
 
-### 6. Hacemos clic en _DEPOSITAR_ en la bóveda seleccionada. 
+### 6. Depositamos en la bóveda seleccionada. 
 
 Es necesario aprobar la bóveda antes.
 
 
 
-![](../../../../../.gitbook/assets/3%20%283%29.png)
+![](../../../../../.gitbook/assets/image%20%2822%29.png)
 
 
 
-### 7. Una vez desplegado el menú, hacer clic en _DEPOSITAR_ o _DEPOSITAR TODO_.
+### 7. Una vez desplegado el menú, seleccionamos la cantidad.
 
-O bien deslizamos la ballena hasta donde queramos.
+Deslizamos la ballena hasta donde queramos o elegimos un porcentaje.
 
 Aprobamos la transacción con MetaMask y pagamos las comisiones.
 
 
 
-![](../../../../../.gitbook/assets/4%20%283%29.png)
+![](../../../../../.gitbook/assets/card2.png)
 
 
 
 ### 8. Nuestros tokens LP ya se encuentran trabajando en la bóveda.
 
-Podrás ver estos tokens a continuación de "Depositado" en el menú de la bóveda a la que has aportado LP. Verás cómo este valor aumenta poco a poco.
+Podremos ver como los tokens pasan a estar en "DEPOSITADO". Podremos apreciar también como la cantidad de los LPs y la cantidad de BALLE generado va aumentando progresivamente.
 
 
 
