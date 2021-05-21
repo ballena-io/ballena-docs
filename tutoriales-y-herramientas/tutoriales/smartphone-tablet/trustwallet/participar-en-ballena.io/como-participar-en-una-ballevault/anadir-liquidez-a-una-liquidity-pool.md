@@ -60,7 +60,7 @@ Todavía nos falta **agregar esos tokens LP a una BalleVault** en [**ballena.io*
 
 El siguiente es el primero de los dos ultimos pasos:
 
-{% page-ref page="agregar-los-tokens-lp-a-una-ballevault.md" %}
+{% page-ref page="como-agregar-los-tokens-lp-a-una-ballevault-boveda-en-ballena.io.md" %}
 
 
 

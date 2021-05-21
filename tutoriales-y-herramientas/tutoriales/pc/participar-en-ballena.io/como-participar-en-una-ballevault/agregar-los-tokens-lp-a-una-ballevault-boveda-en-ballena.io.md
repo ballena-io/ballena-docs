@@ -1,4 +1,4 @@
-# Agregar los tokens de LP a BalleVault correspondiente en ballena.io
+# Agregar los tokens LP a una BalleVault \(bóveda\) en ballena.io
 
 Basta con seguir los pasos de este pequeño tutorial que [ballena.io](https://ballena.io/) nos muestra para agregar los LP tokens a las BalleVaults y empezar a generar ingresos pasivos.
 
@@ -10,9 +10,15 @@ Basta con seguir los pasos de este pequeño tutorial que [ballena.io](https://ba
 
 ### 2. Presionamos el botón _Launch App_ en la parte superior derecha.
 
+Nos redirigirá a [**app.ballena.io**](https://app.ballena.io/)**🐋.** DApp en la que se encuentran todas las bóvedas disponibles.
+
 
 
 ![](../../../../../.gitbook/assets/5.png)
+
+
+
+![](../../../../../.gitbook/assets/screenshot-2021-05-21-at-14.40.56.png)
 
 
 
@@ -24,7 +30,7 @@ Nos aseguramos de estar en la red adecuada. De no ser así, cambiamos la red en 
 
 
 
-![](../../../../../.gitbook/assets/sin-titulo%20%282%29.png)
+![](../../../../../.gitbook/assets/screenshot-2021-05-21-at-14.40.56%20%281%29.png)
 
 
 
@@ -32,17 +38,19 @@ Nos aseguramos de estar en la red adecuada. De no ser así, cambiamos la red en 
 
 
 
-![](../../../../../.gitbook/assets/foto_3.png)
+![](../../../../../.gitbook/assets/screenshot-2021-05-21-at-14.43.01.png)
 
 
 
-### 5. Encontramos la bóveda requerida para proveer los LP tokens.
+### 5. Nos dirigimos la interfaz _Vaults_ mediante el menú de la izquierda.
+
+Encontramos la bóveda correspondiente a nuestros LP tokens.
 
 En el caso de que sigamos el ejemplo de los tutoriales anteriores, buscamos la bóveda "bALBT-BNB".
 
 
 
-![](../../../../../.gitbook/assets/2%20%283%29%20%281%29%20%281%29.png)
+![](../../../../../.gitbook/assets/image-4-.png)
 
 
 
