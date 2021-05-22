@@ -32,11 +32,17 @@
 
 ### 
 
-### 5. Complete the deposit from your bank account from its web page or app. 
+### 5. Complete the deposit from your bank account from its web page or App. 
 
-Remember: Correctly fill the required fields and data for your bank transfer.
+{% hint style="info" %}
+Correctly fill the required fields and data for your bank transfer. Do not forget to add the 4-digit Reference Code in the concept of the transfer.
+{% endhint %}
 
 
+
+### **6. Wait until the money reaches Binance the very next day.** 
+
+Meanwhile, we can continue reading the rest of the docs. Learn more about [ballena.io](https://ballena.io/)!
 
 
 
