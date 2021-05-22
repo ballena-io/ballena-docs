@@ -16,7 +16,7 @@ You can see the block number and the date for its end in the following link: [ht
 
 
 
-![](../.gitbook/assets/image%20%2834%29.png)
+![](../.gitbook/assets/image%20%2835%29.png)
 
 
 
