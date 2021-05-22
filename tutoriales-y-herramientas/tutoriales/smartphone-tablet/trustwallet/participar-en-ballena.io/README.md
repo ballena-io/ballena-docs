@@ -6,7 +6,7 @@
 
 Mediante los pasos explicados en este apartado, invertiremos nuestro dinero en una BalleVault en ****[**ballena.io**](https://app.ballena.io/)**🐋**. Como ya sabemos, la plataforma nos dará altos retornos sobre los activos invertidos y, además, **nos recompensará con tokens BALLEv2.**
 
-En [este link](../../../../../primeros-pasos/primeros-pasos.md) se detalla el método que [ballena.io](https://app.ballena.io/) utiliza para multiplicar la inversión.
+**En** [**este link**](../../../../../primeros-pasos/primeros-pasos.md) **se detalla el método que** [**ballena.io**](https://app.ballena.io/) **utiliza para multiplicar la inversión.**
 
 
 

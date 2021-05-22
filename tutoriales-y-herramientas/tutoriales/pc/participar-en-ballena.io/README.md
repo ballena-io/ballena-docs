@@ -8,11 +8,7 @@
 
 Mediante los pasos explicados en este apartado, invertiremos nuestro dinero en una BalleVault en [**ballena.io**](https://app.ballena.io/)**🐋**. Como ya sabemos, la plataforma nos dará altos retornos sobre los activos invertidos y, además, **nos recompensará con tokens BALLE.**
 
-En [este link](https://docs.ballena.io/primeros-pasos/primeros-pasos) se detalla el método que [ballena.io](https://app.ballena.io/) utiliza para multiplicar la inversión.
-
-​
-
-###  <a id="2-proveer-liquidez-de-los-tokens-ballev2-en-la-staking-pool"></a>
+**En** [**este link**](https://docs.ballena.io/primeros-pasos/primeros-pasos) **se detalla el método que** [**ballena.io**](https://app.ballena.io/) **utiliza para multiplicar la inversión.**
 
 
 
