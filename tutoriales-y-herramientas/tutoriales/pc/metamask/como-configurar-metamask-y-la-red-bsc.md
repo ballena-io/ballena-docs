@@ -18,7 +18,7 @@ MetaMask soporta los navegadores Chrome, Firefox, Brave y Edge. Aquí lo haremos
 
 #### 
 
-### 2. Nos redirige a la Store de Chrome. Hacemos clic en "Add to Chrome". Ahora clic en "Add extensión" y el ícono de MetaMask aparecerá en la parte superior derecha del navegador.
+### 2. Nos redirige a la Store de Chrome. Hacemos clic en "Add to Chrome". Ahora clic en "Add extention" y el ícono de MetaMask aparecerá en la parte superior derecha del navegador.
 
 ​​
 
