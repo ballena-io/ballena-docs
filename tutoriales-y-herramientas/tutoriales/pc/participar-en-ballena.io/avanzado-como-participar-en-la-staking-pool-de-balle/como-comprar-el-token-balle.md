@@ -4,7 +4,7 @@ En este tutorial veremos como **convertir tus BNB** **por el token BALLE** y ade
 
 
 
-### 1. Navega a [PancakeSwap](https://pancakeswap.finance/).
+### 1. Navegamos a [PancakeSwap](https://pancakeswap.finance/).
 
 * **Link**: [https://pancakeswap.finance/](https://pancakeswap.finance/)
 
@@ -14,7 +14,7 @@ En este tutorial veremos como **convertir tus BNB** **por el token BALLE** y ade
 
 ### 
 
-### 2. Conecta tu wallet Metamask haciendo click en "connect"
+### 2. Conectamos MetaMask haciendo click en "Connect"
 
 
 
@@ -26,7 +26,7 @@ En este tutorial veremos como **convertir tus BNB** **por el token BALLE** y ade
 
 
 
-### 3. Haz clic en "Trade" y después en "Exchange" en el menú de la parte izquierda.
+### 3. Hacemos clic en _Trade → Exchange_ en el menú de la parte izquierda.
 
 
 
@@ -34,7 +34,7 @@ En este tutorial veremos como **convertir tus BNB** **por el token BALLE** y ade
 
 
 
-### 4. Haz clic en "Select a token" para seleccionar el token requerido.
+### 4. Pulsamos "Select a token" para seleccionar el token requerido.
 
 
 
@@ -44,7 +44,7 @@ En este tutorial veremos como **convertir tus BNB** **por el token BALLE** y ade
 
 ### 5. Introducir la dirección BSC del token BALLE en el buscador.
 
-**Dirección**: 0x9f0D5f45CE8573f43E0BA17876329784be0fd700
+**Dirección**: 0x9714C04b34E6300964161c3aC37b86451E79152d
 
 
 
@@ -56,7 +56,7 @@ En este tutorial veremos como **convertir tus BNB** **por el token BALLE** y ade
 
 ### 
 
-### 6. Haz clic en "\(Add\)" y después en la palabra "BALLE" para seleccionarlo.
+### 6. Hacemos clic en "\(Add\)" y después en la palabra "BALLE" para seleccionarlo.
 
 
 
@@ -66,7 +66,9 @@ En este tutorial veremos como **convertir tus BNB** **por el token BALLE** y ade
 
 ### 6. Introducimos la cantidad BNB deseada y hacemos clic en "Swap".
 
-Recuerda dejar algunos BNB tokens para hacer frente al pago de las fees que surgirán en estas plataformas.
+{% hint style="info" %}
+Dejar algunos BNB tokens para hacer frente al pago de las comisiones que surgirán en estas plataformas.
+{% endhint %}
 
 
 
@@ -74,7 +76,7 @@ Recuerda dejar algunos BNB tokens para hacer frente al pago de las fees que surg
 
 
 
-### 7. Haz clic en "Confirm swap" y confirma la transacción en Metamask.
+### 7. Le damos a "Confirm swap" y confirmamos la transacción en MetaMask.
 
 
 
@@ -84,7 +86,7 @@ Recuerda dejar algunos BNB tokens para hacer frente al pago de las fees que surg
 
 ### 8. Completado!
 
-Tus tokens deberían aparecer en tu Metamask. En caso de no verlos, asegúrate de haber agregado el token a tu metamask, si no sabes como hacerlo ve a [este tutorial](../../metamask/como-anadir-un-token-personalizado-a-metamask.md).
+Los tokens deberían aparecer en nuestro MetaMask. En caso de no verlos, nos aseguramos de haber agregado el token a MetaMask. Si no sabemos cómo hacerlo, vamos a [este tutorial](../../metamask/como-anadir-un-token-personalizado-a-metamask.md).
 
 
 
