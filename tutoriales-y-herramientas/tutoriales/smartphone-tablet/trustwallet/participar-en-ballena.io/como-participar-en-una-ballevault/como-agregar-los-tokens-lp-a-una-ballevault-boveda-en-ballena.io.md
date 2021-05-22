@@ -12,15 +12,7 @@ Basta con seguir los pasos de este pequeño tutorial que [ballena.io](https://ba
 
 
 
-### 2. Pulsamos “Launch App”.
-
-
-
-![](../../../../../../.gitbook/assets/screenshot_20210223-181850%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.jpg)
-
-
-
-Nos redirigirá a [**app.ballena.io**](https://app.ballena.io/)**🐋.** DApp en la que se encuentran todas las bóvedas disponibles.
+Nos dirigirá a la interfaz principal.
 
 
 
@@ -28,7 +20,7 @@ Nos redirigirá a [**app.ballena.io**](https://app.ballena.io/)**🐋.** DApp en
 
 
 
-### 3. Arriba a la derecha, pulsamos "Connect".
+### 2. Arriba a la derecha, pulsamos "Connect".
 
 
 
@@ -36,7 +28,7 @@ Nos redirigirá a [**app.ballena.io**](https://app.ballena.io/)**🐋.** DApp en
 
 ### 
 
-### 4. Seleccionamos la cartera Trust Wallet.
+### 3. Seleccionamos la cartera Trust Wallet.
 
 
 
@@ -44,7 +36,7 @@ Nos redirigirá a [**app.ballena.io**](https://app.ballena.io/)**🐋.** DApp en
 
 ### 
 
-### 5. Desplgamos el menu con el botón de arriba a la izquierda y nos dirigimos a la interfaz _Vaults._
+### 4. Desplgamos el menu con el botón de arriba a la izquierda y nos dirigimos a la interfaz _Vaults._
 
 Encontramos la bóveda correspondiente a nuestros LP tokens.
 
@@ -52,7 +44,7 @@ En el caso de que sigamos el ejemplo de los tutoriales anteriores, buscamos la b
 
 
 
-### 6. Depositamos en la bóveda seleccionada. 
+### 5. Depositamos en la bóveda seleccionada. 
 
 Es necesario aprobar la bóveda antes.
 
@@ -62,7 +54,7 @@ Es necesario aprobar la bóveda antes.
 
 ### 
 
-### 7. Una vez desplegado el menú, seleccionamos la cantidad.
+### 6. Una vez desplegado el menú, seleccionamos la cantidad.
 
 Deslizamos la ballena hasta donde queramos o elegimos un porcentaje.
 
@@ -74,7 +66,7 @@ Aprobamos la transacción con Trust Wallet y pagamos las comisiones.
 
 ### 
 
-### 8. Nuestros tokens LP ya se encuentran trabajando en la bóveda.
+### 7. Nuestros tokens LP ya se encuentran trabajando en la bóveda.
 
 Podremos ver como los tokens pasan a estar en "DEPOSITADO". Podremos apreciar también como la cantidad de los LPs y la cantidad de BALLE generado va aumentando progresivamente.
 
