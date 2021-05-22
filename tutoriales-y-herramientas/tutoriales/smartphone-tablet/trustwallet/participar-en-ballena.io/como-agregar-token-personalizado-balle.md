@@ -18,7 +18,7 @@ Siempre copiar la dirección de BALLE de un sitio oficial de ballena.io.
 Tener cuidado si se va a copiar la dirección desde bscscan.com ya que existen 2 tokens con este mismo nombre al buscar "ballena.io". Asegurarse de seleccionar ✅ ballena.io \(BALLE\) ✅ y no ❌ Ballena.io \(Balle\) ❌ 
 {% endhint %}
 
-**Dirección del contrato del token BALLE** como referencia \(siempre comprobar\): ADD ADDRESSSS
+**Dirección del contrato del token BALLE** como referencia \(siempre comprobar\): 0x9714C04b34E6300964161c3aC37b86451E79152d
 
 
 
