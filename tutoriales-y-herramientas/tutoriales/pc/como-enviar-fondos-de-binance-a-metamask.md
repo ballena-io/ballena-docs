@@ -4,7 +4,7 @@ Con este tutorial, transferiremos fondos \(en este caso BNB\) desde Binance a Me
 
 
 
-### 1. Abrimos [Binance](https://www.binance.com/es) e ingresamos con nuestra cuenta. Una vez dentro, vamos a _Billetera **→**Spot_.
+### 1. Abrimos [Binance](https://www.binance.com/es) e ingresamos con nuestra cuenta. Una vez dentro, vamos a _Billetera y Spot_.
 
 ### 
 
