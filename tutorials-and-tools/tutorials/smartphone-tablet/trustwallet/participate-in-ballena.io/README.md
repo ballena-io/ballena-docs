@@ -8,15 +8,13 @@ Through the steps explained in this section, we will invest our money in a Balle
 
 **Learn more about the method ballena uses to multiply our investment in** [**this link**](../../../../../getting-started-1/getting-started.md)**.**
 
-Let's learn about the first step on the next page:
+Let's find out about the first step on the next page:
 
 {% page-ref page="how-to-participate-in-a-ballevault/" %}
 
 
 
-### \*\*\*\*
-
-
+In the event that we already are BALLEv2 token holders and we want to maximize its yield, in the following link we will find out how to add them to the Staking Pool:
 
 {% page-ref page="advanced-how-to-participate-in-the-balle-staking-pool/" %}
 
