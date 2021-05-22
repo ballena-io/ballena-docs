@@ -1,92 +1,68 @@
 # Add LP tokens to a BalleVault
 
-## Add LP tokens to a BalleVault in [ballena.io](https://ballena.io/)
-
-You will learn how to add your LP tokens to the BalleVaults in this short tutorial.
-
-Remember that [adding liquidity](add-liquidity-to-a-liquidity-pool.md) to a pair in PancakeSwap is mandatory in order to participate in a BalleVault as LP tokens are deposited.
+Just follow the steps in this short tutorial that[ **ballena.io**](https://ballena.io/) ****shows us to add the LP tokens to the BalleVaults and start generating passive income.
 
 
 
-![](../../../../../../.gitbook/assets/screenshot_20210223-181850%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%281%29.jpg)
+### 1. **Using the DApps browser in Trust Wallet, go to the** [**ballena.io**](https://ballena.io/) **address.**
+
+We will land on the Home Page.
+
+![](../../../../../../.gitbook/assets/photo5857063875722196570.jpg)
 
 
 
+### 2. **At the top right, click "Connect".**
 
+\*\*\*\*
 
-### 2. Navigate to [ballena.io](https://ballena.io).
+![](../../../../../../.gitbook/assets/photo5852538698179130772.jpg)
 
-### 
+\*\*\*\*
 
-### 3. Press “Launch App”.
+### **3. Select Trust Wallet.** 
 
-
-
-![](../../../../../../.gitbook/assets/screenshot_20210223-181850%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.jpg)
-
-### 
-
-### 4. Find your desired BalleVault.
-
-Once in [ballena.io](https://ballena.io), you can see all the BalleVaults in the first screen. Use the browser for easy navigation through all of them and use the filters as desired.
+![](../../../../../../.gitbook/assets/screenshot-2021-05-21-at-14.43.01.png)
 
 
 
-![](../../../../../../.gitbook/assets/sin-titulo%20%281%29.png)
+### **4. Display the menu with the button on the top left and go to the** _**Vaults**_ **interface.**
 
-### 
+Find the corresponding vault to the LP tokens we own.
 
-### 5. Once our BalleVault is selected, click on the downwards arrow to see the vault´s details.
-
-
-
-![](../../../../../../.gitbook/assets/ballena_boveda1%20%281%29.png)
-
-### 
-
-### 6. Now approve the contract clicking on “Aprobar”.
+If we are following the example of the previous tutorials, we seek the "bALBT-BNB" vault.
 
 
 
-![](../../../../../../.gitbook/assets/ballena_boveda1.png)
+### **5. Deposit into the selected vault.**
 
-### 
-
-### 7. Confirm the transaction.
+ ****Approve the vault before.
 
 
 
-![](../../../../../../.gitbook/assets/12%20%281%29.png)
-
-### 
-
-### 8. Select the desired LP tokens amount to be deposited in the BalleVault.
-
-### 9. Deposit the funds \("DEPOSITAR"\) in the desired BalleVault.
-
-You can add a value to be deposited or press Deposit All\("DEPOSITAR TODO"\) in order to deposit your LP tokens.
+![](../../../../../../.gitbook/assets/image%20%2831%29.png)
 
 
 
-![](../../../../../../.gitbook/assets/ballena_boveda_deposita%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.jpg)
+### **6. Once the menu is displayed, we select the quantity.**
+
+Slide the little whale or just choose a percentage.
+
+Approve the transaction in Trust Wallet and pay the gas fees.  
+  
+
+
+![](../../../../../../.gitbook/assets/card2.png)
 
 
 
+### **8. Done! Our LP tokens are already working in the vault.**
 
+We can also see how the amount of LPs as well as the amount of BALLE generated are progressively increasing.
 
-### 10. Confirm the transaction.
+Eventually, once we have **generated enough BALLE,** we will **harvest** them and **stake** them in the **Governance Pool**. Thus, with the BALLE we have earned, we will be able to **produce more BALLE** for our own **benefit**.
 
-After confirmation you will see that your LP tokens transfer from the field Balance to the field Deposited. This process can take a little while.
-
-
-
-![](../../../../../../.gitbook/assets/7%20%281%29%20%281%29.png)
-
-### 
-
-### 11. Done! Your BalleVault is already working and yield farming.
-
-
+{% page-ref page="../advanced-how-to-participate-in-the-balle-staking-pool/" %}
 
 
 

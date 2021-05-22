@@ -1,14 +1,9 @@
 # Add LP tokens to a BalleVault
 
-## Add LP tokens to a BalleVault in [ballena.io](https://ballena.io/)
-
-You will learn how to add your LP tokens to the BalleVaults in this short tutorial.
-
-Remember that adding liquidity to a pair in PancakeSwap is mandatory in order to participate in a BalleVault as LP tokens are deposited.
+Just follow the steps in this short tutorial that[ **ballena.io**](https://ballena.io/) shows us to add the LP tokens to the BalleVaults and start generating passive income.  
 
 
-
-### 1. Open [ballena.io](https://ballena.io/).
+### **1.Using the DApps browser in Trust Wallet, go to the** [**ballena.io**](https://ballena.io/) **address.**
 
 ### 
 
