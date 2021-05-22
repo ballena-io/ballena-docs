@@ -6,7 +6,7 @@ This is the best option to deposit large amounts in Binance as it does not charg
 
 Learn how to on the next page:
 
-{% page-ref page="deposit-funds-into-binance.md" %}
+{% page-ref page="deposit-funds-in-binance.md" %}
 
 
 

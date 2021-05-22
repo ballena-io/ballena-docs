@@ -42,7 +42,7 @@
     * [First steps: Binance](tutorials-and-tools/tutorials/smartphone-tablet/first-steps-binance/README.md)
       * [Set up a Binance account](tutorials-and-tools/tutorials/smartphone-tablet/first-steps-binance/set-up-a-binance-account.md)
       * [Buy BNB in Binance \(Bank Transfer\)](tutorials-and-tools/tutorials/smartphone-tablet/first-steps-binance/buy-bnb-in-binance-bank-transfer/README.md)
-        * [Deposit funds into Binance](tutorials-and-tools/tutorials/smartphone-tablet/first-steps-binance/buy-bnb-in-binance-bank-transfer/deposit-funds-into-binance.md)
+        * [Deposit funds in Binance](tutorials-and-tools/tutorials/smartphone-tablet/first-steps-binance/buy-bnb-in-binance-bank-transfer/deposit-funds-in-binance.md)
         * [Convert funds to BNB on Binance](tutorials-and-tools/tutorials/smartphone-tablet/first-steps-binance/buy-bnb-in-binance-bank-transfer/convert-funds-to-bnb-on-binance.md)
       * [Buy BNB in Binance \(Credit Card\)](tutorials-and-tools/tutorials/smartphone-tablet/first-steps-binance/buy-bnb-in-binance-credit-card.md)
     * [Trust Wallet](tutorials-and-tools/tutorials/smartphone-tablet/trustwallet/README.md)

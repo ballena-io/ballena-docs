@@ -1,4 +1,4 @@
-# Deposit funds into Binance
+# Deposit funds in Binance
 
 
 
