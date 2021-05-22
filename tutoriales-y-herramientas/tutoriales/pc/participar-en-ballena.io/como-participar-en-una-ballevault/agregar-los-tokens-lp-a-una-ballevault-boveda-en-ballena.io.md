@@ -6,15 +6,7 @@ Basta con seguir los pasos de este pequeño tutorial que [ballena.io](https://ba
 
 ### 1. Navegar a la página web [ballena.io](https://ballena.io/).
 
-### 
-
-### 2. Presionamos el botón _Launch App_ en la parte superior derecha.
-
-Nos redirigirá a [**app.ballena.io**](https://app.ballena.io/)**🐋.** DApp en la que se encuentran todas las bóvedas disponibles.
-
-
-
-![](../../../../../.gitbook/assets/5.png)
+Nos dirigirá a la interfaz principal.
 
 
 
@@ -26,7 +18,7 @@ Nos aseguramos de estar en la red adecuada. De no ser así, cambiamos la red en 
 
 
 
-### 3. Arriba a la derecha, pulsamos "Connect".
+### 2. Arriba a la derecha, pulsamos "Connect".
 
 
 
@@ -34,7 +26,7 @@ Nos aseguramos de estar en la red adecuada. De no ser así, cambiamos la red en 
 
 
 
-### 4. Seleccionamos la cartera MetaMask.
+### 3. Seleccionamos la cartera MetaMask.
 
 
 
@@ -42,7 +34,7 @@ Nos aseguramos de estar en la red adecuada. De no ser así, cambiamos la red en 
 
 
 
-### 5. Nos dirigimos a la interfaz _Vaults_ mediante el menú de la izquierda.
+### 4. Nos dirigimos a la interfaz _Vaults_ mediante el menú de la izquierda.
 
 Encontramos la bóveda correspondiente a nuestros LP tokens.
 
@@ -54,7 +46,7 @@ En el caso de que sigamos el ejemplo de los tutoriales anteriores, buscamos la b
 
 
 
-### 6. Depositamos en la bóveda seleccionada. 
+### 5. Depositamos en la bóveda seleccionada. 
 
 Es necesario aprobar la bóveda antes.
 
@@ -64,7 +56,7 @@ Es necesario aprobar la bóveda antes.
 
 
 
-### 7. Una vez desplegado el menú, seleccionamos la cantidad.
+### 6. Una vez desplegado el menú, seleccionamos la cantidad.
 
 Deslizamos la ballena hasta donde queramos o elegimos un porcentaje.
 
@@ -76,7 +68,7 @@ Aprobamos la transacción con MetaMask y pagamos las comisiones.
 
 
 
-### 8. Nuestros tokens LP ya se encuentran trabajando en la bóveda.
+### 7. Nuestros tokens LP ya se encuentran trabajando en la bóveda.
 
 Podremos ver como los tokens pasan a estar en "DEPOSITADO". Podremos apreciar también como la cantidad de los LPs y la cantidad de BALLE generado va aumentando progresivamente.
 
