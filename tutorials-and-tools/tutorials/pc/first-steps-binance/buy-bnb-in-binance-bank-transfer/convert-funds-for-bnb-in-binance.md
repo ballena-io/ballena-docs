@@ -1,7 +1,5 @@
 # Convert funds for BNB in Binance
 
-## Cómo convertir tus fondos a BNB en Binance
-
 Once EURs have been deposited in our Binance account, we have to trade these coins for BNB in order to work in the BSC and in [ballena.io](https://ballena.io/). 
 
 In case we have deposited EUR we will have to convert this money twice due to some conversion limitations in Binance. We will trade EUR for USDT and the USDT for BNB as there is no direct conversion from EUR to BNB.
