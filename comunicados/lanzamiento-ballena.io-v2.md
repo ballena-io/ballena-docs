@@ -18,7 +18,7 @@ Puedes ver el bloque y la fecha para la finalización en el siguiente enlace:
 
 
 
-![](../.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image%20%2834%29.png)
 
 
 
