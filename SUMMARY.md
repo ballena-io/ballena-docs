@@ -3,7 +3,6 @@
 * [Introducción a ballena.io](README.md)
 * [Comunicados](comunicados/README.md)
   * [Lanzamiento ballena.io v2](comunicados/lanzamiento-ballena.io-v2.md)
-  * [Wallet donaciones](comunicados/wallet-donaciones.md)
   * [Wallet Donaciones](comunicados/wallet-donaciones-1.md)
 * [Ayuda](ayuda.md)
 * [Contacto](contacto/README.md)
