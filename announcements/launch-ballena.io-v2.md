@@ -21,23 +21,21 @@ You can see the block number and the date for its end in the following link: [ht
 {% hint style="warning" %}
 Remember to add the new token address to your wallet. Your BALLE tokens have been displayed in your wallet under the old contract address, but abfter completing the migration your tokens will appear under the new contract address.
 
-Old contract address BALLEv1  
-{% endhint %}
-
-
-
-{% hint style="warning" %}
-Recuerda añadir el nuevo token BALLE a tu wallet. Hasta ahora tus tokens aparecían bajo la dirección de contrato antigua pero una vez realizada la migración, aparecerán bajo la nueva dirección de contrato.
-
-**Dirección contrato antigo BALLEv1**  
+**Old contract address BALLEv1**  
 0x9f0d5f45ce8573f43e0ba17876329784be0fd700
 
-**Dirección contrato nuevo BALLEv2**  
+**New contract address BALLEv2**  
 0x9714c04b34e6300964161c3ac37b86451e79152d
 {% endhint %}
 
+Connect your wallet containing your BALLE tokens and perform the migration from BALLEv1 to BALLEv2. The change is at a 1:1 rate and the tokens will be added to your wallet directly. You can check the transactions involving the withdrawal/addition of liquidity from BALLEv1 to BALLEv2 in the following links: 
+
 {% hint style="info" %}
-Connect your wallet containing your BALLE tokens and perform the migration from BALLEv1 to BALLEv2. The change is at a 1:1 rate and the tokens will be added to your wallet directly.
+**Transaction ID BALLEv1 Liquidity withdrawal**  
+[https://bscscan.com/tx/0xb430d9602fa93888335ba6a98d0df258afbb05fb4f90f2802dcde94352e5c3c1](https://bscscan.com/tx/0xb430d9602fa93888335ba6a98d0df258afbb05fb4f90f2802dcde94352e5c3c1) 
+
+**Transaction ID BALLEv2 Adding liquidity**  
+[https://bscscan.com/tx/0x7fe943066d8273ac09e055a1ffc4ea5abdd0f151c89fc5e2856e5f5ef7039e50](https://bscscan.com/tx/0x7fe943066d8273ac09e055a1ffc4ea5abdd0f151c89fc5e2856e5f5ef7039e50)
 {% endhint %}
 
 The dev. team is currently working on the BalleVaults and the BALLE Staking test plan, which will be released soon. More information shortly.
