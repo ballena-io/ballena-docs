@@ -1,7 +1,5 @@
 # Deposit funds in Binance
 
-## How to deposit funds in Binance
-
 
 
 ### 1. Click on the button "Buy Crypto" located in the top bar menu.
