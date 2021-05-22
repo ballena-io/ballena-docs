@@ -3,65 +3,54 @@
 Just follow the steps in this short tutorial that[ **ballena.io**](https://ballena.io/) shows us to add the LP tokens to the BalleVaults and start generating passive income.  
 
 
-### **1.Using the DApps browser in Trust Wallet, go to the** [**ballena.io**](https://ballena.io/) **address.**
+### **1.Navigate the** [**ballena.io**](https://ballena.io/) **address.**
+
+We will land on the Home Page.
+
+
+
+![](../../../../../.gitbook/assets/screenshot-2021-05-22-at-17.11.37.png)
+
+
+
+Make sure we are on the right network. If not, change the network on MetaMask to the Binance Smart Chain.
+
+
+
+### **2. At the top right, click "Connect".**
 
 ### 
 
-### 2. Press "Launch App" at the top right corner.
+![](../../../../../.gitbook/assets/screenshot-2021-05-21-at-14.40.56%20%282%29.png)
 
 
 
-![](../../../../../.gitbook/assets/5.png)
+### **3. Select the MetaMask wallet.**
+
+\*\*\*\*
+
+![](../../../../../.gitbook/assets/screenshot-2021-05-21-at-14.43.01.png)
 
 
 
-In case of "Connection error" message display, make sure you have selected the BSC network on your Metamask.  Check it out in [this ](../../set-up-metamask-wallet/how-to-set-up-metamask-and-the-bsc-network.md#how-to-set-up-the-bsc-on-your-wallet)tutorial.
+### **4. On the left menu go to the** _**Vaults**_ **interface.**
+
+Find the corresponding vault to the LP tokens we own.
+
+If we are following the example of the previous tutorials, we seek the vault "bALBT-BNB".
 
 
 
-### 3. Select "Wallet" \(Cartera\) at the top right corner. 
+![](../../../../../.gitbook/assets/vaults-1.png)
 
 
 
-![](../../../../../.gitbook/assets/sin-titulo%20%282%29.png)
+### **6. Deposit into the selected vault.**
+
+ ****Approve the vault first.  
 
 
 
-### 4. Select Metamask clicking on "Injected".
-
-
-
-![](../../../../../.gitbook/assets/foto_3.png)
-
-
-
-### 5. Select the desired BalleVault for depositing your LP tokens.
-
-
-
-![](../../../../../.gitbook/assets/2%20%283%29%20%281%29%20%281%29.png)
-
-
-
-### 6. Click on "DEPOSIT" \(DEPOSITAR\) in the desired BalleVault. 
-
-
-
-![](../../../../../.gitbook/assets/3%20%283%29.png)
-
-
-
-### 7. Once open, click on "DEPOSIT" OR "DEPOSIT ALL" \(DEPOSITAR/DEPOSITAR TODO\).
-
-
-
-![](../../../../../.gitbook/assets/4%20%283%29.png)
-
-
-
-### 8. Your LP tokens have already been deposited in the BalleVault.
-
-You will now be able to check your deposited LP tokens in the BalleVault´s menu. This value will slowly increase due to the yield farming.
 
 
 

@@ -36,7 +36,7 @@ If we are following the example of the previous tutorials, we seek the "bALBT-BN
 
 ### **5. Deposit into the selected vault.**
 
- ****Approve the vault before.
+ ****Approve the vault first.
 
 
 
