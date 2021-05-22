@@ -2,7 +2,7 @@
 
 ## How to set up a Binance account
 
-We need to set up an account in one of the exchanges in the crypto-market. Which one will you use? The choice is yours! Our tutorial is based on [Binance](https://www.binance.com/en).
+In order to start working in the world of cryptocurrency, it is essential to register with an exchange. We can use any exchange that has the BNB currency. This tutorial focuses on[ Binance,](https://www.binance.com/es) so we better stick to it.
 
 
 
@@ -22,7 +22,7 @@ Open your browser and navigate to the [Binance ](https://www.binance.com/en)webp
 
 ### 3. Fill in the fields.
 
-Fill in the required fields with our mail and a safe password. 
+Fill in the required fields with your mail and a safe password. 
 
 
 
@@ -32,7 +32,7 @@ Fill in the required fields with our mail and a safe password.
 
 ### 3. Click on "Create account".
 
-Click on "Create account" and complete the security verification sliding the puzzle piece to its correct position.
+Click on "Create account" and complete the security verification.
 
 
 
@@ -52,7 +52,7 @@ Check your mail and get the required code.
 
 
 
-We shall see an email like the following one.
+You shall see an email like the following one.
 
 
 
@@ -62,11 +62,19 @@ We shall see an email like the following one.
 
 ### 5. Introduce your verification code.
 
-Use the received six digit code to complete the verification phase.
+Use the received six-digit code to complete the verification phase.
 
 
 
 ### 6. Once verified, you have successfully set up a Binance account. 
+
+
+
+For the next steps we must go through a “KYC” \(Know Your Customer\) identity verification process. We will follow the steps marked on the Binance platform. This is a security process to link the account with a company or a natural person. To complete it we will need an ID, Driving License or Passport and to be able to do the face scan with our phone. Once identified on the platform, we will be allowed to make Fiat deposits and buy cryptocurrency. There will be two different options for this:
+
+{% page-ref page="buy-bnb-in-binance-bank-transfer/" %}
+
+{% page-ref page="buy-bnb-in-binance-credit-card.md" %}
 
 
 
