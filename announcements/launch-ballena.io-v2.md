@@ -16,7 +16,9 @@ You can see the block number and the date for its end in the following link: [ht
 
 
 
-![](../.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image%20%2834%29.png)
+
+
 
 {% hint style="warning" %}
 Remember to add the new token address to your wallet. Your BALLE tokens have been displayed in your wallet under the old contract address, but after completing the migration your tokens will appear under the new contract address.
