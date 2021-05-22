@@ -1,15 +1,12 @@
 # First steps: Binance
 
-We will go through the required steps regarding Binance in this tutorial.
-
-Binance is an exchange where we will deposit our money, after setting up an account, and we will buy BNB. This cryptocurrency \(BNB\) will let us operate in the BSC where our platform operates.
+Binance is an exchange \(cryptocurrency buy/sell platform\) in which we must open an account, deposit money and buy the BNB coin.
 
 ![](../../../../.gitbook/assets/primeros-pasos-en-binance_en-1-.png)
 
-We want to maximize the yield farmed by our money, so we try to find cryptos and projects that can provide us with high APY and get gone with more money than we had at the start of the day. Our project[ ballena.io](https://ballena.io/), as you may know, is in charge of the automation and optimization of your investment. We will need BNB tokens in order to operate in our platform.
+Why BNB and not any other coin? BNB \(Binance Coin\) is the currency of Binance and, as we already know, the[ ballena.io](https://ballena.io/)🐋 platform works on the Binance Smart Chain \(BSC\). Within the BSC we will carry out a series of movements for which we will need BNB as a bargaining chip. Let's imagine the BSC as a country with its own currency in which we will not be able to buy anything without having any cash. In this case, BNB will help us to buy other tokens and to pay the transaction fees.
 
-That's why we are here, so let's start purchasing those BNB tokens following all the steps below. Click in this link in order to navigate to the first Binance tutorial, Set up a Binance Account.  
-
+Let's get down to the basics of buying those BNBs by following all the steps in this tutorial. Click the link to navigate to the first Binance tutorial:
 
 {% page-ref page="set-up-a-binance-account.md" %}
 
