@@ -18,7 +18,23 @@ You can see the block number and the date for its end in the following link: [ht
 
 ![](../.gitbook/assets/image%20%2833%29.png)
 
+{% hint style="warning" %}
+Remember to add the new token address to your wallet. Your BALLE tokens have been displayed in your wallet under the old contract address, but abfter completing the migration your tokens will appear under the new contract address.
 
+Old contract address BALLEv1  
+{% endhint %}
+
+
+
+{% hint style="warning" %}
+Recuerda añadir el nuevo token BALLE a tu wallet. Hasta ahora tus tokens aparecían bajo la dirección de contrato antigua pero una vez realizada la migración, aparecerán bajo la nueva dirección de contrato.
+
+**Dirección contrato antigo BALLEv1**  
+0x9f0d5f45ce8573f43e0ba17876329784be0fd700
+
+**Dirección contrato nuevo BALLEv2**  
+0x9714c04b34e6300964161c3ac37b86451e79152d
+{% endhint %}
 
 {% hint style="info" %}
 Connect your wallet containing your BALLE tokens and perform the migration from BALLEv1 to BALLEv2. The change is at a 1:1 rate and the tokens will be added to your wallet directly.
