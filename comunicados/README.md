@@ -8,7 +8,7 @@ Puedes leer los comunicados actualmente activos en los siguientes enlaces:
 
 {% page-ref page="lanzamiento-ballena.io-v2.md" %}
 
-{% page-ref page="wallet-donaciones-1.md" %}
+{% page-ref page="wallet-donaciones.md" %}
 
 
 
