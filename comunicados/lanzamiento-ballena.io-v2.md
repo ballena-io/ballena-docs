@@ -25,7 +25,7 @@ Puedes ver el bloque y la fecha para la finalización en el siguiente enlace:
 {% hint style="warning" %}
 Recuerda añadir el nuevo token BALLE a tu wallet. Hasta ahora tus tokens aparecían bajo la dirección de contrato antigua pero una vez realizada la migración, aparecerán bajo la nueva dirección de contrato.
 
-**Dirección contrato antigo BALLEv1**  
+**Dirección contrato antiguo BALLEv1**  
 0x9f0d5f45ce8573f43e0ba17876329784be0fd700
 
 **Dirección contrato nuevo BALLEv2**  
