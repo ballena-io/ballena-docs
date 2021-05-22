@@ -62,7 +62,7 @@ Medium: [https://medium.com/@ballena](https://medium.com/@ballena)
 
 Website: [https://ballena.io](https://ballena.io)
 
-Telegram: [https://t.me/stgcrypto](https://t.me/ballenaspanish)
+Telegram: [https://t.me/ballenaenglish](https://t.me/ballenaenglish)
 
 ## 
 
