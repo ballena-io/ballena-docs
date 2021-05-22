@@ -45,12 +45,34 @@ If we are following the example of the previous tutorials, we seek the vault "bA
 
 
 
-### **6. Deposit into the selected vault.**
+### **5. Deposit into the selected vault.**
 
  ****Approve the vault first.  
 
 
+![](../../../../../.gitbook/assets/image%20%2831%29.png)
 
+
+
+### **6. Once the menu is displayed, we select the quantity.**
+
+Slide the little whale or just choose a percentage.
+
+Approve the transaction in Trust Wallet and pay the gas fees.
+
+
+
+![](../../../../../.gitbook/assets/card2%20%281%29.png)
+
+
+
+### **8. Done! Our LP tokens are already working in the vault.**
+
+We can also see how the amount of LPs as well as the amount of BALLE generated are progressively increasing.
+
+Eventually, once we have **generated enough BALLE,** we will **harvest** them and **stake** them in the **Governance Pool**. Thus, with the BALLE we have earned, we will be able to **produce more BALLE** for our own **benefit**.
+
+{% page-ref page="../advanced-how-to-participate-in-the-balle-staking-pool/" %}
 
 
 
