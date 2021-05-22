@@ -1,4 +1,4 @@
-# Trade your funds for BNB in Binance
+# Convert funds for BNB in Binance
 
 ## Cómo convertir tus fondos a BNB en Binance
 
