@@ -1,7 +1,7 @@
-# Wallet donaciones
+# Wallet Donaciones
 
- ![:whale:](https://discord.com/assets/1cb536137c5e70d114922edd3d3faaa0.svg) ¡Se aproxima la fecha de lanzamiento en mainnet de la plataforma!![:whale:](https://discord.com/assets/1cb536137c5e70d114922edd3d3faaa0.svg)   
-  
+###  ¡Se aproxima la fecha de lanzamiento en mainnet de la plataforma!
+
 Como sabéis, la plataforma recibe un pequeño porcentaje de las ganancias que se destinan a tesorería para cubrir los gastos de las transacciones en la blockchain, setup de los contratos, creación de vaults, etc. 
 
 Puesto que todavía no estamos recibiendo ingresos en tesorería, **hemos decidido poner en marcha una wallet para recoger donaciones**. Podéis enviar cualquier cantidad que deseéis, se acepta cualquier token.
@@ -9,7 +9,7 @@ Puesto que todavía no estamos recibiendo ingresos en tesorería, **hemos decidi
 Las donaciones recogidas en esta wallet se trasladarán a tesorería y a partir de ahí se distribuirán a las wallets de gastos \(la de despliegues y las multisig de Gobernanza, Operaciones y Seguridad, y a la wallet que realiza los harvest\). 
 
 {% hint style="info" %}
-**Contract Address** Las donaciones pueden realizarse a esta dirección: 0x33D0CF3BfA76923d82e14d83bFbF72E8F3Cb9FdE
+**Dirección Wallet** Las donaciones pueden realizarse a esta dirección: 0x33D0CF3BfA76923d82e14d83bFbF72E8F3Cb9FdE
 {% endhint %}
 
 {% hint style="info" %}
@@ -19,7 +19,9 @@ Las donaciones recogidas en esta wallet se trasladarán a tesorería y a partir 
 
 La wallet se puede compartir allá donde llegue a posibles donantes \(Telegram, Twitter, etc.\) 
 
-![:whale:](https://discord.com/assets/1cb536137c5e70d114922edd3d3faaa0.svg) Estamos muy cerca comunidad de ballena.io![:whale:](https://discord.com/assets/1cb536137c5e70d114922edd3d3faaa0.svg)
+
+
+🐋Estamos muy cerca comunidad de [ballena.io](https://ballena.io/)🐋
 
 
 
