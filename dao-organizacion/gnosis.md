@@ -16,7 +16,7 @@ Una wallet de firma múltiple es una billetera de criptomonedas que controla el 
 
 Esta wallet es la más crítica. Se encarga de las acciones diarias de la plataforma y tiene acceso a todas las operaciones que tengan que ver con los Smart Contracts y [ballena.io](https://ballena.io/) en general. Cambiar la dirección de contrato de la tesorería, cambiar las wallets de Gnosis y operaciones de tesorería son ejemplos de las acciones que esta lleva a cabo.
 
-Se rige por el modelo 6/9, es decir, hacen falta 6 firmas de 9 wallets firmantes para poder llevar a cabo una operación.
+Se rige por el modelo 3/5, es decir, hacen falta 3 firmas de 5 wallets firmantes para poder llevar a cabo una operación.
 
 
 
@@ -24,7 +24,7 @@ Se rige por el modelo 6/9, es decir, hacen falta 6 firmas de 9 wallets firmantes
 
 Lleva a cabo acciones menos críticas pero que aun así requieren de un mínimo de firmas para no comprometer el proyecto. Este se encuentra en el nivel de seguridad media. Cambiar el multiplicador de los rewards en BALLE tokens, desactivar los BALLE rewards de las vaults, reanudar las vaults o agregar una nueva vault son funciones que puede ejecutar esta wallet.
 
-Se rige por el modelo 3/9, es decir, hacen falta 3 firmas de 9 wallets firmantes para poder llevar a cabo una operación \(Número de firmantes por determinar\).
+Se rige por el modelo 3/5, es decir, hacen falta 3 firmas de 5 wallets firmantes para poder llevar a cabo una operación \(Número de firmantes por determinar\).
 
 
 
