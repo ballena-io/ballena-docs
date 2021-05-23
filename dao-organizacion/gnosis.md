@@ -34,6 +34,16 @@ Este protocolo se reserva para actuaciones de emergencia y solo será necesaria 
 
 
 
+#### Wallet 4: Donaciones
+
+En esta wallet se reciben las donaciones que voluntariamente hacen los usuarios para el arranque y las transacciones iniciales requeridas para el correcto lanzamiento y funcionamiento de la plataforma
+
+Las donaciones recogidas en esta wallet se trasladan a tesorería y a partir de ahí se distribuyen a las wallets de gastos \(la de despliegues y las multisig de Gobernanza, Operaciones y Seguridad, y a la wallet que realiza los harvest\). 
+
+Se rige por el modelo 3/5, es decir, hacen falta 3 firmas de 5 wallets firmantes para poder llevar a cabo una operación.
+
+
+
 En el siguiente archivo podrás ver todas las funciones y su respectiva descripción, así como las wallets que tienen asignadas dichas funciones.
 
 {% file src="../.gitbook/assets/balle-smartcontracts-smartcontracts-gnosis-access.pdf" caption="Smart Contracts Gnosis Access" %}
