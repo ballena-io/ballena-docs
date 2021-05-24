@@ -58,7 +58,7 @@ Saber que el nombre real del token es "BALLEv2" pero MetaMask siempre lo mostrar
 
 #### 
 
-### 5. BALLE 🐋! El token BALLE ya está disponible entre nuestros tokens. La wallet muestra ahora su balance en el menú principal de MestaMask.
+### 5. BALLE 🐋! El token BALLEv2 ya está disponible entre nuestros tokens. La wallet muestra ahora su balance en el menú principal de MestaMask.
 
 
 
