@@ -56,7 +56,7 @@ Know that the actual name of the token is "BALLEv2" but its symbol is still "BAL
 
 
 
-### 7. BALLE🐋! Now BALLEv2 is available among your tokens and the wallet displays its balance.
+### 7. BALLE🐋! Now BALLE is available among your tokens and the wallet displays its balance.
 
 ​
 
