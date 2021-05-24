@@ -4,7 +4,7 @@ El equipo de [ballena.io](https://ballena.io/) te ayudará en lo que necesites p
 
 Comienza con el apartado "[Primeros Pasos](primeros-pasos/primeros-pasos.md)" para familiarizarte con la plataforma y el yieldfarming.
 
-Hemos preparado una documentación muy extensa y detallada para todos los usuarios, tanto los más noveles como los más avanzados, aquí encontrarás información de toda clase. Continúa leyendo la documentación para conocer todos los datos del proyecto e intentar aclarar tus dudas. 
+Hemos preparado una documentación muy extensa y detallada para todos los usuarios, tanto los más noveles como los más avanzados. Aquí encontrarás información de toda clase. Continúa leyendo la documentación para conocer todos los datos del proyecto e intentar aclarar tus dudas. 
 
 Podrás encontrar la información más detallada en el apartado "Técnico" dónde se redactan los datos relacionados con los productos, Tokenomics, gobernanza y seguridad.
 
@@ -14,13 +14,13 @@ Hemos desarrollado el apartado de "[Tutoriales" ](tutoriales-y-herramientas/tuto
 
 {% page-ref page="tutoriales-y-herramientas/tutoriales/" %}
 
-Encontrarás respuesta a muchas de las preguntas en nuestro apartado de preguntas frecuentes:
+Encontrarás respuestas a muchas de las preguntas en nuestro apartado de preguntas frecuentes:
 
 {% page-ref page="recursos-para-el-usuario/faq.md" %}
 
 ## Contacto
 
-En caso de necesitar ayuda puedes contactar con nuestro equipo en los canales de Discord o Telegram. Para más información acerca del contacto haz click en el siguiente link:
+En caso de necesitar ayuda, puedes contactar con nuestro equipo en los canales de Discord o Telegram. Para más información acerca del contacto haz clic en el siguiente link:
 
 {% page-ref page="contacto/" %}
 
