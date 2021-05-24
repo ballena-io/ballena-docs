@@ -4,14 +4,14 @@
 
 \*\*\*\*
 
-We already have our money in Binance. We will be able to check that on Wallet → Spot.  
+You already have your money in Binance. You will be able to check that on _Wallet & Spot._  
 ****
 
 ![](https://lh5.googleusercontent.com/ngjdbeiH8YaCB_oxkZTrfNEs4LeGHdvm9GW4FmrbwfVk5d63RAC0K0M7FAtZx31n1Qb5VXcQKNLleCRyt0MNGE_PA95JWW5n_xEzmtIuiP0Tkz-NkTRyCjrWThaPwtjFde674tyQ)
 
 \*\*\*\*
 
-### **1. In the Binance App, go to the "Trades" section.**
+### **1. In the Binance App, go to the** _**Trades**_ **section.**
 
 \*\*\*\*
 
