@@ -10,7 +10,7 @@ Nos dirigirá a la interfaz principal.
 
 
 
-![](../../../../../.gitbook/assets/screenshot-2021-05-21-at-14.40.56.png)
+![](../../../../../.gitbook/assets/screenshot-2021-05-24-at-16.16.30.png)
 
 
 
@@ -22,7 +22,7 @@ Nos aseguramos de estar en la red adecuada. De no ser así, cambiamos la red en 
 
 
 
-![](../../../../../.gitbook/assets/screenshot-2021-05-21-at-14.40.56%20%281%29.png)
+![](../../../../../.gitbook/assets/screenshot-2021-05-24-at-16.16.30%20%281%29.png)
 
 
 
