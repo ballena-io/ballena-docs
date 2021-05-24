@@ -1,12 +1,10 @@
 # How to send funds from Binance to MetaMask
 
-## How to send funds from Binance to Metamask
-
-[ballena.io](https://ballena.io/)🐋 will help you transfer your funds from Binance to Metamask in a few steps. Let´s go!
+[ballena.io](https://ballena.io/)🐋 will help you transfer your funds from Binance to MetaMask in a few steps. Let's go!
 
 
 
-### 1. Open the Binance web page and log in with your credentials. Now, navigate to "Wallet-Fiat and Spot".
+### 1. Open the Binance web and log in to your account. Now, go to _Wallet → Fiat & Spot_.
 
 ### 
 
