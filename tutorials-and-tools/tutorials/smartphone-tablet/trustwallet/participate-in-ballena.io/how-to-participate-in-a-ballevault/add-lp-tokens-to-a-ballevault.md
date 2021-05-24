@@ -8,7 +8,7 @@ Just follow the steps in this short tutorial that[ **ballena.io**](https://balle
 
 We will land on the Home Page.
 
-![](../../../../../../.gitbook/assets/photo5857063875722196570.jpg)
+![](../../../../../../.gitbook/assets/photo5861731302582105702.jpg)
 
 
 
@@ -16,7 +16,7 @@ We will land on the Home Page.
 
 \*\*\*\*
 
-![](../../../../../../.gitbook/assets/photo5852538698179130772.jpg)
+![](../../../../../../.gitbook/assets/photo5861731302582105701%20%281%29.jpg)
 
 \*\*\*\*
 
@@ -28,9 +28,9 @@ We will land on the Home Page.
 
 ### **4. Display the menu with the button on the top left and go to the** _**Vaults**_ **interface.**
 
-Find the corresponding vault to the LP tokens we own.
+Find the corresponding vault to the LP tokens you own.
 
-If we are following the example of the previous tutorials, we seek the "bALBT-BNB" vault.
+If you are following the example of the previous tutorials, seek the "bALBT-BNB" vault.
 
 
 
@@ -60,7 +60,7 @@ Approve the transaction in Trust Wallet and pay the gas fees.
 
 We can also see how the amount of LPs as well as the amount of BALLE generated are progressively increasing.
 
-Eventually, once we have **generated enough BALLE,** we will **harvest** them and **stake** them in the **Governance Pool**. Thus, with the BALLE we have earned, we will be able to **produce more BALLE** for our own **benefit**.
+Eventually, once we have **generated enough BALLE,** we will **harvest** them and **stake** them in the **Governance Pool**. Thus, with the BALLE you have earned, you will be able to **produce more BALLE** for your own **benefit**.
 
 {% page-ref page="../advanced-how-to-participate-in-the-balle-staking-pool/" %}
 
