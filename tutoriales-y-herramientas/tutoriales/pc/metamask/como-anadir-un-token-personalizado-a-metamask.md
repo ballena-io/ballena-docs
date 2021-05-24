@@ -18,31 +18,21 @@ Recomendamos **siempre añadir los tokens** a MetaMask **antes de enviar fondos*
 
 ### 2. Hacemos clic en "Add Token" en la parte inferior del menú.
 
+Nos aseguramos de estar en la red correcta \(BSC\).
+
 
 
 ![](../../../../.gitbook/assets/2%20%287%29.png)
 
 ### 
 
-### 3. Hacemos clic en "Custom Token".
-
-Nos aseguramos de estar en la red correcta \(BSC\).
-
-![](../../../../.gitbook/assets/3%20%289%29.png)
-
-#### 
-
-### 4. Copia y pega la dirección del contrato del token BALLE en el campo "Address" y comprobamos que el resto de campos se rellenen automáticamente. Hacemos clic en "Next".
+### 3. Copia y pega la dirección del contrato del token BALLE en el campo "Address" y comprobamos que el resto de campos se rellenen automáticamente. Hacemos clic en "Next".
 
 {% hint style="info" %}
 Siempre copiar la dirección de BALLE de un sitio oficial de ballena.io.
 {% endhint %}
 
-{% hint style="danger" %}
-Tener cuidado si se va a copiar la dirección desde bscscan.com ya que existen 2 tokens con este mismo nombre al buscar "ballena.io". Asegurarse de seleccionar ✅ ballena.io \(BALLE\) ✅ y no ❌ Ballena.io \(Balle\) ❌ 
-{% endhint %}
-
-**Esta es la dirección del contrato de BALLE** \(siempre comprobar\)**:** 0x9714C04b34E6300964161c3aC37b86451E79152d
+**Esta es la dirección del contrato de BALLE:** 0x9714C04b34E6300964161c3aC37b86451E79152d
 
 
 
@@ -50,7 +40,7 @@ Tener cuidado si se va a copiar la dirección desde bscscan.com ya que existen 2
 
 ### 
 
-### 5. Hacemos clic en 'Add Tokens' y...
+### 4. Hacemos clic en 'Add Tokens' y...
 
 
 
@@ -62,7 +52,7 @@ Tener cuidado si se va a copiar la dirección desde bscscan.com ya que existen 2
 
 #### 
 
-### 6. BALLE 🐋! El token BALLE ya está disponible entre nuestros tokens. La wallet muestra ahora su balance en el menú principal de MestaMask.
+### 5. BALLE 🐋! El token BALLE ya está disponible entre nuestros tokens. La wallet muestra ahora su balance en el menú principal de MestaMask.
 
 
 
