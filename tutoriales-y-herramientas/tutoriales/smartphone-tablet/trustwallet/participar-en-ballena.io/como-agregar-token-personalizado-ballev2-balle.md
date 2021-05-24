@@ -1,4 +1,4 @@
-# Cómo agregar token personalizado: BALLE
+# Cómo agregar token personalizado: BALLEv2 \(BALLE\)
 
 Este tutorial vale para cualquier token.
 
