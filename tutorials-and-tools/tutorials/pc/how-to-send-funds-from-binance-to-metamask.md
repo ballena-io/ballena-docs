@@ -46,5 +46,9 @@ Give it a couple of minutes for your BNB tokens to appear in your Metamask walle
 
 
 
+{% page-ref page="participate-in-ballena.io/" %}
+
+
+
 
 
