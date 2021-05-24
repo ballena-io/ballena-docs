@@ -1,4 +1,4 @@
-# How to set up Metamask and the BSC network
+# How to set up MetaMask and the BSC network
 
 ## How to install MetaMask on your browser
 
@@ -30,7 +30,7 @@ The MetaMask icon will appear at the top right of your browser.
 
 #### 
 
-### 3. Now click on the top right extension button and pin the MetaMask to the Chrome.
+### 3. Now click on the top right extension button and pin the MetaMask to Chrome.
 
 
 
@@ -40,7 +40,7 @@ The MetaMask icon will appear at the top right of your browser.
 
 ### 4. Create an account. Click on the MetaMask "Get Started" button and "Create a Wallet". 
 
-Continue with the following steps & Accept Conditions.
+Continue with the following steps and accept conditions.
 
 
 
@@ -58,7 +58,7 @@ Continue with the following steps & Accept Conditions.
 
 #### 
 
-### 5. Create a password and agree to the Terms.
+### 5. Create a secure password and agree to the Terms.
 
  
 
@@ -73,7 +73,7 @@ Continue with the following steps & Accept Conditions.
 ### 6. Secret Backup Phrase. 
 
 {% hint style="warning" %}
-Remember to write  this phrase down in the right order, store it in a safe place and never disclose it to anyone. The failure to do so, could mean the loss of your funds. 
+Remember to **write this phrase down in the right order,** **store** it **in** a **safe offline place** and **never disclose** it to anyone. The failure to do so, could mean the loss of your funds. 
 {% endhint %}
 
  
@@ -98,13 +98,13 @@ Remember to write  this phrase down in the right order, store it in a safe place
 
 ###  <a id="how-to-set-up-the-BSC-on-your-Wallet"></a>
 
-## How to set up the BSC on your Wallet
+## How to set up the BSC on MetaMask
 
-Now we will configure the BSC net on our Wallet. The BSC network is required for working throught all BSC projects like [ballena.io](https://ballena.io/).
+Now we will configure the BSC network on our Wallet. As we can see, the Ethereum Mainnet comes as the default network on MetaMask. We just need to add this new BSC network because it's the one we will be working on to get to [ballena.io](https://ballena.io/).
 
 
 
-### 1. First click on the "Ethereum mainnet" and click on "Custom RPC" on the menu.
+### 1. Expand MetaMask view on a tab. First click on the "Ethereum Mainnet" and click on "Custom RPC" on the menu.
 
 
 
@@ -112,7 +112,17 @@ Now we will configure the BSC net on our Wallet. The BSC network is required for
 
 #### 
 
-### 2. Set the BSC net values as follows and click save.
+### 2. Copy & Paste the BSC net data as on the image and click "Save".
+
+**BSC Mainnet** \(or whatever name we want to use\)
+
+**https://bsc-dataseed.binance.org/** 
+
+**0x38** or **56** \(are equal\)
+
+**BNB**
+
+**https://bscscan.com/**
 
 
 
@@ -128,7 +138,9 @@ Now we will configure the BSC net on our Wallet. The BSC network is required for
 
 
 
-Travel through the next steps with[ ballena.io](https://ballena.io/)!
+Keep going with[ ballena.io](https://ballena.io/) on the next step!
+
+{% page-ref page="how-to-add-a-custom-token-to-metamask.md" %}
 
 
 
