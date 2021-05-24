@@ -2,13 +2,13 @@
 
 ## How to purchase BNB in Binance through Smartphone/Tablet \(Credit Card\)
 
-This option offers a direct purchase of BNB by using our Credit Card. No deposit delays nor conversions needed. We shall know that a 1.8% fee is applied to this process.
+This option offers a direct purchase of BNB by using your Credit Card. No deposit delays nor conversions needed. The process is much easier and faster but we shall know that a 1.8% fee is applied on the initial Fiat quantity.
 
 ### 1. Open the Binance App.
 
 ### 2. Press "Buy with EUR".
 
-We can use some other currencies depending on our country's base currency.
+You can use some other currencies depending on your country's base currency.
 
 
 
@@ -16,7 +16,7 @@ We can use some other currencies depending on our country's base currency.
 
 ### 
 
-### 2. Select which Fiat we want to use on "Spend".
+### 2. Select which Fiat you want to use on "Spend".
 
 
 
@@ -46,11 +46,15 @@ We will be shown how many BNB we will be purchasing with this amount.
 
 ### 5. Press “Continue” & confirm the transaction.
 
-If we are OK with it. This final payment might require a confirmation through our bank.
+This final payment might require a confirmation through your bank.
 
 ### 6. Deposit completed.
 
 After completing this process, we will have a small amount of BNB in ​​our Wallet and we will be ready for the next step:
+
+{% page-ref page="../trustwallet/" %}
+
+
 
 
 

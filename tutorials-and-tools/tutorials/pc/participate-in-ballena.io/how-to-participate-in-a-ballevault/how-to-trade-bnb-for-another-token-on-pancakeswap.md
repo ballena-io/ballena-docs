@@ -84,7 +84,7 @@ In order to add liquidity to a LP pair we will need the same vaule for both asse
 
 ### **8. Done!**
 
-Your tokens should show up in your Metamask account. In case you can't see them, make sure you have already added the token to your Metamask\`s token list. Go to this tutorial on [How to Add a Custom Token to Metamask](../../set-up-metamask-wallet/how-to-add-a-custom-token-to-metamask.md) if needed.
+Your tokens should show up in your Metamask account. In case you can't see them, make sure you have already added the token to your Metamask\`s token list. Go to this tutorial on [How to Add a Custom Token to Metamask](../../metamask/how-to-add-a-custom-token-to-metamask.md) if needed.
 
 \*\*\*\*
 

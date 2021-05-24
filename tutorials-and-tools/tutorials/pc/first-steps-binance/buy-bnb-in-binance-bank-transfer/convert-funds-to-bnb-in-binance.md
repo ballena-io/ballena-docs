@@ -60,7 +60,7 @@ Before confirming the transaction you will be given a conversion preview, check 
 
 After completing this process, we will have a small amount of BNB in ​​our wallet and we will be ready for the next step:
 
-{% page-ref page="../../set-up-metamask-wallet/" %}
+{% page-ref page="../../metamask/" %}
 
 
 
