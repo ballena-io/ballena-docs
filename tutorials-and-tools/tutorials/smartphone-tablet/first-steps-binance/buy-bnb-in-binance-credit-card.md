@@ -46,7 +46,15 @@ We will be shown how many BNB we will be purchasing with this amount.
 
 ### 5. Press “Continue” & confirm the transaction.
 
-This final payment might require a confirmation through your bank.
+You should take into account that some banks may require some authorization actions from you for this final payment.
+
+{% hint style="info" %}
+**Make sure the money have been withdrawn from your bank account and the that it has been deposited in your Binance account.**
+{% endhint %}
+
+If both of the above are negative, make the deposit all over again.
+
+
 
 ### 6. Deposit completed.
 
