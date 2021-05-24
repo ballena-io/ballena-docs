@@ -1,6 +1,6 @@
 # Lanzamiento ballena.io v2
 
-**¡Aquí está! El esperado LANZAMIENTO de**[ **ballena.io**](https://ballena.io/)**.** Tras meses de arduo trabajo, el equipo de desarrollo y la comunidad están orgullosos de anunciar esta hazaña.
+**¡Aquí está! ¡El esperado LANZAMIENTO de**[ **ballena.io**](https://ballena.io/)**!** Tras meses de arduo trabajo, el equipo de desarrollo y la comunidad están orgullosos de anunciar esta hazaña.
 
 Se ha completado el test plan general de la interfaz, así como del protocolo de migración, los cuales están totalmente operativos. Como sabéis, el dev. team decidió realizar la migración del token BALLE y volver a diseñar ciertos ámbitos del proyecto para aumentar la calidad y la seguridad del mismo.
 
