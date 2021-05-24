@@ -31,7 +31,7 @@
 
 
 {% hint style="danger" %}
-Los administradores NUNCA te enviarán un mensaje directo. Si alguien te escribe directamente en Telegram , por ejemplo, haciéndose pasar por el servicio de atención al cliente, bloquéalo y notifica el spam.
+Los administradores NUNCA te enviarán un mensaje directo. Si alguien te escribe directamente en Telegram, por ejemplo, haciéndose pasar por el servicio de atención al cliente, bloquéalo y notifica el spam.
 {% endhint %}
 
 
