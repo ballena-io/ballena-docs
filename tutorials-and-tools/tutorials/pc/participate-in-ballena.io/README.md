@@ -14,6 +14,8 @@ We will have to trade BNB for Balbt in [PancakeSwap ](https://pancakeswap.financ
 
 #### 
 
+{% page-ref page="how-to-participate-in-a-ballevault/" %}
+
 
 
 
