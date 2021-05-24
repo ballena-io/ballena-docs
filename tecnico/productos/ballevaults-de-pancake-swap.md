@@ -63,6 +63,8 @@ Las tarjetas de las bóvedas, o vaults, son de la siguiente forma.
 
 ![](../../.gitbook/assets/image%20%2822%29.png)
 
+
+
 ![](../../.gitbook/assets/image%20%2821%29.png)
 
 
@@ -119,7 +121,7 @@ Recuerda que el 3% de los beneficios de la plataforma se destinan a los usuarios
 
 
 
-Para más información acerca del APY y APR haz click en este [enlace](../../recursos-para-el-usuario/faq.md#4-apr-apy).
+Para más información acerca del APY y APR haz clic en este [enlace](../../recursos-para-el-usuario/faq.md#4-apr-apy).
 
 {% hint style="danger" %}
 Calculado sobre a las tarifas vigentes, este cálculo del interés compuesto se realiza diariamente. Las tarifas son estimaciones que se proporcionan únicamente para tu comodidad, y en ningún caso representan rendimientos garantizados.
