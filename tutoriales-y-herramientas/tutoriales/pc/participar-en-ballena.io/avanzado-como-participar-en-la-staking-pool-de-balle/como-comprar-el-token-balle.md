@@ -14,7 +14,7 @@ En este tutorial veremos como **convertir tus BNB** **por el token BALLE** y ade
 
 ### 
 
-### 2. Conectamos MetaMask haciendo click en "Connect"
+### 2. Conectamos MetaMask haciendo clic en "Connect"
 
 
 
@@ -84,7 +84,7 @@ Dejar algunos BNB tokens para hacer frente al pago de las comisiones que surgir�
 
 ### 
 
-### 8. Completado!
+### 8. ¡Completado!
 
 Los tokens deberían aparecer en nuestro MetaMask. En caso de no verlos, nos aseguramos de haber agregado el token a MetaMask. Si no sabemos cómo hacerlo, vamos a [este tutorial](../../metamask/como-anadir-un-token-personalizado-a-metamask.md).
 
