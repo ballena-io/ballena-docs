@@ -23,7 +23,7 @@
       * [Set up a Binance account](tutorials-and-tools/tutorials/pc/first-steps-binance/set-up-a-binance-account.md)
       * [Buy BNB in Binance \(Bank Transfer\)](tutorials-and-tools/tutorials/pc/first-steps-binance/buy-bnb-in-binance-bank-transfer/README.md)
         * [Deposit funds in Binance](tutorials-and-tools/tutorials/pc/first-steps-binance/buy-bnb-in-binance-bank-transfer/deposit-funds-in-binance.md)
-        * [Convert funds for BNB in Binance](tutorials-and-tools/tutorials/pc/first-steps-binance/buy-bnb-in-binance-bank-transfer/convert-funds-for-bnb-in-binance.md)
+        * [Convert funds to BNB in Binance](tutorials-and-tools/tutorials/pc/first-steps-binance/buy-bnb-in-binance-bank-transfer/convert-funds-to-bnb-in-binance.md)
       * [Buy BNB in Binance \(Credit Card\)](tutorials-and-tools/tutorials/pc/first-steps-binance/buy-bnb-in-binance-credit-card.md)
     * [Set up Metamask Wallet](tutorials-and-tools/tutorials/pc/set-up-metamask-wallet/README.md)
       * [How to set up Metamask and the BSC network](tutorials-and-tools/tutorials/pc/set-up-metamask-wallet/how-to-set-up-metamask-and-the-bsc-network.md)

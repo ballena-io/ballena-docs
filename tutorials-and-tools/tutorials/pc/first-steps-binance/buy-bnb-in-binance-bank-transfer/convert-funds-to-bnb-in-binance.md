@@ -1,4 +1,4 @@
-# Convert funds for BNB in Binance
+# Convert funds to BNB in Binance
 
 Once EURs have been deposited in our Binance account, we have to trade these coins for BNB in order to work in the BSC and in [ballena.io](https://ballena.io/). 
 
@@ -56,7 +56,7 @@ Before confirming the transaction you will be given a conversion preview, check 
 
 
 
-### 8. Done! You will now be able to check your BNB tokens in en "Wallet" - "Fiat and Spot".
+### 8. Done! You will now be able to check your BNB tokens in _Wallet→Fiat & Spot_.
 
 
 
