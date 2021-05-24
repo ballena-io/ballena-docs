@@ -56,7 +56,7 @@ Estamos en presencia de una de las preguntas más importantes. La comunidad de [
 
 ### 1. ¿Son sostenibles los tokenomics de este proyecto?
 
-Tras un estudio exhaustivo de los tokenomics del mercado DeFi, el Equipo de Desarrollo de [ballena.io](https://ballena.io/) ha creado una estructura que **garantiza la solvencia del proyecto**, así como la **rentabilidad de su token y productos listados**. Para más información acerca de esta pregunta haz clic en [Tokenomics](/tecnico/tokenomics).
+Tras un estudio exhaustivo de los tokenomics del mercado DeFi, el equipo de desarrollo de [ballena.io](https://ballena.io/) ha creado una estructura que **garantiza la solvencia del proyecto**, así como la **rentabilidad de su token y productos listados**. Para más información acerca de esta pregunta haz clic en [Tokenomics](/tecnico/tokenomics).
 
 
 
@@ -147,8 +147,6 @@ En los productos de [ballena.io](https://ballena.io/) hay implícitas unas fees 
 * **Link**: [https://vote.ballena.io](https://vote.ballena.io/#/ballena)
 
 ​
-
-
 
 
 
