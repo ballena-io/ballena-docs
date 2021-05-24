@@ -50,7 +50,7 @@ Before confirming the transaction you will be given a conversion preview, check 
 
 
 
-### 5.Enter the desired amount and confirm the transaction.
+### 7.Enter the desired amount and confirm the transaction.
 
 Before confirming the transaction you will be given a conversion preview, check everything is all right and press "Confirm".
 
@@ -58,7 +58,9 @@ Before confirming the transaction you will be given a conversion preview, check 
 
 ### 8. Done! You will now be able to check your BNB tokens in _Wallet→Fiat & Spot_.
 
+After completing this process, we will have a small amount of BNB in ​​our wallet and we will be ready for the next step:
 
+{% page-ref page="../../set-up-metamask-wallet/" %}
 
 
 
