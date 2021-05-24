@@ -41,7 +41,7 @@ Always copy the BALLEv2 address from an official ballena.io site.
 
 
 {% hint style="info" %}
-Know that the actual name of the token is "BALLEv2" but MetaMask will always show it as its older version "BALLE".
+Know that the actual name of the token is "BALLEv2" but its symbol is still "BALLE" \(don't get it mixed up with the older version\).
 {% endhint %}
 
 
