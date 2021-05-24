@@ -1,7 +1,5 @@
 # How to set up Metamask and the BSC network
 
-MetaMask is an ERC20 compatible wallet. This tutorial explains how to set up a Metamask wallet from scratch. We will also learn how to set up the BSC network for this wallet.
-
 ## How to install MetaMask on your browser
 
 ### 1. Open [https://metamask.io/](https://metamask.io/) on your browser and download the extension.
