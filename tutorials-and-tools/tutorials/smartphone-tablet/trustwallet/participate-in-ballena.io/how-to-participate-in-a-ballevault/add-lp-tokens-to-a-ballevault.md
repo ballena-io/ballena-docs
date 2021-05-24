@@ -58,7 +58,7 @@ Approve the transaction in Trust Wallet and pay the gas fees.
 
 ### **8. Done! Our LP tokens are already working in the vault.**
 
-We can also see how the amount of LPs as well as the amount of BALLE generated are progressively increasing.
+You can also see how the amount of LPs as well as the amount of BALLE generated are progressively increasing.
 
 Eventually, once we have **generated enough BALLE,** we will **harvest** them and **stake** them in the **Governance Pool**. Thus, with the BALLE you have earned, you will be able to **produce more BALLE** for your own **benefit**.
 
