@@ -16,7 +16,7 @@ Nos dirigirá a la interfaz principal.
 
 
 
-![](../../../../../../.gitbook/assets/photo5852538698179130772%20%281%29.jpg)
+![](../../../../../../.gitbook/assets/photo5861731302582105701.jpg)
 
 
 
@@ -24,7 +24,7 @@ Nos dirigirá a la interfaz principal.
 
 
 
-![](../../../../../../.gitbook/assets/photo5852538698179130772.jpg)
+![](../../../../../../.gitbook/assets/photo5861731302582105701%20%281%29.jpg)
 
 ### 
 
