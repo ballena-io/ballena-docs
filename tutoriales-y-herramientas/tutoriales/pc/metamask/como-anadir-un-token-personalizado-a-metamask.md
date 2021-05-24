@@ -46,7 +46,7 @@ Tener cuidado si se va a copiar la dirección desde bscscan.com ya que existen 2
 
 
 
-![](../../../../.gitbook/assets/4%20%285%29.png)
+![](../../../../.gitbook/assets/screenshot-2021-05-24-at-18.39.06.png)
 
 ### 
 
