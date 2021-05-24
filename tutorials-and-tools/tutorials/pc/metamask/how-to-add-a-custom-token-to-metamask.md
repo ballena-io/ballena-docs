@@ -1,4 +1,4 @@
-# How to Add a Custom Token to MetaMask
+# How to add a Custom Token to MetaMask
 
 During the process of[ ballena.io](https://ballena.io/)🐋 you will work with several tokens, but MetaMask does not have the information for all of them. This does NOT mean that they will not be compatible with your wallet. It means that even if you are a holder of the token, it will not be reflected in your wallet. **You will need to add the information \(the contract\) of the token** to MetaMask so that it appears on the list of tokens and to **able to see its balance**.
 

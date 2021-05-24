@@ -27,7 +27,7 @@
       * [Buy BNB in Binance \(Credit Card\)](tutorials-and-tools/tutorials/pc/first-steps-binance/buy-bnb-in-binance-credit-card.md)
     * [MetaMask](tutorials-and-tools/tutorials/pc/metamask/README.md)
       * [How to set up MetaMask and the BSC network](tutorials-and-tools/tutorials/pc/metamask/how-to-set-up-metamask-and-the-bsc-network.md)
-      * [How to Add a Custom Token to MetaMask](tutorials-and-tools/tutorials/pc/metamask/how-to-add-a-custom-token-to-metamask.md)
+      * [How to add a Custom Token to MetaMask](tutorials-and-tools/tutorials/pc/metamask/how-to-add-a-custom-token-to-metamask.md)
     * [How to send funds from Binance to MetaMask](tutorials-and-tools/tutorials/pc/how-to-send-funds-from-binance-to-metamask.md)
     * [Participate in ballena.io](tutorials-and-tools/tutorials/pc/participate-in-ballena.io/README.md)
       * [How to participate in a BalleVault](tutorials-and-tools/tutorials/pc/participate-in-ballena.io/how-to-participate-in-a-ballevault/README.md)
