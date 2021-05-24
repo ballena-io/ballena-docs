@@ -2,7 +2,7 @@
 
 Durante el proceso de [ballena.io](https://ballena.io/)🐋 trabajaremos con varios tokens, pero MetaMask no cuenta con la información de todos ellos. Esto NO significa que no vayan a ser compatibles con nuestra billetera. Significa que aunque seamos poseedores del token, este no se verá reflejado en nuestra billetera. **Necesitaremos añadir la información \(el contrato\) del token** a MetaMask **para** que este aparezca en la lista de tokens y **poder ver la cantidad de la que disponemos**.
 
-**Pondremos como ejemplo el token BALLE** ya que es el protagonista de esta odisea y porque es el único token que sabemos con toda certeza que manejaremos.
+**Pondremos como ejemplo el token BALLEv2** ya que es el protagonista de esta odisea y porque es el único token que sabemos con toda certeza que manejaremos.
 
 Recomendamos **siempre añadir los tokens** a MetaMask **antes de enviar fondos** a la wallet para evitar sustos.
 
@@ -26,19 +26,25 @@ Nos aseguramos de estar en la red correcta \(BSC\).
 
 ### 
 
-### 3. Copia y pega la dirección del contrato del token BALLE en el campo "Address" y comprobamos que el resto de campos se rellenen automáticamente. Hacemos clic en "Next".
+### 3. Copia y pega la dirección del contrato del token BALLEv2 en el campo "Address" y comprobamos que el resto de campos se rellenen automáticamente. Hacemos clic en "Next".
 
 {% hint style="info" %}
-Siempre copiar la dirección de BALLE de un sitio oficial de ballena.io.
+Siempre copiar la dirección de BALLEv2 de un sitio oficial de ballena.io.
 {% endhint %}
 
-**Esta es la dirección del contrato de BALLE:** 0x9714C04b34E6300964161c3aC37b86451E79152d
+**Esta es la dirección del contrato de BALLEv2:** 0x9714C04b34E6300964161c3aC37b86451E79152d
 
 
 
 ![](../../../../.gitbook/assets/screenshot-2021-05-24-at-18.39.06.png)
 
-### 
+
+
+{% hint style="info" %}
+Saber que el nombre real del token es "BALLEv2" pero MetaMask siempre lo mostrará como su antigua versión "BALLE".
+{% endhint %}
+
+
 
 ### 4. Hacemos clic en 'Add Tokens' y...
 
