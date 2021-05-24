@@ -8,7 +8,7 @@ Todos nuestros repositorios están almacenados en [Github](https://github.com/ba
 
 ### Repositorios Github
 
-* **UiKit**: Contiene un conjunto de paquetes que se utilizan para construir el ecosistema [ballena.io](https://ballena.io/).
+* **UI Kit**: Contiene un conjunto de paquetes que se utilizan para construir el ecosistema [ballena.io](https://ballena.io/).
 * **Frontend**: La interfaz principal. Contiene las principales características de la aplicación [ballena.io](https://ballena.io/)**.**
 * **Protocol**: Implementación de los contratos inteligentes de [ballena.io](https://ballena.io/) en la Binance Smart Chain.
 * **Voting:** Las funciones de votación de la comunidad.

@@ -34,7 +34,7 @@ Intentamos mantener la mayor consistencia posible entre cada uno de nuestros rep
 
 
 
-#### Utiliza el UIKit
+#### Utiliza el UI Kit
 
 {% hint style="warning" %}
 Verifica el [UI Kit](https://github.com/ballena-io/ballena-uikit) antes de comenzar a hacer cualquier cosa. Ya se han creado muchos componentes y no queremos que pierdas el tiempo reinventando la rueda.
