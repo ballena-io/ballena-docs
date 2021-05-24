@@ -4,7 +4,7 @@
 
 
 
-You can also buy BNB directly with your credit card instead of depositing and converting your funds as seen before. This way, you will pay a little higher fees but the process is much easier and faster. Check the required steps below.
+You can also **buy BNB directly** with your credit card **instead of depositing and converting** your funds as seen before. This way, you will pay a little **higher fees \(1.8%\)** but the process is **much easier and faster.**
 
 
 
@@ -60,6 +60,12 @@ As soon as your identity has been verified, you will be able to proceed with the
 
 Once the operation has been validated you will be shown the confirmation screen. You should take into account that some banks may require some authorization actions from you.
 
+{% hint style="info" %}
+**Make sure the money have been withdrawn from your bank account and the that it has been deposited in your Binance account.**
+{% endhint %}
+
+If both of the above are negative, make the deposit all over again.
+
 
 
 ### 7. Completed!
@@ -69,6 +75,10 @@ Once the operation has been validated you will be shown the confirmation screen.
 ![](../../../../.gitbook/assets/binance_credit_5.png)
 
 
+
+After completing this process, we will have a small amount of BNB in ​​our Wallet and we will be ready for the next step:
+
+{% page-ref page="../metamask/" %}
 
 
 
