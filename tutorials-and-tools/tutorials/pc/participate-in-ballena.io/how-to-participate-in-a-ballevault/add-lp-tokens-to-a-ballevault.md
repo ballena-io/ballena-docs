@@ -9,11 +9,11 @@ We will land on the Home Page.
 
 
 
-![](../../../../../.gitbook/assets/screenshot-2021-05-22-at-17.11.37.png)
+![](../../../../../.gitbook/assets/screenshot-2021-05-24-at-16.16.08.png)
 
 
 
-Make sure we are on the right network. If not, change the network on MetaMask to the Binance Smart Chain.
+Make sure you are on the right network. If not, change the network on MetaMask to the Binance Smart Chain.
 
 
 
@@ -21,7 +21,7 @@ Make sure we are on the right network. If not, change the network on MetaMask to
 
 ### 
 
-![](../../../../../.gitbook/assets/screenshot-2021-05-21-at-14.40.56%20%282%29.png)
+![](../../../../../.gitbook/assets/screenshot-2021-05-24-at-16.16.30%20%281%29.png)
 
 
 
@@ -35,9 +35,9 @@ Make sure we are on the right network. If not, change the network on MetaMask to
 
 ### **4. On the left menu go to the** _**Vaults**_ **interface.**
 
-Find the corresponding vault to the LP tokens we own.
+Find the corresponding vault to the LP tokens you own.
 
-If we are following the example of the previous tutorials, we seek the vault "bALBT-BNB".
+If you are following the example of the previous tutorials, seek the "bALBT-BNB" vault.
 
 
 
@@ -70,7 +70,7 @@ Approve the transaction in Trust Wallet and pay the gas fees.
 
 We can also see how the amount of LPs as well as the amount of BALLE generated are progressively increasing.
 
-Eventually, once we have **generated enough BALLE,** we will **harvest** them and **stake** them in the **Governance Pool**. Thus, with the BALLE we have earned, we will be able to **produce more BALLE** for our own **benefit**.
+Eventually, once we have **generated enough BALLE,** we will **harvest** them and **stake** them in the **Governance Pool**. Thus, with the BALLE you have earned, you will be able to **produce more BALLE** for your own **benefit**.
 
 {% page-ref page="../advanced-how-to-participate-in-the-balle-staking-pool/" %}
 
