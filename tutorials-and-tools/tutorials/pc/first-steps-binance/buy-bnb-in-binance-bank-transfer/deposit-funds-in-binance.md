@@ -2,7 +2,7 @@
 
 
 
-### 1. Click on the button "Buy Crypto" located in the top bar menu.
+### 1. Click on the "Buy Crypto" button located in the top bar menu.
 
 
 
@@ -40,7 +40,7 @@ Correctly fill the required fields and data for your bank transfer. Do not forge
 
 ### **6. Wait until the money reaches Binance the very next day.** 
 
-Meanwhile, we can continue reading the rest of the docs. Learn more about [ballena.io](https://ballena.io/)!
+Meanwhile, you can continue reading the rest of the docs. Learn more about [ballena.io](https://ballena.io/)!
 
 
 
