@@ -4,7 +4,7 @@
 
 \*\*\*\*
 
-You already have your money in Binance. You will be able to check that on _Wallet & Spot._  
+You already have your money in Binance. You will be able to check that on _Wallet→Fiat & Spot._  
 ****
 
 ![](https://lh5.googleusercontent.com/ngjdbeiH8YaCB_oxkZTrfNEs4LeGHdvm9GW4FmrbwfVk5d63RAC0K0M7FAtZx31n1Qb5VXcQKNLleCRyt0MNGE_PA95JWW5n_xEzmtIuiP0Tkz-NkTRyCjrWThaPwtjFde674tyQ)
