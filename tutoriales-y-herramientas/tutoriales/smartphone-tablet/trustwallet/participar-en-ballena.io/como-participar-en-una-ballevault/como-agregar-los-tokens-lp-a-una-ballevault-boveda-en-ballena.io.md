@@ -4,7 +4,7 @@ Basta con seguir los pasos de este pequeño tutorial que [ballena.io](https://ba
 
 
 
-### 1. Mediante el navegador DApps de Trust Wallet accedemos a la dirección [ballena.io](https://ballena.io) 
+### 1. Mediante el navegador DApps de Trust Wallet, accedemos a la dirección [ballena.io](https://ballena.io) 
 
 
 
@@ -36,7 +36,7 @@ Nos dirigirá a la interfaz principal.
 
 ### 
 
-### 4. Desplgamos el menu con el botón de arriba a la izquierda y nos dirigimos a la interfaz _Vaults._
+### 4. Desplegamos el menú con el botón de arriba a la izquierda y nos dirigimos a la interfaz _Vaults._
 
 Encontramos la bóveda correspondiente a nuestros LP tokens.
 
