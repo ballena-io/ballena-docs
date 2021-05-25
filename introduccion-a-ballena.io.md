@@ -6,9 +6,9 @@
 
 Las bases de [ballena.io](https://ballena.io/) son las siguientes:
 
-## Finanzas descentralizadas para todo el mundo
+## 1. Finanzas descentralizadas para todo el mundo
 
-## DAO \(Organización Autónoma Descentralizada\)
+## 2. DAO \(Organización Autónoma Descentralizada\)
 
 El proyecto [ballena.io](https://ballena.io/) opta por la forma de **organización autónoma descentralizada**, es decir, la organización se coordina de manera autónoma por los contratos inteligentes \(Smart Contracts\).
 
@@ -20,7 +20,7 @@ El token BALLE garantiza la solvencia económica de la DAO mediante su distribuc
 
 Además, la DAO de [ballena.io](https://ballena.io/) cuenta con un **sistema de retribución llamado SourceCred** para los contribuidores del proyecto. Este recompensa a los usuarios que contribuyen en el proyecto con tokens BALLE.
 
-## BSC
+## 3. BSC
 
 La red **Binance Smart Chain** evita las restricciones de flujo de capital que surgen de las altas comisiones de transacción que se pagan en la misma. Este ecosistema trabaja sobre **mínimas comisiones** permitiendo así a los inversores saltar entre los diversos fondos de liquidez \(Liquidity Pools, farms, etc.\) sin gastos excesivos, maximizando así los beneficios con la máxima flexibilidad. Esto sirve también como un perfecto ecosistema para usuarios con poca liquidez para invertir, quienes pueden ahora entrar en el juego con mínimas pérdidas debidas a las comisiones, lo cual antes era imposible de imaginar y no merecía la pena embarcarse en estas inversiones.
 
