@@ -20,11 +20,7 @@ El token BALLE garantiza la solvencia económica de la DAO mediante su distribuc
 
 Además, la DAO de [ballena.io](https://ballena.io/) cuenta con un **sistema de retribución llamado SourceCred** para los contribuidores del proyecto. Este recompensa a los usuarios que contribuyen en el proyecto con tokens BALLE.
 
-## 3. BSC
-
-La red **Binance Smart Chain** evita las restricciones de flujo de capital que surgen de las altas comisiones de transacción que se pagan en la misma. Este ecosistema trabaja sobre **mínimas comisiones** permitiendo así a los inversores saltar entre los diversos fondos de liquidez \(Liquidity Pools, farms, etc.\) sin gastos excesivos, maximizando así los beneficios con la máxima flexibilidad. Esto sirve también como un perfecto ecosistema para usuarios con poca liquidez para invertir, quienes pueden ahora entrar en el juego con mínimas pérdidas debidas a las comisiones, lo cual antes era imposible de imaginar y no merecía la pena embarcarse en estas inversiones.
-
-## Seguridad Gnosis
+## 3. Seguridad de la Wallet: Primer proyecto de la BSC  en implementar la seguridad Gnosis
 
 Estamos orgullosos de anunciar que **somos el primer proyecto en implementar Gnosis** como sistema Multi-firma en la BSC.
 
@@ -34,23 +30,27 @@ El sistema multi-firma exige que un mínimo número de usuarios autorice una tra
 
 Para más información acerca del sistema Mulit-firma Gnosis haz clic en el siguiente [link](tecnico/gobernanza.md#seguridad-de-la-wallet).
 
-## Automatización
+## 4. BSC
+
+La red **Binance Smart Chain** evita las restricciones de flujo de capital que surgen de las altas comisiones de transacción que se pagan en la misma. Este ecosistema trabaja sobre **mínimas comisiones** permitiendo así a los inversores saltar entre los diversos fondos de liquidez \(Liquidity Pools, farms, etc.\) sin gastos excesivos, maximizando así los beneficios con la máxima flexibilidad. Esto sirve también como un perfecto ecosistema para usuarios con poca liquidez para invertir, quienes pueden ahora entrar en el juego con mínimas pérdidas debidas a las comisiones, lo cual antes era imposible de imaginar y no merecía la pena embarcarse en estas inversiones.
+
+## 5. Automatización
 
 [ballena.io](https://ballena.io/) simplifica y **automatiza la optimización de rendimiento** de diferentes oportunidades en el mercado, evitando el gasto innecesario de tiempo del usuario que surgen de las constantes interacciones requeridas para encontrar el mejor APY y la implementación de estrategias complejas. Las estrategias se automatizan para cada bóveda por smart contracts para encontrar los mayores rendimientos. Esto permite a los inversores de alta experiencia ahorrar tiempo y optimizar rendimientos y ayuda a los usuarios noveles a contar con un acceso fácil a oportunidades y asegurar beneficios desde el primer momento.
 
-## Accesibilidad para los nuevos en este mundo
+## 6. Accesibilidad para los nuevos en este mundo
 
 Fondos de liquidez, Farms, Vaults, APY, ilustraciones sin sentido y palabras que no habías oído nunca. ¡Qué lío! No te preocupes. Nuestro equipo conoce la difícil accesibilidad a este mercado para los usuarios más noveles y estamos centrados en ayudarlos a llegar hasta la cumbre desde lo más básico. Caminaremos juntos a través de todos los pasos uno a uno hasta que puedas formar parte de este mercado.
 
-## SimpleFarming
+## 7. SimpleFarming
 
 Esta es una de nuestras metas a corto plazo. El Equipo [ballena.io](https://ballena.io/) está desarrollando una herramienta, una estrategia, llamada **SimpleFarming**. Esta añade un nivel de optimización más a la cadena, una **completa automatización del flujo de nuestras cripto** encontrando los mejores rendimientos en la red BSC. Asigna tus monedas al SimpleFarming y [ballena.io](https://ballena.io/) se encargará de maximizar beneficios a través de las oportunidades más rentables en la red. Más información en breve.
 
-## BALLE
+## 8. BALLE
 
 **BALLE es nuestro token**. Podrás lucrarte de su revalorización, hacer staking y disfrutar de su gobernanza. La comunidad y el equipo crece sin medida a la par que la red de BSC. Nuestros desarrolladores trabajan duro para implementar nuevas estrategias e ideas que son compartidas con el resto de la comunidad y los poseedores de BALLE.
 
-## Comunidad 🐋
+## 9. Comunidad 🐋
 
 En caso de tener cualquier pregunta, contacta con nuestro equipo a través de cualquiera de nuestros canales. Nuestra comunidad [ballena.io](https://ballena.io/) está siempre en disposición de ayudarte, y aunque no necesites ayuda, pásate a saludar!
 
