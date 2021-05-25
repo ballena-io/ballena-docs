@@ -95,6 +95,7 @@
 * [Our Dev. Team](dao-organization/our-dev.-team.md)
 * [SourceCred System](dao-organization/sourcecred-system/README.md)
   * [ballena.io SourceCred foundations](dao-organization/sourcecred-system/ballena.io-sourcecred-foundations.md)
+* [Gnosis: Multisig system](dao-organization/gnosis-multisig-system.md)
 * [Trust Levels](dao-organization/trust-levels.md)
 * [DAO Tutorials](dao-organization/dao-tutorials/README.md)
   * [Connect your Wallet for propolsals creation and voting](dao-organization/dao-tutorials/connect-your-wallet-for-propolsals-creation-and-voting.md)
