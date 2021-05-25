@@ -1,3 +1,7 @@
+---
+description: IN PROGRESS
+---
+
 # Información general
 
 ## ¡Bienvenido! Sumérgete en el mundo [ballena.io](https://ballena.io/) 🐋
@@ -6,65 +10,17 @@
 
 Las bases de [ballena.io](https://ballena.io/) son las siguientes:
 
+## 
+
+### El proyecto
+
+ **Project description \(300 characters\)**
+
+> ballena.io is a DAO driven yield optimizer app on the BSC which automates investment strategies over yield farming in the DeFi ecosystem allowing its users to gain revenue through the compound interest technique. It offers auto-compounding vaults and a BALLE native and gobernance token Staking Pool.
+
+ **Overview \(1385 characters\)**
+
+> ballena.io is a yield optimizer app on the Binance Smart Chain which automates investment strategies over yield farming opportunities in the DeFi ecosystem allowing its users to gain revenue through its compound interest technique. BALLE is the ballena.io native governance token. Its maximum supply is 40.000 tokens and no more minting is possible. You can read its tokenomics here [https://docs.ballena.io/v/en/technical/tokenomics](https://docs.ballena.io/v/en/technical/tokenomics). The main products are: \* The BalleVaults, vaults where users can deposit their LP tokens and see how the implemented strategies increase their LP tokens. Users participating in the vaults receive BALLE token rewards during the first year from the launch date. \* The BALLE Staking Pool, where the native BALLE tokens are invested for a revenue optimization while they receive a 3% of the platform gains. An extra BALLE token reward is also distributed in the staking pool till the end of its supply. The ballena.io project is organized as a DAO, it's completely driven by its community. This means that only the proposal and voting of new ideas among the community can lead to significant changes in the project. The treasury related operations rely on a Multi-signature system called Gnosis. This means that before any transaction or change becomes effective, it will need the approval of a minimum number of wallet signatures optimizing the project's security.
+
 ## Finanzas descentralizadas para todo el mundo
-
-## DAO \(Organización Autónoma Descentralizada\)
-
-El proyecto [ballena.io](https://ballena.io/) opta por la forma de **organización autónoma descentralizada**, es decir, la organización se coordina de manera autónoma por los contratos inteligentes \(Smart Contracts\).
-
-Los Smart Contracts implementados son de carácter transparente e inmutable desde el momento de su liberación. De esta manera el correcto funcionamiento queda a la vista de la comunidad y este no podrá ser modificado en un futuro por cualquier integrante. Para más información acerca de estos contratos inteligentes haz clic en [Tokenomics](tecnico/tokenomics.md).
-
-La DAO cuenta con un **protocolo de consenso**. Este garantiza una toma de decisiones regulada y consensuada dentro de la comunidad. Para ello [ballena.io](https://ballena.io/) cuenta con el **sistema Gnosis Multisig** o multi-firma que se detalla en [Multisig](tecnico/gobernanza.md#seguridad-de-la-wallet). Este sistema realza la seguridad del proyecto requiriendo un número mínimo de firmas de la comunidad para cualquiera de las nuevas implementaciones. [ballena.io](https://ballena.io/) es el primer proyecto de la red Binance Smart Chain en implementar Gnosis Safe para controlar nuestra DAO.
-
-El token BALLE garantiza la solvencia económica de la DAO mediante su distribución regulada y constatada en los Smart Contracts. Además, este token otorga a los usuarios el **poder de votar nuevos cambios e ideas y recompensa económicamente a los que lo poseen**. Para más información acceder a [Gobernanza](tecnico/gobernanza.md).
-
-Además, la DAO de [ballena.io](https://ballena.io/) cuenta con un **sistema de retribución llamado SourceCred** para los contribuidores del proyecto. Este recompensa a los usuarios que contribuyen en el proyecto con tokens BALLE.
-
-## BSC
-
-La red **Binance Smart Chain** evita las restricciones de flujo de capital que surgen de las altas comisiones de transacción que se pagan en la misma. Este ecosistema trabaja sobre **mínimas comisiones** permitiendo así a los inversores saltar entre los diversos fondos de liquidez \(Liquidity Pools, farms, etc.\) sin gastos excesivos, maximizando así los beneficios con la máxima flexibilidad. Esto sirve también como un perfecto ecosistema para usuarios con poca liquidez para invertir, quienes pueden ahora entrar en el juego con mínimas pérdidas debidas a las comisiones, lo cual antes era imposible de imaginar y no merecía la pena embarcarse en estas inversiones.
-
-## Seguridad Gnosis
-
-Estamos orgullosos de anunciar que **somos el primer proyecto en implementar Gnosis** como sistema Multi-firma en la BSC.
-
-Una wallet de firma múltiple es una billetera de criptomonedas que controla el acceso y los cambios de uno o varios contratos inteligentes \(Smart Contracts\). La mayoría de los proyectos controlados por la comunidad de la red Ethereum requieren un sistema Multisig, es decir, múltiples firmas para aprobar una transacción antes de ser ejecutada.
-
-El sistema multi-firma exige que un mínimo número de usuarios autorice una transacción para que esta se haga efectiva. De esta manera el proyecto garantiza que las decisiones que supongan impactos transcendentales que tienen que ver con la tesorería, sean verificadas por varios usuarios de la DAO.
-
-Para más información acerca del sistema Mulit-firma Gnosis haz clic en el siguiente [link](tecnico/gobernanza.md#seguridad-de-la-wallet).
-
-## Automatización
-
-[ballena.io](https://ballena.io/) simplifica y **automatiza la optimización de rendimiento** de diferentes oportunidades en el mercado, evitando el gasto innecesario de tiempo del usuario que surgen de las constantes interacciones requeridas para encontrar el mejor APY y la implementación de estrategias complejas. Las estrategias se automatizan para cada bóveda por smart contracts para encontrar los mayores rendimientos. Esto permite a los inversores de alta experiencia ahorrar tiempo y optimizar rendimientos y ayuda a los usuarios noveles a contar con un acceso fácil a oportunidades y asegurar beneficios desde el primer momento.
-
-## Accesibilidad para los nuevos en este mundo
-
-Fondos de liquidez, Farms, Vaults, APY, ilustraciones sin sentido y palabras que no habías oído nunca. ¡Qué lío! No te preocupes. Nuestro equipo conoce la difícil accesibilidad a este mercado para los usuarios más noveles y estamos centrados en ayudarlos a llegar hasta la cumbre desde lo más básico. Caminaremos juntos a través de todos los pasos uno a uno hasta que puedas formar parte de este mercado.
-
-## SimpleFarming
-
-Esta es una de nuestras metas a corto plazo. El Equipo [ballena.io](https://ballena.io/) está desarrollando una herramienta, una estrategia, llamada **SimpleFarming**. Esta añade un nivel de optimización más a la cadena, una **completa automatización del flujo de nuestras cripto** encontrando los mejores rendimientos en la red BSC. Asigna tus monedas al SimpleFarming y [ballena.io](https://ballena.io/) se encargará de maximizar beneficios a través de las oportunidades más rentables en la red. Más información en breve.
-
-## BALLE
-
-**BALLE es nuestro token**. Podrás lucrarte de su revalorización, hacer staking y disfrutar de su gobernanza. La comunidad y el equipo crece sin medida a la par que la red de BSC. Nuestros desarrolladores trabajan duro para implementar nuevas estrategias e ideas que son compartidas con el resto de la comunidad y los poseedores de BALLE.
-
-## Comunidad 🐋
-
-En caso de tener cualquier pregunta, contacta con nuestro equipo a través de cualquiera de nuestros canales. Nuestra comunidad [ballena.io](https://ballena.io/) está siempre en disposición de ayudarte, y aunque no necesites ayuda, pásate a saludar!
-
-Twitter: [https://twitter.com/BallenaioE](https://twitter.com/BallenaioE)
-
-Discord: [https://discord.gg/ydRbEAaqqc](https://discord.gg/ydRbEAaqqc)
-
-Medium: [https://ballenaioe.medium.com/](https://ballenaioe.medium.com/)
-
-Website: [https://ballena.io](https://ballena.io)
-
-Telegram: [https://t.me/ballenaspanish](https://t.me/ballenaspanish)
-
-
-
-
 
