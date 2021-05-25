@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction to ballena.io](README.md)
+* [Overview](README.md)
 * [Introduction to ballena.io](introduction-to-ballena.io.md)
 * [Announcements](announcements/README.md)
   * [Launch ballena.io v2](announcements/launch-ballena.io-v2.md)
