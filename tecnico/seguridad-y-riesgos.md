@@ -40,6 +40,12 @@ También podrás encontrar información acerca de este sistema en el siguiente e
 
 ## Contratos Inteligentes \(Smart Contracts\)
 
+### Auditorías
+
+{% embed url="https://github.com/ballena-io/ballena-audits" %}
+
+
+
 ### Activos
 
 Los contratos \(código\) actualmente activos han sido verificados y publicados en [Tokenomics](tokenomics.md) y en [BSCScan](https://github.com/ballena-io/ballena-docs/tree/edb9b44ab86eb32086df590f127987db2128ee8a/link/README.md).
