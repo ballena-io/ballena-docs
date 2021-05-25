@@ -22,7 +22,7 @@ Make sure you are on the correct network \(BSC\).
 
 ​
 
-![](../../../../.gitbook/assets/2-1-.png)
+![](../../../../.gitbook/assets/image%20%2847%29.png)
 
 ​
 
