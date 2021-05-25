@@ -104,8 +104,8 @@
 
 ## Tools for the User
 
-* [FAQ](tools-for-the-user/faq.md)
 * [Resources](tools-for-the-user/resources.md)
+* [FAQ](tools-for-the-user/faq.md)
 
 ## Others
 
