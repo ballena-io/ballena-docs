@@ -20,7 +20,7 @@ Recomendamos **siempre añadir los tokens** a MetaMask **antes de enviar fondos*
 
 Nos aseguramos de estar en la red correcta \(BSC\).
 
-![](../../../../.gitbook/assets/image%20%2847%29.png)
+![](../../../../.gitbook/assets/image%20%2848%29.png)
 
 ### 
 
