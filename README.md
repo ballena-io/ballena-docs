@@ -1,5 +1,5 @@
 ---
-description: IN PROGRESS
+description: In Progress
 ---
 
 # Información general
