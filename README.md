@@ -1,4 +1,4 @@
-# Introducción a ballena.io
+# Información general
 
 ## ¡Bienvenido! Sumérgete en el mundo [ballena.io](https://ballena.io/) 🐋
 
