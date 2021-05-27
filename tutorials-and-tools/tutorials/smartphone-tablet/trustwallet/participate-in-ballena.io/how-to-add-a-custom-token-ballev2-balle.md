@@ -4,7 +4,7 @@ This tutorial is valid for any token.
 
 The **BALLE** tokens **enter your wallet when** you **buy** them **or** when you **harvest** the profits of a BalleVault. However, they **may NOT be reflected on the token list** of Trust Wallet.
 
-**We have to add the token's contract** to Trust Wallet so we are able to see our BALLE balance. Follow these simple steps.
+**We need to add the token's contract** to Trust Wallet so we are able to see our BALLE balance. Follow these simple steps.
 
 
 
