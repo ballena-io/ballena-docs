@@ -1,6 +1,6 @@
 # BALLE Staking Pool
 
-El token BALLE es el token nativo de gobernanza. Por el hecho de participar en el staking del token BALLE, recibirás una porción de los beneficios totales de la plataforma. Además de contribuir a su revalorización y al potenciar la plataforma, podrás participar así en el proceso de gobernanza de nuestra DAO, es decir, podrás proponer y votar propuestas en nuestra plataforma.
+El token BALLE es el token nativo de gobernanza. Por el hecho de participar en el staking del token BALLE, recibirás una porción de los beneficios totales de la plataforma. Además de contribuir a su revalorización y al potenciar la plataforma, podrás participar así en el proceso de gobernanza de nuestra DAO, es decir, podrás proponer y votar propuestas en nuestra [plataforma de votación](https://vote.ballena.io/#/).
 
 {% hint style="warning" %}
 Participar en el Staking de BALLE te aportará beneficios de la plataforma de por vida.
@@ -30,17 +30,13 @@ Tras el lanzamiento de la plataforma, el multiplicador será mayor, ya que al co
 
 Una vez la plataforma cuente con más TVL, incrementarán las ganancias de la misma y por lo tanto los usuarios que participen en la BALLE Staking Pool se beneficiarán de un APY muy atractivo sin la necesidad del reparto extra excesivo de tokens BALLE, disminuyendo paulatinamente su distribución hasta llegar a un punto de total sostenibilidad de la pool puramente con las ganancias de la plataforma.
 
-La siguiente ilustración muestra el funcionamiento de la recaudación que reciben los usuarios de la BALLE Staking Pool a modo de esquema:
+La siguiente ilustración muestra en detalle el proceso de la recaudación y distribución que reciben los usuarios de la BALLE Staking Pool a modo de esquema:
 
 
 
 ![](../../.gitbook/assets/ballestaking.png)
 
  
-
-
-
-
 
 
 
