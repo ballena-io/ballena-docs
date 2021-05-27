@@ -1,4 +1,4 @@
-# BALLE Staking Pool \(App de Gobernanza\)
+# BALLE Staking Pool
 
 El token BALLE es el token de gobernanza. Por el hecho de participar en el staking del token BALLE, recibirás una porción de los beneficios totales de la plataforma. Además de contribuir a su revalorización y el potenciamiento de la plataforma, podrás participar así en el proceso de gobernanza de nuestra DAO, es decir, podrás proponer y votar propuestas en nuestra plataforma.
 
