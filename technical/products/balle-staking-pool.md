@@ -1,6 +1,6 @@
 # BALLE Staking Pool
 
-BALLE is the native governance token. Staking BALLE tokens on the governance pool will get you revenue from the platform lifetime. Thus, you will receive BALLE tokens as revenue, helping it rise its price at the same time. Apart from its high profitability due to its rising value, you will be able to be part of the governance of the DAO, meaning users will be able to vote and practice staking gaining some of the platform transaction fees as a reward.
+BALLE is the native governance token. Staking BALLE tokens on the governance pool will get you revenue from the platform lifetime. Thus, you will receive BALLE tokens as revenue, helping it rise its price at the same time. Apart from its high profitability due to its rising value, you will be able to be part of the governance of the DAO, meaning users will be able to vote and, staking their BALLE, receive all revenue from platform performance fees.
 
 {% hint style="warning" %}
 Staking BALLE tokens on the governance pool will get you revenue from the platform lifetime. 
