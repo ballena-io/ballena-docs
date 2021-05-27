@@ -1,7 +1,5 @@
 # BALLE Staking Pool
 
-## BALLE Staking Pool or Governance Pool
-
 BALLE is the native gobernance token. Staking BALLE tokens on the gobernance pool will get you revenue from the platform lifetime. Thus, you will receive BALLE tokens as revenue, helping it rise its price at the same time. Apart from its high profitability due to its rising value, you will be able to be part of the governance of the token, meaning users will be able to vote and practice staking gaining some of the platform transaction fees as a reward.
 
 {% hint style="warning" %}
