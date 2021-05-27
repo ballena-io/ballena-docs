@@ -1,6 +1,6 @@
 # BALLE Staking Pool
 
-### Participate in the BALLE Staking and receive more BALLE. The holders who participate in the Staking take 3% of all the profits of the platform, and in addition, BALLE token rewards!
+### Participate in the BALLE Staking Pool and receive more BALLE. The holders who participate in the Staking take 3% of all the profits of the platform, and in addition, BALLE token rewards!
 
 
 
