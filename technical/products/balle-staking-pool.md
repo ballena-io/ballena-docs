@@ -1,5 +1,9 @@
 # BALLE Staking Pool
 
+### Participate in the BALLE Staking and receive more BALLE. The holders who participate in the Staking take 3% of all the profits of the platform, and in addition, BALLE token rewards!
+
+
+
 The BALLE token is the native governance token. By participating in the staking of the BALLE token, you will receive a portion of the total benefits of the platform. In addition to contributing to its revaluation and enhancing the platform, you will thus be able to participate in the governance process of our DAO, that is, you will be able to propose and vote on proposals on our platform.
 
 {% hint style="warning" %}
