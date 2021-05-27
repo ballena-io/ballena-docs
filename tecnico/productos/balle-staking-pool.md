@@ -18,7 +18,7 @@ Así como el valor del token sufrirá altibajos como cualquier activo del mercad
 
 ### 
 
-### El proceso
+### Información técnica
 
 [ballena.io](https://ballena.io/) recibe el 3% de las ganancias totales obtenidas en la plataforma cada semana, que se destina a los usuarios que participan en la BALLE Staking Pool. Estas ganancias acumuladas se reparten entre estos usuarios a lo largo de la siguiente semana, donde cada uno recibirá la parte proporcional que le corresponde en base a la cantidad de tokens depositados respecto al total de los mismos que haya en la pool.
 
@@ -30,13 +30,17 @@ Tras el lanzamiento de la plataforma, el multiplicador será mayor, ya que al co
 
 Una vez la plataforma cuente con más TVL, incrementarán las ganancias de la misma y por lo tanto los usuarios que participen en la BALLE Staking Pool se beneficiarán de un APY muy atractivo sin la necesidad del reparto extra excesivo de tokens BALLE, disminuyendo paulatinamente su distribución hasta llegar a un punto de total sostenibilidad de la pool puramente con las ganancias de la plataforma.
 
-La siguiente ilustración muestra en detalle el proceso de la recaudación y distribución que reciben los usuarios de la BALLE Staking Pool a modo de esquema:
+La siguiente ilustración muestra el funcionamiento de la recaudación que reciben los usuarios de la BALLE Staking Pool a modo de esquema:
 
 
 
 ![](../../.gitbook/assets/ballestaking.png)
 
  
+
+
+
+
 
 
 
