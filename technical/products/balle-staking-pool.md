@@ -17,7 +17,7 @@ In addition, an extra reward of 12,000 tokens is distributed to these users. The
 {% hint style="info" %}
 The BALLE token is the governance token of [ballena.io](https://ballena.io/). Its value lies in the long-term benefit of holding it, derived from the profits of the platform distributed among the users who own it as the TVL and the products offered on the platform increase. The dev. team and a strong community focused on the long-term sustainability of the project, as well as a limited supply of tokens, make the BALLE token a highly valued asset. 
 
-Just as the value of the token will suffer ups and downs like any asset on the market, it is not designed to profit the holder by buying and selling in relation to its changes in value, but through its holding, which allows the holder to receive constantly and indefinitely a percentage of the total profits of the platform.
+The value of the token will suffer ups and downs like any asset on the market, it is not designed to profit the holder by buying and selling in relation to its changes in value, but through its holding, which allows the holder to receive constantly and indefinitely a percentage of the total profits of the platform.
 {% endhint %}
 
 ### 
