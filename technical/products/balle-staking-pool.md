@@ -16,6 +16,8 @@ The BALLE token is the governance token of [ballena.io](https://ballena.io/). It
 Just as the value of the token will suffer ups and downs like any asset on the market, it is not designed to profit the holder by buying and selling in relation to its changes in value, but through its holding, which allows the holder to receive constantly and indefinitely a percentage of the total profits of the platform.
 {% endhint %}
 
+### 
+
 ### The process
 
 [ballena.io](https://ballena.io/) receives 3% of the total revenue obtained on the platform each week, which is then distributed among users who participate in the BALLE Staking Pool. These accumulated earnings are distributed among these users throughout the following week, where each one of them will receive the proportional part that corresponds to them based on the amount of tokens deposited in the pool.
