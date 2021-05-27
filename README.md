@@ -6,6 +6,8 @@ description: In Progress
 
 ### El proyecto
 
+ballena.io es una aplicación de optimización de rendimiento impulsada por DAO en el BSC que automatiza las estrategias de inversión sobre la agricultura de rendimiento en el ecosistema DeFi, lo que permite a sus usuarios obtener ingresos a través de la técnica de interés compuesto. Ofrece bóvedas de composición automática y un grupo de juego de fichas de gobernanza y nativo BALLE.
+
 > ballena.io is a DAO driven yield optimizer app on the BSC which automates investment strategies over yield farming in the DeFi ecosystem allowing its users to gain revenue through the compound interest technique. It offers auto-compounding vaults and a BALLE native and gobernance token Staking Pool.
 
 ### 
