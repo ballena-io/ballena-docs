@@ -14,12 +14,6 @@ El recibir tokens, y además contar con una recompensa extra, por el mero hecho 
 
 Además la plataforma permite hacer staking de más criptomonedas para alimentar así los proyectos de la red BSC.
 
-## SimpleFarming
-
-#### Resumen: [ballena.io](https://ballena.io/) se encarga de asignar, cambiar y reinvertir tus tokens siguiendo la estrategia más rentable de la plataforma. Aporta liquidez a SimpleFarming y recoge beneficios sin ocuparte de nada más.
-
-Añade un nivel de optimización más a la cadena, una completa automatización del flujo de nuestras criptos buscando los mejores rendimientos en la red BSC. Asigna tus monedas al **SimpleFarming** y [ballena.io](https://ballena.io/) se encargará de maximizar beneficios a través de las oportunidades más rentables en la red. Más información en breve.
-
 ## BalleVaults \(Bóvedas\)
 
 #### Resumen: Genera beneficios en el par aportado \(BALLE-BNB, por ejemplo\) y obtener recompensa de tokens BALLE.
@@ -33,6 +27,12 @@ Es una forma de inversión en la que se añaden a partes iguales dos assets. El 
 Además, estos usuarios **recibirán tokens BALLE** cada 3 segundos. Se reparten **24000 tokens BALLE** a lo largo de un año para estos usuarios que reciben una parte proporcional a la cantidad aportada en las vaults. Los token BALLE recibidos se pueden recoger en cualquier momento y reinvertirlos en la App de Gobernanza o la staking pool BALLE para aumentar su cantidad de forma pasiva.
 
 Digamos que es la **optimización de aportar liquidez a PancakeSwap**, un nivel más allá, ya que [ballena.io](https://ballena.io/) se encarga de buscar la mayor rentabilidad y de reinvertir los retornos automáticamente haciendo exponenciales tus ganancias.
+
+## SimpleFarming
+
+#### Resumen: [ballena.io](https://ballena.io/) se encarga de asignar, cambiar y reinvertir tus tokens siguiendo la estrategia más rentable de la plataforma. Aporta liquidez a SimpleFarming y recoge beneficios sin ocuparte de nada más.
+
+Añade un nivel de optimización más a la cadena, una completa automatización del flujo de nuestras criptos buscando los mejores rendimientos en la red BSC. Asigna tus monedas al **SimpleFarming** y [ballena.io](https://ballena.io/) se encargará de maximizar beneficios a través de las oportunidades más rentables en la red. Más información en breve.
 
 
 
