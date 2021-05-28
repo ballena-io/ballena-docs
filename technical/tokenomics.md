@@ -111,7 +111,47 @@ No more supply is possible, minter account was removed from Smart Contractsand i
 
 ## Smart contracts BALLEv2
 
-**\*\* IN PROGRESS** \*\*
+**BALLE**
+
+{% embed url="https://bscscan.com/address/0x9714c04b34e6300964161c3ac37b86451e79152d" %}
+
+**BalleMigration**
+
+{% embed url="https://bscscan.com/address/0x019e4abb7fd239f838d7ecbdd6601e0fcfcf497b" %}
+
+**BalleMaster**
+
+{% embed url="https://bscscan.com/address/0x1105bd1d8c952c24e73f6866177fad7bfb35e13d" %}
+
+
+
+**StratPancakeLpV1 vault 0 \(bALBT/BNB\)**
+
+{% embed url="https://bscscan.com/address/0xdaada85e22df14b12fe3eda2739b82541f206b2d" %}
+
+\*\*\*\*
+
+**StratPancakeLpV1 vault 1 \(INJ/BNB\)**
+
+{% embed url="https://bscscan.com/address/0x8044182086ae7feeb00cc40d45877188a5587025" %}
+
+\*\*\*\*
+
+**StratPancakeLpV1 vault 2 \(DOT/BNB\)**
+
+{% embed url="https://bscscan.com/address/0x4da397f5c51bae9a37bc4ff6634b34b8e9111819" %}
+
+\*\*\*\*
+
+**BalleTreasury**
+
+{% embed url="https://bscscan.com/address/0xe81e27be6b4171601e1c055959db2940655c544d" %}
+
+\*\*\*\*
+
+**BalleRewardFund**
+
+{% embed url="https://bscscan.com/address/0x11e4ecf13e3b4ccb246ae538d28ecceb28e28833" %}
 
 
 
