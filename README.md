@@ -2,7 +2,7 @@
 
 ### **Project description**
 
-[ballena.io](https://ballena.io/) is a DAO driven yield optimizer app on the BSC which automates investment strategies over yield farming in the DeFi ecosystem allowing its users to gain revenue through the compound interest technique. It offers auto-compounding vaults and a BALLE native and gobernance token Staking Pool.
+[ballena.io](https://ballena.io/) is a DAO-driven yield optimizer app on the BSC which automates investment strategies over yield farming in the DeFi ecosystem allowing its users to gain revenue through the compound interest technique. It offers auto-compounding vaults and a BALLE native and governance token Staking Pool.
 
 
 
@@ -20,7 +20,7 @@ The main products are:
 
 {% embed url="https://docs.ballena.io/v/en/technical/products/ballevaults-pancake-swap" %}
 
-* The BALLE Staking Pool, where the native BALLE tokens are invested for a revenue optimization while they receive a 3% of the platform gains. An extra BALLE token reward is also distributed in the staking pool till the end of its supply. 
+* The BALLE Staking Pool, where the native BALLE tokens are invested for revenue optimization while they receive a 3% of the platform gains. An extra BALLE token reward is also distributed in the staking pool till the end of its supply. 
 
 {% embed url="https://docs.ballena.io/v/en/technical/products/balle-staking-pool" %}
 
@@ -28,7 +28,7 @@ The main products are:
 
 The [ballena.io](https://ballena.io/) project is organized as a DAO, it's completely driven by its community. This means that only the proposal and voting of new ideas among the community can lead to significant changes in the project. 
 
-The treasury related operations rely on a Multi-signature system called Gnosis. This means that before any transaction or change becomes effective, it will need the approval of a minimum number of wallet signatures optimizing the project's security.
+The treasury-related operations rely on a Multi-signature system called Gnosis. This means that before any transaction or change becomes effective, it will need the approval of a minimum number of wallet signatures optimizing the project's security.
 
 
 
