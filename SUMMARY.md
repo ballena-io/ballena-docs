@@ -5,6 +5,7 @@
 * [Announcements](announcements/README.md)
   * [Launch ballena.io v2](announcements/launch-ballena.io-v2.md)
   * [Wallet donations](announcements/wallet-donations.md)
+  * [Launching the first Vaults](announcements/launching-the-first-vaults.md)
 * [Help](help.md)
 * [Contact us](contact-us/README.md)
   * [Social/Community](contact-us/social-community.md)
