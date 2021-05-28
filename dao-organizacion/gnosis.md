@@ -48,7 +48,9 @@ En el siguiente archivo podrás ver todas las funciones y su respectiva descripc
 
 {% file src="../.gitbook/assets/balle-smartcontracts-smartcontracts-gnosis-access.pdf" caption="Smart Contracts Gnosis Access" %}
 
+#### **Transferencia de propiedad de BalleMaster \(MasterChef\) a la Gnosis de ballena.io** 
 
+{% embed url="https://bscscan.com/address/0x26FBb0FF7589A43C7d4B2Ff9A68A0519c474156c\#events" %}
 
 Para más información acerca del sistema Mulit-firma Gnosis haz clic en el siguiente link.
 
