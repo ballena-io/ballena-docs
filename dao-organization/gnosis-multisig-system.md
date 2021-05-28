@@ -48,7 +48,9 @@ In the following file you will see all the functions and their respective descri
 
 {% file src="../.gitbook/assets/balle-smartcontracts-smartcontracts-gnosis-access.pdf" caption="Smart Contracts Gnosis Access" %}
 
+#### **BalleMaster \(MasterChef\) property transferred to the ballena.io Gnosis**
 
+{% embed url="https://bscscan.com/address/0x26FBb0FF7589A43C7d4B2Ff9A68A0519c474156c\#events" %}
 
 For more information about the Gnosis Multisig system, click on the following link.
 
