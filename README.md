@@ -1,7 +1,3 @@
----
-description: In Progress
----
-
 # Información general
 
 ### El proyecto
