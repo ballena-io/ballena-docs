@@ -94,7 +94,7 @@ El suministro se encuentra cerrado y no es posible ampliarlo. La cuenta de produ
 * 3.000 BALLE. Fondos destinados a la DAO para proveer liquidez, pagos a los contribuidores, airdrops, etc.
   * Timelock para liquidez inicial, promociones, airdrop - 600 BALLE \(se liberan en el lanzamiento del proyecto\) 
     * 0x0891CC8a8Ee37B5ad28c79Cac6b948caC4e57797 [https://bscscan.com/address/0x0891CC8a8Ee37B5ad28c79Cac6b948caC4e57797](https://bscscan.com/address/0x0891CC8a8Ee37B5ad28c79Cac6b948caC4e57797)
-  * Timelock del equipo de desarrollo - 400 BALLE por wallet \(se libera 20% en el lanzamiento, 20% cada 3 meses\) 
+  * Timelock del equipo de desarrollo - 80 BALLE por wallet \(Inicialmente 400 tokens pero se limitan a 80 para destinar el resto a la DAO\)
     * 0xbf517016207FDcE78a510045eA7D215E8CbdC2e3 [https://bscscan.com/address/0xbf517016207FDcE78a510045eA7D215E8CbdC2e3](https://bscscan.com/address/0xbf517016207FDcE78a510045eA7D215E8CbdC2e3)
     * 0x99C852D10A3d403fDa091dCfC374a01FfaD693E0 [https://bscscan.com/address/0x99C852D10A3d403fDa091dCfC374a01FfaD693E0](https://bscscan.com/address/0x99C852D10A3d403fDa091dCfC374a01FfaD693E0)
     * 0xDcAD30498D8eC6722710ACa5361A0E76c493d47F [https://bscscan.com/address/0xDcAD30498D8eC6722710ACa5361A0E76c493d47F](https://bscscan.com/address/0xDcAD30498D8eC6722710ACa5361A0E76c493d47F)
