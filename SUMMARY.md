@@ -5,6 +5,7 @@
 * [Comunicados](comunicados/README.md)
   * [Lanzamiento ballena.io v2](comunicados/lanzamiento-ballena.io-v2.md)
   * [Wallet Donaciones](comunicados/wallet-donaciones.md)
+  * [Lanzamiento vaults](comunicados/lanzamiento-vaults.md)
 * [Ayuda](ayuda.md)
 * [Contacto](contacto/README.md)
   * [Social/Comunidad](contacto/social-comunidad.md)
