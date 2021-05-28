@@ -68,15 +68,15 @@ The tokens from the migration will be deducted from here, approximately 659 BALL
 * 10% of the revenue generated at the BALLE Staking Pool is destined to the project´s treasury for the DAO´s future expenses. This is a temporary fee, applicable while the 12,000 BALLE are distributed through this pool.
 * 0.1% is the vaults´ harvest fee.
 
-## Smart contracts BALLEv1
+## Smart contracts BALLEv1\(Old\)
 
-BALLE token address: 0x9f0D5f45CE8573f43E0BA17876329784be0fd700
+BALLE token address \(Old\): 0x9f0D5f45CE8573f43E0BA17876329784be0fd700
 
 ### Published Contracts
 
 Total supply was minted and deposited to corresponding Smart Contracts for distribution.
 
-No more supply is possible, minter account was removed from Smart Contractsand is not possible to set a new one.
+No more supply is possible, minter account was removed from Smart Contracts and is not possible to set a new one.
 
 
 
@@ -101,7 +101,7 @@ No more supply is possible, minter account was removed from Smart Contractsand i
 * 3.000 BALLE  tokens. DAO funds for purposes such as liquidity, aridrops and contribution rewards deposited in the Smart Contracts:
   * Timelock for initial liquidity, promotion, airdrops - 600 BALLE tokens.
     * 0x0891CC8a8Ee37B5ad28c79Cac6b948caC4e57797 [https://bscscan.com/address/0x0891CC8a8Ee37B5ad28c79Cac6b948caC4e57797](https://bscscan.com/address/0x0891CC8a8Ee37B5ad28c79Cac6b948caC4e57797)
-  * Timelock for the dev team - 400 BALLE for each wallet.
+  * Timelock for the dev team - 80 BALLE for each wallet. \(Initially 400, limited to 80 tokens allocating the rest to the DAO\)
     * 0xbf517016207FDcE78a510045eA7D215E8CbdC2e3 [https://bscscan.com/address/0xbf517016207FDcE78a510045eA7D215E8CbdC2e3](https://bscscan.com/address/0xbf517016207FDcE78a510045eA7D215E8CbdC2e3)
     * 0x99C852D10A3d403fDa091dCfC374a01FfaD693E0 [https://bscscan.com/address/0x99C852D10A3d403fDa091dCfC374a01FfaD693E0](https://bscscan.com/address/0x99C852D10A3d403fDa091dCfC374a01FfaD693E0)
     * 0xDcAD30498D8eC6722710ACa5361A0E76c493d47F [https://bscscan.com/address/0xDcAD30498D8eC6722710ACa5361A0E76c493d47F](https://bscscan.com/address/0xDcAD30498D8eC6722710ACa5361A0E76c493d47F)
