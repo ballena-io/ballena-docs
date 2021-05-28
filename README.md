@@ -17,7 +17,14 @@ BALLE is the [ballena.io](https://ballena.io/) native governance token. Its maxi
 The main products are:
 
 * The BalleVaults, vaults where users can deposit their LP tokens and see how the implemented strategies increase their LP tokens. Users participating in the vaults receive BALLE token rewards during the first year from the launch date.
+
+{% embed url="https://docs.ballena.io/v/en/technical/products/ballevaults-pancake-swap" %}
+
 * The BALLE Staking Pool, where the native BALLE tokens are invested for a revenue optimization while they receive a 3% of the platform gains. An extra BALLE token reward is also distributed in the staking pool till the end of its supply. 
+
+{% embed url="https://docs.ballena.io/v/en/technical/products/balle-staking-pool" %}
+
+
 
 The [ballena.io](https://ballena.io/) project is organized as a DAO, it's completely driven by its community. This means that only the proposal and voting of new ideas among the community can lead to significant changes in the project. 
 
