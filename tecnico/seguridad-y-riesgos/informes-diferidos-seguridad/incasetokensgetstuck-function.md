@@ -1,6 +1,6 @@
 # inCaseTokensGetStuck Function
 
-**Contract Source Code** 
+**Contract Source Code \(Involved lines\)**
 
 ```text
 function inCaseTokensGetStuck(
@@ -33,6 +33,8 @@ There is no guarantee governance will vote to return these tokens back to the us
 The Governance Gnosis Multisig Safe is the one in charge of this operation, meaning a minimum number of 3 signatures out of 5 are needed to perform this transaction.
 
 No other tokens are stored under this contract, so no security implications are present.
+
+
 
 
 
