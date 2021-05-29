@@ -1,4 +1,4 @@
-# Function inCaseTokensGetStuck
+# inCaseTokensGetStuck Function
 
 **Contract Source Code \(Involved lines\)**
 

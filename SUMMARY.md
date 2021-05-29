@@ -88,8 +88,8 @@
 * [Tokenomics](technical/tokenomics.md)
 * [Governance](technical/governance.md)
 * [Security and Risks](technical/security-and-risks/README.md)
-  * [Untitled](technical/security-and-risks/untitled/README.md)
-    * [Function inCaseTokensGetStuck](technical/security-and-risks/untitled/function-incasetokensgetstuck.md)
+  * [Security reports/deferred](technical/security-and-risks/untitled/README.md)
+    * [inCaseTokensGetStuck Function](technical/security-and-risks/untitled/function-incasetokensgetstuck.md)
 
 ## DAO Organization
 
