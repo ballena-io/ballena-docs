@@ -33,7 +33,7 @@ We are glad to announce **We are the first project working with Gnosis** Multisi
 
 **Treasury-related operations are linked to a multi-signature system** called Gnosis. This means that all new ideas will be proposed in the community, they will be voted on by all members and that before making any movement, it will have to be previously approved by a minimum of users of the same, thus guaranteeing the democratization of its trajectory.
 
-For more information click on [Wallet Safety](security-and-risks.md#wallet-safety).
+For more information click on [Wallet Safety](security-and-risks/#wallet-safety).
 
 ## DAO
 

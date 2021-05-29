@@ -52,7 +52,7 @@ Yes, all contracts´ codes have been verified and published on [BSCScan](https:/
 
 Our project is audited, our contracts verified and we are part of a huge community on social media. We truly believe in the transparency of the project serving as a proof of the safety provided.
 
-Nevertheless the DeFi and Crypto world counts with some inherent risks which you should be aware of. For more info about Security and Risks click [here](../technical/security-and-risks.md).
+Nevertheless the DeFi and Crypto world counts with some inherent risks which you should be aware of. For more info about Security and Risks click [here](../technical/security-and-risks/).
 
 
 

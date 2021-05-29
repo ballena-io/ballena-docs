@@ -26,13 +26,13 @@ We are the first project in the BSC implementing Gnosis Safe to run our DAO.
 
 
 
-![](../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image.png)
 
 
 
 For more information regarding Gnosis Multi-signature system check this link:
 
-{% page-ref page="../dao-organization/gnosis-multisig-system.md" %}
+{% page-ref page="../../dao-organization/gnosis-multisig-system.md" %}
 
 You can also find information about this system at the following link:
 
@@ -48,7 +48,7 @@ You can also find information about this system at the following link:
 
 ### Deployed
 
-All deployed contracts have verified and published source codes on [tokenomics](tokenomics.md) and BscScan.
+All deployed contracts have verified and published source codes on [tokenomics](../tokenomics.md) and BscScan.
 
 
 
