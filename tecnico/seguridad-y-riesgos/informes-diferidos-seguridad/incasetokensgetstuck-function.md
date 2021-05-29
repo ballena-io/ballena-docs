@@ -2,6 +2,8 @@
 
 **Contract Source Code \(Involved lines\)**
 
+_Código fuente del contrato \(líneas involucradas\)_
+
 ```text
 function inCaseTokensGetStuck(
     address _token,
