@@ -1,8 +1,6 @@
 # Función inCaseTokensGetStuck
 
-**Contract Source Code \(Involved lines\)**
-
-_Código fuente del contrato \(líneas involucradas\)_
+**Código fuente del contrato \(líneas involucradas\)**
 
 ```text
 function inCaseTokensGetStuck(
@@ -16,25 +14,25 @@ function inCaseTokensGetStuck(
 }
 ```
 
-These source code lines can be found at line 90 in the smart contract:
+Estas líneas de código fuente se pueden encontrar en la línea 90 del contrato inteligente:
 
 {% embed url="https://bscscan.com/address/0x9714c04b34e6300964161c3ac37b86451e79152d\#code" %}
 
-This function may appear as a security breach for some of the smart contract inspectors, issuing a warning for these few lines due to the ability to get the desired amount of tokens from this address.
+Esta función puede parecer una brecha de seguridad para algunos de los inspectores de contratos inteligentes, emitiendo una advertencia para estas líneas debido a la capacidad de obtener la cantidad deseada de tokens de esta dirección.
 
 {% hint style="success" %}
-However, his function doesn´t imply a security risk and should not be targeted as a red warning alert. 
+Sin embargo, esta función no implica un riesgo de seguridad y no debería constatar como una alerta de advertencia roja.
 {% endhint %}
 
-This part of the code allows the DAO to get back stuck tokens that were sent by mistake to this contract address. Sometimes, confused users send tokens to this address, which would get stuck forever if it was not for these code lines. This way, the DAO can give the tokens back to this user after the proper creation and voting of the proposal. 
+Esta parte del código permite a la DAO recuperar tokens atascados que se enviaron por error a esta dirección de contrato. A veces, los usuarios confusos envían tokens a esta dirección, tokens que quedarían atascados para siempre si no fuera por estas líneas de código. De esta manera, la DAO puede devolver los tokens a este usuario después del proceso de creación y votación de la propuesta correspondiente.
 
 {% hint style="danger" %}
-There is no guarantee governance will vote to return these tokens back to the user.
+No hay garantía de que la gobernanza vote a favor de devolver estos tokens al usuario.
 {% endhint %}
 
-The Governance Gnosis Multisig Safe is the one in charge of this operation, meaning a minimum number of 3 signatures out of 5 are needed to perform this transaction.
+El Safe Gnosis multi-firma de Gobernanza es el encargado de esta operación, lo que significa que se necesita un número mínimo de 3 firmas de 5 para realizar esta transacción. 
 
-No other tokens are stored under this contract, so no security implications are present.
+No se almacenan otros tokens bajo este contrato, por lo que no existen implicaciones de seguridad.
 
 
 
