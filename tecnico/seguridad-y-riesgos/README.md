@@ -52,5 +52,3 @@ Los contratos \(código\) actualmente activos han sido verificados y publicados 
 
 
 
-
-
