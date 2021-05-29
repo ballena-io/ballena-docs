@@ -37,7 +37,7 @@ Estamos orgullosos de anunciar que **Somos el primer proyecto en implementar Gno
 
 Las **operaciones relacionadas con la tesorería** están vinculadas a un [**sistema multi-firma**](gobernanza.md#seguridad-de-la-wallet) llamado Gnosis. Esto quiere decir que todas las nuevas ideas serán propuestas en comunidad, serán votadas por todos los miembros y que además antes de hacer **cualquier movimiento, este tendrá que ser aprobado previamente por un mínimo de usuarios** de la misma garantizando así la democratización de su trayectoria.  
 
-Para más información haz clic en [Seguridad de la Wallet](seguridad-y-riesgos.md#seguridad-de-la-wallet).
+Para más información haz clic en [Seguridad de la Wallet](seguridad-y-riesgos/#seguridad-de-la-wallet).
 
 ## DAO
 

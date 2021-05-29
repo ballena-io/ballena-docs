@@ -48,7 +48,7 @@ Estamos en presencia de una de las preguntas más importantes. La comunidad de [
 
 ### 3. [ballena.io](https://ballena.io/), ¿es seguro?
 
-Nuestro proyecto está siendo auditado, nuestros contratos han sido verificados y formamos parte de una gran comunidad en los medios. Apostamos por la **transparencia del proyecto** como prueba de seguridad y confianza del mismo. Podrás encontrar **todos los datos vinculantes en la documentación oficial**. Sin embargo, el mundo DeFi y Cripto en general, cuenta con riesgos inherentes a la operación, de los cuales deberías ser consciente como usuario. Para más información acerca de este tema, haz clic en [Seguridad y Riesgos](../tecnico/seguridad-y-riesgos.md).
+Nuestro proyecto está siendo auditado, nuestros contratos han sido verificados y formamos parte de una gran comunidad en los medios. Apostamos por la **transparencia del proyecto** como prueba de seguridad y confianza del mismo. Podrás encontrar **todos los datos vinculantes en la documentación oficial**. Sin embargo, el mundo DeFi y Cripto en general, cuenta con riesgos inherentes a la operación, de los cuales deberías ser consciente como usuario. Para más información acerca de este tema, haz clic en [Seguridad y Riesgos](../tecnico/seguridad-y-riesgos/).
 
 
 

@@ -87,7 +87,9 @@
   * [SimpleFarming](tecnico/productos/simplefarming.md)
 * [Tokenomics](tecnico/tokenomics.md)
 * [Gobernanza](tecnico/gobernanza.md)
-* [Seguridad y Riesgos](tecnico/seguridad-y-riesgos.md)
+* [Seguridad y Riesgos](tecnico/seguridad-y-riesgos/README.md)
+  * [Informes/Diferidos seguridad](tecnico/seguridad-y-riesgos/informes-diferidos-seguridad/README.md)
+    * [inCaseTokensGetStuck Function](tecnico/seguridad-y-riesgos/informes-diferidos-seguridad/incasetokensgetstuck-function.md)
 
 ## DAO Organización
 

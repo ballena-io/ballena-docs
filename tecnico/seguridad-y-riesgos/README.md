@@ -26,13 +26,13 @@ Una wallet de firma múltiple es una billetera de criptomonedas que controla el 
 
 
 
-![](../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image.png)
 
 
 
 Navega a nuestro apartado de la DAO acerca de Gnosis para más información.
 
-{% page-ref page="../dao-organizacion/gnosis.md" %}
+{% page-ref page="../../dao-organizacion/gnosis.md" %}
 
 También podrás encontrar información acerca de este sistema en el siguiente enlace:
 
@@ -48,7 +48,7 @@ También podrás encontrar información acerca de este sistema en el siguiente e
 
 ### Activos
 
-Los contratos \(código\) actualmente activos han sido verificados y publicados en [Tokenomics](tokenomics.md) y en [BSCScan](https://github.com/ballena-io/ballena-docs/tree/edb9b44ab86eb32086df590f127987db2128ee8a/link/README.md).
+Los contratos \(código\) actualmente activos han sido verificados y publicados en [Tokenomics](../tokenomics.md) y en [BSCScan](https://github.com/ballena-io/ballena-docs/tree/edb9b44ab86eb32086df590f127987db2128ee8a/link/README.md).
 
 
 
