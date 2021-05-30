@@ -1,9 +1,7 @@
 # Roadmap
 
 {% hint style="success" %}
-## STATUS: TEST PLAN = 80% COMPLETED.
-
-### **LAUNCH COMING SOON!**
+## STATUS: Vaults Launch COMPLETED. Working on the Staking pool.
 {% endhint %}
 
 We know that this is not exactly a regular roadmap, but a list of tasks with no particular order nor estimated times. Each epic task on this list is in turn subdivided into small tasks by the development team.
@@ -17,7 +15,7 @@ Due to the nature of the project, we work as fast as we can on what we consider 
 * [x] Add our DAO´s voting platform.
 * [x] Add SouceCred as the retribution system for contributors.
 * [x] Definition and implementation of Trust Levels.
-* [ ] Get Gnosis Multisig wallets.
+* [x] Get Gnosis Multisig wallets.
 * [ ] Include Staked+Wallet tokens as voting criteria.
 
 ## ballena.io v2.0
@@ -29,11 +27,11 @@ Due to the nature of the project, we work as fast as we can on what we consider 
 * [x] Add testnet.
 * [x] Migration test.
 * [x] Vaults test.
-* [ ] Launch ballena.io platform.
-* [ ] Migration announcements.
-* [ ] Token migration from v1.0 to v2.0.
-* [ ] Vaults announcements.
-* [ ] Launch First Vaults.
+* [x] Launch ballena.io platform.
+* [x] Migration announcements.
+* [x] Token migration from v1.0 to v2.0.
+* [x] Vaults announcements.
+* [x] Launch First Vaults.
 * [ ] Staking pool test.
 * [ ] Staking announcements.
 * [ ] Launch Staking Pool.
