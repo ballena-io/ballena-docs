@@ -44,7 +44,7 @@ You can see the active vaults listed here:
 
 **DOT-BNB LP**
 
-\*\*\*\*
+**VRT-BNB** 
 
 ## Vaults Format
 
