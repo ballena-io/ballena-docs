@@ -21,7 +21,7 @@ Estas líneas de código fuente se pueden encontrar en la línea 90 del contrato
 Esta función puede parecer una brecha de seguridad para algunos de los inspectores de contratos inteligentes, emitiendo una advertencia para estas líneas debido a la capacidad de obtener la cantidad deseada de tokens de esta dirección.
 
 {% hint style="success" %}
-Sin embargo, esta función no implica un riesgo de seguridad y no debería constatar como una alerta de advertencia roja.
+Sin embargo, esta función no implica un riesgo de seguridad y no debería contar como una alerta de advertencia roja.
 {% endhint %}
 
 Esta parte del código permite a la DAO recuperar tokens atascados que se enviaron por error a esta dirección de contrato. A veces, los usuarios confusos envían tokens a esta dirección, tokens que quedarían atascados para siempre si no fuera por estas líneas de código. De esta manera, la DAO puede devolver los tokens a este usuario después del proceso de creación y votación de la propuesta correspondiente.
