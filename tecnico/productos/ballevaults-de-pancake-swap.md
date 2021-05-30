@@ -34,11 +34,13 @@ La estrategia realiza farming con tokens CAKE-BNB LP \(Liquidity pool\). Esto se
 
 A continuación se listan las bóvedas activas:
 
-**INJ-BNB LP**
+**INJ-BNB**
 
-**BALBT-BNB LP**
+**BALBT-BNB**
 
-**DOT-BNB LP**
+**DOT-BNB**
+
+**VRT-BNB** 
 
 ## Formato de las bóvedas
 
