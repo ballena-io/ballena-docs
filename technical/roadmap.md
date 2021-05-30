@@ -1,7 +1,7 @@
 # Roadmap
 
 {% hint style="success" %}
-## STATUS: Vaults Launch COMPLETED. Working on the Staking pool.
+## STATUS: Vaults Launch COMPLETED. Working on the BALLE Staking pool.
 {% endhint %}
 
 We know that this is not exactly a regular roadmap, but a list of tasks with no particular order nor estimated times. Each epic task on this list is in turn subdivided into small tasks by the development team.
