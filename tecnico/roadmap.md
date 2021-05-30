@@ -4,6 +4,10 @@ description: Un resumen sobre las tareas llamadas "Epics" en las que estamos tra
 
 # Roadmap
 
+{% hint style="success" %}
+## ESTADO: Lanzamiento vaults COMPLETADO. Trabajando en la BALLE Staking pool.
+{% endhint %}
+
 Sabemos que no es exactamente un roadmap, sino una lista de tareas sin un orden en particular o tiempos estimados. Cada tarea épica de esta lista se subdivide a su vez en pequeñas tareas por el equipo de desarrollo.
 
 {% hint style="info" %}
@@ -15,6 +19,30 @@ Debido a la naturaleza del proyecto, trabajamos tan rápido como podemos en lo q
 * [x] Añadir plataforma de votación para DAO.
 * [x] Añadir SourceCred para contabilizar contribuciones.
 * [x] Definición e implementación niveles colaboradores.
+* [x] Añadir wallets a Gnosis Multi-firma.
+* [x] Añadir Staking+Wallets como criterio de votación.
+
+## ballena.io v2.0
+
+* [x] Migración a base de código solida y escalable.
+* [x] Librería de componentes reutilizables.
+* [x] Rebranding de la nueva plataforma 2.0.
+* [x] Añadir sistema de traducciones.
+* [x] Añadir testnet.
+* [x] Test Migración.
+* [x] Test Vaults.
+* [x] Lanzamiento plataforma ballena.io.
+* [x] Anunciar Migración.
+* [x] Migración Token v1.0 a v2.0.
+* [x] Anunciar Vaults.
+* [x] Lanzamiento nuevas vaults generando BALLE como recompensa.
+* [x] Test Staking Pool
+* [ ] Anunciar Staking.
+* [ ] Lanzamiento Staking Pool.
+* [ ] Listing CMC, Coingecko, etc.
+* [ ] Auditoría CERTIK.
+* [ ] Campaña marketing.
+* [ ] Frontend UX/UI optimization.
 
 ## ballena.io v1.0
 
@@ -22,14 +50,7 @@ Debido a la naturaleza del proyecto, trabajamos tan rápido como podemos en lo q
 * [x] Añadir estado ''Retirada' a cada Bóveda actual.
 * [x] Actualizar Disclaimer.
 
-## ballena.io v2.0
 
-* [x] Migración a base de código solida y escalable.
-* [x] Librería de componentes reutilizables.
-* [ ] Rebranding de la nueva plataforma 2.0.
-* [x] Añadir sistema de traducciones.
-* [x] Añadir testnet.
-* [ ] Migración Token v1.0 a v2.0.
-* [ ] Añadir nuevas Bóvedas generando BALLE como recompensa.
-* [ ] Añadir habilidad para hacer Stake de BALLE.
+
+
 
