@@ -68,47 +68,6 @@ The tokens from the migration will be deducted from here, approximately 659 BALL
 * 10% of the revenue generated at the BALLE Staking Pool is destined to the project´s treasury for the DAO´s future expenses. This is a temporary fee, applicable while the 12,000 BALLE are distributed through this pool.
 * 0.1% is the vaults´ harvest fee.
 
-## Smart contracts BALLEv1\(Old\)
-
-BALLE token address \(Old\): 0x9f0D5f45CE8573f43E0BA17876329784be0fd700
-
-### Published Contracts
-
-Total supply was minted and deposited to corresponding Smart Contracts for distribution.
-
-No more supply is possible, minter account was removed from Smart Contracts and is not possible to set a new one.
-
-
-
-#### Minting transactions
-
-#### [https://bscscan.com/tx/0x91fbc4e42e28d94f556fe4f3901da7d4f7df334ed9be57eea0ed72c530128a33](https://bscscan.com/tx/0x91fbc4e42e28d94f556fe4f3901da7d4f7df334ed9be57eea0ed72c530128a33) [https://bscscan.com/tx/0xf1b68baf9dcf62141c827957a25898805e08e84e24358023ba2db60343731275](https://bscscan.com/tx/0xf1b68baf9dcf62141c827957a25898805e08e84e24358023ba2db60343731275) [https://bscscan.com/tx/0x039edfe664abf6308fd43692c835bb79ceb3816697fff4a0f6748fff4c0d3cd8](https://bscscan.com/tx/0x039edfe664abf6308fd43692c835bb79ceb3816697fff4a0f6748fff4c0d3cd8) [https://bscscan.com/tx/0xda4fd2634c684020af88822afdabcbbea94bbf4b209bff119494f14e431a4f96](https://bscscan.com/tx/0xda4fd2634c684020af88822afdabcbbea94bbf4b209bff119494f14e431a4f96) [https://bscscan.com/tx/0xe40a90f08a604257430cdd4dbed7c40257701d4bcca25a0d107635bbb50b2deb](https://bscscan.com/tx/0xe40a90f08a604257430cdd4dbed7c40257701d4bcca25a0d107635bbb50b2deb) [https://bscscan.com/tx/0x591ad9fa4b6640fc8bf13cdfe33e2f121631d5ba413131ba9f50aeb85827a511](https://bscscan.com/tx/0x591ad9fa4b6640fc8bf13cdfe33e2f121631d5ba413131ba9f50aeb85827a511) [https://bscscan.com/tx/0x912effb79fe78630a4b479324a03e49393f5986ba71059e855e2e64128e988e8](https://bscscan.com/tx/0x912effb79fe78630a4b479324a03e49393f5986ba71059e855e2e64128e988e8) [https://bscscan.com/tx/0x062a676d75029ac428b5a6e90ba51afb0af7f6827fa613507405a1d3bf5cb475](https://bscscan.com/tx/0x062a676d75029ac428b5a6e90ba51afb0af7f6827fa613507405a1d3bf5cb475) [https://bscscan.com/tx/0x20af0dc38d32a4e53d730b8fd4d19eb36eb6c3ca1bdf4d72905cc9e7c9ec67ca](https://bscscan.com/tx/0x20af0dc38d32a4e53d730b8fd4d19eb36eb6c3ca1bdf4d72905cc9e7c9ec67ca) [https://bscscan.com/tx/0xbf2e90459a89a292da42de5d9dc1b1ee265ec473c2d62f038218e1e9a9e63b23](https://bscscan.com/tx/0xbf2e90459a89a292da42de5d9dc1b1ee265ec473c2d62f038218e1e9a9e63b23)
-
-#### 
-
-#### Supply blocking transactions
-
-#### [https://bscscan.com/tx/0x2562a321f63c33a47a365f0404ee843ecf8475799870d273c042630938b4b519](https://bscscan.com/tx/0x2562a321f63c33a47a365f0404ee843ecf8475799870d273c042630938b4b519) [https://bscscan.com/tx/0x0f3cfc4581ddc8dd18417dce6e6f7006a3436ff8f323ce07202af7d78ab955f9](https://bscscan.com/tx/0x0f3cfc4581ddc8dd18417dce6e6f7006a3436ff8f323ce07202af7d78ab955f9)
-
-#### 
-
-#### Initial Supply Distribution
-
-* 24.000 BALLE tokens. BalleVaults rewards deposited in the Smart Contracts:
-  * 0x28ef2c802ce26c961fe46cb777876bb532d36a57 [https://bscscan.com/address/0x28ef2c802ce26c961fe46cb777876bb532d36a57](https://bscscan.com/address/0x28ef2c802ce26c961fe46cb777876bb532d36a57)
-* 13.000 BALLE tokens. BALLE Staking Pool rewards deposited in the Smart Contracts:
-  * 0x95b901549d7e9adc63ffb7cd95a5681427259520 [https://bscscan.com/address/0x95b901549d7e9adc63ffb7cd95a5681427259520](https://bscscan.com/address/0x95b901549d7e9adc63ffb7cd95a5681427259520)
-* 3.000 BALLE  tokens. DAO funds for purposes such as liquidity, aridrops and contribution rewards deposited in the Smart Contracts:
-  * Timelock for initial liquidity, promotion, airdrops - 600 BALLE tokens.
-    * 0x0891CC8a8Ee37B5ad28c79Cac6b948caC4e57797 [https://bscscan.com/address/0x0891CC8a8Ee37B5ad28c79Cac6b948caC4e57797](https://bscscan.com/address/0x0891CC8a8Ee37B5ad28c79Cac6b948caC4e57797)
-  * Timelock for the dev team - 80 BALLE for each wallet. \(Initially 400, limited to 80 tokens allocating the rest to the DAO\)
-    * 0xbf517016207FDcE78a510045eA7D215E8CbdC2e3 [https://bscscan.com/address/0xbf517016207FDcE78a510045eA7D215E8CbdC2e3](https://bscscan.com/address/0xbf517016207FDcE78a510045eA7D215E8CbdC2e3)
-    * 0x99C852D10A3d403fDa091dCfC374a01FfaD693E0 [https://bscscan.com/address/0x99C852D10A3d403fDa091dCfC374a01FfaD693E0](https://bscscan.com/address/0x99C852D10A3d403fDa091dCfC374a01FfaD693E0)
-    * 0xDcAD30498D8eC6722710ACa5361A0E76c493d47F [https://bscscan.com/address/0xDcAD30498D8eC6722710ACa5361A0E76c493d47F](https://bscscan.com/address/0xDcAD30498D8eC6722710ACa5361A0E76c493d47F)
-    * 0x7b31ab03B5E98af73708DDD976f6137e72E5F9B7 [https://bscscan.com/address/0x7b31ab03B5E98af73708DDD976f6137e72E5F9B7](https://bscscan.com/address/0x7b31ab03B5E98af73708DDD976f6137e72E5F9B7)
-    * 0x2039598E4B71222760524b3E9b31f7ADaB927b47 [https://bscscan.com/address/0x2039598E4B71222760524b3E9b31f7ADaB927b47](https://bscscan.com/address/0x2039598E4B71222760524b3E9b31f7ADaB927b47)
-    * 0xa300FD2C9ee14d743F7571fF9C0975fB14a5Da45 [https://bscscan.com/address/0xa300FD2C9ee14d743F7571fF9C0975fB14a5Da45](https://bscscan.com/address/0xa300FD2C9ee14d743F7571fF9C0975fB14a5Da45)
-
 ## Smart contracts BALLEv2
 
 **BALLE**
@@ -152,6 +111,47 @@ No more supply is possible, minter account was removed from Smart Contracts and 
 **BalleRewardFund**
 
 {% embed url="https://bscscan.com/address/0x11e4ecf13e3b4ccb246ae538d28ecceb28e28833" %}
+
+## Smart contracts BALLEv1\(Old\)
+
+BALLE token address \(Old\): 0x9f0D5f45CE8573f43E0BA17876329784be0fd700
+
+### Published Contracts
+
+Total supply was minted and deposited to corresponding Smart Contracts for distribution.
+
+No more supply is possible, minter account was removed from Smart Contracts and is not possible to set a new one.
+
+
+
+#### Minting transactions
+
+#### [https://bscscan.com/tx/0x91fbc4e42e28d94f556fe4f3901da7d4f7df334ed9be57eea0ed72c530128a33](https://bscscan.com/tx/0x91fbc4e42e28d94f556fe4f3901da7d4f7df334ed9be57eea0ed72c530128a33) [https://bscscan.com/tx/0xf1b68baf9dcf62141c827957a25898805e08e84e24358023ba2db60343731275](https://bscscan.com/tx/0xf1b68baf9dcf62141c827957a25898805e08e84e24358023ba2db60343731275) [https://bscscan.com/tx/0x039edfe664abf6308fd43692c835bb79ceb3816697fff4a0f6748fff4c0d3cd8](https://bscscan.com/tx/0x039edfe664abf6308fd43692c835bb79ceb3816697fff4a0f6748fff4c0d3cd8) [https://bscscan.com/tx/0xda4fd2634c684020af88822afdabcbbea94bbf4b209bff119494f14e431a4f96](https://bscscan.com/tx/0xda4fd2634c684020af88822afdabcbbea94bbf4b209bff119494f14e431a4f96) [https://bscscan.com/tx/0xe40a90f08a604257430cdd4dbed7c40257701d4bcca25a0d107635bbb50b2deb](https://bscscan.com/tx/0xe40a90f08a604257430cdd4dbed7c40257701d4bcca25a0d107635bbb50b2deb) [https://bscscan.com/tx/0x591ad9fa4b6640fc8bf13cdfe33e2f121631d5ba413131ba9f50aeb85827a511](https://bscscan.com/tx/0x591ad9fa4b6640fc8bf13cdfe33e2f121631d5ba413131ba9f50aeb85827a511) [https://bscscan.com/tx/0x912effb79fe78630a4b479324a03e49393f5986ba71059e855e2e64128e988e8](https://bscscan.com/tx/0x912effb79fe78630a4b479324a03e49393f5986ba71059e855e2e64128e988e8) [https://bscscan.com/tx/0x062a676d75029ac428b5a6e90ba51afb0af7f6827fa613507405a1d3bf5cb475](https://bscscan.com/tx/0x062a676d75029ac428b5a6e90ba51afb0af7f6827fa613507405a1d3bf5cb475) [https://bscscan.com/tx/0x20af0dc38d32a4e53d730b8fd4d19eb36eb6c3ca1bdf4d72905cc9e7c9ec67ca](https://bscscan.com/tx/0x20af0dc38d32a4e53d730b8fd4d19eb36eb6c3ca1bdf4d72905cc9e7c9ec67ca) [https://bscscan.com/tx/0xbf2e90459a89a292da42de5d9dc1b1ee265ec473c2d62f038218e1e9a9e63b23](https://bscscan.com/tx/0xbf2e90459a89a292da42de5d9dc1b1ee265ec473c2d62f038218e1e9a9e63b23)
+
+#### 
+
+#### Supply blocking transactions
+
+#### [https://bscscan.com/tx/0x2562a321f63c33a47a365f0404ee843ecf8475799870d273c042630938b4b519](https://bscscan.com/tx/0x2562a321f63c33a47a365f0404ee843ecf8475799870d273c042630938b4b519) [https://bscscan.com/tx/0x0f3cfc4581ddc8dd18417dce6e6f7006a3436ff8f323ce07202af7d78ab955f9](https://bscscan.com/tx/0x0f3cfc4581ddc8dd18417dce6e6f7006a3436ff8f323ce07202af7d78ab955f9)
+
+#### 
+
+#### Initial Supply Distribution
+
+* 24.000 BALLE tokens. BalleVaults rewards deposited in the Smart Contracts:
+  * 0x28ef2c802ce26c961fe46cb777876bb532d36a57 [https://bscscan.com/address/0x28ef2c802ce26c961fe46cb777876bb532d36a57](https://bscscan.com/address/0x28ef2c802ce26c961fe46cb777876bb532d36a57)
+* 13.000 BALLE tokens. BALLE Staking Pool rewards deposited in the Smart Contracts:
+  * 0x95b901549d7e9adc63ffb7cd95a5681427259520 [https://bscscan.com/address/0x95b901549d7e9adc63ffb7cd95a5681427259520](https://bscscan.com/address/0x95b901549d7e9adc63ffb7cd95a5681427259520)
+* 3.000 BALLE  tokens. DAO funds for purposes such as liquidity, aridrops and contribution rewards deposited in the Smart Contracts:
+  * Timelock for initial liquidity, promotion, airdrops - 600 BALLE tokens.
+    * 0x0891CC8a8Ee37B5ad28c79Cac6b948caC4e57797 [https://bscscan.com/address/0x0891CC8a8Ee37B5ad28c79Cac6b948caC4e57797](https://bscscan.com/address/0x0891CC8a8Ee37B5ad28c79Cac6b948caC4e57797)
+  * Timelock for the dev team - 80 BALLE for each wallet. \(Initially 400, limited to 80 tokens allocating the rest to the DAO\)
+    * 0xbf517016207FDcE78a510045eA7D215E8CbdC2e3 [https://bscscan.com/address/0xbf517016207FDcE78a510045eA7D215E8CbdC2e3](https://bscscan.com/address/0xbf517016207FDcE78a510045eA7D215E8CbdC2e3)
+    * 0x99C852D10A3d403fDa091dCfC374a01FfaD693E0 [https://bscscan.com/address/0x99C852D10A3d403fDa091dCfC374a01FfaD693E0](https://bscscan.com/address/0x99C852D10A3d403fDa091dCfC374a01FfaD693E0)
+    * 0xDcAD30498D8eC6722710ACa5361A0E76c493d47F [https://bscscan.com/address/0xDcAD30498D8eC6722710ACa5361A0E76c493d47F](https://bscscan.com/address/0xDcAD30498D8eC6722710ACa5361A0E76c493d47F)
+    * 0x7b31ab03B5E98af73708DDD976f6137e72E5F9B7 [https://bscscan.com/address/0x7b31ab03B5E98af73708DDD976f6137e72E5F9B7](https://bscscan.com/address/0x7b31ab03B5E98af73708DDD976f6137e72E5F9B7)
+    * 0x2039598E4B71222760524b3E9b31f7ADaB927b47 [https://bscscan.com/address/0x2039598E4B71222760524b3E9b31f7ADaB927b47](https://bscscan.com/address/0x2039598E4B71222760524b3E9b31f7ADaB927b47)
+    * 0xa300FD2C9ee14d743F7571fF9C0975fB14a5Da45 [https://bscscan.com/address/0xa300FD2C9ee14d743F7571fF9C0975fB14a5Da45](https://bscscan.com/address/0xa300FD2C9ee14d743F7571fF9C0975fB14a5Da45)
 
 
 
