@@ -46,17 +46,17 @@ You can see the active vaults listed here:
 
 **VRT-BNB** 
 
-_BTCST-BNB_
+**BTCST-BNB**
 
-_WATCH-BNB_
+**WATCH-BNB**
 
-_TWT-BNB_
+**TWT-BNB**
 
-_CAKE-BNB_
+**CAKE-BNB**
 
-_ADA-BNB_
+**ADA-BNB**
 
-_TUSD-BUSD_
+**TUSD-BUSD**
 
 ## Vaults Format
 
