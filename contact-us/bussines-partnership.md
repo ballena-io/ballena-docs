@@ -6,7 +6,7 @@ The best way of contacting us for contracts and commercial associations is throu
 
 You can also find us on our Telegram:
 
-{% embed url="https://t.me/ballenaspanish" %}
+{% embed url="https://t.me/ballenaenglish" %}
 
 Do not hesitate to write to us if you have any questions or proposals. Get in touch with the community and the developers will assist you as soon as possible.
 
