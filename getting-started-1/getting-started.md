@@ -4,7 +4,7 @@
 
 DeFi for ‘Decentralized Finance’. There is no institution that governs the app. This avoids manipulation, embezzlement and those high fees we are used to. 
 
-Every day, new projects are launched with different aims like, solving existing problems, investment, etc. [ballena.io](https://ballena.io/) has been created to **reinvest your profits automatically into different investment funds** so you don´t have to do it by yourself. This way, you maximise them **exponentially**. 
+Every day, new projects are launched with different aims like, solving existing problems, investment, etc. [ballena.io](https://ballena.io/) has been created to **reinvest your profits automatically into different investment funds** so you don´t have to do it by yourself. This way, you maximize them **exponentially**. 
 
 
 
