@@ -46,6 +46,18 @@ You can see the active vaults listed here:
 
 **VRT-BNB** 
 
+_BTCST-BNB_
+
+_WATCH-BNB_
+
+_TWT-BNB_
+
+_CAKE-BNB_
+
+_ADA-BNB_
+
+_TUSD-BUSD_
+
 ## Vaults Format
 
 In the "Vaults" section of the [ballena.io](https://ballena.io/) dapp you will find both the currently active vaults and the retired ones.
