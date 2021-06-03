@@ -1,6 +1,6 @@
 # Retirar los LP de una BalleVault
 
-Para retirar tanto los tokens LP como las ganancias generadas en la misma, seguiremos este pequeño tutorial. Al cosechar tu inversión recibirás:
+Para retirar tanto los tokens LP como las ganancias generadas en la misma, seguiremos este pequeño tutorial. Al retirar tu inversión recibirás:
 
 * Los LP tokens aportados.
 * Los LP ganados debido al interés compuesto.
@@ -10,39 +10,41 @@ Sigue los siguientes pasos para ello:
 
 
 
-### 1. Una vez dentro de la app [ballena.io](https://app.ballena.io/), conecta tu Metamask como en el resto de los tutoriales.
+### 1. Accede a la Dapp de ballena.io y conecta tu wallet Metamask.
+
+
+
+![](../../../../.gitbook/assets/connect-wallet.gif)
 
 ### 
 
-### 2. Selecciona la BalleVault de la que quieres retirar tus fondos y haz clic en "RETIRAR".
+### 2. Navega al apartado "Vaults".
 
 
 
-![](../../../../.gitbook/assets/image%20%284%29.png)
+![](../../../../.gitbook/assets/navega-a-vaults.gif)
+
+### 
+
+### 3. Elige la vault donde depositaste tus fondos, haz click en "-", el símbolo de retirar, y confirma la transacción en Metamask.
 
 
 
-### 3. Selecciona "RETIRAR" o "RETIRAR TODO".
+
+
+![](../../../../.gitbook/assets/retirar-lp.gif)
 
 
 
-![](../../../../.gitbook/assets/image%20%287%29.png)
+### 4. Ya has retirado tus fondos. Comprueba que en tu cartera cuentas con los LP correspondientes y los tokens BALLE. 
 
-
-
-### 4. Acepta las tasas de transacción haciendo clic en confirmar.
-
-
-
-![](../../../../.gitbook/assets/image%20%285%29.png)
-
-
-
-### 5. Ya has retirado tus fondos. Comprueba que en tu cartera cuentas con los LP correspondientes y los tokens BALLE. 
-
+{% hint style="warning" %}
 Asegúrate de tener esos tokens agregados en tu Metamask o no podrás verlos. Para ello dirígete a este [tutorial](../metamask/como-anadir-un-token-personalizado-a-metamask.md). 
+{% endhint %}
 
 Además, podrás ver tus LP tokens tanto en Metamask como en el apartado "Liquidity" de [PancakeSwap](https://pancakeswap.finance/).
+
+
 
 
 
