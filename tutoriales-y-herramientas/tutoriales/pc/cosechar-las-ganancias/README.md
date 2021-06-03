@@ -1,12 +1,16 @@
 # Cosechar las ganancias
 
-Tenemos dos maneras principales de cosechar las ganancias de [ballena.io](https://app.ballena.io/).
+Tenemos dos maneras principales de cosechar las ganancias de las vaults de [ballena.io](https://app.ballena.io/).
 
 **1- Cosechar las recompensas BALLE.**
 
 \*\*\*\*
 
 **2.- Retirar nuestros LP tokens junto con las recompensas BALLE.**
+
+\*\*\*\*
+
+\*\*\*\*
 
 
 
