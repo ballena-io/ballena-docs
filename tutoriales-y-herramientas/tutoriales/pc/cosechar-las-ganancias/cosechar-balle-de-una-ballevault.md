@@ -6,11 +6,11 @@ No es necesario retirar tus tokens LP para cosechar las recompensas de BALLE tok
 
 
 
-### 1. Accede a la Dapp de ballena.io y conecta tu wallet Metamask.
+### 1. Accede a la Dapp de [ballena.io](https://app.ballena.io/) y conecta tu wallet Metamask.
 
 
 
-![](../../../../.gitbook/assets/connect-wallet.gif)
+![](../../../../.gitbook/assets/conecta-wallet.gif)
 
 ### 
 
@@ -18,7 +18,7 @@ No es necesario retirar tus tokens LP para cosechar las recompensas de BALLE tok
 
 
 
-![](../../../../.gitbook/assets/navega-a-vaults.gif)
+![](../../../../.gitbook/assets/navega-a-vaults%20%281%29.gif)
 
 ### 
 
