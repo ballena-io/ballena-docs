@@ -4,9 +4,15 @@ En este pequeño tutorial veremos como cosechar los BALLE tokens generados en un
 
 No es necesario retirar tus tokens LP para cosechar las recompensas de BALLE tokens.
 
+
+
 ### 1. Accede a la Dapp de ballena.io y conecta tu wallet Metamask.
 
 
+
+![](../../../../.gitbook/assets/connect-wallet.gif)
+
+### 
 
 ### 2. Navega al apartado "Vaults".
 
@@ -29,6 +35,8 @@ No es necesario retirar tus tokens LP para cosechar las recompensas de BALLE tok
 {% hint style="warning" %}
 Recuerda agregar el token BALLE correctamente a tu Metamask, de lo contrario, no podrás verlos.
 {% endhint %}
+
+{% page-ref page="../metamask/como-anadir-un-token-personalizado-a-metamask.md" %}
 
 
 
