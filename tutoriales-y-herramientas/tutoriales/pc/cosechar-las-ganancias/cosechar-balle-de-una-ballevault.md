@@ -10,7 +10,7 @@ No es necesario retirar tus tokens LP para cosechar las recompensas de BALLE tok
 
 
 
-![](../../../../.gitbook/assets/conecta-wallet.gif)
+![](../../../../.gitbook/assets/conecta-wallet%20%281%29.gif)
 
 ### 
 
@@ -18,7 +18,7 @@ No es necesario retirar tus tokens LP para cosechar las recompensas de BALLE tok
 
 
 
-![](../../../../.gitbook/assets/navega-a-vaults%20%281%29.gif)
+![](../../../../.gitbook/assets/navega-a-vaults%20%282%29.gif)
 
 ### 
 
