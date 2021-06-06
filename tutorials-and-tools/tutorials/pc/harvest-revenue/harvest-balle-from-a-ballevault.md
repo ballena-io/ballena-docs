@@ -26,7 +26,7 @@ In this short tutorial, we will learn how to harvest the BALLE tokens generated 
 
 \*\*\*\*
 
-\*\*\*\*
+![](../../../../.gitbook/assets/harvest-balle.gif)
 
 \*\*\*\*
 
