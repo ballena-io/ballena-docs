@@ -1,30 +1,48 @@
 # Withdraw LPs from a BalleVault
 
-### **Harvest Revenue**
+In order to withdraw both the LP tokens and the profits generated in the vaults, we will follow this small tutorial. When you press withdraw button on a vault, you receive:
 
-### **BalleVaults**
+* The deposited LP tokens.
+* The LP earned due to compound interest.
+* BALLE token rewards.
 
-We have two main ways of harvesting our revenue from the [ballena.io](https://app.ballena.io/) vaults. On the one hand, we can harvest the BALLE rewards exclusively, and on the other hand, we can withdraw our LP tokens to obtain the profits obtained from the compound interest plus the BALLE token rewards.
+Follow the steps below to do so.
+
+
+
+### **1. Access the**[ **ballena.io**](https://app.ballena.io/) **and connect your Metamask wallet.**
 
 **‌**
 
-#### **1- Harvest the BALLE rewards.**
+![](../../../../.gitbook/assets/connect-wallet%20%281%29.gif)
 
-{% embed url="https://docs.ballena.io/v/en/tutorials-and-tools/tutorials/pc/harvest-revenue/harvest-balle-from-a-ballevault" %}
+### \*\*\*\*
 
-\*\*\*\*
+### **2. Navigate to the "Vaults" section.**
 
-#### **2.- Withdraw our LP tokens and the BALLE rewards.**
+**‌**
 
-{% embed url="https://docs.ballena.io/v/en/tutorials-and-tools/tutorials/pc/harvest-revenue/withdraw-lps-from-a-ballevault" %}
-
-\*\*\*\*
-
-### **BALLE Staking Pool**
-
-**IN PROGRESS**
+![](../../../../.gitbook/assets/navigate-to-vaults%20%281%29.gif)
 
 \*\*\*\*
 
+### **3. Look for the vault where you deposited your funds, click on "-", the withdraw button, and confirm the transaction in Metamask.**
+
+**‌**
+
+![](../../../../.gitbook/assets/withdraw-lp.gif)
+
 \*\*\*\*
+
+### **4. You have already withdrawn your funds. Check that you have the corresponding LPs and the BALLE tokens in your wallet.**
+
+{% hint style="warning" %}
+Make sure you have those tokens correctly added to your Metamask or you won't be able to see them. Click on this [tutorial ](../metamask/how-to-add-a-custom-token-to-metamask.md)if needed.
+{% endhint %}
+
+You will be able to see your LP tokens both in Metamask and in the "Liquidity" section in [PancakeSwap](https://pancakeswap.finance/).
+
+
+
+
 

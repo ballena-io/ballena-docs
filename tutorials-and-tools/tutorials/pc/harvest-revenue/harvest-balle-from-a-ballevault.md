@@ -10,7 +10,7 @@ In this short tutorial, we will learn how to harvest the BALLE tokens generated 
 
 ### \*\*\*\*
 
-![](../../../../.gitbook/assets/connect-wallet%20%281%29.gif)
+![](../../../../.gitbook/assets/connect-wallet%20%282%29.gif)
 
 ### **‌**
 
