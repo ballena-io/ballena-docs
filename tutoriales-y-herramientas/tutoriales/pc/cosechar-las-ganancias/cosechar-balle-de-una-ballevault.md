@@ -1,6 +1,6 @@
 # Cosechar BALLE de una BalleVault
 
-En este pequeño tutorial veremos como cosechar los BALLE tokens generados en una de tus vaults cómo recompensa.
+En este pequeño tutorial veremos cómo cosechar los BALLE tokens generados en una de tus vaults cómo recompensa.
 
 No es necesario retirar tus tokens LP para cosechar las recompensas de BALLE tokens.
 
