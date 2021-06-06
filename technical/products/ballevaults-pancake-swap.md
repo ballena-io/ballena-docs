@@ -58,6 +58,12 @@ You can see the active vaults listed here:
 
 **TUSD-BUSD**
 
+**TRX-BNB**
+
+**UNI-BNB**
+
+**LINK-BNB**
+
 ## Vaults Format
 
 In the "Vaults" section of the [ballena.io](https://ballena.io/) dapp you will find both the currently active vaults and the retired ones.
