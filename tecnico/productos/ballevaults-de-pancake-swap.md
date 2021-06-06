@@ -54,6 +54,12 @@ A continuación se listan las bóvedas activas:
 
 **TUSD-BUSD**
 
+**TRX-BNB**
+
+**UNI-BNB**
+
+**LINK-BNB**
+
 ## Formato de las bóvedas
 
 En el apartado "Vaults" de la Dapp de [ballena.io](https://ballena.io/) encontrarás tanto las Vaults activas actualmente como las retiradas.
