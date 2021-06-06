@@ -1,6 +1,6 @@
 # Harvest BALLE from a BalleVault
 
-In this short tutorial we will learn how to harvest the BALLE tokens generated as rewards in one of the vaults.
+In this short tutorial, we will learn how to harvest the BALLE tokens generated as rewards in one of the vaults.
 
 ‌It is not necessary to withdraw your LP tokens to harvest the BALLE token rewards.
 
