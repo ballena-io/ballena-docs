@@ -40,6 +40,7 @@
         * [How to purchase the BALLE token](tutorials-and-tools/tutorials/pc/participate-in-ballena.io/advanced-how-to-participate-in-the-balle-staking-pool/how-to-purchase-the-balle-token.md)
         * [Add BALLE tokens to the Staking Pool](tutorials-and-tools/tutorials/pc/participate-in-ballena.io/advanced-how-to-participate-in-the-balle-staking-pool/add-balle-tokens-to-the-staking-pool.md)
     * [Harvest Revenue](tutorials-and-tools/tutorials/pc/harvest-revenue.md)
+    * [Harvest BALLE from a BalleVault](tutorials-and-tools/tutorials/pc/harvest-balle-from-a-ballevault.md)
   * [Smartphone/Tablet](tutorials-and-tools/tutorials/smartphone-tablet/README.md)
     * [First steps: Binance](tutorials-and-tools/tutorials/smartphone-tablet/first-steps-binance/README.md)
       * [Set up a Binance account](tutorials-and-tools/tutorials/smartphone-tablet/first-steps-binance/set-up-a-binance-account.md)
