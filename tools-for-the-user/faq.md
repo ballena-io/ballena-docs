@@ -38,19 +38,19 @@ If you can´t find yourself in this DeFI world but you still want to get the gre
 
 #### 1. Is the project audited?
 
-The project is currently undergoing an audit process. It will be published here.
+Yes, you can find the audits [here](https://github.com/ballena-io/ballena-audits).
 
 
 
 #### 2. Are its contracts verified?
 
-Yes, all contracts´ codes have been verified and published on [BSCScan](https://bscscan.com/token/0x9f0d5f45ce8573f43e0ba17876329784be0fd700). For more information click [here](../technical/tokenomics.md#smart-contracts).
+Yes, all contracts´ codes have been **verified and published** on BSCScan. For more information click [here](../technical/tokenomics.md#smart-contracts).
 
 
 
 #### 3. Is [ballena.io](https://ballena.io/) safe?
 
-Our project is audited, our contracts verified and we are part of a huge community on social media. We truly believe in the transparency of the project serving as a proof of the safety provided.
+Our project is audited, our contracts verified and we are part of a huge community on social media. We truly believe in the **transparency of the project** serving as a proof of the safety provided.
 
 Nevertheless the DeFi and Crypto world counts with some inherent risks which you should be aware of. For more info about Security and Risks click [here](../technical/security-and-risks/).
 
@@ -60,7 +60,7 @@ Nevertheless the DeFi and Crypto world counts with some inherent risks which you
 
 #### 1. Are the tokenomics of this project sustainable?
 
-After conducting a deep research through the tokenomics in the DeFi market, the Dev. Team has developed a tokenomics structure that guarantees the economic success of the project, as well as the profitability of its token and listed products. For more information regarding this question click in [tokenomics](../technical/tokenomics.md).
+After conducting a deep research through the tokenomics in the DeFi market, the Dev. Team has developed a tokenomics structure that **guarantees the economic success of the project**, as well as the profitability of its token and listed products. For more information regarding this question click in [tokenomics](../technical/tokenomics.md).
 
 
 
@@ -68,15 +68,15 @@ After conducting a deep research through the tokenomics in the DeFi market, the 
 
 The maximum total supply is 40000 BALLE tokens. These tokens are divided in 3 groups:
 
-* 24000 tokens distributed during the first year for the BalleVaults´ users.
-* 12000 tokens distributed as an extra reward for users practicing BALLE staking.
+* 24000 tokens distributed during the first year for the **BalleVaults´ users**.
+* 12000 tokens distributed as an **extra reward** for users practicing **BALLE staking**.
 * 4000 tokens for the Dev. Team and promotion purposes.
 
 
 
 #### 3. Is there a buy-back program? When does it happen?
 
-Yes, the [ballena.io](https://ballena.io/)  platform buys BALLE tokens as a percentage of its WBNB benefit coming from the total platform´s revenue. [ballena.io](https://ballena.io/)  distributes these tokens among the users actively forming part of the BALLE Staking Pool.
+Yes, the [ballena.io](https://ballena.io/)  platform **buys BALLE tokens** as a percentage of its WBNB benefit coming from the total platform´s revenue. [ballena.io](https://ballena.io/)  distributes these tokens among the users actively forming part of the BALLE Staking Pool.
 
 
 
@@ -84,19 +84,19 @@ Yes, the [ballena.io](https://ballena.io/)  platform buys BALLE tokens as a perc
 
 #### **1. BalleVaults**
 
-The BalleVaults increase your LP tokens for the corresponding pair. If the user adds liquidity to the pool CAKE-BNB, he will find that the LP tokens increase as the time goes by. These users will also receive a BALLE tokens reward from the 24000 tokens distribution. These BALLE can then be used for staking at the BALLE Staking Pool found at the Governance APP. More info in Products.
+The BalleVaults **increase your LP tokens** for the corresponding pair. If the user adds liquidity to the pool CAKE-BNB, he will find that the LP tokens increase as the time goes by. These **users will also receive a BALLE tokens reward** from the 24000 tokens distribution. These BALLE can then be used for staking at the BALLE Staking Pool found at the Governance APP. More info in Products.
 
 **‌**
 
 #### **2. BALLE Staking**
 
-Staking BALLE will essentially increase your BALLE tokens. This product also enables users to gain access to an extra reward of 12000 BALLE tokens. You will find the BALLE Staking Pool at the Governance App and you will be able to access the voting platform for actively participating in the decision making process of the community.
+Staking BALLE will essentially **increase your BALLE tokens**. This product also enables users to gain access to an extra reward of 12000 BALLE tokens. You will find the BALLE Staking Pool at the Governance App and you will be able to access the voting platform for actively participating in the decision making process of the community.
 
 **‌**
 
 #### **3. SimpleFarming**
 
-[ballena.io](https://ballena.io/) allocates, swaps and reinvests your tokens based upon the most profitable strategy. Add liquidity to SimpleFarming and harvest revenue with no effort.
+[ballena.io](https://ballena.io/) **allocates, swaps and reinvests your tokens** based upon the most profitable strategy. **Add liquidity to SimpleFarming and harvest revenue with no effort**.
 
 SimpleFarming adds a level of optimization to the chain, the complete automation of our crypto flow finding the best yields in the BSC. Add your tokens to SimpleFarming and[ ballena.io](https://ballena.io/) will maximize your benefits through the most profitable strategies. More info coming soon.
 
