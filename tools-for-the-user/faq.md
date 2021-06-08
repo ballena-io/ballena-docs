@@ -4,7 +4,7 @@
 
 #### 1. BALLE Token
 
-BALLE token is [ballena.io](https://ballena.io/)´s native token. [ballena.io](https://ballena.io/) a yield optimizing automated platform based on the BSC and BALLE serves as the governance token, allowing holders to vote and get revenue from staking it.
+BALLE token is [ballena.io](https://ballena.io/)´s native token. [ballena.io](https://ballena.io/) a yield **optimizing automated platform** based on the BSC and BALLE serves as the governance token, allowing holders to vote and get revenue from staking it.
 
 
 
@@ -16,7 +16,7 @@ BALLE token is listed on [BSCScan](https://bscscan.com/token/0x9f0d5f45ce8573f43
 
 #### 3. What does Ballena.io platform offer?
 
-[ballena.io](https://ballena.io/)  offers revenue strategies based upon staking and vaults. It also offers the governance token BALLE as mentioned above, as well as voting for holders. For more info click [here](../getting-started-1/what-does-ballena.io-offer.md).
+[ballena.io](https://ballena.io/)  offers **revenue strategies** based upon staking and vaults. It also offers the **governance token BALLE** as mentioned above, as well as voting for holders. For more info click [here](../getting-started-1/what-does-ballena.io-offer.md).
 
 But not only that! [ballena.io](https://ballena.io/) ´s immersive community is growing at an exponential rate and is waiting for you to join it, seek for help and share your ideas. Feel free to come and say hi in [here](../#community).
 
@@ -24,13 +24,13 @@ But not only that! [ballena.io](https://ballena.io/) ´s immersive community is 
 
 #### 4. Who is behind this project?
 
-One of the greatest questions. The [ballena.io](https://ballena.io/) community was born as a DAO for the good and development of its nature. The project serves as a profitable product for equally all members in the community, in which new ideas and choices are proposed and decided as a group with no disadvantages. [ballena.io](https://ballena.io/) adds a voting platform for this use, as well as a Multisig system for its support.
+One of the greatest questions. The [ballena.io](https://ballena.io/) community was born as a DAO for the good and development of its nature. The project serves as a profitable product for equally all members in the community, in which new ideas and **choices are proposed and decided as a group** with no disadvantages. [ballena.io](https://ballena.io/) adds a voting platform for this use, as well as a Multisig system for its support.
 
 
 
 #### 5. I´m lost in here, What should I do?
 
-If you can´t find yourself in this DeFI world but you still want to get the greatest yield out of your investment, [ballena.io](https://ballena.io/) will help you with this. We have created an extensive highly detailed tutorial. Click [here ](../tutorials-and-tools/tutorials/)and start with us.
+If you can´t find yourself in this DeFI world but you still want to get the greatest yield out of your investment, [ballena.io](https://ballena.io/) will help you with this. We have created an extensive **highly detailed tutorial**. Click [here ](../tutorials-and-tools/tutorials/)and start with us.
 
 #### 
 
