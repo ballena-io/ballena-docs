@@ -104,19 +104,19 @@ SimpleFarming adds a level of optimization to the chain, the complete automation
 
 #### **4. APR/APY**
 
-The APY is the Annual Percentage Yield. Assets added to the liquidity of a pool will generate yields along the whole year shown as APY. The APY is taking into account the auto-compound, meaning the reinvestment of all the returns gained in the pool.[ ballena.io](https://ballena.io/) takes care of the auto-compound and shows the APY, thus. On the other hand, the APR is the Annual Percentage Rate and doesn't take into account the compound interest.
+The APY is the **Annual Percentage Yield**. Assets added to the liquidity of a pool will generate yields along the whole year shown as APY. The APY is **taking into account the auto-compound**, meaning the reinvestment of all the returns gained in the pool.[ ballena.io](https://ballena.io/) takes care of the auto-compound and shows the APY, thus. On the other hand, the APR is the **Annual Percentage Rate** and doesn't take into account the compound interest.
 
 **‌**
 
 #### **5. Why some weird APY values?**
 
-If the APY values look weird or don't appear, usually means you are not in the proper network. In case of any bugs in the platform, it would immediately be published in the social media.
+If the APY values look weird or don't appear, usually means **you are not in the proper network**. In case of any bugs in the platform, it would immediately be published in the social media.
 
 **‌**
 
 #### **6. How does auto-compound work?**
 
-The auto-compound is the automatic reinvestment of all your pool gains.[ ballena.io](https://ballena.io/) harvests your revenue and reinvests it for the gains to be exponential. A 1% of the platform benefits is used for paying off reinvestment fees.
+The auto-compound is the automatic reinvestment of all your pool gains.[ ballena.io](https://ballena.io/) **harvests your revenue and reinvests it for the gains to be exponential**. A 1% of the platform benefits is used for paying off reinvestment fees.
 
 **‌**
 
@@ -132,26 +132,26 @@ The auto-compound is the automatic reinvestment of all your pool gains.[ ballena
   * 1% allocated to the project treasury \(this amount faces the reinvesting fees and Smart Contracts deployment fees\).
 
 * 10% of the revenue generated at the BALLE Staking Pool is destined to the project´s treasury for the DAO´s future expenses. This is a temporary fee, applicable while the 12,000 BALLE are distributed through this pool.
-* 0.1% is the vaults´ harvest fee.
+* 0.1% is the vaults´ deposit fee.
 
 **‌**
 
 #### **8. Connection error while launching the App**
 
-Newbie users can usually find the message "Connection error" at the time of launching the App. This error is usually due to a lack of proper configuration of the user´s wallet for the BSC. Make sure you are on the Binance Smart Chain on your wallet´s network. You can find how to do this in our tutorials.  
+Newbie users can usually find the message "Connection error" at the time of launching the App. This error is usually due to a **lack of proper configuration of the user´s wallet for the BSC**. Make sure you are on the Binance Smart Chain on your wallet´s network. You can find how to do this in our tutorials.  
 
 
 ## Governance & Voting
 
 #### 1. Is there a treasury?
 
-Yes, there is a treasury in the [ballena.io](https://ballena.io/) to ensure the correct development of the project. The treasury receives 0.5% of the platform´s revenue, as well as the 10% of the extra reward during its distribution.
+Yes, there is a treasury in the [ballena.io](https://ballena.io/) to **ensure the correct development of the project**. The treasury receives 0.5% of the platform´s revenue, as well as the 10% of the extra reward during its distribution.
 
 ### 
 
 #### 2. Voting platform?
 
-[ballena.io](https://ballena.io/)´s decisions are taken among the community following the DAO bases. Users actively participating in the Governance APP with BALLE tokens will have access to the voting platform. Here you can create and vote  on proposals as a BALLE token holder. 
+[ballena.io](https://ballena.io/)´s **decisions are taken among the community** following the DAO bases. Users actively participating in the Governance APP with BALLE tokens will have access to the voting platform. Here you can create and vote on proposals as a BALLE token holder. 
 
 For more information about this process, navigate to the documentation of our [DAO ](../dao-organization/dao-introduction.md)or its [Tutorials](../tutorials-and-tools/tutorials/). 
 
