@@ -5,7 +5,7 @@ description: Un resumen sobre las tareas llamadas "Epics" en las que estamos tra
 # Roadmap
 
 {% hint style="success" %}
-## ESTADO: Lanzamiento vaults COMPLETADO. Trabajando en la BALLE Staking pool.
+## ESTADO: Lanzamiento BALLE Staking pool COMPLETADO.
 {% endhint %}
 
 Sabemos que no es exactamente un roadmap, sino una lista de tareas sin un orden en particular o tiempos estimados. Cada tarea épica de esta lista se subdivide a su vez en pequeñas tareas por el equipo de desarrollo.
@@ -37,8 +37,8 @@ Debido a la naturaleza del proyecto, trabajamos tan rápido como podemos en lo q
 * [x] Anunciar Vaults.
 * [x] Lanzamiento nuevas vaults generando BALLE como recompensa.
 * [x] Test Staking Pool
-* [ ] Anunciar Staking.
-* [ ] Lanzamiento Staking Pool.
+* [x] Anunciar Staking.
+* [x] Lanzamiento Staking Pool.
 * [ ] Listing CMC, Coingecko, etc.
 * [ ] Auditoría CERTIK.
 * [ ] Campaña marketing.
