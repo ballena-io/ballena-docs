@@ -32,13 +32,13 @@ Due to the nature of the project, we work as fast as we can on what we consider 
 * [x] Token migration from v1.0 to v2.0.
 * [x] Vaults announcements.
 * [x] Launch First Vaults.
+* [x] Add new Vaults generating BALLE as a reward - Strategies.
+* [x] Audit.
 * [x] Staking pool test.
 * [x] Staking announcements.
 * [x] Launch Staking Pool.
 * [ ] Listing CMC, Coingecko, etc.
-* [ ] CERTIK Audit.
 * [ ] Marketing campaign.
-* [ ] Add new Vaults generating BALLE as a reward - Strategies.
 * [ ] Frontend UX/UI optimization.
 
 ## ballena.io v1.0
