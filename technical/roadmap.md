@@ -1,7 +1,7 @@
 # Roadmap
 
 {% hint style="success" %}
-## STATUS: Vaults Launch COMPLETED. Working on the BALLE Staking pool.
+## STATUS: Launch BALLE Staking pool COMPLETED.
 {% endhint %}
 
 We know that this is not exactly a regular roadmap, but a list of tasks with no particular order nor estimated times. Each epic task on this list is in turn subdivided into small tasks by the development team.
@@ -32,9 +32,9 @@ Due to the nature of the project, we work as fast as we can on what we consider 
 * [x] Token migration from v1.0 to v2.0.
 * [x] Vaults announcements.
 * [x] Launch First Vaults.
-* [ ] Staking pool test.
-* [ ] Staking announcements.
-* [ ] Launch Staking Pool.
+* [x] Staking pool test.
+* [x] Staking announcements.
+* [x] Launch Staking Pool.
 * [ ] Listing CMC, Coingecko, etc.
 * [ ] CERTIK Audit.
 * [ ] Marketing campaign.
