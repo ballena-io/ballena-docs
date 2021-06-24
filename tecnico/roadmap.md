@@ -36,11 +36,11 @@ Debido a la naturaleza del proyecto, trabajamos tan rápido como podemos en lo q
 * [x] Migración Token v1.0 a v2.0.
 * [x] Anunciar Vaults.
 * [x] Lanzamiento nuevas vaults generando BALLE como recompensa.
+* [x] Auditoría.
 * [x] Test Staking Pool
 * [x] Anunciar Staking.
 * [x] Lanzamiento Staking Pool.
 * [ ] Listing CMC, Coingecko, etc.
-* [ ] Auditoría CERTIK.
 * [ ] Campaña marketing.
 * [ ] Frontend UX/UI optimization.
 
