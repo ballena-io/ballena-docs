@@ -20,13 +20,11 @@ Tenemos dos vías principales de cosechar las ganancias de las vaults de [ballen
 
 ### **BALLE Staking Pool**
 
-#### **Cosechar las recompensas BALLE de la BALLe Staking Pool.**
+#### **Cosechar las recompensas BALLE de la BALLE Staking Pool.**
+
+{% embed url="https://docs.ballena.io/tutoriales-y-herramientas/tutoriales/pc/cosechar-las-ganancias/cosechar-balle-de-la-staking-pool" %}
 
 \*\*\*\*
-
-
-
- 
 
 
 
