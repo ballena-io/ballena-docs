@@ -60,6 +60,8 @@ A continuación se listan las bóvedas activas:
 
 **LINK-BNB**
 
+**XVS-BNB**
+
 ## Formato de las bóvedas
 
 En el apartado "Vaults" de la Dapp de [ballena.io](https://ballena.io/) encontrarás tanto las Vaults activas actualmente como las retiradas.
