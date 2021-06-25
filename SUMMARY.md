@@ -42,6 +42,7 @@
     * [Cosechar las ganancias](tutoriales-y-herramientas/tutoriales/pc/cosechar-las-ganancias/README.md)
       * [Cosechar BALLE de una BalleVault](tutoriales-y-herramientas/tutoriales/pc/cosechar-las-ganancias/cosechar-balle-de-una-ballevault.md)
       * [Retirar los LP de una BalleVault](tutoriales-y-herramientas/tutoriales/pc/cosechar-las-ganancias/retirar-los-lp-de-una-ballevault.md)
+      * [Cosechar BALLE de la Staking Pool](tutoriales-y-herramientas/tutoriales/pc/cosechar-las-ganancias/cosechar-balle-de-la-staking-pool.md)
   * [Smartphone/Tablet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/README.md)
     * [Primeros pasos: Binance](tutoriales-y-herramientas/tutoriales/smartphone-tablet/primeros-pasos-binance/README.md)
       * [Abrir y configurar una cuenta en Binance - Smartphone/Tablet](tutoriales-y-herramientas/tutoriales/smartphone-tablet/primeros-pasos-binance/abrir-y-configurar-una-cuenta-en-binance.md)

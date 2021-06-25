@@ -20,7 +20,9 @@ Tenemos dos vías principales de cosechar las ganancias de las vaults de [ballen
 
 ### **BALLE Staking Pool**
 
-**IN PROGRESS**
+#### **Cosechar las recompensas BALLE de la BALLe Staking Pool.**
+
+\*\*\*\*
 
 
 
