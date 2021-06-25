@@ -5,6 +5,10 @@ En este pequeño tutorial aprenderás a participar en la BALLE Staking Pool. Aqu
 * Recibirás el 3% de los beneficios de la plataforma.
 * Podrás crear y votar propuestas en la plataforma de votación.
 
+Para más información acerca de la Staking Pool accede al apartado técnico de productos:
+
+{% embed url="https://docs.ballena.io/tecnico/productos/balle-staking-pool" %}
+
 
 
 ### 1. Accede a la Dapp de [ballena.io](https://app.ballena.io/) y conecta tu wallet Metamask.
