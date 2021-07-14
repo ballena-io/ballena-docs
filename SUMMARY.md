@@ -91,7 +91,8 @@
 * [Tokenomics](tecnico/tokenomics.md)
 * [Gobernanza](tecnico/gobernanza.md)
 * [Seguridad y Riesgos](tecnico/seguridad-y-riesgos/README.md)
-  * [Tutoriales Seguridad](tecnico/seguridad-y-riesgos/tutoriales-seguridad.md)
+  * [Tutoriales Seguridad](tecnico/seguridad-y-riesgos/tutoriales-seguridad/README.md)
+    * [Retiro de Emergencia](tecnico/seguridad-y-riesgos/tutoriales-seguridad/retiro-de-emergencia.md)
   * [Informes/Diferidos seguridad](tecnico/seguridad-y-riesgos/informes-diferidos-seguridad/README.md)
     * [Función inCaseTokensGetStuck](tecnico/seguridad-y-riesgos/informes-diferidos-seguridad/incasetokensgetstuck-function.md)
 
