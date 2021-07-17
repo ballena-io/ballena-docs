@@ -2,11 +2,13 @@
 
 ### What do you need?
 
-#### **Balle MasterChef Contract:** 
+#### **Balle MasterChef Contract Address.**
 
 0x1105bd1d8c952c24e73f6866177fad7bfb35e13d 
 
-#### **pID of the Balle-Vault where your LPs are:**
+
+
+#### **pID of the Balle-Vault where your LPs are.**
 
 | pID  | VAULT  |
 | :--- | :--- |
