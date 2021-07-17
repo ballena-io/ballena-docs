@@ -36,8 +36,6 @@
 
 ### 1. Access the BalleMaster link.
 
-
-
 {% embed url="https://bscscan.com/address/0x1105bd1d8c952c24e73f6866177fad7bfb35e13d" %}
 
 ### 
