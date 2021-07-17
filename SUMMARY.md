@@ -91,7 +91,7 @@
 * [Governance](technical/governance.md)
 * [Security and Risks](technical/security-and-risks/README.md)
   * [Security Related Tutorials](technical/security-and-risks/security-related-tutorials/README.md)
-    * [Emergency Withdraw](technical/security-and-risks/security-related-tutorials/emergency-withdraw.md)
+    * [Emergency Withdrawal](technical/security-and-risks/security-related-tutorials/emergency-withdraw.md)
   * [Security reports/deferred](technical/security-and-risks/untitled/README.md)
     * [inCaseTokensGetStuck Function](technical/security-and-risks/untitled/incasetokensgetstuck-function.md)
 
