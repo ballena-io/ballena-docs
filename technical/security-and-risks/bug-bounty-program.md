@@ -95,8 +95,7 @@ Smart Contracts and Blockchain
 * Best practice critiques.
 * Sybil attacks.
 
-The following activities are prohibited for our bug bounty program:  
-
+The following activities are prohibited for our bug bounty program:
 
 * Any testing with mainnet or public testnet contracts; all testing should be done on private testnets.
 * Any testing with pricing oracles or third party smart contracts.
