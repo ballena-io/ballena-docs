@@ -1,6 +1,6 @@
 # Bug Bounty Program
 
-ballena.io launches a bug bounty program payout of up to $5,000 that focuses on finding vulnerabilities in the smart contracts & the blockchain code.
+[ballena.io](https://ballena.io/) launches a bug bounty program payout of up to $5,000 that focuses on finding vulnerabilities in the smart contracts & the blockchain code.
 
 ## Reporting a Vulnerability
 
