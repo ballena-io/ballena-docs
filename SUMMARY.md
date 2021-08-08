@@ -94,6 +94,7 @@
     * [Emergency Withdrawal](technical/security-and-risks/security-related-tutorials/emergency-withdrawal.md)
   * [Security reports/deferred](technical/security-and-risks/untitled/README.md)
     * [inCaseTokensGetStuck Function](technical/security-and-risks/untitled/incasetokensgetstuck-function.md)
+  * [Bug Bounty Program](technical/security-and-risks/bug-bounty-program.md)
 
 ## DAO Organization
 
