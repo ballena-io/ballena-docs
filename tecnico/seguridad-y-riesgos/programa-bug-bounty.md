@@ -16,18 +16,15 @@ El equipo de [ballena.io](https://ballena.io/) revisará los bugs reportados med
 
 ## **Recompensas por nivel de amenaza**
 
-Las recompensas se distribuyen en función del impacto de la vulnerabilidad, basándose en el [Sistema de Clasificación de la Severidad de la Vulnerabilidad](https://immunefi.com/severity-system/) de **Immunefi**. Se trata de una escala simplificada de 5 niveles, que incluye diferentes escalas para sitios web/aplicaciones y contratos inteligentes/blockchains, teniendo en cuenta la probabilidad de éxito de un exploit y sus consecuencias.  
-Los pagos son manejados por el equipo de ballena.io directamente y están denominados en **USD**. Los pagos se realizan en tokens **BALLE**.
+Las recompensas se distribuyen en función del impacto de la vulnerabilidad, basándose en el [Sistema de Clasificación de la Severidad de la Vulnerabilidad](https://immunefi.com/severity-system/) de **Immunefi**. Se trata de una escala simplificada de 5 niveles, que incluye diferentes escalas para sitios web/aplicaciones y contratos inteligentes/blockchains, teniendo en cuenta la probabilidad de éxito de un exploit y sus consecuencias.
 
-Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System](https://immunefi.com/severity-system/). This is a simplified 5-level scale, which includes different scales for websites/apps and smart contracts/blockchains, taking into account the probability of success for an exploit to happen and its consequences.
-
-Payouts are handled by the [ballena.io](https://ballena.io/) team directly and are denominated in USD. Payouts are done in BALLE tokens.
+Los pagos son gestionados por el equipo de [ballena.io](https://ballena.io/) directamente y están denominados en **USD**. Los pagos se realizan en tokens **BALLE**.
 
 
 
-#### Smart Contracts and Blockchain
+#### Contratos inteligentes y Blockchain
 
-| Threat Level | Reward |
+| Nivel de amenaza | Recompensa |
 | :--- | :--- |
 | Critical | $5000 |
 | High | $1000 |
@@ -35,7 +32,7 @@ Payouts are handled by the [ballena.io](https://ballena.io/) team directly and a
 | Low | $100 |
 | None | $0 |
 
-## Assets in Scope
+## Activos en cuestión
 
 {% embed url="https://github.com/ballena-io/ballena-protocol/blob/master/contracts/token/BALLEv2.sol" %}
 
@@ -57,61 +54,62 @@ Payouts are handled by the [ballena.io](https://ballena.io/) team directly and a
 
 {% embed url="https://github.com/ballena-io/ballena-protocol/blob/master/contracts/staking/BalleRewardDistribution.sol" %}
 
-## Our priority
+## Nuestra prioridad
 
-We are especially interested in receiving and rewarding vulnerabilities of the following types:
+Estamos especialmente interesados en recibir y recompensar vulnerabilidades de los siguientes tipos:
 
-* Smart Contracts and Blockchain.
-* Re-entrance.
-* Logic errors including user authentication errors.
-* Solidity/EVM details not considered including:
-  * integer over/under-flow.
-  * rounding errors.
+* Smart Contracts y Blockchain.
+* Reentrada.
+* Errores lógicos incluyendo errores de autenticación de usuarios.
+* Detalles de Solidity/EVM no considerados incluyendo 
+  * over/under-flow de enteros.
+  * errores de redondeo.
   * unhandled exceptions.
-* Trusting trust/dependency vulnerabilities including composability vulnerabilities.
-* Oracle failure/manipulation.
-* Novel governance attacks.
-* Economic/financial attacks including flash loan attacks.
-* Congestion and scalability including:
-  * running out of gas.
-  * block stuffing.
-  * susceptibility to frontrunning.
-* Consensus failures.
-* Cryptography problems.
-* Signature malleability.
-* Susceptibility to replay attacks.
-* Weak randomness.
-* Weak encryption.
-* Susceptibility to block timestamp manipulation.
-* Missing access controls / unprotected internal or debugging interfaces.
+* Vulnerabilidades de confianza/dependencia incluyendo vulnerabilidades de composabilidad.
+* Fallo/manipulación de Oracle.
+* Ataques de gobernanza.
+* Ataques económicos/financieros, incluidos los ataques de préstamos flash.
+* Congestión y escalabilidad, incluyendo:
+  * agotamiento del gas.
+  * relleno de bloques.
+  * susceptibilidad al frontrunning.
+* Fallos de consenso.
+* Problemas de criptografía.
+* Maleabilidad de firmas.
+* Susceptibilidad a los ataques de repetición.
+* Aleatoriedad débil.
+* Encriptación débil.
+* Susceptibilidad a la manipulación de la marca de tiempo del bloque.
+* Ausencia de controles de acceso / interfaces internas o de depuración desprotegidas.
 
-## Out of Scope & Rules
+## Fuera del alcance y normas
 
-The following vulnerabilities are excluded from the rewards for this bug bounty program:
+Las siguientes vulnerabilidades están excluidas de las recompensas de este programa de bug bounty:
 
-* Attacks that the reporter has already exploited themselves, leading to damage.
-* Attacks requiring access to leaked keys/credentials.
-* Attacks requiring access to privileged addresses \(governance, strategist\).
+* Ataques que el informante ha explotado por sí mismo, provocando daños.
+* Ataques que requieran acceso a claves/credenciales filtradas.
+* Ataques que requieran acceso a direcciones privilegiadas \(gobernanza, estrategia\).
 
-Smart Contracts and Blockchain
+#### **Contratos inteligentes y Blockchain**
 
-* Incorrect data supplied by third-party oracles.
-* Not to exclude oracle manipulation/flash loan attacks.
-* Basic economic governance attacks \(e.g. 51% attack\).
-* Lack of liquidity.
-* Best practice critiques.
-* Sybil attacks.
+* Datos incorrectos suministrados por oráculos de terceros.
+* Sin excluir los ataques de manipulación de oráculos/flash loans.
+* Ataques básicos a la gobernanza económica \(por ejemplo, un ataque del 51%\).
+* Falta de liquidez.
+* Críticas a las mejores prácticas.
+* Ataques sybil.
 
-The following activities are prohibited for our bug bounty program:
+Las siguientes **actividades** están **prohibidas** para nuestro programa de bug bounty:
 
-* Any testing with mainnet or public testnet contracts; all testing should be done on private testnets.
-* Any testing with pricing oracles or third-party smart contracts.
-* Attempting phishing or other social engineering attacks against our employees and/or customers.
-* Any testing with third-party systems and applications \(e.g. browser extensions\) as well as websites \(e.g. SSO providers, advertising networks\).
-* Any denial of service attacks.
-* Automated testing of services that generate significant amounts of traffic.
+* Cualquier prueba con contratos de la mainnet o de la testnet pública; todas las pruebas deben realizarse en redes de prueba privadas.
+* Cualquier prueba con oráculos de precios o contratos inteligentes de terceros.
+* Intento de phishing u otros ataques de ingeniería social contra nuestros empleados y/o clientes.
+* Cualquier prueba con sistemas y aplicaciones de terceros \(por ejemplo, extensiones del navegador\), así como sitios web \(por ejemplo, proveedores de SSO, redes de publicidad\).
+* Cualquier ataque de denegación de servicio.
+* Pruebas automatizadas de servicios que generen cantidades significativas de tráfico.
+* Divulgación pública de una vulnerabilidad no parcheada en una recompensa embargada.
 
-Public disclosure of an unpatched vulnerability in an embargoed bounty situation due to legal constraints not related to [ballena.io](https://ballena.io/).
+
 
 
 
