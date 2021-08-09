@@ -2,6 +2,10 @@
 
 [ballena.io](https://ballena.io/) launches a bug bounty program payout of up to $5,000 that focuses on finding vulnerabilities in the smart contracts & the blockchain code.
 
+
+
+![](https://cdn-images-1.medium.com/max/800/1*Wb-OXpMQ1E9SbIxANDrFcQ.png)
+
 ## Reporting a Vulnerability
 
 If you identify a potential vulnerability, please head over to our security channel in Discord and submit your findings to the [ballena.io](https://ballena.io/) team for review. 
@@ -103,8 +107,7 @@ The following activities are prohibited for our bug bounty program:
 * Any testing with third-party systems and applications \(e.g. browser extensions\) as well as websites \(e.g. SSO providers, advertising networks\).
 * Any denial of service attacks.
 * Automated testing of services that generate significant amounts of traffic.
-
-Public disclosure of an unpatched vulnerability in an embargoed bounty situation due to legal constraints not related to [ballena.io](https://ballena.io/).
+* Public disclosure of an unpatched vulnerability in a seized reward.
 
 
 
