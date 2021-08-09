@@ -95,6 +95,7 @@
     * [Retiro de Emergencia](tecnico/seguridad-y-riesgos/tutoriales-seguridad/retiro-de-emergencia.md)
   * [Informes/Diferidos seguridad](tecnico/seguridad-y-riesgos/informes-diferidos-seguridad/README.md)
     * [Función inCaseTokensGetStuck](tecnico/seguridad-y-riesgos/informes-diferidos-seguridad/incasetokensgetstuck-function.md)
+  * [Programa Bug Bounty](tecnico/seguridad-y-riesgos/programa-bug-bounty.md)
 
 ## DAO Organización
 
