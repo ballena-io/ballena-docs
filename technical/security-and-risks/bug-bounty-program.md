@@ -4,7 +4,7 @@
 
 ## Reporting a Vulnerability
 
-If you identify a potential vulnerability, please head over to our security channel in Discord and submit your findings to the [ballena.io](https://ballena.io/) team for a review. 
+If you identify a potential vulnerability, please head over to our security channel in Discord and submit your findings to the [ballena.io](https://ballena.io/) team for review. 
 
 {% embed url="https://discord.com/invite/7dJEAmMX" %}
 
@@ -88,7 +88,7 @@ The following vulnerabilities are excluded from the rewards for this bug bounty 
 
 Smart Contracts and Blockchain
 
-* Incorrect data supplied by third party oracles.
+* Incorrect data supplied by third-party oracles.
 * Not to exclude oracle manipulation/flash loan attacks.
 * Basic economic governance attacks \(e.g. 51% attack\).
 * Lack of liquidity.
@@ -98,12 +98,11 @@ Smart Contracts and Blockchain
 The following activities are prohibited for our bug bounty program:
 
 * Any testing with mainnet or public testnet contracts; all testing should be done on private testnets.
-* Any testing with pricing oracles or third party smart contracts.
+* Any testing with pricing oracles or third-party smart contracts.
 * Attempting phishing or other social engineering attacks against our employees and/or customers.
-* Any testing with third party systems and applications \(e.g. browser extensions\) as well as websites \(e.g. SSO providers, advertising networks\).
+* Any testing with third-party systems and applications \(e.g. browser extensions\) as well as websites \(e.g. SSO providers, advertising networks\).
 * Any denial of service attacks.
 * Automated testing of services that generate significant amounts of traffic.
-* Public disclosure of an unpatched vulnerability before the development team confirms the vulnerability has been corrected.
 
 Public disclosure of an unpatched vulnerability in an embargoed bounty situation due to legal constraints not related to [ballena.io](https://ballena.io/).
 
