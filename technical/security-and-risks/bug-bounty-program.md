@@ -93,7 +93,7 @@ The following vulnerabilities are excluded from the rewards for this bug bounty 
 Smart Contracts and Blockchain
 
 * Incorrect data supplied by third-party oracles.
-* Not to exclude oracle manipulation/flash loan attacks.
+* Oracle manipulation/flash loan attacks.
 * Basic economic governance attacks \(e.g. 51% attack\).
 * Lack of liquidity.
 * Best practice critiques.
