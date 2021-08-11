@@ -61,7 +61,7 @@ Estamos especialmente interesados en recibir y recompensar vulnerabilidades de l
 * Smart Contracts y Blockchain.
 * Reentrada.
 * Errores lógicos incluyendo errores de autenticación de usuarios.
-* Detalles de Solidity/EVM no considerados incluyendo 
+* Detalles de Solidity/EVM no considerados incluyendo:
   * over/under-flow de enteros.
   * errores de redondeo.
   * unhandled exceptions.
@@ -93,7 +93,7 @@ Las siguientes vulnerabilidades están excluidas de las recompensas de este prog
 #### **Contratos inteligentes y Blockchain**
 
 * Datos incorrectos suministrados por oráculos de terceros.
-* Sin excluir los ataques de manipulación de oráculos/flash loans.
+* Ataques de manipulación de oráculos/flash loans.
 * Ataques básicos a la gobernanza económica \(por ejemplo, un ataque del 51%\).
 * Falta de liquidez.
 * Críticas a las mejores prácticas.
