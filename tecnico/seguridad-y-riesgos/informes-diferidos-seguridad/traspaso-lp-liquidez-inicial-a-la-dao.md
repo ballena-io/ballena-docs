@@ -1,6 +1,6 @@
 # Traspaso Liquidez Inicial -LP a la DAO
 
-Mediante la siguiente transacción, el usuario @Cryptoballena, transfiere los LP de la liquidez inicial que aportó en el arranque del proyecto a la wallet de Gobernanza del Sistema Multifirma Gnosis. 
+Mediante la siguiente transacción, el usuario @Cryptoballena transfiere los LP de la liquidez inicial que aportó en el arranque del proyecto a la wallet de Gobernanza del Sistema Multifirma Gnosis. 
 
 
 
@@ -14,7 +14,7 @@ Mediante la siguiente transacción, el usuario @Cryptoballena, transfiere los LP
 
 
 
-De esta manera los LP de liquidez inicial quedan asegurados bajo este sistema incrementando así la seguridad del proyecto. Desde ballena.io creemos que es la forma más segura de "bloquear" estos fondos y no tener que contar con agentes externos. Más información acerca del funcionamiento del sistema Gnosis [e](../../../dao-organizacion/gnosis.md)n el siguiente enlace.
+De esta manera los LP de liquidez inicial quedan asegurados bajo este sistema incrementando así la seguridad del proyecto. Desde [ballena.io](https://ballena.io/) creemos que es la forma más segura de "bloquear" estos fondos y no tener que contar con agentes externos. Más información acerca del funcionamiento del sistema Gnosis en el siguiente enlace.
 
 
 
