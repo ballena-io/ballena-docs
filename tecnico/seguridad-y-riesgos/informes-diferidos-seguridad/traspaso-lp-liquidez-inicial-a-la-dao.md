@@ -1,4 +1,4 @@
-# Traspaso LP- Liquidez inicial a la DAO
+# Traspaso Liquidez Inicial -LP a la DAO
 
 Mediante la siguiente transacción, el usuario @Cryptoballena, transfiere los LP de la liquidez inicial que aportó en el arranque del proyecto a la wallet de Gobernanza del Sistema Multifirma Gnosis. 
 
