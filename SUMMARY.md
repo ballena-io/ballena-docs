@@ -93,6 +93,7 @@
   * [Security Related Tutorials](technical/security-and-risks/security-related-tutorials/README.md)
     * [Emergency Withdrawal](technical/security-and-risks/security-related-tutorials/emergency-withdrawal.md)
   * [Security reports/deferred](technical/security-and-risks/untitled/README.md)
+    * [Initial Liquidity LP Transfer to the DAO](technical/security-and-risks/untitled/initial-liquidity-lp-transfer-to-the-dao.md)
     * [inCaseTokensGetStuck Function](technical/security-and-risks/untitled/incasetokensgetstuck-function.md)
   * [Bug Bounty Program](technical/security-and-risks/bug-bounty-program.md)
 
