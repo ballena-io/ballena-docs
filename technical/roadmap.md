@@ -1,7 +1,7 @@
 # Roadmap
 
 {% hint style="success" %}
-## STATUS: Launch BALLE Staking pool COMPLETED.
+## STATUS: Launch Bug Bounty Immunefi.
 {% endhint %}
 
 We know that this is not exactly a regular roadmap, but a list of tasks with no particular order nor estimated times. Each epic task on this list is in turn subdivided into small tasks by the development team.
@@ -16,7 +16,9 @@ Due to the nature of the project, we work as fast as we can on what we consider 
 * [x] Add SouceCred as the retribution system for contributors.
 * [x] Definition and implementation of Trust Levels.
 * [x] Get Gnosis Multisig wallets.
-* [ ] Include Staked+Wallet tokens as voting criteria.
+* [x] Include Staked+Wallet tokens as voting criteria.
+* [x] Maintenance and restructuring of the DAO.
+* [x] New Gnosis version and Signers updated.
 
 ## ballena.io v2.0
 
@@ -38,8 +40,12 @@ Due to the nature of the project, we work as fast as we can on what we consider 
 * [x] Staking announcements.
 * [x] Launch Staking Pool.
 * [ ] Listing CMC, Coingecko, etc.
-* [ ] Marketing campaign.
-* [ ] Frontend UX/UI optimization.
+* [x] Marketing campaign.
+* [x] Frontend UX/UI optimization.
+* [x] Immunefi Bug Bounty Launch.
+* [ ] Creation of graph data ballena.io for third parties.
+* [ ] Research on a new contribution system to attract new collaborators.
+* [ ] New feature: Simple Farming.
 
 ## ballena.io v1.0
 
