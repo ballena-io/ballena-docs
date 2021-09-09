@@ -5,7 +5,7 @@ description: Un resumen sobre las tareas llamadas "Epics" en las que estamos tra
 # Roadmap
 
 {% hint style="success" %}
-## ESTADO: Lanzamiento BALLE Staking pool COMPLETADO.
+## ESTADO: Lanzamiento Bug Bounty Immunefy.
 {% endhint %}
 
 Sabemos que no es exactamente un roadmap, sino una lista de tareas sin un orden en particular o tiempos estimados. Cada tarea épica de esta lista se subdivide a su vez en pequeñas tareas por el equipo de desarrollo.
@@ -21,6 +21,8 @@ Debido a la naturaleza del proyecto, trabajamos tan rápido como podemos en lo q
 * [x] Definición e implementación niveles colaboradores.
 * [x] Añadir wallets a Gnosis Multi-firma.
 * [x] Añadir Staking+Wallets como criterio de votación.
+* [x] Mantenimiento y reestructuracion de la DAO.
+* [x] Nueva version de Gnosis y firmantes actualizados.
 
 ## ballena.io v2.0
 
@@ -41,8 +43,12 @@ Debido a la naturaleza del proyecto, trabajamos tan rápido como podemos en lo q
 * [x] Anunciar Staking.
 * [x] Lanzamiento Staking Pool.
 * [ ] Listing CMC, Coingecko, etc.
-* [ ] Campaña marketing.
-* [ ] Frontend UX/UI optimization.
+* [x] Campaña marketing.
+* [x] Frontend UX/UI optimization.
+* [x] Lanzamiento de Bug Bounty en Immunefi.
+* [ ] Creación de graph datos ballena.io para terceros.
+* [ ] Investigación de nuevo sistema de contribución para atraer nuevos colaboradores.
+* [ ] Nueva feature: Simple Farming.
 
 ## ballena.io v1.0
 
