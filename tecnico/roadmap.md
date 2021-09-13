@@ -49,10 +49,7 @@ Debido a la naturaleza del proyecto, trabajamos tan rápido como podemos en lo q
 * [ ] Listing CMC, Coingecko, etc.
 * [x] Campaña marketing.
 * [x] Frontend UX/UI optimization.
-* [x] Lanzamiento de Bug Bounty en Immunefi
-
-  [https://immunefi.com/bounty/ballena/](https://immunefi.com/bounty/ballena/)
-
+* [x] Lanzamiento de Bug Bounty en Immunefi.
 * [ ] Creación de graph datos ballena.io para terceros.
 * [ ] Investigación de nuevo sistema de contribución para atraer nuevos colaboradores.
 * [ ] Nueva feature: Simple Farming.
