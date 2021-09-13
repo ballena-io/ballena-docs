@@ -5,8 +5,12 @@ description: Un resumen sobre las tareas llamadas "Epics" en las que estamos tra
 # Roadmap
 
 {% hint style="success" %}
-## ESTADO: Lanzamiento Bug Bounty Immunefy.
+## ESTADO: Lanzamiento Bug Bounty Immunefi.
 {% endhint %}
+
+{% embed url="https://immunefi.com/bounty/ballena/" %}
+
+
 
 Sabemos que no es exactamente un roadmap, sino una lista de tareas sin un orden en particular o tiempos estimados. Cada tarea épica de esta lista se subdivide a su vez en pequeñas tareas por el equipo de desarrollo.
 
@@ -45,7 +49,10 @@ Debido a la naturaleza del proyecto, trabajamos tan rápido como podemos en lo q
 * [ ] Listing CMC, Coingecko, etc.
 * [x] Campaña marketing.
 * [x] Frontend UX/UI optimization.
-* [x] Lanzamiento de Bug Bounty en Immunefi.
+* [x] Lanzamiento de Bug Bounty en Immunefi
+
+  [https://immunefi.com/bounty/ballena/](https://immunefi.com/bounty/ballena/)
+
 * [ ] Creación de graph datos ballena.io para terceros.
 * [ ] Investigación de nuevo sistema de contribución para atraer nuevos colaboradores.
 * [ ] Nueva feature: Simple Farming.
